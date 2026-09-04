@@ -105,11 +105,24 @@ curriculum, hardware tiers, emergency-services integrations) is NOT duplicated a
 only the identity/credential/governance/token layer needs replacing. This is now a scoped Stage 6
 Consolidator task, not just a finding.
 
+## Stage 6 (Consolidator): first consolidated document produced
+
+`docs/DC-DION-RECONCILED-001.md` — the DION reconciliation, written per DC-CONSOLIDATOR-STD-001's
+fixed template (current understanding, provenance table, unresolved tensions, sources consulted,
+consolidation metadata). Incorporates DION's genuine operational content (hardware tiers, multi-INT
+collection, operator training/career progression, application-layer use cases, API surface) while
+marking the identity/credential/governance/token layer superseded-within-topic by the existing
+`dc-identity`/`dc-governance`/`dc-attestation` mechanisms. One real unresolved tension recorded
+rather than guessed at: DION's `INTEL_TOKEN` payment need has no confirmed equivalent in the
+reconciled core docs — `DC-LKB-*` (Lakou Protocol banking) is the likely place to check, but those
+docs aren't yet in this repo. The two DION source docs' `reconciliation_note` front matter now points
+to this consolidated doc; per the Consolidator's authority boundary, neither source was marked
+superseded or moved (that's Stage 4's job, not Stage 6's).
+
 ## Next concrete step
 
-Stage 6 (DC-CONSOLIDATOR-STD-001): synthesize one consolidated document per confirmed topic. Priority
-order: (1) the DION reconciliation above — produce a consolidated DION doc that keeps its operational
-content but points credentialing/governance to existing core services; (2)
-`federation-sovereignty-cooperative-platforms` (11 docs) against D-Central's core federation docs;
-(3) the largest topics generally — `digital-community-participation-platforms` (16 docs),
-`chopshop-project-documentation` (17 docs), `haiti-integration-platforms` (12 docs).
+More Stage 6 passes on the remaining priority topics: `federation-sovereignty-cooperative-platforms`
+(11 docs) against D-Central's core federation docs, then the largest topics generally —
+`digital-community-participation-platforms` (16 docs), `chopshop-project-documentation` (17 docs),
+`haiti-integration-platforms` (12 docs). Also worth pulling `DC-LKB-001/002/003` into this repo to
+resolve the payment-mechanism tension flagged above.
