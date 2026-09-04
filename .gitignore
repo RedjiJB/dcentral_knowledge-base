@@ -1,0 +1,3 @@
+# Raw Claude exports — large, treated as extraction input, not KB content.
+# Regenerate via scripts/extract_conversations.py against a fresh export.
+raw-export/

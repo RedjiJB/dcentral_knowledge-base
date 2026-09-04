@@ -5,18 +5,27 @@ Repo home for D-Central's numbered standards, taxonomy docs, and document regist
 ## Structure
 
 ```
-standards/   00-05 numbered architecture/ops standards + DC-*-STD-001 pipeline standards
-taxonomy/    DC-TAXONOMY-001..009
-registry/    DC-REG-001 master document registry (v0.1, v0.2 — both deprecated snapshots)
-docs/        Other DC-*-001 specs: agent governance (DAO loop, expert review, credential,
-             observability, verifiable rollout) and knowledge-layer/storage architecture,
-             plus platform/security/dual-lab architecture docs and the V24 unified source of truth
-reference/   V24 reading lists, unified taxonomy docs, research-field/DePIN matrices, master timeline
-scripts/     build_registry*.py — the scripts used to produce the DC-REG-001 snapshots
+standards/     00-05 numbered architecture/ops standards + DC-*-STD-001 pipeline standards
+taxonomy/      DC-TAXONOMY-001..009
+registry/      DC-REG-001 registry snapshots (deprecated) + extracted registry CSVs
+docs/          Other DC-*-001 specs: agent governance (DAO loop, expert review, credential,
+               observability, verifiable rollout) and knowledge-layer/storage architecture,
+               plus platform/security/dual-lab architecture docs and the V24 unified source of truth
+reference/     V24 reading lists, unified taxonomy docs, research-field/DePIN matrices, master timeline
+scripts/       build_registry*.py (legacy) + extract_conversations.py (current Stage 1/2 extractor)
+conversations/ Stage 1 extraction output: index of all 743 conversations + worked dedup example
+projects/      Stage 1 extraction output: index of all 33 projects and their KB doc counts
+raw-export/    Unzipped Claude export (conversations.json, project JSONs, memories) — git-ignored,
+               this is extraction *input*, regenerate from the export zips + scripts/extract_conversations.py
 ```
 
-Not included: raw conversation/project/memory export zips, installers/binaries, coursework, and
-ungrouped scratch files from the Downloads staging area — these aren't part of the document corpus.
+Not included: the raw export zips themselves, installers/binaries, coursework, and ungrouped scratch
+files from the Downloads staging area.
+
+## Extraction status
+
+See [PLAN.md](PLAN.md) for exactly where the real 743-conversation / 33-project export stands against
+the eight pipeline stages, and what the next concrete extraction step is.
 
 ## Pipeline standards (new)
 
