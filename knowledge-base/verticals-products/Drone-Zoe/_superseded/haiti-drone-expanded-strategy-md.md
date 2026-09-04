@@ -4,7 +4,9 @@ source_project_uuid: 0197e6d0-e935-724d-8916-5cbbdf9646ab
 doc_uuid: fd590018-0f03-4403-b5f1-ce025ebc2a99
 original_filename: haiti_drone_expanded_strategy.md
 created_at: 2025-07-07T21:36:14.269211+00:00
-content_hash: e564d3fefe10
+content_hash: e564d3fefe10status: superseded
+superseded_by: haiti-drone-expanded-strategy-md-eb50bcaa.md
+supersession_reason: "Same title re-uploaded 6 weeks later, near-identical size (34808 vs 34807 chars, 1.00 Jaccard) -- effectively a mechanical duplicate the content-hash check couldn't catch due to a trivial byte difference."
 ---
 
 # Haiti Drone Cooperative: Comprehensive Expanded Monetization Strategy

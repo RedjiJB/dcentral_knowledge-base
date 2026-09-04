@@ -4,7 +4,7 @@ source_project_uuid: 0197e6d0-e935-724d-8916-5cbbdf9646ab
 doc_uuid: 735f60aa-9825-418d-9cd0-cbe9857cdfff
 original_filename: Comprehensive Democratized Development Framework for Haiti.md
 created_at: 2025-07-07T23:00:43.507436+00:00
-content_hash: cd565eb8c250
+content_hash: cd565eb8c250superseded_docs: [Comprehensive-Democratized-Development-Framework-for-Haiti-md.md]
 ---
 
 ## 7. Sector-Specific Challenges and Mitigation Strategies

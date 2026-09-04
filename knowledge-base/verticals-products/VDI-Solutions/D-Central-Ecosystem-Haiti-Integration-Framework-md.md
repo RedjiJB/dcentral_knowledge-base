@@ -4,7 +4,9 @@ source_project_uuid: 0198f406-e409-77ef-b1ee-eefa7115de4a
 doc_uuid: cb311c91-5913-4afd-89de-b710db5b866f
 original_filename: D Central Ecosystem: Haiti Integration Framework.md
 created_at: 2025-09-11T19:35:05.616170+00:00
-content_hash: 30842fad8f45
+content_hash: 30842fad8f45status: disputed
+conflicts_with: D-Central-Ecosystem-Haiti-Integration-Framework-md-53dbf869.md
+unresolved_reason: "Identical title and opening TOC, but the LATER upload (53dbf869, 19:36) is less than half the size of the EARLIER one (19:35, 130812 chars) -- contradicts the recency-implies-superset pattern every other pair in this batch fit. No explicit correction language, no engagement evidence either direction. Per DC-DEDUP-STD-001 SS4, this is a genuine 'no basis to prefer one' case, not a failure to resolve."
 ---
 
 # D Central Ecosystem: Haiti Integration Framework

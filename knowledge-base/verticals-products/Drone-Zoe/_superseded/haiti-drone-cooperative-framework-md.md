@@ -4,7 +4,9 @@ source_project_uuid: 0197e6d0-e935-724d-8916-5cbbdf9646ab
 doc_uuid: d710dee0-6a4a-4cf6-a2b6-768a75331a64
 original_filename: haiti_drone_cooperative_framework.md
 created_at: 2025-07-07T21:36:14.725571+00:00
-content_hash: f455e686f0ca
+content_hash: f455e686f0castatus: superseded
+superseded_by: haiti-drone-cooperative-framework-md-ec202f4d.md
+supersession_reason: "Same title re-uploaded 6 weeks later, slightly larger (37524 vs 37340 chars)."
 ---
 
 # Haiti Security & Infrastructure Cooperative: Complete Operational Framework

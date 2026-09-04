@@ -4,7 +4,9 @@ source_project_uuid: 019895b3-de37-7121-94fc-2bab9f1f436d
 doc_uuid: 3aacf133-691c-497f-80fd-60fb627c5489
 original_filename: complete_framework.tex
 created_at: 2025-08-10T20:37:48.958676+00:00
-content_hash: 897c908010a8
+content_hash: 897c908010a8status: superseded
+superseded_by: Complete-Enhanced-Open-Source-Cooperative-Resilience-Framework-for-Haiti-md.md
+supersession_reason: "Earliest generation: a LaTeX source (confirmed via \documentclass header and matching pdftitle) of the same document, uploaded ~2.5h before the .md version begins the chain."
 ---
 
 % Complete Enhanced Open-Source Cooperative Resilience Framework for Haiti

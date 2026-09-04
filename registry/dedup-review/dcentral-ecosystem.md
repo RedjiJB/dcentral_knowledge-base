@@ -1,5 +1,7 @@
 # Dedup Review — dcentral-ecosystem
 
+**RESOLVED** — see [_RESOLUTION.md](_RESOLUTION.md) for the verdicts applied to every item below (this file is the original unreviewed heuristic output, kept for reference).
+
 62 docs scanned. 8 exact-duplicate relocated (step 1, mechanical). 8 explicit-language candidates (step 2, needs confirmation). 2 similarity candidates (steps 3-5 proxy, UNRESOLVED by default).
 
 ## Step 1 — exact duplicates relocated (mechanical, applied)

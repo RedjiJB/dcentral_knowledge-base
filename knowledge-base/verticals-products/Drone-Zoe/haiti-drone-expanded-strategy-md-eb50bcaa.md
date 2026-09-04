@@ -4,7 +4,7 @@ source_project_uuid: 0197e6d0-e935-724d-8916-5cbbdf9646ab
 doc_uuid: eb50bcaa-aa80-4464-be59-28e3be332073
 original_filename: haiti_drone_expanded_strategy.md
 created_at: 2025-08-17T21:16:58.995884+00:00
-content_hash: 7b70e875c9b9
+content_hash: 7b70e875c9b9superseded_docs: [haiti-drone-expanded-strategy-md.md]
 ---
 
 # Haiti Drone Cooperative: Comprehensive Expanded Monetization Strategy

@@ -27,7 +27,7 @@ not versioned KB content; regenerate by re-unzipping the export and re-running t
 | 1. Extract conversations | — | **Done.** `scripts/extract_conversations.py` → `conversations/_extracted_index.md` (743 rows: uuid, name, dates, doc-IDs mentioned) |
 | 2. Extract artifacts | — | **Done.** `scripts/extract_project_docs.py` → all 428 project KB docs pulled out of `raw-export/projects/projects/*.json` as individual files under `projects/kb-docs/<project>/<doc>.md`, each with front matter (source project, doc uuid, created_at, sha256 content hash). Indexed in `projects/_kb_docs_index.md`. Doc-ID *mentions* in conversation text (separate from KB doc *content*) remain in `registry/dc_registry_extracted_v2.csv` (136 unique IDs). |
 | 3. Classify → folder tree | — | **Done at category level.** `scripts/classify_docs.py` routes all 428 docs from `projects/kb-docs/<project>/` (mirrors Claude's own Project structure) into `knowledge-base/<category>/<project>/` (mirrors subject matter instead), using an explicit project→category mapping. 8 categories: D-Central Ecosystem (62), Security/Identity (91), Infrastructure/Mesh (120), Haiti Initiative (19), AI/ML/Research (63), Verticals/Products (67), Academic/Training (5), Other/Experimental (1). This is coarse, project-level classification — the finer per-topic clustering within each category (e.g. `mesh-services/connectivity/` style) is Stage 5's job, not this one. `projects/kb-docs/` is left untouched as the Stage-2 ground truth; `knowledge-base/` is a regeneratable derived view (rerun the script rather than hand-editing it). |
-| 4. Dedup/status pass | [DC-DEDUP-STD-001](standards/DC-DEDUP-STD-001.md) | **Step 1 done (mechanical); steps 2-5 surfaced as review reports, not auto-applied.** `scripts/dedup_pass.py` runs per category (the current topic-scope proxy, per pipeline ordering §2): 28 exact-content duplicates relocated to `<category>/_superseded/` automatically (§3 step 1 — same content hash, not a judgment call). 9 explicit-supersession language hits and 13 content-similarity candidates (5-word-shingle Jaccard ≥0.35) written to `registry/dedup-review/<category>.md` as **UNRESOLVED by default** — the script does not classify SUPERSEDES/MERGED_FROM on its own, since that needs claim-level reading comprehension it can't do; see `registry/dedup-review/_SUMMARY.md`. **Known limitation:** this only catches duplicates *within* a category — of the 61 exact-hash duplicates found globally in Stage 2, only 28 were relocated here because the other 33 are duplicates *across* categories (the same doc uploaded to projects that got classified into different categories), which a per-category pass structurally can't see. A cross-category identity-check pass is a candidate follow-up. |
+| 4. Dedup/status pass | [DC-DEDUP-STD-001](standards/DC-DEDUP-STD-001.md) | **Done, including the review queue.** `scripts/dedup_pass.py` (mechanical step 1 + candidate surfacing) then `scripts/resolve_dedup_review.py` (actual verdicts after reading every flagged pair): 28 exact-content duplicates auto-relocated (step 1), plus 11 more confirmed SUPERSEDES relocations and 1 confirmed UNRESOLVED from the review queue — 39 docs relocated to `_superseded/` total, 9 false-positive candidates correctly dismissed. See `registry/dedup-review/_RESOLUTION.md`. **Known limitation:** still only within-category — 33 of the 61 globally-flagged Stage 2 exact duplicates are cross-category and remain a follow-up (see below). |
 | 5. Topic synthesis | [DC-TOPIC-SYNTH-STD-001](standards/DC-TOPIC-SYNTH-STD-001.md) | Not started. |
 | 6. Consolidator | [DC-CONSOLIDATOR-STD-001](standards/DC-CONSOLIDATOR-STD-001.md) | Not started. |
 | 7. Materialize filesystem | — | Not started. |
@@ -39,16 +39,34 @@ not versioned KB content; regenerate by re-unzipping the export and re-running t
 - **136 unique doc IDs found** in conversation text — this number should be reconciled against `registry/DC-REG-001-Master-Registry-v0.2.md`'s claimed 135 and against the actual 428 KB docs (a KB doc doesn't necessarily get its doc-ID mentioned inside conversation text, so these two counts measuring different things is expected, not a discrepancy to force-match).
 - **61 of 428 KB docs are exact content duplicates** of another doc already extracted (same sha256 hash) — see `projects/_kb_docs_index.md`. These are likely the same document uploaded to more than one project's knowledge base, not genuine content variants.
 
+## Review queue: resolved
+
+All 22 items flagged in the Stage 4 review queue were read and given an actual verdict —
+`scripts/resolve_dedup_review.py`, results in `registry/dedup-review/_RESOLUTION.md`:
+
+- **9 explicit-language candidates → all false positives.** The heuristic matched a generic
+  single-word title ("Framework", "{Game Suite}") rather than a real cross-document reference.
+  Confirmed by reading the actual sentences: ordinary product-description prose ("DAO governance
+  replaces corporate control") or self-referential `supersedes:` metadata already in three docs
+  pointing at unindexed past conversational scatter, not another artifact in this corpus.
+- **11 similarity candidates → confirmed SUPERSEDES**, each verified by reading both docs (not just
+  trusting recency): same title re-uploaded to the same project's KB later with substantially more
+  content. Includes a 4-generation revision chain in Haiti Initiative (a `.tex` source → 3 successive
+  `.md` re-uploads, each larger). Older docs relocated to `<category>/_superseded/<project>/` with
+  `superseded_by`/`supersession_reason` front matter added to both sides of each pair.
+- **1 similarity candidate → confirmed UNRESOLVED** (not a script default this time, an actual
+  judgment call): a VDI-Solutions pair with identical title/TOC where the *later* upload is under
+  half the size of the earlier one — contradicts the recency-implies-superset pattern every other
+  pair fit, no explicit correction language either direction. Tagged `status: disputed` on both,
+  left in place. This is DC-DEDUP-STD-001 §4's "no basis to prefer one" working as intended, not
+  a gap.
+
 ## Next concrete step
 
 Two options, not mutually exclusive:
 
-1. **Cross-category identity-check pass** — catch the remaining 33 exact-hash duplicates that a
-   per-category Stage 4 run structurally can't see (same content, different category).
-2. **Resolve the review queue** — `registry/dedup-review/_SUMMARY.md` lists 9 explicit-supersession
-   candidates and 13 similarity candidates across categories. Each needs an actual reading pass
-   (human or an agent doing DC-DEDUP-STD-001 §3 steps 2-5 properly, with real claim extraction) to
-   turn into a real verdict — the script deliberately stopped short of guessing these.
-
-After that, Stage 5 (DC-TOPIC-SYNTH-STD-001): cluster each category's surviving docs into actual
-topic nodes finer than "whole category" — e.g. Infrastructure/Mesh's 120 docs are not one topic.
+1. **Cross-category identity-check pass** — catch the remaining 33 exact-hash duplicates (of the 61
+   found in Stage 2) that a per-category Stage 4 run structurally can't see (same content, different
+   category).
+2. **Stage 5** (DC-TOPIC-SYNTH-STD-001): cluster each category's surviving docs into actual topic
+   nodes finer than "whole category" — e.g. Infrastructure/Mesh's 120 docs are not one topic.

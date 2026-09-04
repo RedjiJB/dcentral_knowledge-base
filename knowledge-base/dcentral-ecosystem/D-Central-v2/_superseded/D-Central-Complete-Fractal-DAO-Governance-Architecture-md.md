@@ -4,7 +4,9 @@ source_project_uuid: 0199df04-2107-76ac-8919-203857b7a6c9
 doc_uuid: 1d823202-93cf-423d-a891-a9a515ec8574
 original_filename: D-Central: Complete Fractal DAO Governance Architecture.md
 created_at: 2025-10-14T03:27:35.845574+00:00
-content_hash: c09353f554b3
+content_hash: c09353f554b3status: superseded
+superseded_by: D-Central-Complete-Fractal-DAO-Governance-Architecture-md-7edde1e7.md
+supersession_reason: "Same title re-uploaded same project 24min later, 2.5x content (77116 vs 30721 chars)."
 ---
 
 # D-Central: Complete Fractal DAO Governance Architecture

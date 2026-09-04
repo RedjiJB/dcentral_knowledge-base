@@ -4,7 +4,9 @@ source_project_uuid: 019895b3-de37-7121-94fc-2bab9f1f436d
 doc_uuid: 9169a07c-e317-44ad-bd5b-3fd5c6abc16f
 original_filename: hait_security_proposal_eng.tex
 created_at: 2025-08-10T20:37:49.257880+00:00
-content_hash: 4d152df205a0
+content_hash: 4d152df205a0status: superseded
+superseded_by: haiti-security-proposal-md.md
+supersession_reason: "Same memo (same recipient, subject, author) -- .tex LaTeX source vs .md prose version uploaded 30s later; treated as the .md prose version being the refined/final upload."
 ---
 
 \documentclass[a4paper,11pt]{article}

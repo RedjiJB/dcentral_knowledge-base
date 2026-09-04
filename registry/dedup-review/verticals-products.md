@@ -1,5 +1,7 @@
 # Dedup Review — verticals-products
 
+**RESOLVED** — see [_RESOLUTION.md](_RESOLUTION.md) for the verdicts applied to every item below (this file is the original unreviewed heuristic output, kept for reference).
+
 67 docs scanned. 6 exact-duplicate relocated (step 1, mechanical). 0 explicit-language candidates (step 2, needs confirmation). 6 similarity candidates (steps 3-5 proxy, UNRESOLVED by default).
 
 ## Step 1 — exact duplicates relocated (mechanical, applied)

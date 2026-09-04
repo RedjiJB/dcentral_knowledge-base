@@ -4,7 +4,9 @@ source_project_uuid: 0197e6d0-e935-724d-8916-5cbbdf9646ab
 doc_uuid: 3248d846-0456-480e-a9df-a2a10d7f5cfd
 original_filename: drone_selection_guide2.md
 created_at: 2025-07-07T21:36:13.904027+00:00
-content_hash: 3a490b1c9e09
+content_hash: 3a490b1c9e09status: superseded
+superseded_by: drone-selection-guide2-md-f756780a.md
+supersession_reason: "Same title re-uploaded 6 weeks later, slightly larger (45039 vs 44929 chars)."
 ---
 
 # Haiti Drone Cooperative: Open Source Modular Sensor Platform System

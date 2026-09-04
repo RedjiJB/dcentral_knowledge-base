@@ -4,7 +4,9 @@ source_project_uuid: 0197e6d0-e935-724d-8916-5cbbdf9646ab
 doc_uuid: 7b6a018e-3cbe-4afd-b4b7-00b4f1e43f94
 original_filename: updated_drone_guide.md
 created_at: 2025-07-07T21:36:14.580266+00:00
-content_hash: 2919590a8dd8
+content_hash: 2919590a8dd8status: superseded
+superseded_by: updated-drone-guide-md-1780e328.md
+supersession_reason: "Same title re-uploaded 6 weeks later, near-identical size (22234 vs 22228 chars)."
 ---
 
 # Haiti Drone Cooperative: Open Source Modular Sensor Platform System - Updated

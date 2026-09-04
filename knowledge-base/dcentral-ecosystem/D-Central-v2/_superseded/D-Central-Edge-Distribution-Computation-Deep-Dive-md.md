@@ -4,7 +4,9 @@ source_project_uuid: 0199df04-2107-76ac-8919-203857b7a6c9
 doc_uuid: 622f0da8-f981-41cf-8a4d-85cd38352dcb
 original_filename: D-Central Edge Distribution & Computation: Deep Dive.md
 created_at: 2025-10-13T23:10:37.345229+00:00
-content_hash: 967114bde739
+content_hash: 967114bde739status: superseded
+superseded_by: D-Central-Edge-Distribution-Computation-Deep-Dive-md-4aa82ecd.md
+supersession_reason: "Same title re-uploaded same project 4.5h later, 2.5x content (78648 vs 31970 chars) -- confirmed expansion, not coincidental overlap."
 ---
 
 # D-Central Edge Distribution & Computation: Deep Dive

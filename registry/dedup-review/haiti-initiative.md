@@ -1,5 +1,7 @@
 # Dedup Review — haiti-initiative
 
+**RESOLVED** — see [_RESOLUTION.md](_RESOLUTION.md) for the verdicts applied to every item below (this file is the original unreviewed heuristic output, kept for reference).
+
 19 docs scanned. 1 exact-duplicate relocated (step 1, mechanical). 0 explicit-language candidates (step 2, needs confirmation). 5 similarity candidates (steps 3-5 proxy, UNRESOLVED by default).
 
 ## Step 1 — exact duplicates relocated (mechanical, applied)

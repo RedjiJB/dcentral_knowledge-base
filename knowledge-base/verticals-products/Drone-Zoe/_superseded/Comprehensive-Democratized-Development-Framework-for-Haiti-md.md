@@ -4,7 +4,9 @@ source_project_uuid: 0197e6d0-e935-724d-8916-5cbbdf9646ab
 doc_uuid: 135425ce-97ce-4d7f-b7d2-d3964d28f1a4
 original_filename: Comprehensive Democratized Development Framework for Haiti.md
 created_at: 2025-07-07T23:00:30.293658+00:00
-content_hash: 49c884a7fb30
+content_hash: 49c884a7fb30status: superseded
+superseded_by: Comprehensive-Democratized-Development-Framework-for-Haiti-md-735f60aa.md
+supersession_reason: "Same title re-uploaded 13 seconds later, nearly double content (61987 vs 33712 chars) -- confirmed expansion within the same upload session."
 ---
 
 # Comprehensive Democratized Development Framework for Haiti

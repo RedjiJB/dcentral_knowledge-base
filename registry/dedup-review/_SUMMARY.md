@@ -1,5 +1,10 @@
 # Stage 4 Dedup Pass — Summary
 
+**Review queue resolved** — see [_RESOLUTION.md](_RESOLUTION.md). Every explicit-language and
+similarity candidate below was read and given an actual verdict: 9 false positives dismissed,
+11 confirmed SUPERSEDES relocations applied, 1 confirmed UNRESOLVED (genuinely no basis to prefer
+one doc over the other).
+
 
 Totals: 28 exact-duplicate docs relocated to `_superseded/`, 9 explicit-supersession candidates flagged, 13 similarity candidates flagged for review.
 
