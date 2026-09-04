@@ -5,6 +5,7 @@ doc_uuid: baa0a686-d21f-44ff-a70c-ba400ebcdacf
 original_filename: DC-STRAT-005_Competitive_Moat_Analysis_v1.docx
 created_at: 2026-06-01T11:32:18.691806+00:00
 content_hash: 2413308ca4bbtopic: means-auditable-advantage
+topic: dcentral-competitive-strategy-analysis
 ---
 
 **D-Central Group  |  Confidential**	Section 1 — Group Strategy & Corporate Narrative

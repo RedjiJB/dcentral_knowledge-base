@@ -5,6 +5,7 @@ doc_uuid: 8c8fab6c-4ea9-487b-ad24-27cb270b3432
 original_filename: INV-005_CivicMesh_Competitive_Analysis_v1.docx
 created_at: 2026-06-01T11:32:21.046346+00:00
 content_hash: 7277bba1ec38topic: means-auditable-advantage
+topic: dcentral-competitive-strategy-analysis
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

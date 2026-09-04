@@ -5,6 +5,7 @@ doc_uuid: c9fdbaac-59f1-47db-a2ac-5e5127dcc438
 original_filename: complete_merged_haiti_framework.txt
 created_at: 2025-08-10T20:38:25.710187+00:00
 content_hash: 29eae04a5980topic: online-yield-upgrade
+topic: haiti-cooperative-resilience-framework
 ---
 
 % Complete Enhanced Open-Source Cooperative Resilience Framework for Haiti

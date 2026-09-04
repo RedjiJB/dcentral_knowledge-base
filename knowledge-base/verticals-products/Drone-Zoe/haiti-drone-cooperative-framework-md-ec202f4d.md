@@ -5,6 +5,7 @@ doc_uuid: ec202f4d-015c-45a5-b45a-dccc3ad28f26
 original_filename: haiti_drone_cooperative_framework.md
 created_at: 2025-08-17T21:17:09.366055+00:00
 content_hash: b658f3570b4dsuperseded_docs: [haiti-drone-cooperative-framework-md.md]topic: certification-skills-applications
+topic: haiti-integration-platforms
 ---
 
 # Haiti Security & Infrastructure Cooperative: Complete Operational Framework

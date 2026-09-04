@@ -4,8 +4,7 @@ source_project_uuid: 019a65f2-0b79-74e2-985a-460b3967921a
 doc_uuid: 130a5e08-3066-4a5b-970a-560be3c8f83f
 original_filename: Previous Chat
 created_at: 2025-11-09T00:10:41.225808+00:00
-content_hash: 79b13922898dtopic: prevention-term-automation
----
+content_hash: 79b13922898dtopic: prevention-term-automation---
 
 New chat
 
@@ -3306,7 +3305,6 @@ Protocol Adapters (South-Bound):
 - **Custom Adapters**: Python (asyncio), Go (performance-critical)
 - **Message Bus**: Apache Kafka (high-throughput), MQTT (IoT-native)
 - **State Management**: Redis (real-time), PostgreSQL (persistent)
-
 ---
 
 ## **2. Secure Data Collection & Storage**

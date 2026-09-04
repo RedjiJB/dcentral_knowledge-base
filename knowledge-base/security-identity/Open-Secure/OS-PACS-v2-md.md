@@ -5,6 +5,7 @@ doc_uuid: 2c5c8657-a767-4426-8406-26c205a17f23
 original_filename: OS-PACS v2.md
 created_at: 2026-03-04T20:32:34.925468+00:00
 content_hash: 674329bdf323topic: prevention-term-automation
+topic: security-ecosystem-sector-platforms
 ---
 
 # **How Security Firms Profit with OS-PACS**

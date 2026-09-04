@@ -5,6 +5,7 @@ doc_uuid: 1c9ba494-d364-4ee0-88b8-3a23d283cd6b
 original_filename: QUICK_START.md
 created_at: 2025-12-02T00:47:53.841895+00:00
 content_hash: 447d4277306dcross_category_duplicate_at: "security-identity/Open-Vision/QUICK-START-md.md"topic: yml-compose-frigate
+topic: ihose-quickstart-install
 ---
 
 # OpenVision Platform - Quick Reference Guide

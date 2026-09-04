@@ -5,6 +5,7 @@ doc_uuid: dae2da35-ca3b-4071-ac9e-dd1e0c0377ff
 original_filename: ROADMAP.md
 created_at: 2025-11-28T23:43:32.358169+00:00
 content_hash: 79d232427548topic: decoding-cipher-chopshop
+topic: chopshop-project-documentation
 ---
 
 # ChopShop-CLI Development Roadmap

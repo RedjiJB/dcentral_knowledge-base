@@ -5,6 +5,7 @@ doc_uuid: 74fbfd09-d7a6-4d41-b5f4-76e33bda2bb2
 original_filename: Chat Context A
 created_at: 2026-06-01T11:31:55.145660+00:00
 content_hash: 793a116cad47topic: digital-communities-participation
+topic: digital-community-participation-platforms
 ---
 
 I have an idea it’s similar to the os-patrol or the fleet version where cars have an obd device and a dashcam that is able to scan the road as they drive as they scan the road they can see lane infractions, speeding, etc. it goes to a server where police can choose to enforce the infractions and violations, they can put these in city vehicles and other vehicles to collect revenue for the city municipality etc. and people can opt in as well

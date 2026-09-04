@@ -5,6 +5,7 @@ doc_uuid: ecc8c8f4-41f2-4b26-a902-a7a16dbdcea9
 original_filename: haiti-mesh-plan.txt
 created_at: 2025-06-13T21:27:10.018938+00:00
 content_hash: 49c6cde38b7etopic: online-yield-upgrade
+topic: haiti-cooperative-resilience-framework
 ---
 
 # Rezilyon Digital: Enhanced Haitian Community Mesh Network

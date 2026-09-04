@@ -5,6 +5,7 @@ doc_uuid: 564aba4d-4593-44b1-a165-e792f7487031
 original_filename: LOAN-CM-001_ISC_Phase1_Application_Framework_v1.docx
 created_at: 2026-06-01T11:32:20.722068+00:00
 content_hash: 91163d6adbd3topic: gtm-loan-members
+topic: civicmesh-isc-loan-application
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

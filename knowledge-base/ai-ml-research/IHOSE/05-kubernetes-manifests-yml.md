@@ -5,6 +5,7 @@ doc_uuid: 2027d371-2448-486b-b93f-15b9c3623c4f
 original_filename: 05-kubernetes-manifests.yml
 created_at: 2025-12-02T00:47:53.944256+00:00
 content_hash: a70faedca0efcross_category_duplicate_at: "security-identity/Open-Vision/05-kubernetes-manifests-yml.md"topic: url-yml-home
+topic: ihose-deployment-infrastructure
 ---
 
 # OpenVision Platform - Kubernetes Deployment Manifests

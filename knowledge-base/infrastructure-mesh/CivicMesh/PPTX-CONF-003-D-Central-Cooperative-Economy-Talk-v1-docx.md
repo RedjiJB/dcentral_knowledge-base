@@ -5,6 +5,7 @@ doc_uuid: 9dfe1b85-1437-4a22-a1bf-9910195fddaa
 original_filename: PPTX-CONF-003_D-Central_Cooperative_Economy_Talk_v1.docx
 created_at: 2026-06-01T11:32:21.132055+00:00
 content_hash: 06ec2d61a9d6topic: script-pptx-produce
+topic: dcentral-presentation-decks
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

@@ -5,6 +5,7 @@ doc_uuid: 8251a2d8-4b1e-4cc8-ab3b-34c97b022dea
 original_filename: blockchain_solutions_roadmap.md
 created_at: 2025-07-25T17:58:37.039688+00:00
 content_hash: 13a3f1ec20fetopic: student-members-technological
+topic: blockchain-education-federation
 ---
 
 # Blockchain Integration Solutions & Traditional-to-Blockchain Roadmap

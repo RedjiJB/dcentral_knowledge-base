@@ -5,6 +5,7 @@ doc_uuid: f61b9e43-4c59-44b3-9fad-5826de583b34
 original_filename: expanded_monetization_guide.md
 created_at: 2025-07-07T21:36:14.111926+00:00
 content_hash: c41545083b57topic: certification-skills-applications
+topic: haiti-integration-platforms
 ---
 
 # Haiti Drone Cooperative: Comprehensive Open Source Monetization Strategy

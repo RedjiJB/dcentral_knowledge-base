@@ -5,6 +5,7 @@ doc_uuid: b5caca6a-ce68-4e92-9a43-2d5e5aed2be7
 original_filename: EXECUTIVE_SUMMARY.md
 created_at: 2025-11-28T23:43:29.923130+00:00
 content_hash: 99ed872152e1topic: decoding-cipher-chopshop
+topic: chopshop-project-documentation
 ---
 
 # ChopShop-CLI Documentation Package - Executive Summary

@@ -5,6 +5,7 @@ doc_uuid: 4cb44f3b-3311-4e82-817f-ff134550dfc9
 original_filename: CONTRIBUTING(1).md
 created_at: 2025-11-28T23:43:28.439354+00:00
 content_hash: 79bae8805607topic: decoding-cipher-chopshop
+topic: chopshop-project-documentation
 ---
 
 # Contributing to ChopShop-CLI

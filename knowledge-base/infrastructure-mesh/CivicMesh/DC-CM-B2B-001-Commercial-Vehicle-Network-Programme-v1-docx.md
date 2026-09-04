@@ -5,6 +5,7 @@ doc_uuid: 5829461b-4438-4e06-90bb-44fefed21a28
 original_filename: DC-CM-B2B-001_Commercial_Vehicle_Network_Programme_v1.docx
 created_at: 2026-06-01T11:32:22.173593+00:00
 content_hash: 75b21f1fbdc8topic: vehicles-identity-directly
+topic: commercial-b2b-vehicle-fleet-programme
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

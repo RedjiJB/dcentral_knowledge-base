@@ -5,6 +5,7 @@ doc_uuid: d64a3b24-b729-42e3-bb8d-ae6858b03793
 original_filename: LEGAL-MSSP-COOP-001_CivicMesh_MSSP_Cooperative_v1.docx
 created_at: 2026-06-01T11:32:20.003436+00:00
 content_hash: b8957d843823topic: retains-shared-corporations
+topic: civicmesh-cooperative-legal-structures
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

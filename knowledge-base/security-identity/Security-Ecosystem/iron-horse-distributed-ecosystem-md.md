@@ -5,6 +5,7 @@ doc_uuid: 78ebd6fd-7be3-4155-bcf3-182a63f2865c
 original_filename: iron-horse-distributed-ecosystem.md
 created_at: 2025-11-09T01:31:28.036565+00:00
 content_hash: a10a4f0890c2topic: prevention-term-automation
+topic: security-ecosystem-sector-platforms
 ---
 
 # Iron Horse Security - Distributed Ecosystem Architecture

@@ -4,8 +4,7 @@ source_project_uuid: 0198b52e-0516-768e-b6d4-182ebfca6ef0
 doc_uuid: e726ae6b-5b7b-4274-9b55-2cd84bf3d21b
 original_filename: The Future of Community Intelligence: A Platform for Democratic Safety and Prosperity.md
 created_at: 2025-08-23T15:21:37.796073+00:00
-content_hash: dfeff86185b1topic: certification-skills-applications
----
+content_hash: dfeff86185b1topic: certification-skills-applications---
 
 # The Future of Community Intelligence: A Platform for Democratic Safety and Prosperity
 
@@ -444,7 +443,6 @@ The technological pieces are in place. The economic model is proven. The social 
 **The future belongs to communities that control their own intelligence, infrastructure, and destiny.**
 
 **That future starts with DION. That future starts now.**
-
 ---
 
 *To learn more about DION, explore partnership opportunities, or get involved in building this platform, visit [platform website] or contact [contact information]. The technical blueprint, implementation guides, and governance frameworks are available as open-source resources for communities ready to build their own intelligence and emergency response capabilities.*

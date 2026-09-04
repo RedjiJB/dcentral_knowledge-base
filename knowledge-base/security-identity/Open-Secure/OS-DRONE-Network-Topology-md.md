@@ -5,6 +5,7 @@ doc_uuid: 088d5173-5355-4a6b-a087-b755b59d7780
 original_filename: OS-DRONE_Network_Topology.md
 created_at: 2026-03-05T13:51:27.165833+00:00
 content_hash: 3ad54f80eeeftopic: sony-firmware-opensecure
+topic: opensecure-os-drone-subsystem
 ---
 
 # OS-DRONE Network Topology

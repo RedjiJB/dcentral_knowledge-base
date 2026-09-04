@@ -5,6 +5,7 @@ doc_uuid: eacd3995-702f-4226-b9cb-73e2fad0af1f
 original_filename: LEGAL-GUARD-COOP-001_CivicMesh_Guard_Cooperative_v1.docx
 created_at: 2026-06-01T11:32:21.729023+00:00
 content_hash: d56e46d563b4topic: retains-shared-corporations
+topic: civicmesh-cooperative-legal-structures
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

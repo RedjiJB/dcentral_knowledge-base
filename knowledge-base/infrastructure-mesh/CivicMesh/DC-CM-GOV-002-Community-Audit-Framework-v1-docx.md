@@ -5,6 +5,7 @@ doc_uuid: d908cbcb-2ce3-4df4-a1f3-51ea69b6c35b
 original_filename: DC-CM-GOV-002_Community_Audit_Framework_v1.docx
 created_at: 2026-06-01T11:32:21.993539+00:00
 content_hash: 640ae39214a4topic: positive-federation-findings
+topic: civicmesh-governance-audit-transparency
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

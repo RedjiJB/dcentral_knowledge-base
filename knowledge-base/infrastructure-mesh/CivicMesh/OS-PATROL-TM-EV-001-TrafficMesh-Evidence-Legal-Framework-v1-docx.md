@@ -5,6 +5,7 @@ doc_uuid: 02d4780c-1fba-46c4-8aad-6509710355a9
 original_filename: OS-PATROL-TM-EV-001_TrafficMesh_Evidence_Legal_Framework_v1.docx
 created_at: 2026-06-01T11:32:19.780441+00:00
 content_hash: 8abb4c3011d1topic: applies-admissibility-opinion
+topic: trafficmesh-legal-regulatory-compliance
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

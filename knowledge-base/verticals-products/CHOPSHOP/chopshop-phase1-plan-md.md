@@ -5,6 +5,7 @@ doc_uuid: d33edf4d-4132-47f2-8336-aa451b53dcea
 original_filename: chopshop_phase1_plan.md
 created_at: 2025-11-28T23:43:26.673303+00:00
 content_hash: d9e3a3550984topic: decoding-cipher-chopshop
+topic: chopshop-project-documentation
 ---
 
 # ChopShop-CLI Phase 1 Implementation Plan

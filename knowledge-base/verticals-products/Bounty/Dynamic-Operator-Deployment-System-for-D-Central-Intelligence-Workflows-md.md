@@ -5,6 +5,7 @@ doc_uuid: 39db0ae2-5698-40f3-86c8-4c51f3c9b6b0
 original_filename: Dynamic Operator Deployment System for D Central Intelligence Workflows.md
 created_at: 2025-08-23T15:53:04.929103+00:00
 content_hash: 1e6c06e28b33topic: quality'-'real-person
+topic: dion-operator-deployment-credentialing
 ---
 
 # Dynamic Operator Deployment System for D Central Intelligence Workflows

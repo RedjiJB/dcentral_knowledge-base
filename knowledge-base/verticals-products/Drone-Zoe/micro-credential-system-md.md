@@ -5,6 +5,7 @@ doc_uuid: 0e530eb9-fe96-4c85-8d93-205e38744a3e
 original_filename: micro-credential-system.md
 created_at: 2025-08-17T21:16:53.866501+00:00
 content_hash: 5f55f55d3ab5topic: certification-skills-applications
+topic: haiti-integration-platforms
 ---
 
 # Micro-Credential System

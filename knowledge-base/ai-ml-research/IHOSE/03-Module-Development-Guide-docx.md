@@ -5,6 +5,7 @@ doc_uuid: a8b9ab2d-8526-4ff9-a3fd-4cdf2455f152
 original_filename: 03-Module-Development-Guide.docx
 created_at: 2025-12-02T00:47:55.481964+00:00
 content_hash: 8f4d5286535fcross_category_duplicate_at: "security-identity/Open-Vision/03-Module-Development-Guide-docx.md"topic: url-numpy-person
+topic: ihose-module-development
 ---
 
 OpenVision Platform

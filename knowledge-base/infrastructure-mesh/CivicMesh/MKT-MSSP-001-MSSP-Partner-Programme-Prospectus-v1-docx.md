@@ -5,6 +5,7 @@ doc_uuid: 46f8b326-d5aa-4425-b793-e0316ba8c875
 original_filename: MKT-MSSP-001_MSSP_Partner_Programme_Prospectus_v1.docx
 created_at: 2026-06-01T11:32:19.752451+00:00
 content_hash: 420414ddeb2dtopic: coverage-application-communauto
+topic: civicmesh-partner-incentive-programmes
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

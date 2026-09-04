@@ -5,6 +5,7 @@ doc_uuid: c8e7d188-0e8f-4e67-b185-1548997a2e46
 original_filename: 04-Enterprise-Deployment.md
 created_at: 2025-12-02T00:47:55.903097+00:00
 content_hash: 2ef2b76fd7f9cross_category_duplicate_at: "security-identity/Open-Vision/04-Enterprise-Deployment-md.md"topic: url-yml-home
+topic: ihose-deployment-infrastructure
 ---
 
 # OpenVision Platform

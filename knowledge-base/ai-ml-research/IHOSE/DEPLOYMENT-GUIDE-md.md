@@ -5,6 +5,7 @@ doc_uuid: 0a48f116-f14b-4753-9f81-7c133ed32a1d
 original_filename: DEPLOYMENT_GUIDE.md
 created_at: 2025-12-02T00:47:54.299980+00:00
 content_hash: 14499fa4188dcross_category_duplicate_at: "security-identity/Open-Vision/DEPLOYMENT-GUIDE-md.md"topic: person-vpn-mode
+topic: ihose-architecture-deployment
 ---
 
 # OpenVision Platform - Complete Deployment Guide

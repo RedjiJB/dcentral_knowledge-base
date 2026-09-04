@@ -5,6 +5,7 @@ doc_uuid: 28cd95c8-ff3f-42bb-81b7-099d0b93330c
 original_filename: chatgpt.md
 created_at: 2025-10-13T19:28:45.211432+00:00
 content_hash: 835e78a28ea6topic: mechanism-long-projects
+topic: dcentral-core-narrative-analysis
 ---
 
 Skip to content

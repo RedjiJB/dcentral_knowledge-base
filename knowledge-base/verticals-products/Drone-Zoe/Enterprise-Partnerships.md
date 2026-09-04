@@ -5,6 +5,7 @@ doc_uuid: 4d99bf1e-7844-4b48-a406-ca13d3f65ea9
 original_filename: Enterprise & Partnerships
 created_at: 2025-07-08T22:44:12.135069+00:00
 content_hash: a600b35a7772topic: certification-skills-applications
+topic: haiti-integration-platforms
 ---
 
 # Enterprise & Partnerships for Haiti's Unified Development Framework

@@ -5,6 +5,7 @@ doc_uuid: fe308675-07d6-48f6-a8d4-f35c9a5f4f89
 original_filename: comprehensive_educational_sovereignty.md
 created_at: 2025-07-25T18:14:23.373186+00:00
 content_hash: d2047c192754topic: individual-feedback-research
+topic: federation-sovereignty-cooperative-platforms
 ---
 
 # Complete Educational Sovereignty Framework: Comprehensive Implementation Guide

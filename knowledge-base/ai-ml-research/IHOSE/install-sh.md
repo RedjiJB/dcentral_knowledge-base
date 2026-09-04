@@ -5,6 +5,7 @@ doc_uuid: 0da36558-6813-46fd-9d0e-4d62e11c59b8
 original_filename: install.sh
 created_at: 2025-12-02T00:47:55.067525+00:00
 content_hash: a0c26462eb3ecross_category_duplicate_at: "security-identity/Open-Vision/install-sh.md"topic: yml-compose-frigate
+topic: ihose-quickstart-install
 ---
 
 #!/bin/bash

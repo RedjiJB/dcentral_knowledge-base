@@ -5,6 +5,7 @@ doc_uuid: c24efb37-3e78-4890-addb-eab5c37df451
 original_filename: Integrated Community Sovereignty Platform: 16-Sector Integration.md
 created_at: 2025-07-25T19:19:28.630534+00:00
 content_hash: 4d29d23118c6topic: individual-feedback-research
+topic: federation-sovereignty-cooperative-platforms
 ---
 
 # Integrated Community Sovereignty Platform: 16-Sector Critical Infrastructure Integration

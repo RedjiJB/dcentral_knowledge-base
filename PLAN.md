@@ -28,7 +28,7 @@ not versioned KB content; regenerate by re-unzipping the export and re-running t
 | 2. Extract artifacts | — | **Done.** `scripts/extract_project_docs.py` → all 428 project KB docs pulled out of `raw-export/projects/projects/*.json` as individual files under `projects/kb-docs/<project>/<doc>.md`, each with front matter (source project, doc uuid, created_at, sha256 content hash). Indexed in `projects/_kb_docs_index.md`. Doc-ID *mentions* in conversation text (separate from KB doc *content*) remain in `registry/dc_registry_extracted_v2.csv` (136 unique IDs). |
 | 3. Classify → folder tree | — | **Done at category level.** `scripts/classify_docs.py` routes all 428 docs from `projects/kb-docs/<project>/` (mirrors Claude's own Project structure) into `knowledge-base/<category>/<project>/` (mirrors subject matter instead), using an explicit project→category mapping. 8 categories: D-Central Ecosystem (62), Security/Identity (91), Infrastructure/Mesh (120), Haiti Initiative (19), AI/ML/Research (63), Verticals/Products (67), Academic/Training (5), Other/Experimental (1). This is coarse, project-level classification — the finer per-topic clustering within each category (e.g. `mesh-services/connectivity/` style) is Stage 5's job, not this one. `projects/kb-docs/` is left untouched as the Stage-2 ground truth; `knowledge-base/` is a regeneratable derived view (rerun the script rather than hand-editing it). |
 | 4. Dedup/status pass | [DC-DEDUP-STD-001](standards/DC-DEDUP-STD-001.md) | **Done, including the review queue and cross-category duplicates.** `scripts/dedup_pass.py` (mechanical step 1 within category + candidate surfacing) → `scripts/resolve_dedup_review.py` (actual verdicts on flagged pairs) → `scripts/dedup_cross_category.py` (catches duplicates spanning category boundaries). Totals: 28 + 33 = 61/61 exact-content duplicates relocated (100% of Stage 2's original count, none unaccounted for), plus 11 confirmed SUPERSEDES and 1 confirmed UNRESOLVED from the review queue, 9 false positives dismissed. 72 docs total now under `_superseded/`. See `registry/dedup-review/_RESOLUTION.md` and `_CROSS_CATEGORY.md`. |
-| 5. Topic synthesis | [DC-TOPIC-SYNTH-STD-001](standards/DC-TOPIC-SYNTH-STD-001.md) | **First-pass lexical clustering done; needs a subject-check pass before topics are confirmed.** `scripts/topic_synthesis.py` clusters each category's surviving (non-superseded) docs by word-overlap (Jaccard on significant terms, category-generic words filtered out). First attempt used connected-components and chained transitively into one giant blob per category (110/115 Infrastructure/Mesh docs in a single cluster) — exactly the "keyword-clustering, too coarse" failure DC-TOPIC-SYNTH-STD-001 §8 warns about. Rewritten as non-transitive star clustering (each cluster = a seed doc + only its *direct* neighbors, no chaining): 59 topic clusters across 8 categories, 236 docs clustered, 119 correctly left ungrouped (no direct match, not forced into a topic per §1's ≥2-source rule). Spot-checked Infrastructure/Mesh's output — clusters are genuinely coherent (e.g. federation/NOC/municipal-deployment docs together, insurance-integration docs together). Topic names are placeholder keyword-joins, not designed labels — every cluster still needs the actual per-standard calibration test (§4: can you write one honest 2-4 sentence abstract without "and"?) before being treated as a confirmed topic node. See `knowledge-base/_topics_summary.md` and each category's `_topics.md`. |
+| 5. Topic synthesis | [DC-TOPIC-SYNTH-STD-001](standards/DC-TOPIC-SYNTH-STD-001.md) | **Done, including the subject-check pass.** `scripts/topic_synthesis.py` (first-pass lexical clustering, non-transitive star clustering to avoid chaining — see git history for the connected-components bug this replaced) → `scripts/resolve_topic_review.py` (real subject-check verdicts against §4's calibration test on all 59 first-pass clusters). Result: **55 confirmed topics**, 231 docs clustered, 124 correctly left ungrouped. Applied: 2 genuine splits (clusters that merged unrelated subjects sharing only generic vocabulary), 2 merges (clusters split only by superficial audience/doc-type difference), 4 doc demotions (a single mismatched doc inside an otherwise-coherent cluster). **Correction made mid-pass on user feedback:** an initial subject-check wrongly split 4 clusters apart on the assumption that "different Claude Project = different subject" — e.g. separating CivicMesh's community docs from Local-Fediverse's academic-platform docs, or Drone-Zoe's Haiti docs from VDI-Solutions' Haiti docs. That assumption is backwards for this corpus: D-Central deliberately reuses the same concepts (community/participation platforms, federation, credentialing, Haiti integration) across many verticals on purpose, so cross-project overlap is often the real topic, not noise. Those 4 splits were reverted into concept-based merged topics (`digital-community-participation-platforms`, `federation-sovereignty-cooperative-platforms`, `security-ecosystem-sector-platforms`, `haiti-integration-platforms`). Full reasoning: `TOPIC-RESOLUTION.md`. |
 | 6. Consolidator | [DC-CONSOLIDATOR-STD-001](standards/DC-CONSOLIDATOR-STD-001.md) | Not started. |
 | 7. Materialize filesystem | — | Not started. |
 | 8. Build graph | — | Not started. |
@@ -77,10 +77,25 @@ Federated-System-Integration and Local-Fediverse. Worth deciding by hand whether
 project concept still needs its own home in the classification scheme, given its KB content turned
 out to be entirely borrowed from IHOSE.
 
+## Cross-pollination check
+
+Following the Local-Fediverse correction, checked whether the categories treated as separate
+"verticals" (`ai-ml-research`, `verticals-products`, `security-identity`) actually share D-Central's
+core concepts (DAO governance, DID/VC credentialing, cooperative economics, federation) closely
+enough to warrant folding back into the core rather than staying siloed. Findings:
+`CROSS-POLLINATION-FINDINGS.md`. Short version: strong overlap in `verticals-products` (64% of docs
+hit core vocabulary — Bounty's "DION Platform" docs are explicitly a D-Central Intelligence Operator
+Network subsystem, not an unrelated product) and `ai-ml-research` (52% — Federated-Learning-
+Platform's sovereignty docs and IHOSE's federation docs describe the same federation/DAO pattern
+applied per-sector). `academic-training` correctly has zero overlap and stays separate. This is a
+findings report, not an applied merge — concrete candidates are scoped for the Stage 6 Consolidator
+pass to reconcile against D-Central's own core docs in `docs/`.
+
 ## Next concrete step
 
-A subject-check pass over the 59 topic clusters: read each cluster (starting with the largest,
-`digital-communities-participation` at 16 docs) and confirm/split/rename per DC-TOPIC-SYNTH-STD-001
-§4's actual calibration test, the way the dedup review queue got a real reading pass rather than
-staying as raw heuristic output. Then Stage 6 (DC-CONSOLIDATOR-STD-001): synthesize one consolidated
-document per confirmed topic.
+Stage 6 (DC-CONSOLIDATOR-STD-001): synthesize one consolidated document per confirmed topic. Priority
+order per the cross-pollination findings: reconcile the Bounty/DION docs against `docs/DC-DAO-AGENT-
+LOOP-001.md` and `docs/DC-AGENT-CREDENTIAL-001.md` first (likely duplicated architecture, not just a
+similar one), then `federation-sovereignty-cooperative-platforms` (11 docs) against D-Central's core
+federation docs, then the largest topics generally — `digital-community-participation-platforms`
+(16 docs), `chopshop-project-documentation` (17 docs), `haiti-integration-platforms` (12 docs).

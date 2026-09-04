@@ -5,6 +5,7 @@ doc_uuid: 74096fb7-1de4-4214-ad81-eff61df32572
 original_filename: complete_enhanced_haiti_framework.md
 created_at: 2025-08-10T20:38:08.424396+00:00
 content_hash: 6554fc5ad050topic: online-yield-upgrade
+topic: haiti-cooperative-resilience-framework
 ---
 
 # Complete Enhanced Open-Source Cooperative Resilience Framework for Haiti: Comprehensive Implementation Guide with HCCC Integration

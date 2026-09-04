@@ -5,6 +5,7 @@ doc_uuid: a6340737-4013-4e35-a00b-9613eae61220
 original_filename: OS-GUARDIAN_Technical_Architecture.md
 created_at: 2026-03-04T20:30:19.372173+00:00
 content_hash: 19c920013b67topic: lag-kubernetes-interval
+topic: opensecure-guardian-sentinel-architecture
 ---
 
 # OS-GUARDIAN - Complete Technical Architecture

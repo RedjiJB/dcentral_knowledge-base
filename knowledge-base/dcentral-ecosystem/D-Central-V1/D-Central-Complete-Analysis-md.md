@@ -5,6 +5,7 @@ doc_uuid: 7e936e6a-cbb2-4693-940d-7ad90f49fc7e
 original_filename: D-Central_Complete_Analysis.md
 created_at: 2025-06-08T02:10:52.997459+00:00
 content_hash: d58247ec6cd0topic: mechanism-long-projects
+topic: dcentral-core-narrative-analysis
 ---
 
 ---

@@ -5,6 +5,7 @@ doc_uuid: cbc19923-ae3a-46d9-96a8-92f566982a67
 original_filename: OpenPIV_Implementation_Roadmap.md
 created_at: 2026-03-04T20:36:55.731188+00:00
 content_hash: 315c9263543ftopic: openfips-personalization-login
+topic: opensecure-openpiv-subsystem
 ---
 
 # OpenPIV Implementation Roadmap

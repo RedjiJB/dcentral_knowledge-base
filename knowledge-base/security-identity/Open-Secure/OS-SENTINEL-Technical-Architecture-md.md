@@ -5,6 +5,7 @@ doc_uuid: ec910805-50ad-4acd-8243-463bd976e7d3
 original_filename: OS-SENTINEL_Technical_Architecture.md
 created_at: 2026-03-04T20:34:08.954514+00:00
 content_hash: aafaaacda0b4topic: lag-kubernetes-interval
+topic: opensecure-guardian-sentinel-architecture
 ---
 
 # OS-SENTINEL - Complete Technical Architecture

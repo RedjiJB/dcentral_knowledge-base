@@ -5,6 +5,7 @@ doc_uuid: 6116d031-6182-48cb-9b55-75176e47c89b
 original_filename: OpenPIV_Technical_Architecture.md
 created_at: 2026-03-04T20:36:57.610093+00:00
 content_hash: bf34d5020639topic: openfips-personalization-login
+topic: opensecure-openpiv-subsystem
 ---
 
 # OpenPIV Technical Architecture

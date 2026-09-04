@@ -5,6 +5,7 @@ doc_uuid: f2ea6e43-b91b-44d5-9a86-860fb7e98aad
 original_filename: OS-DRONE_Federation_3D_Spatial.md
 created_at: 2026-03-05T13:49:35.439296+00:00
 content_hash: bfd7f88691e2topic: sony-served-construction
+topic: opensecure-os-drone-advanced-capabilities
 ---
 
 # OS-DRONE Federation & 3D Spatial Intelligence

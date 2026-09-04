@@ -5,6 +5,7 @@ doc_uuid: d6004578-38ec-43db-9e4b-bae1d5de93ad
 original_filename: OS-SENTINEL_Implementation_Guide.md
 created_at: 2026-03-04T20:34:07.864699+00:00
 content_hash: c4164341ff39topic: timeout-lighting-login
+topic: opensecure-patrol-sentinel-implementation
 ---
 
 # OS-SENTINEL Implementation Guide

@@ -5,6 +5,7 @@ doc_uuid: da3b077a-875f-4c6e-9985-bb303b6fa4aa
 original_filename: 01-OpenVision-Architecture.docx
 created_at: 2025-12-02T00:47:56.017015+00:00
 content_hash: 20e189a18b0ecross_category_duplicate_at: "security-identity/Open-Vision/01-OpenVision-Architecture-docx.md"topic: person-vpn-mode
+topic: ihose-architecture-deployment
 ---
 
 OpenVision Platform

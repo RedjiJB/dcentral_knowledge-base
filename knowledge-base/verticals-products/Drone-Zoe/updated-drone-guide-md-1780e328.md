@@ -5,6 +5,7 @@ doc_uuid: 1780e328-0ddb-4fe7-906c-49db80afb4b8
 original_filename: updated_drone_guide.md
 created_at: 2025-08-17T21:16:50.066275+00:00
 content_hash: c4198908e807superseded_docs: [updated-drone-guide-md.md]topic: savings-crazyflie-folding
+topic: drone-zoe-hardware-selection-guides
 ---
 
 # Haiti Drone Cooperative: Open Source Modular Sensor Platform System - Updated

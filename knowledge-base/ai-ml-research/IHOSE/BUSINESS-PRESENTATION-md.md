@@ -5,6 +5,7 @@ doc_uuid: e73ac3bd-5986-4471-9edf-989fcc178a18
 original_filename: BUSINESS_PRESENTATION.md
 created_at: 2025-12-02T00:47:54.349718+00:00
 content_hash: 04e215b1305across_category_duplicate_at: "security-identity/Open-Vision/BUSINESS-PRESENTATION-md.md"topic: free-smb-premium
+topic: ihose-business-summaries
 ---
 
 # OpenVision Platform - Business Presentation Deck

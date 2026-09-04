@@ -5,6 +5,7 @@ doc_uuid: ebe8d611-867a-46d4-8c46-761904bf6849
 original_filename: enterprise.md
 created_at: 2025-12-02T00:47:54.611595+00:00
 content_hash: f073231f17bdcross_category_duplicate_at: "security-identity/Open-Vision/enterprise-md.md"topic: person-vpn-mode
+topic: ihose-architecture-deployment
 ---
 
 # Enterprise Deployment Guide

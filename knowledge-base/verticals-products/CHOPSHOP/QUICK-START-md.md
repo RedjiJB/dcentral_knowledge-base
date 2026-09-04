@@ -5,6 +5,7 @@ doc_uuid: 741794a2-d8dd-456d-a03f-e37bd98da462
 original_filename: QUICK_START.md
 created_at: 2025-11-28T23:43:31.217685+00:00
 content_hash: 97288d933cf0topic: decoding-cipher-chopshop
+topic: chopshop-project-documentation
 ---
 
 # ChopShop-CLI Quick Start Guide

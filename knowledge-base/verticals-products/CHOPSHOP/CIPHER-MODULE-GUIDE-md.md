@@ -5,6 +5,7 @@ doc_uuid: 3971b0ab-9fc3-4da3-b905-b84758291266
 original_filename: CIPHER_MODULE_GUIDE.md
 created_at: 2025-11-28T23:43:28.148161+00:00
 content_hash: ef3205646859topic: decoding-cipher-chopshop
+topic: chopshop-project-documentation
 ---
 
 # Cipher Module Development Guide

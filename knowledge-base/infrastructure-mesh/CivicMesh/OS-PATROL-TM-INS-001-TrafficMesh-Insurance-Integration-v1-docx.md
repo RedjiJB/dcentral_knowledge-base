@@ -5,6 +5,7 @@ doc_uuid: ee05b547-68e5-4d8c-bca5-f91437716488
 original_filename: OS-PATROL-TM-INS-001_TrafficMesh_Insurance_Integration_v1.docx
 created_at: 2026-06-01T11:32:20.525509+00:00
 content_hash: db0aa450fef0topic: lane-density-record
+topic: trafficmesh-insurance-integration-revenue
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

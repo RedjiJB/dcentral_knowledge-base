@@ -5,6 +5,7 @@ doc_uuid: 623e83ce-a56f-465e-acdd-c443d93db1cd
 original_filename: chopshop_development_guide.md
 created_at: 2025-11-28T23:43:26.245870+00:00
 content_hash: 12c9259d55fbtopic: decoding-cipher-chopshop
+topic: chopshop-project-documentation
 ---
 
 # ChopShop-CLI Development Guide

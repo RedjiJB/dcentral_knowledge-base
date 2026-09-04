@@ -5,6 +5,7 @@ doc_uuid: 542c11a7-e455-4ce2-a4e0-a27e21a908af
 original_filename: OS-PATROL-TM-FLEET-001_TrafficMesh_Fleet_Node_Specification_v1.docx
 created_at: 2026-06-01T11:32:21.860011+00:00
 content_hash: 79d905d0edc8topic: condition-illegal-contractor
+topic: trafficmesh-city-fleet-deployment
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

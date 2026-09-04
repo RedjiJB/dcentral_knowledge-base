@@ -5,6 +5,7 @@ doc_uuid: 60497fb7-195d-4cf9-89bf-512cf99f23df
 original_filename: TRAIN-002_Track1_Node_Technician_Curriculum_v1.docx
 created_at: 2026-06-01T11:32:19.270823+00:00
 content_hash: 86f17a82b811topic: compute-assessment-investigation
+topic: civicmesh-technician-certification-training
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

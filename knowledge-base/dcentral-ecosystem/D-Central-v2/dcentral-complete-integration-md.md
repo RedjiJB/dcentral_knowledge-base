@@ -5,6 +5,7 @@ doc_uuid: d03d948c-6c22-47ed-a4cd-fd510c5fb3d4
 original_filename: dcentral-complete-integration.md
 created_at: 2025-10-13T19:26:30.404353+00:00
 content_hash: 689f931efb0dtopic: wearables-npk-chemical
+topic: dcentral-iot-integration-blueprint
 ---
 
 # D-Central Complete Device Integration Matrix

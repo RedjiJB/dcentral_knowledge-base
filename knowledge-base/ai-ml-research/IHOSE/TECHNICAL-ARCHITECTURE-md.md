@@ -5,6 +5,7 @@ doc_uuid: bf87aef2-9853-4f03-a532-262a03db3fd6
 original_filename: TECHNICAL_ARCHITECTURE.md
 created_at: 2025-12-02T00:47:53.908429+00:00
 content_hash: 016ad5e12c19cross_category_duplicate_at: "security-identity/Open-Vision/TECHNICAL-ARCHITECTURE-md.md"topic: person-vpn-mode
+topic: ihose-architecture-deployment
 ---
 
 # OpenVision Platform - Complete Technical Architecture

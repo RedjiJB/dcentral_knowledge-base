@@ -5,6 +5,7 @@ doc_uuid: 4ecdacac-88c8-476b-bf87-f0895e7d2601
 original_filename: TRAIN-005_Track4_Security_Response_Curriculum_v1.docx
 created_at: 2026-06-01T11:32:21.278810+00:00
 content_hash: b126a1698236topic: guard-replace-dispatch
+topic: civicmesh-security-response-ops-training
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

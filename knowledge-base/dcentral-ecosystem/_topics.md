@@ -1,55 +1,55 @@
 # Topics — dcentral-ecosystem
 
-52 docs scanned. 7 topic clusters formed (26 docs), 26 left ungrouped (no other doc in this category was similar enough -- not forced into a topic, per DC-TOPIC-SYNTH-STD-001 SS1's >=2-source requirement).
+**Subject-checked** — see [../../TOPIC-RESOLUTION.md](../../TOPIC-RESOLUTION.md) for the full reasoning behind every split/merge/demotion applied.
 
-**First-pass lexical clustering — needs a human/agent subject-check per doc cluster before being treated as a confirmed topic node.**
+52 docs. 7 confirmed topics (26 docs), 26 ungrouped.
 
-## mechanism-long-projects (13 docs)
+## dcentral-core-narrative-analysis (13 docs)
 
-- [D-Central/D-Central-MVP-Technology-Stack-Recommendation-pdf.md](./D-Central/D-Central-MVP-Technology-Stack-Recommendation-pdf.md)
 - [D-Central-Hardware-Software-Tech-Stack/Comprehensive-Mesh-Network-Tech-Stack-for-Business-Integration-Ecosystem-md.md](./D-Central-Hardware-Software-Tech-Stack/Comprehensive-Mesh-Network-Tech-Stack-for-Business-Integration-Ecosystem-md.md)
 - [D-Central-V1/D-Central-Complete-Analysis-md.md](./D-Central-V1/D-Central-Complete-Analysis-md.md)
 - [D-Central-V1/D-Central-Master-Explanation-Document-html.md](./D-Central-V1/D-Central-Master-Explanation-Document-html.md)
 - [D-Central-V1/D-Central-Master-Explanation-md.md](./D-Central-V1/D-Central-Master-Explanation-md.md)
 - [D-Central-V1/D-Central-Technical-Documentation-md.md](./D-Central-V1/D-Central-Technical-Documentation-md.md)
-- [D-Central-v2/chatgpt-md.md](./D-Central-v2/chatgpt-md.md)
-- [D-Central-v2/chatgpt-organized-md.md](./D-Central-v2/chatgpt-organized-md.md)
 - [D-Central-v2/D-Central-Complete-Fractal-DAO-Governance-Architecture-md-7edde1e7.md](./D-Central-v2/D-Central-Complete-Fractal-DAO-Governance-Architecture-md-7edde1e7.md)
 - [D-Central-v2/D-Central-Edge-Distribution-Computation-Deep-Dive-md-4aa82ecd.md](./D-Central-v2/D-Central-Edge-Distribution-Computation-Deep-Dive-md-4aa82ecd.md)
 - [D-Central-v2/D-Social-Ecosystem-Expanded-Implementation-Guide-md.md](./D-Central-v2/D-Social-Ecosystem-Expanded-Implementation-Guide-md.md)
+- [D-Central-v2/chatgpt-md.md](./D-Central-v2/chatgpt-md.md)
+- [D-Central-v2/chatgpt-organized-md.md](./D-Central-v2/chatgpt-organized-md.md)
 - [D-Central-v2/dcentral-sales-ecosystem-critical-analysis-md.md](./D-Central-v2/dcentral-sales-ecosystem-critical-analysis-md.md)
 - [D-Central-v2/dcentral-whole-of-life-mesh-critical-analysis-md.md](./D-Central-v2/dcentral-whole-of-life-mesh-critical-analysis-md.md)
+- [D-Central/D-Central-MVP-Technology-Stack-Recommendation-pdf.md](./D-Central/D-Central-MVP-Technology-Stack-Recommendation-pdf.md)
 
-## 'amplifier-default-steward' (3 docs)
+## livestream-overlay-chatbot-system (3 docs)
 
 - [D-Central-Live-Development/chatbot-integration-system-ts.md](./D-Central-Live-Development/chatbot-integration-system-ts.md)
 - [D-Central-Live-Development/overlay-websocket-server-ts.md](./D-Central-Live-Development/overlay-websocket-server-ts.md)
 - [D-Central-Live-Development/streaming-overlay-system-tsx.md](./D-Central-Live-Development/streaming-overlay-system-tsx.md)
 
-## facilitation-accounting-food (2 docs)
+## mesh-cooperative-business-models (2 docs)
 
 - [D-Central-Business-User-Application/Innovative-Cooperative-Business-Models-for-the-Mesh-Economy-md.md](./D-Central-Business-User-Application/Innovative-Cooperative-Business-Models-for-the-Mesh-Economy-md.md)
 - [D-Central-x-OBCC/mesh-cooperative-infrastructure-md.md](./D-Central-x-OBCC/mesh-cooperative-infrastructure-md.md)
 
-## expiration-federation-efficient (2 docs)
+## dcentral-networking-architecture (2 docs)
 
-- [D-Central/dcm-blueprint-comprehensive-md.md](./D-Central/dcm-blueprint-comprehensive-md.md)
 - [D-Central-v2/D-Central-Networking-Architecture-Complete-md.md](./D-Central-v2/D-Central-Networking-Architecture-Complete-md.md)
+- [D-Central/dcm-blueprint-comprehensive-md.md](./D-Central/dcm-blueprint-comprehensive-md.md)
 
-## wearables-npk-chemical (2 docs)
+## dcentral-iot-integration-blueprint (2 docs)
 
 - [D-Central-v2/d-central-iot-blueprint-txt.md](./D-Central-v2/d-central-iot-blueprint-txt.md)
 - [D-Central-v2/dcentral-complete-integration-md.md](./D-Central-v2/dcentral-complete-integration-md.md)
 
-## buy-online-advantage (2 docs)
+## dcentral-economic-model-critiques (2 docs)
 
 - [D-Central-v2/dcentral-creator-economy-telecom-critical-analysis-md.md](./D-Central-v2/dcentral-creator-economy-telecom-critical-analysis-md.md)
 - [D-Central-v2/dcentral-workforce-commerce-mlm-critical-analysis-md.md](./D-Central-v2/dcentral-workforce-commerce-mlm-critical-analysis-md.md)
 
-## estate-liquidity-alerts (2 docs)
+## dcentral-obcc-sector-implementation (2 docs)
 
-- [D-Central/D-Central-x-OBCC-Complete-Master-Implementation-Plan-md.md](./D-Central/D-Central-x-OBCC-Complete-Master-Implementation-Plan-md.md)
 - [D-Central-x-OBCC/dcentral-sectors-comprehensive-md.md](./D-Central-x-OBCC/dcentral-sectors-comprehensive-md.md)
+- [D-Central/D-Central-x-OBCC-Complete-Master-Implementation-Plan-md.md](./D-Central/D-Central-x-OBCC-Complete-Master-Implementation-Plan-md.md)
 
 ## Ungrouped (26 docs)
 

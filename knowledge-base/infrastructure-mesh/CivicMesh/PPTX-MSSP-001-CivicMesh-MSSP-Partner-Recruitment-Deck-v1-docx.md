@@ -5,6 +5,7 @@ doc_uuid: b27259ff-4c5d-4b1f-b9ac-5ce43d3251e1
 original_filename: PPTX-MSSP-001_CivicMesh_MSSP_Partner_Recruitment_Deck_v1.docx
 created_at: 2026-06-01T11:32:22.132623+00:00
 content_hash: bea42a45cb06topic: one-show-design
+topic: dcentral-presentation-decks
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

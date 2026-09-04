@@ -5,6 +5,7 @@ doc_uuid: b61c6488-d7f6-42d5-80fd-ded564db450d
 original_filename: IHOSE_C4_Architecture_Models.md
 created_at: 2025-11-10T23:32:11.416306+00:00
 content_hash: 7517923c2c80topic: person-vpn-mode
+topic: ihose-architecture-deployment
 ---
 
 # Iron Horse Security (IHOSE)

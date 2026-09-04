@@ -5,6 +5,7 @@ doc_uuid: 244a8346-5669-4a97-bcf5-ac400634b5e8
 original_filename: DAY1_QUICKSTART.md
 created_at: 2025-11-28T23:43:29.219059+00:00
 content_hash: 6b8026b1885atopic: decoding-cipher-chopshop
+topic: chopshop-project-documentation
 ---
 
 # ChopShop-CLI Day 1 Quick Start Guide

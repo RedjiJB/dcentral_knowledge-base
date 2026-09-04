@@ -5,6 +5,7 @@ doc_uuid: 91cd9614-9be0-4e57-8f90-fd1fb2533bfd
 original_filename: haiti_education_federation.md
 created_at: 2025-07-25T17:58:38.146444+00:00
 content_hash: 8d0ed4fa8ee8topic: student-members-technological
+topic: blockchain-education-federation
 ---
 
 # Federated Educational Network Framework for Haiti

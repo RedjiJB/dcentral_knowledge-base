@@ -5,6 +5,7 @@ doc_uuid: 6485b3a6-874f-42bf-a095-b5ae2ec8b4be
 original_filename: chatgpt-organized.md
 created_at: 2025-10-13T19:25:50.713259+00:00
 content_hash: ea4ed302ef73topic: mechanism-long-projects
+topic: dcentral-core-narrative-analysis
 ---
 
 # D Central Ecosystem: Complete Documentation

@@ -5,6 +5,7 @@ doc_uuid: bd2f7d98-329f-41e3-b7e5-ecec09e238f3
 original_filename: Academic Institution-Specific ROI & Value Propositions.md
 created_at: 2025-07-10T14:33:05.772926+00:00
 content_hash: 898b430bcfd5topic: digital-communities-participation
+topic: digital-community-participation-platforms
 ---
 
 # Academic Institution-Specific ROI & Value Propositions

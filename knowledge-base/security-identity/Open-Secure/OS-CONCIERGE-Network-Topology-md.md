@@ -5,6 +5,7 @@ doc_uuid: 2dd85708-4ee7-4439-b2c2-f71252ca298f
 original_filename: OS-CONCIERGE_Network_Topology.md
 created_at: 2026-03-04T20:35:00.334637+00:00
 content_hash: 5c73d1f049b9topic: timeout-expiration-session
+topic: opensecure-os-concierge-topology
 ---
 
 # OS-CONCIERGE Network Topology

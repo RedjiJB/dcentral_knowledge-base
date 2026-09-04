@@ -5,6 +5,7 @@ doc_uuid: f70a7c63-400b-45fa-b148-9a299294929c
 original_filename: DC-CM-INS-001_Insurance_Integration_Specification_v1.docx
 created_at: 2026-06-01T11:32:22.296098+00:00
 content_hash: a8d84e3aec36topic: lane-density-record
+topic: trafficmesh-insurance-integration-revenue
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

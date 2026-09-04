@@ -5,6 +5,7 @@ doc_uuid: b5cd6f59-9e43-423d-9629-7b1a4e19d47b
 original_filename: dcentral-workforce-commerce-mlm-critical-analysis.md
 created_at: 2025-10-29T12:31:18.140336+00:00
 content_hash: 642965257c14topic: buy-online-advantage
+topic: dcentral-economic-model-critiques
 ---
 
 # D-Central Workforce, Commerce & MLM Network: Comprehensive Expansion & Critical Analysis

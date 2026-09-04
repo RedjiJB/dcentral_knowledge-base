@@ -5,6 +5,7 @@ doc_uuid: c1dba32a-3983-4d2d-b1a8-82db58e92961
 original_filename: IHOSE_C4_Architecture_Models_Part2.md
 created_at: 2025-11-10T23:32:16.594092+00:00
 content_hash: 7b0ab3e61e88topic: person-vpn-mode
+topic: ihose-architecture-deployment
 ---
 
 # IHOSE C4 Architecture Models (Part 2)

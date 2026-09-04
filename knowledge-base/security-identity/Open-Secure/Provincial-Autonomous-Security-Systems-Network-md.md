@@ -5,6 +5,7 @@ doc_uuid: 936c5576-8566-4df7-9d91-63a85ca6eeec
 original_filename: Provincial_Autonomous_Security_Systems_Network.md
 created_at: 2026-03-04T20:38:02.041389+00:00
 content_hash: fee7afb688b7topic: federation-guard-pin
+topic: opensecure-provincial-security-network
 ---
 
 # Provincial Autonomous Security Systems Network (PASSN)

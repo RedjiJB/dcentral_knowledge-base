@@ -5,6 +5,7 @@ doc_uuid: a9dda6b1-126e-4263-8a9e-b5880a91fe44
 original_filename: ARCHITECTURE.md
 created_at: 2025-11-28T23:43:22.432900+00:00
 content_hash: cf66b9edbc0etopic: decoding-cipher-chopshop
+topic: chopshop-project-documentation
 ---
 
 # ChopShop-CLI Architecture Document

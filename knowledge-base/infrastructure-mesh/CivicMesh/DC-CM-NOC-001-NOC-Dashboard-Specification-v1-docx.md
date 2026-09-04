@@ -5,6 +5,7 @@ doc_uuid: 679aa4f5-3284-4b04-906c-b969258aa762
 original_filename: DC-CM-NOC-001_NOC_Dashboard_Specification_v1.docx
 created_at: 2026-06-01T11:32:19.782831+00:00
 content_hash: b2346f9d6d5ftopic: federation-authority-private
+topic: civicmesh-federation-noc-municipal-deployment
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

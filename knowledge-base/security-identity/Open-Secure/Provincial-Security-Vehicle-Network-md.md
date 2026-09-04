@@ -5,6 +5,7 @@ doc_uuid: 172d2f51-948a-4401-a40c-a040bf413394
 original_filename: Provincial_Security_Vehicle_Network.md
 created_at: 2026-03-04T20:38:03.426976+00:00
 content_hash: 70dbd571efe0topic: federation-guard-pin
+topic: opensecure-provincial-security-network
 ---
 
 # Provincial Security Vehicle Network (PSVN-Fleet)

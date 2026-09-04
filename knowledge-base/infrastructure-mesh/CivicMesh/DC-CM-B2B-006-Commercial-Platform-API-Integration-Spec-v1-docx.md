@@ -5,6 +5,7 @@ doc_uuid: 20c6f736-d70d-4bc5-83be-c876e4178499
 original_filename: DC-CM-B2B-006_Commercial_Platform_API_Integration_Spec_v1.docx
 created_at: 2026-06-01T11:32:19.957670+00:00
 content_hash: a69df90c46fctopic: vehicles-identity-directly
+topic: commercial-b2b-vehicle-fleet-programme
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

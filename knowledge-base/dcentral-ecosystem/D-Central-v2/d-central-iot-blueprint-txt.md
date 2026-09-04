@@ -5,6 +5,7 @@ doc_uuid: c0beb3e3-19ea-4c4b-910f-93c4d8bd3cee
 original_filename: d-central-iot-blueprint.txt
 created_at: 2025-10-13T19:26:30.642609+00:00
 content_hash: 2335bb4238ectopic: wearables-npk-chemical
+topic: dcentral-iot-integration-blueprint
 ---
 
 ## 1) Comprehensive Device Catalog (Nothing Left Behind)

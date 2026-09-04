@@ -5,6 +5,7 @@ doc_uuid: f7920ff1-4195-4da7-866d-edb6d09674e7
 original_filename: PROJECT_CHARTER.md
 created_at: 2025-11-28T23:43:30.763392+00:00
 content_hash: afc0a9fd2175topic: decoding-cipher-chopshop
+topic: chopshop-project-documentation
 ---
 
 # ChopShop-CLI Project Charter

@@ -5,6 +5,7 @@ doc_uuid: 2854443c-cb2b-4429-82cc-0a42f1a2fb86
 original_filename: INV-001_D-Central_Seed_Pre-Seed_Pitch_Deck_v1.docx
 created_at: 2026-06-01T11:32:20.173822+00:00
 content_hash: b8db6e19d3b4topic: format-open-ask
+topic: dcentral-presentation-decks
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

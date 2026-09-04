@@ -5,6 +5,7 @@ doc_uuid: 301e70da-a90c-444a-a577-12125107ce08
 original_filename: blockchain_adoption_barriers.md
 created_at: 2025-07-25T17:58:36.347647+00:00
 content_hash: 97b9eccec38dtopic: student-members-technological
+topic: blockchain-education-federation
 ---
 
 # Critical Blockchain Adoption Barriers: Technical, Cultural & Economic Analysis

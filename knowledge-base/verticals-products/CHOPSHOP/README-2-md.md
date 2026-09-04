@@ -5,6 +5,7 @@ doc_uuid: 3e59b8a8-7199-4864-9bc4-97c377ec1c84
 original_filename: README(2).md
 created_at: 2025-11-28T23:43:31.439689+00:00
 content_hash: ff48abd66166topic: recursive-focused-best
+topic: chopshop-project-documentation
 ---
 
 # ChopShop-CLI Documentation Suite

@@ -5,6 +5,7 @@ doc_uuid: 4118b248-9109-4051-960d-d07ab22e868d
 original_filename: INV-002_CivicMesh_Deep_Dive_Investor_Deck_v1.docx
 created_at: 2026-06-01T11:32:21.452309+00:00
 content_hash: c1a1e6d77617topic: format-open-ask
+topic: dcentral-presentation-decks
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

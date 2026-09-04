@@ -5,6 +5,7 @@ doc_uuid: ff57be1d-02f7-42ea-a6ff-2fa82b7db981
 original_filename: PPTX-GOV-002_TrafficMesh_City_of_Ottawa_Council_Presentation_v1.docx
 created_at: 2026-06-01T11:32:18.638733+00:00
 content_hash: 0330a58e4edftopic: available-script-pptx
+topic: dcentral-presentation-decks
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

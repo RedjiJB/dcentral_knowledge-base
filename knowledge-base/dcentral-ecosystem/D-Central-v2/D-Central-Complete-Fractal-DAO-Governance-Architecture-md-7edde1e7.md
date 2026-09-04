@@ -5,6 +5,7 @@ doc_uuid: 7edde1e7-ed33-4e00-aadf-a29d90d78324
 original_filename: D-Central: Complete Fractal DAO Governance Architecture.md
 created_at: 2025-10-14T03:51:48.504082+00:00
 content_hash: 103c6f589ff1superseded_docs: [D-Central-Complete-Fractal-DAO-Governance-Architecture-md.md]topic: mechanism-long-projects
+topic: dcentral-core-narrative-analysis
 ---
 
 # D-Central: Complete Fractal DAO Governance Architecture

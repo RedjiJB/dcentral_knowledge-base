@@ -5,6 +5,7 @@ doc_uuid: c59e5fcf-9180-4215-af3b-d28fbdc18722
 original_filename: OpenPIV_OS-PACS_Integration_Guide.md
 created_at: 2026-03-04T20:36:56.701363+00:00
 content_hash: 568e17365ac2topic: openfips-personalization-login
+topic: opensecure-openpiv-subsystem
 ---
 
 # OpenPIV + OS-PACS Integration Guide

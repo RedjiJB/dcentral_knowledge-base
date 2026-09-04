@@ -5,6 +5,7 @@ doc_uuid: 997a2958-ffac-4522-8ec9-a313c31d7d22
 original_filename: mesh-cooperative-infrastructure.md
 created_at: 2025-06-06T17:44:18.172788+00:00
 content_hash: b60d5f35186dtopic: facilitation-accounting-food
+topic: mesh-cooperative-business-models
 ---
 
 # Cooperative Infrastructure for Mesh Economy - Background Business Opportunities

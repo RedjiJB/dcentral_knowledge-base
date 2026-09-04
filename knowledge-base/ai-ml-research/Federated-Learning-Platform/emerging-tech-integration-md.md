@@ -5,6 +5,7 @@ doc_uuid: 6feb52e6-0cbe-4cb2-88ff-e0fa3a4c28cf
 original_filename: emerging_tech_integration.md
 created_at: 2025-07-25T17:58:37.882377+00:00
 content_hash: e316ae1a243ftopic: student-members-technological
+topic: blockchain-education-federation
 ---
 
 # Emerging Technology Integration: AI, Blockchain Credentials, Federated Social & Edge Networks
