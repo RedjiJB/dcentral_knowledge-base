@@ -143,20 +143,33 @@ non-transferable and separate from payment currency. Updated `DC-DION-RECONCILED
 `INTEL_TOKEN` is now superseded-within-topic like the rest of DION's token/governance layer, zero
 unresolved tensions remain in that document.
 
-## Stage 2 classifier agent: built, not yet run
+## Stage 2 classifier agent: two implementations, neither run yet
 
-`scripts/classify_conversations_agent.py` is the real Stage 2 from the original design — a per-
-conversation classification pass using an actual model call (Haiku), not the hand-written 33-project
-lookup table `classify_docs.py` used as a stand-in. Fixed taxonomy skeleton embedded in the prompt
-(the `d-central/core/*`, `mesh-services/*`, `verticals/*`, `hardware/*`, `business-legal`,
-`haiti-diaspora`, `meta/*` tree from the design conversation) so the model picks from a consistent
-set rather than inventing slightly-different category names conversation-to-conversation. Scoped
-context per call: one conversation's title + summary (262/743 conversations have one) or a 3000-char
-excerpt + its extracted doc IDs + the taxonomy — never the other 742 conversations.
+**Option A — standalone script** (`scripts/classify_conversations_agent.py`): calls the Anthropic
+API directly (Haiku), ~743 calls, needs `ANTHROPIC_API_KEY` + `pip install anthropic`. Run it
+yourself: `python3 scripts/classify_conversations_agent.py`.
 
-Resumable (writes to `conversations/_classified.jsonl`, skips already-done UUIDs on restart). Not run
-yet — makes ~743 real API calls, needs `ANTHROPIC_API_KEY` and `pip install anthropic`, meant to be
-run by hand in a separate session: `python3 scripts/classify_conversations_agent.py`.
+**Option B — Claude Code session** (built second, the one actually meant to be used): a proper
+`classify-conversation` Skill at `.claude/skills/classify-conversation/SKILL.md`, following the
+6-component context-engineering discipline (role, scoped context, numbered steps, examples, output
+schema, guardrails) instead of a hardcoded API prompt. Supporting infrastructure:
+
+- `scripts/get_next_conversation.py` — scoped-context helper. Extracts ONE unclassified
+  conversation's title/summary/excerpt/doc-IDs to `conversations/_scratch/current.json` (a few KB)
+  so the skill never has to read the 320MB `conversations.json` directly.
+- `scripts/validate_classification.py` — mechanical guardrail, wired as a `PostToolUse` hook in
+  `.claude/settings.json`. Rejects invented taxonomy categories, missing fields, and duplicate UUIDs
+  after every write — enforcement, not just an instruction the model might follow.
+- `CLAUDE.md` (repo root) — auto-loaded orientation pointing any fresh session at the skill and the
+  scoping rule, so this doesn't need re-explaining every session.
+- Deliberately NOT using persistent "memory" for the taxonomy — memory is for cross-session facts
+  about the user, not task configuration; the fixed taxonomy lives in the Skill file (versioned,
+  reviewable) instead.
+
+Both are unrun. Fixed taxonomy is identical in both (`d-central/core/*`, `mesh-services/*`,
+`verticals/*`, `hardware/*`, `business-legal`, `haiti-diaspora`, `meta/*`, `security`,
+`academic-personal`, `other`) — one call classifies one conversation; invoke the skill 743 times (or
+wrap it in a loop) to run the full pass.
 
 ## Next concrete step
 
