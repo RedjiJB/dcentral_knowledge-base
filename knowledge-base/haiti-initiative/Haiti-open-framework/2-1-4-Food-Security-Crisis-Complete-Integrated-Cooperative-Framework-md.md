@@ -5,6 +5,7 @@ doc_uuid: c0ed667f-ca43-4721-a24b-048e9d4cac38
 original_filename: 2.1.4 - Food Security Crisis: Complete Integrated Cooperative Framework.md
 created_at: 2025-08-15T19:59:21.905613+00:00
 content_hash: af65f6f20c54
+topic: haiti-cooperative-resilience-framework
 ---
 
 # 2.1.4 – Food Security Crisis: Complete Integrated Cooperative Framework

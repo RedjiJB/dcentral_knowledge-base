@@ -3304,8 +3304,7 @@ Protocol Adapters (South-Bound):
 - **Core Platform**: Node-RED (visual programming), Apache Camel (enterprise integration)
 - **Custom Adapters**: Python (asyncio), Go (performance-critical)
 - **Message Bus**: Apache Kafka (high-throughput), MQTT (IoT-native)
-- **State Management**: Redis (real-time), PostgreSQL (persistent)
----
+- **State Management**: Redis (real-time), PostgreSQL (persistent)---
 
 ## **2. Secure Data Collection & Storage**
 

@@ -442,8 +442,7 @@ The technological pieces are in place. The economic model is proven. The social 
 
 **The future belongs to communities that control their own intelligence, infrastructure, and destiny.**
 
-**That future starts with DION. That future starts now.**
----
+**That future starts with DION. That future starts now.**---
 
 *To learn more about DION, explore partnership opportunities, or get involved in building this platform, visit [platform website] or contact [contact information]. The technical blueprint, implementation guides, and governance frameworks are available as open-source resources for communities ready to build their own intelligence and emergency response capabilities.*
 

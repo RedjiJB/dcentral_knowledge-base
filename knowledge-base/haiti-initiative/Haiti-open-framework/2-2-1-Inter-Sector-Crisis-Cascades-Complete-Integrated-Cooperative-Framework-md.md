@@ -5,6 +5,7 @@ doc_uuid: 1de078e5-e98f-4c21-a200-4cd46511c6ac
 original_filename: 2.2.1 - Inter-Sector Crisis Cascades: Complete Integrated Cooperative Framework.md
 created_at: 2025-08-15T20:42:09.185765+00:00
 content_hash: b50395044a9b
+topic: haiti-cooperative-resilience-framework
 ---
 
 # 2.2.1 – Inter-Sector Crisis Cascades: Complete Integrated Cooperative Framework

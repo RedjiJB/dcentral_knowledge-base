@@ -152,6 +152,13 @@ FINAL_TOPICS = {
             "Haiti-open-framework/Complete-Enhanced-Open-Source-Cooperative-Resilience-Framework-for-Haiti-md-fa474e23.md",
             "Haiti-open-framework/complete-merged-haiti-framework-txt.md",
             "Haiti-Project-1/haiti-mesh-plan-txt.md",
+            "Haiti-open-framework/expanded-section-2-md.md",
+            "Haiti-open-framework/2-1-3-Health-System-Collapse-Complete-Integrated-Cooperative-Framework-md.md",
+            "Haiti-open-framework/2-1-4-Food-Security-Crisis-Complete-Integrated-Cooperative-Framework-md.md",
+            "Haiti-open-framework/2-2-1-Inter-Sector-Crisis-Cascades-Complete-Integrated-Cooperative-Framework-md.md",
+            "Haiti-open-framework/2-2-2-Climate-as-Universal-Crisis-Multiplier-Complete-Integrated-Cooperative-Fra.md",
+            "Haiti-open-framework/2-3-1-Government-of-Haiti-Recommendations-Complete-Integrated-Cooperative-Framew.md",
+            "Haiti-open-framework/2-3-2-International-Community-Recommendations-Complete-Integrated-Cooperative-Fr.md",
         ],
         "haiti-graphrag-graphql-system": [
             "Haiti-open-framework/Complete-HCCC-GraphRAG-GraphQL-System-Implementation-Guide-md.md",

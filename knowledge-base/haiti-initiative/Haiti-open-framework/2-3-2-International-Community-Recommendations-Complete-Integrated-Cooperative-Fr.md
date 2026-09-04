@@ -5,6 +5,7 @@ doc_uuid: ec958491-fe2d-418e-906f-21b106c8c5cc
 original_filename: 2.3.2 - International Community Recommendations: Complete Integrated Cooperative Framework.md
 created_at: 2025-08-16T15:50:11.620115+00:00
 content_hash: f306f88c4794
+topic: haiti-cooperative-resilience-framework
 ---
 
 # 2.3.2 – International Community Recommendations (¶62): Complete Integrated Cooperative Framework

@@ -5,6 +5,7 @@ doc_uuid: 15cf5031-320d-4199-9a5a-0452acb6c9b1
 original_filename: 2.1.3 - Health System Collapse: Complete Integrated Cooperative Framework.md
 created_at: 2025-08-15T19:45:26.236857+00:00
 content_hash: acc14606b4ae
+topic: haiti-cooperative-resilience-framework
 ---
 
 # 2.1.3 – Health System Collapse: Complete Integrated Cooperative Framework
