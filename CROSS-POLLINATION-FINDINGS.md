@@ -30,12 +30,37 @@ incidental word matches.
   read — its "CIPHER-MODULE" and architecture docs may share D-Central's node/hardware provisioning
   model. Not confirmed here; flagged for the Consolidator pass rather than asserted.
 
-**Recommendation:** the Bounty/DION docs should not stay filed as an unrelated "vertical." At minimum
-they need a `DISCUSSES` edge to whatever D-Central-core topic covers operator credentialing/DAO
-agent loops (`docs/DC-DAO-AGENT-LOOP-001.md`, `docs/DC-AGENT-CREDENTIAL-001.md` are already in this
-repo and look like the same subsystem described from the core-architecture side rather than the
-product side — worth a direct reconciliation read, the same kind of check that resolved the
-Haiti/Local-Fediverse splits).
+**CONFIRMED by direct reconciliation read** (not just flagged — actually read both sides):
+`Bounty/D-Central-Intelligence-Operator-Network-Complete-Platform-Blueprint-md.md` and
+`Bounty/Operator-Credentialing-System-for-D-Central-Intelligence-Network-md.md` build a **complete,
+independently-designed parallel system** to `docs/DC-AGENT-CREDENTIAL-001.md` and
+`docs/DC-DAO-AGENT-LOOP-001.md`:
+
+| | DION (Bounty docs) | Core (docs/DC-AGENT-CREDENTIAL-001, DC-DAO-AGENT-LOOP-001) |
+|---|---|---|
+| Identity | Custom `did:dcentral:operator:` method, own `DIONRegistry` smart contract | `dc-identity`'s existing `did-registrar` — explicitly "not a new identity system" |
+| Credentials | Bespoke `OperatorCredentialingSystem` blockchain class, own credential blockchain | `vc-issuer`-minted agent-class VC, standard W3C VC lifecycle |
+| Reputation | On-chain `REP_TOKEN`, non-transferable, decay mechanism, custom scoring | Explicitly NOT a separate registry — reputation attestations through existing `dc-attestation`, same mechanism as a contractor's job history |
+| Governance/permissions | Custom `DIONGovernance` Solidity contract, its own proposal/voting/quorum logic | `dc-governance`'s existing permission model — role-prefix-to-call-authorization table, enforced at credential level |
+| Economics | New `INTEL_TOKEN` (ERC-20, 1B supply, custom distribution/inflation) | No new token system specified in the reconciled docs — uses existing treasury/bounty mechanisms |
+
+This is exactly the failure pattern DC-DAO-AGENT-LOOP-001 §6 itself warns about and self-corrects for
+within its own document ("what to discard from earlier in this conversation, now that this context
+exists" — ERC-8004, Neo4j, Obsidian all got dropped once the author saw the existing primitives).
+The DION docs are that same over-engineering, just written in a different conversation/project that
+never got the chance to see the existing `dc-identity`/`dc-governance`/`dc-attestation` primitives
+before designing its own.
+
+**Recommendation:** DION's operator-credentialing/identity/governance layer should be replaced with
+direct reuse of `dc-identity` + `dc-governance` + `dc-attestation`, the same way DC-AGENT-CREDENTIAL-001
+already does it for AI agents — an "Intelligence Network Operator" is structurally just another
+role-scoped DID/VC-holding principal, not a reason for a second identity/credential/token stack. The
+DION docs' genuinely novel content (the training curriculum levels 1-4, the hardware tier
+specifications, the emergency-services integration partnerships) is real and worth keeping — it's
+specifically the identity/credential/governance/token layer that's duplicated infrastructure, not
+the whole platform concept. This is a concrete Stage 6 Consolidator task: synthesize one doc that
+keeps DION's operational content but points its credentialing/governance to the existing core
+services instead of its own parallel stack.
 
 ### ai-ml-research (32 of 62 docs hit, 52%)
 

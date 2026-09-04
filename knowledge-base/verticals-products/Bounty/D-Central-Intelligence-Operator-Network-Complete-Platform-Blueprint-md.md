@@ -5,6 +5,7 @@ doc_uuid: d4e740cb-12b5-47bd-ae8b-567f5bc102c0
 original_filename: D Central Intelligence & Operator Network: Complete Platform Blueprint.md
 created_at: 2025-08-23T15:52:44.582067+00:00
 content_hash: 16c5cf02e927
+reconciliation_note: "Identity/credential/governance/token layer duplicates docs/DC-AGENT-CREDENTIAL-001.md and docs/DC-DAO-AGENT-LOOP-001.md -- see CROSS-POLLINATION-FINDINGS.md for the confirmed reconciliation. Operational content (training curriculum, hardware tiers, emergency-services integrations) is not duplicated and should be kept."
 ---
 
 # D Central Intelligence & Operator Network: Complete Platform Blueprint

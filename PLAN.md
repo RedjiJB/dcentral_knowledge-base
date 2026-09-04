@@ -91,11 +91,25 @@ applied per-sector). `academic-training` correctly has zero overlap and stays se
 findings report, not an applied merge — concrete candidates are scoped for the Stage 6 Consolidator
 pass to reconcile against D-Central's own core docs in `docs/`.
 
+## DION/core reconciliation: confirmed
+
+Read both sides directly (not just flagged). Confirmed real architecture duplication, not just
+similar vocabulary: the Bounty/DION docs build a complete parallel identity/credential/governance/
+token stack (`did:dcentral:operator:`, custom `DIONRegistry`/`OperatorCredentialingSystem` smart
+contracts, `INTEL_TOKEN`/`REP_TOKEN` economics, own `DIONGovernance` voting contract) instead of
+reusing `dc-identity`/`dc-governance`/`dc-attestation`, despite `docs/DC-AGENT-CREDENTIAL-001.md`
+explicitly stating "not a new identity system." Full comparison table and reasoning in
+`CROSS-POLLINATION-FINDINGS.md`. The two Bounty docs are now tagged with a `reconciliation_note`
+front-matter field pointing at the authoritative core docs. DION's operational content (training
+curriculum, hardware tiers, emergency-services integrations) is NOT duplicated and should be kept —
+only the identity/credential/governance/token layer needs replacing. This is now a scoped Stage 6
+Consolidator task, not just a finding.
+
 ## Next concrete step
 
 Stage 6 (DC-CONSOLIDATOR-STD-001): synthesize one consolidated document per confirmed topic. Priority
-order per the cross-pollination findings: reconcile the Bounty/DION docs against `docs/DC-DAO-AGENT-
-LOOP-001.md` and `docs/DC-AGENT-CREDENTIAL-001.md` first (likely duplicated architecture, not just a
-similar one), then `federation-sovereignty-cooperative-platforms` (11 docs) against D-Central's core
-federation docs, then the largest topics generally — `digital-community-participation-platforms`
-(16 docs), `chopshop-project-documentation` (17 docs), `haiti-integration-platforms` (12 docs).
+order: (1) the DION reconciliation above — produce a consolidated DION doc that keeps its operational
+content but points credentialing/governance to existing core services; (2)
+`federation-sovereignty-cooperative-platforms` (11 docs) against D-Central's core federation docs;
+(3) the largest topics generally — `digital-community-participation-platforms` (16 docs),
+`chopshop-project-documentation` (17 docs), `haiti-integration-platforms` (12 docs).

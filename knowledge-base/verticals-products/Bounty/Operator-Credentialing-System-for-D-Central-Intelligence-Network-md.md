@@ -6,6 +6,7 @@ original_filename: Operator Credentialing System for D Central Intelligence Netw
 created_at: 2025-08-23T15:53:20.654396+00:00
 content_hash: ac018ae06c87topic: quality'-'real-person
 topic: dion-operator-deployment-credentialing
+reconciliation_note: "Identity/credential/governance/token layer duplicates docs/DC-AGENT-CREDENTIAL-001.md and docs/DC-DAO-AGENT-LOOP-001.md -- see CROSS-POLLINATION-FINDINGS.md for the confirmed reconciliation. Operational content (training curriculum, hardware tiers, emergency-services integrations) is not duplicated and should be kept."
 ---
 
 # Operator Credentialing System for D Central Intelligence Network
