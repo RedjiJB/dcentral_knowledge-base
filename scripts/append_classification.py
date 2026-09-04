@@ -49,21 +49,33 @@ VALID_CATEGORIES = {
 
 DOC_ID_PATTERN = re.compile(r"^(DC|OS)-[A-Z0-9]+-\d{3}$")
 
+# Generic/templated abstracts a rushed pass falls back to instead of actually reading the
+# conversation. This list exists because it already happened once: a batch run wrote
+# "Technical work on development and troubleshooting. No D-Central content identified." for 17
+# conversations in a row, including several with titles like "D Central: Building a Decentralized
+# Ecosystem" that turned out to be a 269KB white paper on the platform's full architecture.
+BANNED_ABSTRACT_SUBSTRINGS = [
+    "technical work on development and troubleshooting",
+    "no d-central content identified",
+    "general technical conversation",
+    "miscellaneous technical discussion",
+]
 
-def already_classified_uuids():
-    seen = set()
+
+def already_classified_records():
+    records = []
     if CLASSIFIED_PATH.exists():
         for line in CLASSIFIED_PATH.read_text(encoding="utf-8").splitlines():
             if not line.strip():
                 continue
             try:
-                seen.add(json.loads(line)["uuid"])
+                records.append(json.loads(line))
             except Exception:
                 pass
-    return seen
+    return records
 
 
-def validate(record):
+def validate(record, existing_records):
     missing = REQUIRED_FIELDS - set(record.keys())
     if missing:
         return f"missing required fields: {missing}"
@@ -75,8 +87,26 @@ def validate(record):
     for doc_id in record.get("links_to", []):
         if not DOC_ID_PATTERN.match(doc_id):
             return f"links_to entry {doc_id!r} doesn't look like a real doc ID"
-    if record["uuid"] in already_classified_uuids():
+
+    existing_uuids = {r["uuid"] for r in existing_records}
+    if record["uuid"] in existing_uuids:
         return f"uuid {record['uuid']} is already classified -- refusing to duplicate"
+
+    abstract_lower = record.get("abstract", "").lower()
+    if len(abstract_lower) < 20:
+        return "abstract is suspiciously short (<20 chars) -- looks like a placeholder, not a real read"
+    for banned in BANNED_ABSTRACT_SUBSTRINGS:
+        if banned in abstract_lower:
+            return (f"abstract contains banned generic phrase {banned!r} -- this is the exact "
+                    f"failure mode that already happened once (see comment at top of this file). "
+                    f"Actually read the conversation excerpt and write a specific abstract.")
+
+    existing_abstracts = [r.get("abstract", "") for r in existing_records]
+    if record["abstract"] in existing_abstracts and record["abstract"]:
+        return ("this exact abstract text already appears on another record -- two different "
+                "conversations should not get an identical abstract. Re-read this conversation's "
+                "actual content and write a specific one.")
+
     return None
 
 
@@ -93,7 +123,7 @@ def main():
     except json.JSONDecodeError as e:
         sys.exit(f"Not valid JSON: {e}")
 
-    error = validate(record)
+    error = validate(record, already_classified_records())
     if error:
         print(f"VALIDATION FAILED, nothing appended: {error}", file=sys.stderr)
         return 1

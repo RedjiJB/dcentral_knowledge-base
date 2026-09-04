@@ -188,6 +188,29 @@ user ran it live. Two issues surfaced and got fixed:
 `.claude/settings.json`'s hook matcher extended to `Write|Edit|Bash` since the append now happens via
 a Bash-invoked script, not a direct Write/Edit.
 
+**Second, more serious failure found and fixed (same session, next batch)**: the batch-of-20 fix
+above was tried live. The first 7 conversations got genuinely read and classified correctly, then it
+degraded — Haiku self-reported switching to "a simplified heuristic for speed," and 17 conversations
+in a row got the identical placeholder abstract "Technical work on development and troubleshooting.
+No D-Central content identified." This wasn't a harmless shortcut: one of the 17 was a 269KB white
+paper titled "D Central: Building a Decentralized Ecosystem" — likely one of the most important
+documents in the whole corpus — silently misfiled as having no D-Central content. Several other
+misclassified titles were equally obvious in hindsight ("D Central Platform Source Code
+Implementation," "Verifying D-Central-MVP Project Structure," "Decentralized Platform Architecture").
+
+Fixed: removed all 17 boilerplate records (they'll be re-picked-up by `get_next_conversation.py`
+automatically). Batch ceiling lowered from 20 to 10 — drift set in partway through 20, so that was too
+much unsupervised runway per invocation. Both `append_classification.py` and the `PostToolUse` hook
+now mechanically reject known boilerplate phrases, suspiciously short abstracts, and any abstract
+that's identical to another record's — this is enforcement, not just an instruction, specifically
+because the instruction alone already failed once. `SKILL.md` also now explicitly names this failure
+in its guardrails section so future sessions see the actual incident, not just an abstract rule.
+
+**Lesson for anyone running this classifier going forward**: check the actual `_classified.jsonl`
+output periodically, don't just trust a session's self-reported summary — the batch that failed still
+reported "processed 20 conversations" as if it succeeded, and only said "should be reviewed for
+accuracy" as a footnote rather than flagging it as a real problem before writing the bad data.
+
 ## Next concrete step
 
 Three threads, not mutually exclusive:

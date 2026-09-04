@@ -13,12 +13,20 @@ of the knowledge-base pipeline described in `PLAN.md` and the `standards/DC-*-ST
 per-conversation classification pass that `scripts/classify_docs.py` (Stage 3, project-level) stood
 in for by hand.
 
-**Batch size: process up to 20 conversations per invocation**, looping through steps 1-7 of §4
+**Batch size: process up to 10 conversations per invocation**, looping through steps 1-7 of §4
 internally, then stop and report a summary (§8) — don't process only one and wait to be told
-"keep going" every single time; that doesn't scale to 743 conversations. Still stop before 20 if
+"keep going" every single time; that doesn't scale to 743 conversations. Still stop before 10 if
 `get_next_conversation.py` reports nothing left.
 
-Done = up to 20 JSON lines appended to `conversations/_classified.jsonl` via the safe append path in
+**This ceiling was already lowered once, from 20 to 10, because of a real failure**: a 20-item batch
+started strong (7 genuinely-read, specific classifications) then degraded — the 8th conversation
+onward got an identical copy-pasted abstract ("Technical work on development and troubleshooting. No
+D-Central content identified.") for 17 conversations straight, including one that turned out to be a
+269KB white paper on D-Central's full architecture, misfiled as "no D-Central content." If you notice
+yourself reaching for a faster/generic way to finish the batch, that is the exact moment to stop and
+slow down, not speed up — see the guardrail in §7.
+
+Done = up to 10 JSON lines appended to `conversations/_classified.jsonl` via the safe append path in
 §4 step 6 — never construct a shell command with the record's JSON inlined into it (see the
 guardrail in §7 on why).
 
@@ -75,7 +83,7 @@ subject-clustering" failure mode, letting each call invent its own category name
 (conversation 40 calls something "networking," conversation 41 calls the same thing
 "connectivity-layer"). Picking from one fixed list keeps 743 independent calls comparable.
 
-## 4. Numbered steps (repeat 1-7 up to 20 times per invocation, then do step 8 once)
+## 4. Numbered steps (repeat 1-7 up to 10 times per invocation, then do step 8 once)
 
 1. Run `python3 scripts/get_next_conversation.py`. If it exits 1 (nothing left), stop the loop early
    and go straight to step 8 — don't treat this as an error.
@@ -100,7 +108,7 @@ subject-clustering" failure mode, letting each call invent its own category name
      tool has no shell-quoting problem; let it carry the content instead.
    - If `append_classification.py` exits non-zero, read its error, fix the record in
      `pending.json`, and re-run it — don't just skip the conversation.
-7. Go back to step 1 for the next conversation, up to 20 total this invocation.
+7. Go back to step 1 for the next conversation, up to 10 total this invocation.
 8. **Report a summary, not per-item narration**: how many were classified this invocation, how many
    remain, and a one-line list of title → primary_category for each one processed. Then stop — the
    person running this decides whether to invoke the skill again.
@@ -187,8 +195,22 @@ the identity-bound access design is.
   `scripts/append_classification.py`. A shell one-liner with the record's content embedded in it
   (e.g. `Add-Content -Value '{...}'`) breaks unpredictably on real content — quotes, backslashes, or
   a literal `\n\nHuman:` sequence in an abstract have already caused real failures this way.
-- **20 conversations per invocation is a ceiling, not a target.** Stop early (fewer than 20) the
-  moment `get_next_conversation.py` reports nothing left — don't pad the batch or wait for a full 20
+- **10 conversations per invocation is a ceiling, not a target.** Stop early (fewer than 10) the
+  moment `get_next_conversation.py` reports nothing left — don't pad the batch or wait for a full 10
   before reporting. The scoped-context guarantee (one conversation's data in view at a time) still
   holds within a batch — you're repeating the same one-at-a-time read/classify/write cycle, just
   without stopping to ask permission between each one.
+- **Never write a generic, templated, or reused abstract to go faster.** This already happened once:
+  a batch run wrote the identical placeholder "Technical work on development and troubleshooting. No
+  D-Central content identified." for 17 conversations in a row instead of reading each one, silently
+  misclassifying a 269KB white paper on D-Central's full architecture as having "no D-Central
+  content." Both `append_classification.py` and the `PostToolUse` hook now mechanically reject known
+  boilerplate phrases and any abstract that's identical to another record's — but don't rely on that
+  backstop; it exists to catch a mistake, not to license making one. If a batch is taking a long time,
+  that's expected — reading each conversation properly takes real effort per item. Slowing down and
+  reporting fewer than 10 done is always correct; silently switching to a shortcut is never correct.
+- **A long title alone is a strong signal, not proof.** Titles like "D Central: Building a
+  Decentralized Ecosystem" or "Verifying D-Central-MVP Project Structure" are very likely real
+  D-Central content — if you find yourself about to classify something with an obviously D-Central
+  title as `academic-personal` or `other`, that's a moment to actually read the excerpt more
+  carefully before deciding, not a coincidence to wave through.

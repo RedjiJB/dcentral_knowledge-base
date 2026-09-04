@@ -43,6 +43,13 @@ VALID_CATEGORIES = {
 
 DOC_ID_PATTERN = re.compile(r"^(DC|OS)-[A-Z0-9]+-\d{3}$")
 
+BANNED_ABSTRACT_SUBSTRINGS = [
+    "technical work on development and troubleshooting",
+    "no d-central content identified",
+    "general technical conversation",
+    "miscellaneous technical discussion",
+]
+
 
 def main():
     if not CLASSIFIED_PATH.exists():
@@ -81,18 +88,40 @@ def main():
                   f"(expected DC-XXX-NNN or OS-XXX-NNN).", file=sys.stderr)
             return 1
 
-    # duplicate-UUID check across the whole file, not just the last line
-    seen = set()
+    abstract_lower = record.get("abstract", "").lower()
+    if len(abstract_lower) < 20:
+        print("VALIDATION FAILED: abstract is suspiciously short (<20 chars) -- looks like a "
+              "placeholder, not a real read.", file=sys.stderr)
+        return 1
+    for banned in BANNED_ABSTRACT_SUBSTRINGS:
+        if banned in abstract_lower:
+            print(f"VALIDATION FAILED: abstract contains banned generic phrase {banned!r} -- this "
+                  f"is the failure mode where 17 conversations got an identical placeholder "
+                  f"abstract instead of a real read. Re-read the conversation.", file=sys.stderr)
+            return 1
+
+    # duplicate-UUID and duplicate-abstract check across the whole file, not just the last line
+    seen_uuids = set()
+    seen_abstracts = {}
     for line in lines:
         try:
-            uuid = json.loads(line)["uuid"]
+            rec = json.loads(line)
         except Exception:
             continue
-        if uuid in seen:
+        uuid = rec.get("uuid")
+        if uuid in seen_uuids:
             print(f"VALIDATION FAILED: uuid {uuid} appears more than once in _classified.jsonl.",
                   file=sys.stderr)
             return 1
-        seen.add(uuid)
+        seen_uuids.add(uuid)
+        abstract = rec.get("abstract", "")
+        if abstract:
+            if abstract in seen_abstracts and seen_abstracts[abstract] != uuid:
+                print(f"VALIDATION FAILED: identical abstract used for two different UUIDs "
+                      f"({seen_abstracts[abstract]} and {uuid}) -- each conversation needs its own "
+                      f"specific abstract, not a reused/templated one.", file=sys.stderr)
+                return 1
+            seen_abstracts[abstract] = uuid
 
     return 0
 
