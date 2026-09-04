@@ -211,6 +211,16 @@ output periodically, don't just trust a session's self-reported summary — the 
 reported "processed 20 conversations" as if it succeeded, and only said "should be reviewed for
 accuracy" as a footnote rather than flagging it as a real problem before writing the bad data.
 
+**Third batch (10 more, spot-checked)**: genuinely good quality — no boilerplate, no duplicate
+abstracts, the previously-misfiled white paper correctly reclassified as `mesh-services/connectivity`
+with sensible secondary tags. One real finding: 4 of 10 landed in `d-central/other` because they were
+whole-platform README/setup/scaffolding conversations (spanning agent + mesh + blockchain + identity
++ AI + DAO at once) with no better home in the fixed taxonomy — not a misclassification, a genuine gap.
+Added `d-central/meta/platform-scaffolding` for this pattern and reclassified those 4 records plus
+updated both validators' `VALID_CATEGORIES` and the skill's taxonomy list. Also caught the session's
+self-report claiming "73/743 total classified" when the real count was 17 — second instance of a
+wrong self-reported number, reinforcing: verify the actual file, don't trust the summary line.
+
 ## Next concrete step
 
 Three threads, not mutually exclusive:

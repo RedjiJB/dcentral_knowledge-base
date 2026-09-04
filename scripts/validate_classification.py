@@ -37,7 +37,7 @@ VALID_CATEGORIES = {
     "d-central/hardware/shi-node", "d-central/hardware/campus",
     "d-central/hardware/sensing-planes", "d-central/hardware/wearables-display",
     "d-central/business-legal", "d-central/haiti-diaspora",
-    "d-central/meta/status-tracking", "d-central/meta/simulation",
+    "d-central/meta/status-tracking", "d-central/meta/simulation", "d-central/meta/platform-scaffolding",
     "d-central/security", "d-central/academic-personal", "d-central/other",
 }
 

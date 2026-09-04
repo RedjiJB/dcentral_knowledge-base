@@ -73,6 +73,9 @@ d-central/business-legal             (licensing, venture, governance, legal docs
 d-central/haiti-diaspora             (Haiti pilot, diaspora-specific work)
 d-central/meta/status-tracking       (DC-STATUS-001-style gap/status tracking)
 d-central/meta/simulation            (DC-SIM series, GNS3 lab work)
+d-central/meta/platform-scaffolding  (whole-platform README/setup/repo scaffolding touching every
+                                      module at once -- agent, mesh, blockchain, identity, AI, DAO --
+                                      rather than one specific vertical)
 d-central/security                   (OpenSecure suite, OS-PACS/GUARDIAN/PATROL/SENTINEL/CONCIERGE)
 d-central/academic-personal          (coursework, career, personal/non-D-Central content)
 d-central/other                      (genuinely doesn't fit above -- last resort, use sparingly)
@@ -82,6 +85,12 @@ This list is fixed on purpose — per DC-TOPIC-SYNTH-STD-001 §8's "keyword-clus
 subject-clustering" failure mode, letting each call invent its own category name produces drift
 (conversation 40 calls something "networking," conversation 41 calls the same thing
 "connectivity-layer"). Picking from one fixed list keeps 743 independent calls comparable.
+
+**`platform-scaffolding` vs `other`**: use `platform-scaffolding` for README/setup/repo-structure
+conversations that explicitly span the whole platform (agent + mesh + blockchain + identity + AI +
+DAO all mentioned together, e.g. as a directory tree or module list) — this was added after the
+first real batches showed this is a recurring, specific pattern, not a one-off. Reserve `other` for
+things that genuinely don't fit any bucket at all, including this one.
 
 ## 4. Numbered steps (repeat 1-7 up to 10 times per invocation, then do step 8 once)
 
