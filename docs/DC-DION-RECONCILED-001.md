@@ -1,4 +1,4 @@
-# DC-DION-RECONCILED-001 — D-Central Intelligence & Operator Network (DION), Consolidated (v1, generated 2026-09-04)
+# DC-DION-RECONCILED-001 — D-Central Intelligence & Operator Network (DION), Consolidated (v2, updated 2026-09-04)
 
 Produced per [DC-CONSOLIDATOR-STD-001](../standards/DC-CONSOLIDATOR-STD-001.md), reconciling the DION
 platform docs against D-Central's existing agent/credential/governance architecture per the
@@ -82,23 +82,38 @@ and is superseded by the existing core mechanisms rather than incorporated as de
 | Credentialing: custom credential blockchain | DION-Credentialing | superseded-within-topic → `vc-issuer` agent/operator-class VC (DC-AGENT-CREDENTIAL-001 §2) |
 | Reputation: `REP_TOKEN` | DION-Blueprint §3 | superseded-within-topic → `dc-attestation` reputation attestations (DC-DAO-AGENT-LOOP-001 §1, DC-AGENT-CREDENTIAL-001 §4) |
 | Governance: `DIONGovernance` contract | DION-Blueprint §3 | superseded-within-topic → `dc-governance` role-permission mapping (DC-AGENT-CREDENTIAL-001 §3) |
-| Payment/token economics: `INTEL_TOKEN` | DION-Blueprint §3 | unresolved (see below) |
+| Payment/token economics: `INTEL_TOKEN` | DION-Blueprint §3 | superseded-within-topic → `dc-credit` payroll disbursement + vault-native stablecoin settlement (DC-TAXONOMY-002 §1.2, DC-LKB-003 §"payroll & payment rails") — see resolution below |
 
 ## Unresolved tensions
 
-**Operator payment mechanism.** DION specifies a full `INTEL_TOKEN` (ERC-20, 1B supply, defined
-distribution across operator rewards/infrastructure/treasury/development/ecosystem) because it needs
-to actually pay potentially thousands of human operators real money for real work
-[DION-Blueprint §3]. The reconciled core docs don't specify an equivalent general-purpose payment
-rail — `DC-AGENT-CREDENTIAL-001`'s `commissioner_did` model assumes a commissioner (a coop treasury
-sub-account or an individual DID) funds a specific mandate, which fits AI agent research tasks well
-but wasn't designed with "pay 5,000 human operators a monthly salary plus per-task bonuses" as the
-target case. This repo's corpus almost certainly has an answer for this already — the Lakou Protocol
-banking docs (`DC-LKB-001/002/003`, referenced in `registry/DC-REG-001-Master-Registry-v0.2.md` but
-not yet pulled into this knowledge base) look like the right place to check — but that reconciliation
-wasn't done here, since those docs weren't available to read in this pass. Recorded as genuinely
-unresolved rather than guessed at: **does D-Central have an existing token/payment layer this should
-route through, or is DION's INTEL_TOKEN need a real, uncovered gap in the core architecture?**
+None remaining — the one tension flagged in the prior version of this document (DION's operator
+payment mechanism) is now resolved; see below.
+
+### Resolved since v1 (operator payment mechanism)
+
+**Update:** DC-LKB-001/002/003 (the Lakou Protocol banking docs) were pulled into this repo after
+v1 of this document flagged the payment question as unresolved. They confirm D-Central already has
+a general-purpose payment/settlement layer this routes through cleanly:
+
+- `dc-credit` — D-Central's core payments/settlement microservice — already handles "payroll
+  disbursement," "recurring micropayment," and "milestone-released crowdfunding... a natural
+  extension of the escrow engine" [DC-TAXONOMY-002 §1.2]. This is a direct fit for DION's need to pay
+  thousands of human operators: base salary as recurring disbursement, per-task/emergency-response
+  bonuses as milestone-released payments — no new token required for the payment *mechanism* itself.
+- The Lakou docs additionally show D-Central's actual pattern for a corridor-specific settlement
+  currency: a vault-native stablecoin (e.g. `HGUSD` for the Haiti corridor), collateralized and
+  peg-stabilized, used for payroll/merchant settlement over `dc-credit`'s plumbing, with governance
+  tokens kept strictly non-transferable/soulbound and separate from the payment currency
+  [DC-LKB-003, "MeshBank stablecoin module" / payroll & merchant-account sections]. This is the
+  opposite design from DION's proposal, where `INTEL_TOKEN` conflates governance, payment, and
+  reward-multiplier logic into one transferable utility token.
+
+**Recommendation, updated:** DION's operator compensation (base salary, task-completion payments,
+emergency-response bonuses) should route through `dc-credit`, denominated in a stablecoin (following
+the Lakou pattern) rather than a new speculative utility token. `REP_TOKEN`'s replacement
+(`dc-attestation` reputation attestations, already noted above) stays non-transferable and fully
+separate from payment — consistent with how Lakou keeps governance tokens and payment currency
+strictly apart.
 
 ## Sources consulted (exhaustive list)
 
@@ -106,6 +121,8 @@ route through, or is DION's INTEL_TOKEN need a real, uncovered gap in the core a
 - `knowledge-base/verticals-products/Bounty/Operator-Credentialing-System-for-D-Central-Intelligence-Network-md.md` (DION-Credentialing)
 - `docs/DC-AGENT-CREDENTIAL-001.md`
 - `docs/DC-DAO-AGENT-LOOP-001.md`
+- `docs/DC-LKB-001.md`, `docs/DC-LKB-002.md`, `docs/DC-LKB-003.md` (added in v2, resolves the payment-mechanism tension)
+- `taxonomy/DC-TAXONOMY-002-Microservices-and-Additional-Verticals.md` (§1.2, `dc-credit` definition)
 
 ## Consolidation metadata
 
@@ -114,8 +131,15 @@ consolidates: [
   knowledge-base/verticals-products/Bounty/D-Central-Intelligence-Operator-Network-Complete-Platform-Blueprint-md.md,
   knowledge-base/verticals-products/Bounty/Operator-Credentialing-System-for-D-Central-Intelligence-Network-md.md,
 ]
-reconciled_against: [docs/DC-AGENT-CREDENTIAL-001.md, docs/DC-DAO-AGENT-LOOP-001.md]
-supersedes_prior_consolidation: none (v1)
+reconciled_against: [
+  docs/DC-AGENT-CREDENTIAL-001.md,
+  docs/DC-DAO-AGENT-LOOP-001.md,
+  docs/DC-LKB-001.md,
+  docs/DC-LKB-002.md,
+  docs/DC-LKB-003.md,
+]
+supersedes_prior_consolidation: DC-DION-RECONCILED-001 v1 (this same doc, in-place update rather than
+  a separate versioned file, since no downstream consumer has referenced v1 yet)
 generated_by: consolidator-pass (manual, per DC-CONSOLIDATOR-STD-001)
 ```
 

@@ -119,10 +119,39 @@ docs aren't yet in this repo. The two DION source docs' `reconciliation_note` fr
 to this consolidated doc; per the Consolidator's authority boundary, neither source was marked
 superseded or moved (that's Stage 4's job, not Stage 6's).
 
+## DC-LKB-001/002/003 pulled in, DION payment tension resolved
+
+The Lakou Protocol docs weren't project KB docs — they were artifacts created inline in a conversation
+("Decentralized family banking framework with modular services," conversation uuid
+`76d91c3d-0b67-437f-a5dc-e5841bc93104`), living inside `create_file` tool-use blocks in
+`conversations.json`, not in any project's `docs[]` array. Stage 2's extraction only covers project
+KB docs, so this required a manual, targeted extraction — a real gap in the automated pipeline worth
+noting: **an unknown number of other DC-*-NNN docs likely exist the same way**, created as
+conversation artifacts rather than uploaded to a Project, and Stage 2 as currently built has no way
+to find them systematically (it would need to scan every conversation's tool-use blocks for
+`create_file` calls, not just grep message text for doc-ID mentions the way `dc_registry_extracted_v2.csv`
+does).
+
+Extracted `docs/DC-LKB-001.md` (23KB, concept doc), `DC-LKB-002.md` (61KB, technical spec),
+`DC-LKB-003.md` (51KB, v2 universal banking OS) with front matter noting the extraction method.
+
+These directly resolved `DC-DION-RECONCILED-001`'s one open tension: `dc-credit` (D-Central's
+existing payments/settlement microservice, `DC-TAXONOMY-002` §1.2) already handles payroll
+disbursement and milestone-released payments, and DC-LKB-003 shows the actual pattern — a
+vault-native stablecoin (e.g. `HGUSD`) for payment settlement, with governance tokens kept strictly
+non-transferable and separate from payment currency. Updated `DC-DION-RECONCILED-001` to v2:
+`INTEL_TOKEN` is now superseded-within-topic like the rest of DION's token/governance layer, zero
+unresolved tensions remain in that document.
+
 ## Next concrete step
 
-More Stage 6 passes on the remaining priority topics: `federation-sovereignty-cooperative-platforms`
-(11 docs) against D-Central's core federation docs, then the largest topics generally —
-`digital-community-participation-platforms` (16 docs), `chopshop-project-documentation` (17 docs),
-`haiti-integration-platforms` (12 docs). Also worth pulling `DC-LKB-001/002/003` into this repo to
-resolve the payment-mechanism tension flagged above.
+Two threads, not mutually exclusive:
+
+1. **Systematic conversation-artifact extraction** — build the Stage 2 gap-fill this DC-LKB pull
+   just did by hand: scan all 743 conversations' `create_file` tool-use blocks for `DC-*-NNN`-pattern
+   filenames, not just project KB docs. Likely surfaces more docs like DC-LKB that never made it into
+   a Project's knowledge base.
+2. More Stage 6 Consolidator passes on the remaining priority topics: `federation-sovereignty-
+   cooperative-platforms` (11 docs), then the largest topics generally —
+   `digital-community-participation-platforms` (16 docs), `chopshop-project-documentation` (17 docs),
+   `haiti-integration-platforms` (12 docs).
