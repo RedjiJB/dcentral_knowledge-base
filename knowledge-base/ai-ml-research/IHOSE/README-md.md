@@ -4,7 +4,7 @@ source_project_uuid: 019a6ba2-1cf8-703d-b379-bb50cd7fad34
 doc_uuid: c99be3d9-c143-45d0-a003-55f4e52664d3
 original_filename: README.md
 created_at: 2025-12-02T00:47:53.883120+00:00
-content_hash: 7d314f7879b3
+content_hash: 7d314f7879b3cross_category_duplicate_at: "security-identity/Open-Vision/README-md.md"
 ---
 
 # OpenVision Platform: Enterprise CCTV & IoT Integration Ecosystem

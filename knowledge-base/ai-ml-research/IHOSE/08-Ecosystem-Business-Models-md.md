@@ -4,7 +4,7 @@ source_project_uuid: 019a6ba2-1cf8-703d-b379-bb50cd7fad34
 doc_uuid: 26208d39-8c0d-419b-8109-23e2d911cb8c
 original_filename: 08-Ecosystem-Business-Models.md
 created_at: 2025-12-02T00:47:54.331004+00:00
-content_hash: aed2d954fae5
+content_hash: aed2d954fae5cross_category_duplicate_at: "security-identity/Open-Vision/08-Ecosystem-Business-Models-md.md"
 ---
 
 # OpenVision Platform

@@ -4,7 +4,7 @@ source_project_uuid: 019a6ba2-1cf8-703d-b379-bb50cd7fad34
 doc_uuid: 059e58de-3f5e-40ee-8152-d8558cecc86b
 original_filename: START_HERE.md
 created_at: 2025-12-02T00:47:54.033240+00:00
-content_hash: 227fa2ef28cd
+content_hash: 227fa2ef28cdcross_category_duplicate_at: "security-identity/Open-Vision/START-HERE-md.md"
 ---
 
 # START HERE - OpenVision Platform Documentation

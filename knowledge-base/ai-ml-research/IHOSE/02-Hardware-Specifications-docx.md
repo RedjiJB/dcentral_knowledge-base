@@ -4,7 +4,7 @@ source_project_uuid: 019a6ba2-1cf8-703d-b379-bb50cd7fad34
 doc_uuid: d88b8650-15e5-4c6d-9e1d-b75ce3151082
 original_filename: 02-Hardware-Specifications.docx
 created_at: 2025-12-02T00:47:56.132602+00:00
-content_hash: 4abbe80d440f
+content_hash: 4abbe80d440fcross_category_duplicate_at: "security-identity/Open-Vision/02-Hardware-Specifications-docx.md"
 ---
 
 OpenVision Platform

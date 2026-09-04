@@ -4,7 +4,7 @@ source_project_uuid: 019a6ba2-1cf8-703d-b379-bb50cd7fad34
 doc_uuid: 280dc084-52ee-47fc-b8ec-f7158c4ff0ff
 original_filename: 06-Complete-Deployment-Guide.docx
 created_at: 2025-12-02T00:47:54.508711+00:00
-content_hash: a0e851e6325e
+content_hash: a0e851e6325ecross_category_duplicate_at: "security-identity/Open-Vision/06-Complete-Deployment-Guide-docx.md"
 ---
 
 OpenVision Platform

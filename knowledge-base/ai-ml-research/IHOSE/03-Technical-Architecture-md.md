@@ -4,7 +4,7 @@ source_project_uuid: 019a6ba2-1cf8-703d-b379-bb50cd7fad34
 doc_uuid: b4d48397-78b7-4589-91b2-ecd35daf9bc4
 original_filename: 03-Technical-Architecture.md
 created_at: 2025-12-02T00:47:55.109190+00:00
-content_hash: f59e17b4196c
+content_hash: f59e17b4196ccross_category_duplicate_at: "security-identity/Open-Vision/03-Technical-Architecture-md.md"
 ---
 
 # OpenVision Platform

@@ -4,7 +4,7 @@ source_project_uuid: 0197f150-9d82-70c3-8148-36f5aad82e8c
 doc_uuid: 8789a2f1-8e07-4954-ba71-54a71459afe3
 original_filename: comprehensive_trades_cooperative_analysis.md
 created_at: 2025-07-16T23:25:32.645082+00:00
-content_hash: b7faab39d7a0
+content_hash: b7faab39d7a0cross_category_duplicate_at: "ai-ml-research/Federated-System-Integration/comprehensive-trades-cooperative-analysis-md.md"
 ---
 
 # Complete Trades Cooperative & Community Sharing Analysis

@@ -27,7 +27,7 @@ not versioned KB content; regenerate by re-unzipping the export and re-running t
 | 1. Extract conversations | — | **Done.** `scripts/extract_conversations.py` → `conversations/_extracted_index.md` (743 rows: uuid, name, dates, doc-IDs mentioned) |
 | 2. Extract artifacts | — | **Done.** `scripts/extract_project_docs.py` → all 428 project KB docs pulled out of `raw-export/projects/projects/*.json` as individual files under `projects/kb-docs/<project>/<doc>.md`, each with front matter (source project, doc uuid, created_at, sha256 content hash). Indexed in `projects/_kb_docs_index.md`. Doc-ID *mentions* in conversation text (separate from KB doc *content*) remain in `registry/dc_registry_extracted_v2.csv` (136 unique IDs). |
 | 3. Classify → folder tree | — | **Done at category level.** `scripts/classify_docs.py` routes all 428 docs from `projects/kb-docs/<project>/` (mirrors Claude's own Project structure) into `knowledge-base/<category>/<project>/` (mirrors subject matter instead), using an explicit project→category mapping. 8 categories: D-Central Ecosystem (62), Security/Identity (91), Infrastructure/Mesh (120), Haiti Initiative (19), AI/ML/Research (63), Verticals/Products (67), Academic/Training (5), Other/Experimental (1). This is coarse, project-level classification — the finer per-topic clustering within each category (e.g. `mesh-services/connectivity/` style) is Stage 5's job, not this one. `projects/kb-docs/` is left untouched as the Stage-2 ground truth; `knowledge-base/` is a regeneratable derived view (rerun the script rather than hand-editing it). |
-| 4. Dedup/status pass | [DC-DEDUP-STD-001](standards/DC-DEDUP-STD-001.md) | **Done, including the review queue.** `scripts/dedup_pass.py` (mechanical step 1 + candidate surfacing) then `scripts/resolve_dedup_review.py` (actual verdicts after reading every flagged pair): 28 exact-content duplicates auto-relocated (step 1), plus 11 more confirmed SUPERSEDES relocations and 1 confirmed UNRESOLVED from the review queue — 39 docs relocated to `_superseded/` total, 9 false-positive candidates correctly dismissed. See `registry/dedup-review/_RESOLUTION.md`. **Known limitation:** still only within-category — 33 of the 61 globally-flagged Stage 2 exact duplicates are cross-category and remain a follow-up (see below). |
+| 4. Dedup/status pass | [DC-DEDUP-STD-001](standards/DC-DEDUP-STD-001.md) | **Done, including the review queue and cross-category duplicates.** `scripts/dedup_pass.py` (mechanical step 1 within category + candidate surfacing) → `scripts/resolve_dedup_review.py` (actual verdicts on flagged pairs) → `scripts/dedup_cross_category.py` (catches duplicates spanning category boundaries). Totals: 28 + 33 = 61/61 exact-content duplicates relocated (100% of Stage 2's original count, none unaccounted for), plus 11 confirmed SUPERSEDES and 1 confirmed UNRESOLVED from the review queue, 9 false positives dismissed. 72 docs total now under `_superseded/`. See `registry/dedup-review/_RESOLUTION.md` and `_CROSS_CATEGORY.md`. |
 | 5. Topic synthesis | [DC-TOPIC-SYNTH-STD-001](standards/DC-TOPIC-SYNTH-STD-001.md) | Not started. |
 | 6. Consolidator | [DC-CONSOLIDATOR-STD-001](standards/DC-CONSOLIDATOR-STD-001.md) | Not started. |
 | 7. Materialize filesystem | — | Not started. |
@@ -61,12 +61,23 @@ All 22 items flagged in the Stage 4 review queue were read and given an actual v
   left in place. This is DC-DEDUP-STD-001 §4's "no basis to prefer one" working as intended, not
   a gap.
 
+## Cross-category duplicates: caught
+
+`scripts/dedup_cross_category.py` closes the gap: scans the whole `knowledge-base/` tree by
+content_hash regardless of category, relocates every duplicate to its own category's `_superseded/`.
+Found and resolved all 33 remaining duplicates from Stage 2's original count of 61 (28 were caught
+within-category by `dedup_pass.py`, these 33 needed the cross-category pass) — full accounting closed,
+0 unaccounted-for exact duplicates left. Report: `registry/dedup-review/_CROSS_CATEGORY.md`.
+
+**Notable finding:** 32 of the 33 are one thing — **Open-Vision's entire 32-document knowledge base
+was an exact duplicate of IHOSE's**, filename-for-filename, byte-for-byte. Not overlapping content,
+not a revision — the whole project was a clone. Canonical kept in IHOSE (earlier `created_at`); all
+32 Open-Vision copies relocated. The 33rd is unrelated: one trades-cooperative doc shared between
+Federated-System-Integration and Local-Fediverse. Worth deciding by hand whether Open-Vision as a
+project concept still needs its own home in the classification scheme, given its KB content turned
+out to be entirely borrowed from IHOSE.
+
 ## Next concrete step
 
-Two options, not mutually exclusive:
-
-1. **Cross-category identity-check pass** — catch the remaining 33 exact-hash duplicates (of the 61
-   found in Stage 2) that a per-category Stage 4 run structurally can't see (same content, different
-   category).
-2. **Stage 5** (DC-TOPIC-SYNTH-STD-001): cluster each category's surviving docs into actual topic
-   nodes finer than "whole category" — e.g. Infrastructure/Mesh's 120 docs are not one topic.
+Stage 5 (DC-TOPIC-SYNTH-STD-001): cluster each category's surviving docs into actual topic nodes
+finer than "whole category" — e.g. Infrastructure/Mesh's 120 docs are not one topic.

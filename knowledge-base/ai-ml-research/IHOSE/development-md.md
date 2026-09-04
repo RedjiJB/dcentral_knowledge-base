@@ -4,7 +4,7 @@ source_project_uuid: 019a6ba2-1cf8-703d-b379-bb50cd7fad34
 doc_uuid: 388efd7d-e1d1-4ed6-ae81-01107bafbee9
 original_filename: development.md
 created_at: 2025-12-02T00:47:54.475170+00:00
-content_hash: 32792e91c3bc
+content_hash: 32792e91c3bccross_category_duplicate_at: "security-identity/Open-Vision/development-md.md"
 ---
 
 # Module Development Guide

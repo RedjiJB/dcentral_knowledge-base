@@ -4,7 +4,7 @@ source_project_uuid: 019a6ba2-1cf8-703d-b379-bb50cd7fad34
 doc_uuid: 4c4e4558-72c4-4aac-933e-b5bde6b80426
 original_filename: DELIVERY_SUMMARY.md
 created_at: 2025-12-02T00:47:54.257022+00:00
-content_hash: 535026fd9523
+content_hash: 535026fd9523cross_category_duplicate_at: "security-identity/Open-Vision/DELIVERY-SUMMARY-md.md"
 ---
 
 # OpenVision Platform - Documentation Delivery Summary

@@ -1,0 +1,39 @@
+# Stage 4 Follow-up — Cross-Category Exact Duplicates
+
+33 content hashes found duplicated across category boundaries, 33 docs relocated. Canonical = earliest created_at across the whole knowledge-base/ tree, regardless of which category it's in.
+
+| Original path (now moved) | Relocated to | Canonical (kept) |
+|---|---|---|
+| knowledge-base/security-identity/Open-Vision/00-Quick-Start-Guide-md.md | knowledge-base/security-identity/Open-Vision/_superseded/00-Quick-Start-Guide-md.md | knowledge-base/ai-ml-research/IHOSE/00-Quick-Start-Guide-md.md |
+| knowledge-base/security-identity/Open-Vision/01-Executive-Summary-md.md | knowledge-base/security-identity/Open-Vision/_superseded/01-Executive-Summary-md.md | knowledge-base/ai-ml-research/IHOSE/01-Executive-Summary-md.md |
+| knowledge-base/security-identity/Open-Vision/01-OpenVision-Architecture-docx.md | knowledge-base/security-identity/Open-Vision/_superseded/01-OpenVision-Architecture-docx.md | knowledge-base/ai-ml-research/IHOSE/01-OpenVision-Architecture-docx.md |
+| knowledge-base/security-identity/Open-Vision/02-Business-Case-ROI-md.md | knowledge-base/security-identity/Open-Vision/_superseded/02-Business-Case-ROI-md.md | knowledge-base/ai-ml-research/IHOSE/02-Business-Case-ROI-md.md |
+| knowledge-base/security-identity/Open-Vision/02-Hardware-Specifications-docx.md | knowledge-base/security-identity/Open-Vision/_superseded/02-Hardware-Specifications-docx.md | knowledge-base/ai-ml-research/IHOSE/02-Hardware-Specifications-docx.md |
+| knowledge-base/security-identity/Open-Vision/03-Module-Development-Guide-docx.md | knowledge-base/security-identity/Open-Vision/_superseded/03-Module-Development-Guide-docx.md | knowledge-base/ai-ml-research/IHOSE/03-Module-Development-Guide-docx.md |
+| knowledge-base/security-identity/Open-Vision/03-Technical-Architecture-md.md | knowledge-base/security-identity/Open-Vision/_superseded/03-Technical-Architecture-md.md | knowledge-base/ai-ml-research/IHOSE/03-Technical-Architecture-md.md |
+| knowledge-base/security-identity/Open-Vision/04-docker-compose-yml.md | knowledge-base/security-identity/Open-Vision/_superseded/04-docker-compose-yml.md | knowledge-base/ai-ml-research/IHOSE/04-docker-compose-yml.md |
+| knowledge-base/security-identity/Open-Vision/04-Enterprise-Deployment-md.md | knowledge-base/security-identity/Open-Vision/_superseded/04-Enterprise-Deployment-md.md | knowledge-base/ai-ml-research/IHOSE/04-Enterprise-Deployment-md.md |
+| knowledge-base/security-identity/Open-Vision/05-Hardware-Specifications-md.md | knowledge-base/security-identity/Open-Vision/_superseded/05-Hardware-Specifications-md.md | knowledge-base/ai-ml-research/IHOSE/05-Hardware-Specifications-md.md |
+| knowledge-base/security-identity/Open-Vision/05-kubernetes-manifests-yml.md | knowledge-base/security-identity/Open-Vision/_superseded/05-kubernetes-manifests-yml.md | knowledge-base/ai-ml-research/IHOSE/05-kubernetes-manifests-yml.md |
+| knowledge-base/security-identity/Open-Vision/06-Complete-Deployment-Guide-docx.md | knowledge-base/security-identity/Open-Vision/_superseded/06-Complete-Deployment-Guide-docx.md | knowledge-base/ai-ml-research/IHOSE/06-Complete-Deployment-Guide-docx.md |
+| knowledge-base/security-identity/Open-Vision/06-Implementation-Roadmap-md.md | knowledge-base/security-identity/Open-Vision/_superseded/06-Implementation-Roadmap-md.md | knowledge-base/ai-ml-research/IHOSE/06-Implementation-Roadmap-md.md |
+| knowledge-base/security-identity/Open-Vision/07-Use-Cases-Integration-md.md | knowledge-base/security-identity/Open-Vision/_superseded/07-Use-Cases-Integration-md.md | knowledge-base/ai-ml-research/IHOSE/07-Use-Cases-Integration-md.md |
+| knowledge-base/security-identity/Open-Vision/08-Ecosystem-Business-Models-md.md | knowledge-base/security-identity/Open-Vision/_superseded/08-Ecosystem-Business-Models-md.md | knowledge-base/ai-ml-research/IHOSE/08-Ecosystem-Business-Models-md.md |
+| knowledge-base/security-identity/Open-Vision/bom-enterprise-md.md | knowledge-base/security-identity/Open-Vision/_superseded/bom-enterprise-md.md | knowledge-base/ai-ml-research/IHOSE/bom-enterprise-md.md |
+| knowledge-base/security-identity/Open-Vision/BUSINESS-PRESENTATION-md.md | knowledge-base/security-identity/Open-Vision/_superseded/BUSINESS-PRESENTATION-md.md | knowledge-base/ai-ml-research/IHOSE/BUSINESS-PRESENTATION-md.md |
+| knowledge-base/security-identity/Open-Vision/core-stack-yml.md | knowledge-base/security-identity/Open-Vision/_superseded/core-stack-yml.md | knowledge-base/ai-ml-research/IHOSE/core-stack-yml.md |
+| knowledge-base/security-identity/Open-Vision/DELIVERY-SUMMARY-md.md | knowledge-base/security-identity/Open-Vision/_superseded/DELIVERY-SUMMARY-md.md | knowledge-base/ai-ml-research/IHOSE/DELIVERY-SUMMARY-md.md |
+| knowledge-base/security-identity/Open-Vision/DEPLOYMENT-GUIDE-md.md | knowledge-base/security-identity/Open-Vision/_superseded/DEPLOYMENT-GUIDE-md.md | knowledge-base/ai-ml-research/IHOSE/DEPLOYMENT-GUIDE-md.md |
+| knowledge-base/security-identity/Open-Vision/development-md.md | knowledge-base/security-identity/Open-Vision/_superseded/development-md.md | knowledge-base/ai-ml-research/IHOSE/development-md.md |
+| knowledge-base/security-identity/Open-Vision/enterprise-md.md | knowledge-base/security-identity/Open-Vision/_superseded/enterprise-md.md | knowledge-base/ai-ml-research/IHOSE/enterprise-md.md |
+| knowledge-base/security-identity/Open-Vision/EXECUTIVE-SUMMARY-md.md | knowledge-base/security-identity/Open-Vision/_superseded/EXECUTIVE-SUMMARY-md.md | knowledge-base/ai-ml-research/IHOSE/EXECUTIVE-SUMMARY-md.md |
+| knowledge-base/security-identity/Open-Vision/HARDWARE-BOM-md.md | knowledge-base/security-identity/Open-Vision/_superseded/HARDWARE-BOM-md.md | knowledge-base/ai-ml-research/IHOSE/HARDWARE-BOM-md.md |
+| knowledge-base/security-identity/Open-Vision/IMPROVEMENT-RECOMMENDATIONS-md.md | knowledge-base/security-identity/Open-Vision/_superseded/IMPROVEMENT-RECOMMENDATIONS-md.md | knowledge-base/ai-ml-research/IHOSE/IMPROVEMENT-RECOMMENDATIONS-md.md |
+| knowledge-base/security-identity/Open-Vision/install-sh.md | knowledge-base/security-identity/Open-Vision/_superseded/install-sh.md | knowledge-base/ai-ml-research/IHOSE/install-sh.md |
+| knowledge-base/security-identity/Open-Vision/overview-md.md | knowledge-base/security-identity/Open-Vision/_superseded/overview-md.md | knowledge-base/ai-ml-research/IHOSE/overview-md.md |
+| knowledge-base/security-identity/Open-Vision/PROJECT-SUMMARY-md.md | knowledge-base/security-identity/Open-Vision/_superseded/PROJECT-SUMMARY-md.md | knowledge-base/ai-ml-research/IHOSE/PROJECT-SUMMARY-md.md |
+| knowledge-base/security-identity/Open-Vision/QUICK-START-md.md | knowledge-base/security-identity/Open-Vision/_superseded/QUICK-START-md.md | knowledge-base/ai-ml-research/IHOSE/QUICK-START-md.md |
+| knowledge-base/security-identity/Open-Vision/README-md.md | knowledge-base/security-identity/Open-Vision/_superseded/README-md.md | knowledge-base/ai-ml-research/IHOSE/README-md.md |
+| knowledge-base/security-identity/Open-Vision/START-HERE-md.md | knowledge-base/security-identity/Open-Vision/_superseded/START-HERE-md.md | knowledge-base/ai-ml-research/IHOSE/START-HERE-md.md |
+| knowledge-base/security-identity/Open-Vision/TECHNICAL-ARCHITECTURE-md.md | knowledge-base/security-identity/Open-Vision/_superseded/TECHNICAL-ARCHITECTURE-md.md | knowledge-base/ai-ml-research/IHOSE/TECHNICAL-ARCHITECTURE-md.md |
+| knowledge-base/ai-ml-research/Federated-System-Integration/comprehensive-trades-cooperative-analysis-md.md | knowledge-base/ai-ml-research/Federated-System-Integration/_superseded/comprehensive-trades-cooperative-analysis-md.md | knowledge-base/infrastructure-mesh/Local-Fediverse/comprehensive-trades-cooperative-analysis-md.md |

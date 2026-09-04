@@ -4,7 +4,7 @@ source_project_uuid: 019a6ba2-1cf8-703d-b379-bb50cd7fad34
 doc_uuid: 0e52c46f-4e06-4b1c-8b40-798a1bc6d04b
 original_filename: 04-docker-compose.yml
 created_at: 2025-12-02T00:47:55.330226+00:00
-content_hash: 175760e08949
+content_hash: 175760e08949cross_category_duplicate_at: "security-identity/Open-Vision/04-docker-compose-yml.md"
 ---
 
 version: '3.8'

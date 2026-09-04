@@ -4,7 +4,7 @@ source_project_uuid: 019a6ba2-1cf8-703d-b379-bb50cd7fad34
 doc_uuid: f7f7f68e-4308-4b58-aa3f-bd937b2ddf74
 original_filename: 02-Business-Case-ROI.md
 created_at: 2025-12-02T00:47:54.908598+00:00
-content_hash: 0348b630b968
+content_hash: 0348b630b968cross_category_duplicate_at: "security-identity/Open-Vision/02-Business-Case-ROI-md.md"
 ---
 
 # OpenVision Platform

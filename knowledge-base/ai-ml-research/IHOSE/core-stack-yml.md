@@ -4,7 +4,7 @@ source_project_uuid: 019a6ba2-1cf8-703d-b379-bb50cd7fad34
 doc_uuid: 77a3e43d-3a6d-4618-bfdc-c5762adfa6ce
 original_filename: core-stack.yml
 created_at: 2025-12-02T00:47:54.281538+00:00
-content_hash: ba11b9a30327
+content_hash: ba11b9a30327cross_category_duplicate_at: "security-identity/Open-Vision/core-stack-yml.md"
 ---
 
 # Docker Compose - SMB Deployment

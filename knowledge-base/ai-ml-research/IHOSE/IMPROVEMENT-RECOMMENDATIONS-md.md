@@ -4,7 +4,7 @@ source_project_uuid: 019a6ba2-1cf8-703d-b379-bb50cd7fad34
 doc_uuid: 23b00c2d-f3cb-448b-a616-cf75cd9d3b59
 original_filename: IMPROVEMENT_RECOMMENDATIONS.md
 created_at: 2025-12-02T00:47:55.100352+00:00
-content_hash: 71ca3473e7e5
+content_hash: 71ca3473e7e5cross_category_duplicate_at: "security-identity/Open-Vision/IMPROVEMENT-RECOMMENDATIONS-md.md"
 ---
 
 # OpenVision Platform Documentation

@@ -4,7 +4,7 @@ source_project_uuid: 019a6ba2-1cf8-703d-b379-bb50cd7fad34
 doc_uuid: e0cbdd85-6bdb-4340-b7c2-127faea6a077
 original_filename: EXECUTIVE_SUMMARY.md
 created_at: 2025-12-02T00:47:54.681155+00:00
-content_hash: 6dfd1de39e8a
+content_hash: 6dfd1de39e8across_category_duplicate_at: "security-identity/Open-Vision/EXECUTIVE-SUMMARY-md.md"
 ---
 
 # OpenVision Platform - Executive Summary
