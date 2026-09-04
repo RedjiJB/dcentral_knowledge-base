@@ -143,15 +143,31 @@ non-transferable and separate from payment currency. Updated `DC-DION-RECONCILED
 `INTEL_TOKEN` is now superseded-within-topic like the rest of DION's token/governance layer, zero
 unresolved tensions remain in that document.
 
+## Stage 2 classifier agent: built, not yet run
+
+`scripts/classify_conversations_agent.py` is the real Stage 2 from the original design — a per-
+conversation classification pass using an actual model call (Haiku), not the hand-written 33-project
+lookup table `classify_docs.py` used as a stand-in. Fixed taxonomy skeleton embedded in the prompt
+(the `d-central/core/*`, `mesh-services/*`, `verticals/*`, `hardware/*`, `business-legal`,
+`haiti-diaspora`, `meta/*` tree from the design conversation) so the model picks from a consistent
+set rather than inventing slightly-different category names conversation-to-conversation. Scoped
+context per call: one conversation's title + summary (262/743 conversations have one) or a 3000-char
+excerpt + its extracted doc IDs + the taxonomy — never the other 742 conversations.
+
+Resumable (writes to `conversations/_classified.jsonl`, skips already-done UUIDs on restart). Not run
+yet — makes ~743 real API calls, needs `ANTHROPIC_API_KEY` and `pip install anthropic`, meant to be
+run by hand in a separate session: `python3 scripts/classify_conversations_agent.py`.
+
 ## Next concrete step
 
-Two threads, not mutually exclusive:
+Three threads, not mutually exclusive:
 
-1. **Systematic conversation-artifact extraction** — build the Stage 2 gap-fill this DC-LKB pull
-   just did by hand: scan all 743 conversations' `create_file` tool-use blocks for `DC-*-NNN`-pattern
-   filenames, not just project KB docs. Likely surfaces more docs like DC-LKB that never made it into
-   a Project's knowledge base.
-2. More Stage 6 Consolidator passes on the remaining priority topics: `federation-sovereignty-
-   cooperative-platforms` (11 docs), then the largest topics generally —
+1. **Run the Stage 2 classifier** (above) — once run, its output should be reconciled against the
+   existing `knowledge-base/` category tree (built from Project-level classification, coarser) rather
+   than replacing it outright.
+2. **Systematic conversation-artifact extraction** — scan all 743 conversations' `create_file`
+   tool-use blocks for `DC-*-NNN`-pattern filenames, not just project KB docs (the DC-LKB pull did
+   this by hand for one conversation; likely more exist).
+3. More Stage 6 Consolidator passes: `federation-sovereignty-cooperative-platforms` (11 docs),
    `digital-community-participation-platforms` (16 docs), `chopshop-project-documentation` (17 docs),
    `haiti-integration-platforms` (12 docs).
