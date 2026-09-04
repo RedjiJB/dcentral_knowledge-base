@@ -166,10 +166,27 @@ schema, guardrails) instead of a hardcoded API prompt. Supporting infrastructure
   about the user, not task configuration; the fixed taxonomy lives in the Skill file (versioned,
   reviewable) instead.
 
-Both are unrun. Fixed taxonomy is identical in both (`d-central/core/*`, `mesh-services/*`,
-`verticals/*`, `hardware/*`, `business-legal`, `haiti-diaspora`, `meta/*`, `security`,
-`academic-personal`, `other`) — one call classifies one conversation; invoke the skill 743 times (or
-wrap it in a loop) to run the full pass.
+Fixed taxonomy is identical in both (`d-central/core/*`, `mesh-services/*`, `verticals/*`,
+`hardware/*`, `business-legal`, `haiti-diaspora`, `meta/*`, `security`, `academic-personal`, `other`).
+
+**Option B run for real in a Haiku 4.5 session** (2026-09-04): confirmed the mechanism works end to
+end, classified 3 real conversations by hand first as worked examples (see prior commit), then the
+user ran it live. Two issues surfaced and got fixed:
+
+1. **Shell-quoting fragility**: the skill originally told the agent to "append one line to
+   `_classified.jsonl`," leaving it to construct its own shell command with the JSON inlined. A real
+   abstract containing a literal `\n\nHuman:` sequence broke PowerShell's `Add-Content -Value '...'`
+   quoting (self-corrected on retry with a here-string, but this would keep happening
+   unpredictably). Fixed: `scripts/append_classification.py` now does validate+append itself; the
+   skill writes the record to a scratch JSON file via the Write tool (no shell quoting involved) and
+   calls the script instead of constructing a command.
+2. **One-at-a-time didn't scale**: the original skill design correctly classified one conversation
+   per invocation as a safety choice, but that means ~743 manual "keep going" round-trips. Fixed:
+   the skill now batches up to 20 conversations per invocation (still stops early if nothing's left),
+   reporting a summary instead of per-item narration.
+
+`.claude/settings.json`'s hook matcher extended to `Write|Edit|Bash` since the append now happens via
+a Bash-invoked script, not a direct Write/Edit.
 
 ## Next concrete step
 

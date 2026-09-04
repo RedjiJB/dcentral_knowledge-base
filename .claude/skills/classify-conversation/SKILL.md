@@ -7,12 +7,20 @@ description: Classify the next unclassified D-Central conversation into the fixe
 
 ## 1. Role
 
-You are classifying ONE D-Central conversation at a time into a fixed category taxonomy, extracting
-which document IDs it links to, and writing a short abstract. This is Stage 2 of the knowledge-base
-pipeline described in `PLAN.md` and the `standards/DC-*-STD-001.md` docs — the per-conversation
-classification pass that `scripts/classify_docs.py` (Stage 3, project-level) stood in for by hand.
+You are classifying D-Central conversations, one at a time internally, into a fixed category
+taxonomy, extracting which document IDs each links to, and writing a short abstract. This is Stage 2
+of the knowledge-base pipeline described in `PLAN.md` and the `standards/DC-*-STD-001.md` docs — the
+per-conversation classification pass that `scripts/classify_docs.py` (Stage 3, project-level) stood
+in for by hand.
 
-Done = one JSON line appended to `conversations/_classified.jsonl`, matching the schema in §5.
+**Batch size: process up to 20 conversations per invocation**, looping through steps 1-7 of §4
+internally, then stop and report a summary (§8) — don't process only one and wait to be told
+"keep going" every single time; that doesn't scale to 743 conversations. Still stop before 20 if
+`get_next_conversation.py` reports nothing left.
+
+Done = up to 20 JSON lines appended to `conversations/_classified.jsonl` via the safe append path in
+§4 step 6 — never construct a shell command with the record's JSON inlined into it (see the
+guardrail in §7 on why).
 
 ## 2. Scoped context — what to read, what NOT to read
 
@@ -67,24 +75,35 @@ subject-clustering" failure mode, letting each call invent its own category name
 (conversation 40 calls something "networking," conversation 41 calls the same thing
 "connectivity-layer"). Picking from one fixed list keeps 743 independent calls comparable.
 
-## 4. Numbered steps
+## 4. Numbered steps (repeat 1-7 up to 20 times per invocation, then do step 8 once)
 
-1. Run `python3 scripts/get_next_conversation.py`. If it exits 1, stop — nothing left to do.
+1. Run `python3 scripts/get_next_conversation.py`. If it exits 1 (nothing left), stop the loop early
+   and go straight to step 8 — don't treat this as an error.
 2. Read `conversations/_scratch/current.json`.
 3. Pick exactly one `primary_category` from §3 — the single best-fit path.
 4. Pick 0-3 `secondary_tags` from §3 — other categories this conversation also genuinely touches.
    Leave empty if it's cleanly single-topic; don't pad this list.
 5. Build `links_to` from the `extracted_doc_ids` field already in the scratch file — these are the
    doc IDs this conversation appears to extend, revise, or reference. Don't invent doc IDs not
-   already in that list.
-6. Write a 2-3 sentence `abstract` of what the conversation actually covers — specific enough that
-   someone deciding whether to open it can tell from the abstract alone, not a generic restatement
-   of the title.
-7. Append one line to `conversations/_classified.jsonl` matching the schema in §5 exactly (use the
-   `uuid`, `title`, `created_at` already in the scratch file — don't retype them from memory).
-8. Report the result in one line (title -> primary_category) and stop. Do not automatically loop to
-   the next conversation — the person running this decides whether to invoke the skill again (or set
-   up a loop around it). One invocation classifies one conversation.
+   already in that list. Write a 2-3 sentence `abstract` — specific enough that someone deciding
+   whether to open the conversation can tell from the abstract alone, not a generic restatement of
+   the title. If two conversations look similar (same underlying issue, different day), still give
+   each abstract the specific detail that actually differs — don't copy-paste one abstract onto both.
+6. **Write the record safely, then append it — never inline the JSON into a shell command.**
+   - Use the Write tool to save the record (matching the schema in §5, using the `uuid`/`title`/
+     `created_at` already in the scratch file) to `conversations/_scratch/pending.json`.
+   - Run `python3 scripts/append_classification.py conversations/_scratch/pending.json` to validate
+     and append it to `conversations/_classified.jsonl`.
+   - This two-step path exists because inlining a record's JSON directly into a shell command (e.g.
+     PowerShell `Add-Content -Value '...'`) breaks unpredictably on abstracts containing quotes,
+     backslashes, or literal sequences like `\n\nHuman:` — real failures already hit this. The Write
+     tool has no shell-quoting problem; let it carry the content instead.
+   - If `append_classification.py` exits non-zero, read its error, fix the record in
+     `pending.json`, and re-run it — don't just skip the conversation.
+7. Go back to step 1 for the next conversation, up to 20 total this invocation.
+8. **Report a summary, not per-item narration**: how many were classified this invocation, how many
+   remain, and a one-line list of title → primary_category for each one processed. Then stop — the
+   person running this decides whether to invoke the skill again.
 
 ## 5. Output schema
 
@@ -163,5 +182,13 @@ the identity-bound access design is.
 - **Don't pad `secondary_tags` or `links_to`** to look thorough — an empty list is the correct output
   for a single-topic conversation with no doc-ID mentions. Padding these produces exactly the kind of
   false cross-links `DC-TOPIC-SYNTH-STD-001` warns against.
-- **One conversation per invocation.** Don't try to batch multiple conversations into one skill run —
-  that's what breaks the scoped-context guarantee this whole design depends on.
+- **Never inline a classification record's JSON into a shell command.** Always write it to
+  `conversations/_scratch/pending.json` with the Write tool first, then append via
+  `scripts/append_classification.py`. A shell one-liner with the record's content embedded in it
+  (e.g. `Add-Content -Value '{...}'`) breaks unpredictably on real content — quotes, backslashes, or
+  a literal `\n\nHuman:` sequence in an abstract have already caused real failures this way.
+- **20 conversations per invocation is a ceiling, not a target.** Stop early (fewer than 20) the
+  moment `get_next_conversation.py` reports nothing left — don't pad the batch or wait for a full 20
+  before reporting. The scoped-context guarantee (one conversation's data in view at a time) still
+  holds within a batch — you're repeating the same one-at-a-time read/classify/write cycle, just
+  without stopping to ask permission between each one.
