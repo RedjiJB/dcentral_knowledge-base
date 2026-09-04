@@ -4,7 +4,7 @@ source_project_uuid: 019cba7f-8d2d-72ed-bbc7-a730cc31b95e
 doc_uuid: dd7f5fda-2ce3-4e8a-aabe-ef6669717df1
 original_filename: OS-DRONE_Implementation_Guide.md
 created_at: 2026-03-05T13:50:53.278435+00:00
-content_hash: 479038e41b81
+content_hash: 479038e41b81topic: sony-firmware-opensecure
 ---
 
 # OS-DRONE Implementation Guide

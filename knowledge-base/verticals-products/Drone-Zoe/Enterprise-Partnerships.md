@@ -4,7 +4,7 @@ source_project_uuid: 0197e6d0-e935-724d-8916-5cbbdf9646ab
 doc_uuid: 4d99bf1e-7844-4b48-a406-ca13d3f65ea9
 original_filename: Enterprise & Partnerships
 created_at: 2025-07-08T22:44:12.135069+00:00
-content_hash: a600b35a7772
+content_hash: a600b35a7772topic: certification-skills-applications
 ---
 
 # Enterprise & Partnerships for Haiti's Unified Development Framework

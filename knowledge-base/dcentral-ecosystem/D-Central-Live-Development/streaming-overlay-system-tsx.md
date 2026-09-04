@@ -4,7 +4,7 @@ source_project_uuid: 01973716-9da5-7008-a549-0bc747dcf758
 doc_uuid: 1d0c454c-5dc9-438c-a4e5-892074dacfee
 original_filename: streaming_overlay_system.tsx
 created_at: 2025-06-03T18:39:02.334655+00:00
-content_hash: 1f0962aed602
+content_hash: 1f0962aed602topic: 'amplifier-default-steward'
 ---
 
 import React, { useState, useEffect } from 'react';

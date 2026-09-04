@@ -4,7 +4,7 @@ source_project_uuid: 019e82f3-7ab2-715c-87c1-3e1074a12ab6
 doc_uuid: eeae49fc-c5e2-474e-9a18-4caabfe479c7
 original_filename: MKT-INS-001_Insurance_Partner_Pitch_Deck_Narrative_v1.docx
 created_at: 2026-06-01T11:32:18.741395+00:00
-content_hash: 905f528c180a
+content_hash: 905f528c180atopic: lane-density-record
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

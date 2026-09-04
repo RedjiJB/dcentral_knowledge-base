@@ -4,7 +4,7 @@ source_project_uuid: 01973716-9da5-7008-a549-0bc747dcf758
 doc_uuid: 6e618f04-f48c-403a-852e-83a032460129
 original_filename: overlay_websocket_server.ts
 created_at: 2025-06-03T18:39:01.481541+00:00
-content_hash: 5ae458aad686
+content_hash: 5ae458aad686topic: 'amplifier-default-steward'
 ---
 
 // Overlay WebSocket Server

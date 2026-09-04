@@ -4,7 +4,7 @@ source_project_uuid: 0198b52e-0516-768e-b6d4-182ebfca6ef0
 doc_uuid: eb5c9cbe-d0f9-41bc-9e4c-ad9de66ac236
 original_filename: platform_explanation.md
 created_at: 2025-08-23T03:10:33.206656+00:00
-content_hash: 2653f5381e72
+content_hash: 2653f5381e72topic: cryptography-representatives-credentials
 ---
 
 # The Decentralized Intelligence Platform: Complete Explanation

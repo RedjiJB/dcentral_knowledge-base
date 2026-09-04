@@ -4,7 +4,7 @@ source_project_uuid: 019e82f3-7ab2-715c-87c1-3e1074a12ab6
 doc_uuid: 539e0bd4-ceeb-48cd-ab98-4baad1477409
 original_filename: MKT-CCSC-003_Public_Consultation_Toolkit_v1.docx
 created_at: 2026-06-01T11:32:21.910108+00:00
-content_hash: 2c1b4b8f886f
+content_hash: 2c1b4b8f886ftopic: communityshield-opt-location
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

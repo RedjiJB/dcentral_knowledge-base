@@ -4,7 +4,7 @@ source_project_uuid: 0198b52e-0516-768e-b6d4-182ebfca6ef0
 doc_uuid: 4a1f25c4-f04e-4b9d-83dc-b432a7202eab
 original_filename: DION Platform - Complete Technical Architecture.md
 created_at: 2025-08-23T16:19:25.329077+00:00
-content_hash: 81be3a54614c
+content_hash: 81be3a54614ctopic: url-kubernetes-yaml
 ---
 
 # DION Platform - Complete Web Application Architecture

@@ -4,7 +4,7 @@ source_project_uuid: 019842bc-7455-7338-a70c-4eb07f2f069c
 doc_uuid: edfd33f2-f9dd-4342-bd3c-0fa886f004ce
 original_filename: blockchain_education_architecture.md
 created_at: 2025-07-25T17:58:36.668291+00:00
-content_hash: da687e64137e
+content_hash: da687e64137etopic: student-members-technological
 ---
 
 # Blockchain-Integrated Educational Federation: Community-Owned Infrastructure

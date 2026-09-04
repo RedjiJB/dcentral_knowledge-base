@@ -4,7 +4,7 @@ source_project_uuid: 019a6ba2-1cf8-703d-b379-bb50cd7fad34
 doc_uuid: 4793e621-d898-4faf-a37e-224761a8b515
 original_filename: 01-Executive-Summary.md
 created_at: 2025-12-02T00:47:54.698748+00:00
-content_hash: 0a9c1bb0496fcross_category_duplicate_at: "security-identity/Open-Vision/01-Executive-Summary-md.md"
+content_hash: 0a9c1bb0496fcross_category_duplicate_at: "security-identity/Open-Vision/01-Executive-Summary-md.md"topic: free-smb-premium
 ---
 
 # OpenVision Platform

@@ -4,7 +4,7 @@ source_project_uuid: 019cba7f-8d2d-72ed-bbc7-a730cc31b95e
 doc_uuid: 11c2e85c-b7f8-4c7a-98e3-c15ab996f217
 original_filename: Provincial_Security_Guard_Universal_Credential_System.md
 created_at: 2026-03-04T20:38:02.898157+00:00
-content_hash: 87c24300f835
+content_hash: 87c24300f835topic: federation-guard-pin
 ---
 
 # Provincial Security Guard Universal Credential System

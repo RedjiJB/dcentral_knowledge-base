@@ -4,7 +4,7 @@ source_project_uuid: 0199df04-2107-76ac-8919-203857b7a6c9
 doc_uuid: a819e31e-3b6d-4b01-8293-634194416286
 original_filename: dcentral-sales-ecosystem-critical-analysis.md
 created_at: 2025-10-29T04:59:09.366199+00:00
-content_hash: 88e88613b15b
+content_hash: 88e88613b15btopic: mechanism-long-projects
 ---
 
 # D-Central Sales & Creator Economy: Comprehensive Expansion & Critical Analysis

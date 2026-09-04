@@ -4,7 +4,7 @@ source_project_uuid: 019e82f3-7ab2-715c-87c1-3e1074a12ab6
 doc_uuid: cb5b6420-4624-44f7-b3a0-52dacd4f77fc
 original_filename: PPTX-GOV-001_TrafficMesh_OC_Transpo_Pilot_Presentation_v1.docx
 created_at: 2026-06-01T11:32:21.180608+00:00
-content_hash: db9f3ca52464
+content_hash: db9f3ca52464topic: available-script-pptx
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

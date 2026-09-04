@@ -4,7 +4,7 @@ source_project_uuid: 019cba7f-8d2d-72ed-bbc7-a730cc31b95e
 doc_uuid: ec910805-50ad-4acd-8243-463bd976e7d3
 original_filename: OS-SENTINEL_Technical_Architecture.md
 created_at: 2026-03-04T20:34:08.954514+00:00
-content_hash: aafaaacda0b4
+content_hash: aafaaacda0b4topic: lag-kubernetes-interval
 ---
 
 # OS-SENTINEL - Complete Technical Architecture

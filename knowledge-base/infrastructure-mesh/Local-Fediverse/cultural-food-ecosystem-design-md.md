@@ -4,7 +4,7 @@ source_project_uuid: 0197f150-9d82-70c3-8148-36f5aad82e8c
 doc_uuid: 2f36584d-1432-43f8-8a0d-cc59dd9b6962
 original_filename: cultural_food_ecosystem_design.md
 created_at: 2025-07-16T23:25:33.755802+00:00
-content_hash: ce4b5c6b055d
+content_hash: ce4b5c6b055dtopic: digital-communities-participation
 ---
 
 # Pan-Caribbean/African Cultural Food Ecosystem

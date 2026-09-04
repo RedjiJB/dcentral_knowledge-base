@@ -4,7 +4,7 @@ source_project_uuid: 019e82f3-7ab2-715c-87c1-3e1074a12ab6
 doc_uuid: 7db2f826-f49c-48ef-a7fe-0d26b0297d4c
 original_filename: FIN-COOP-001_Cooperative_Patronage_Distribution_Model_v1.docx
 created_at: 2026-06-01T11:32:20.633968+00:00
-content_hash: 0011f8edfa9a
+content_hash: 0011f8edfa9atopic: accounting-account-financial
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

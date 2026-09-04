@@ -4,7 +4,7 @@ source_project_uuid: 019accd8-cfe0-7247-860b-1b169a50a0e1
 doc_uuid: be617c34-4cb7-4c97-b383-3526f061e3a0
 original_filename: PHASE1_SPECIFICATION.md
 created_at: 2025-11-28T23:43:30.354341+00:00
-content_hash: dbe5bcd5d584
+content_hash: dbe5bcd5d584topic: decoding-cipher-chopshop
 ---
 
 # Phase 1: MVP Foundation - Detailed Specification

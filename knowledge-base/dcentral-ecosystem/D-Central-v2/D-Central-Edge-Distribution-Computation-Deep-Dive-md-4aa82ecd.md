@@ -4,7 +4,7 @@ source_project_uuid: 0199df04-2107-76ac-8919-203857b7a6c9
 doc_uuid: 4aa82ecd-dc34-4382-b007-7ce528585aec
 original_filename: D-Central Edge Distribution & Computation: Deep Dive.md
 created_at: 2025-10-14T03:39:27.818226+00:00
-content_hash: 52d1731c8525superseded_docs: [D-Central-Edge-Distribution-Computation-Deep-Dive-md.md]
+content_hash: 52d1731c8525superseded_docs: [D-Central-Edge-Distribution-Computation-Deep-Dive-md.md]topic: mechanism-long-projects
 ---
 
 # D-Central Edge Distribution & Computation: Deep Dive

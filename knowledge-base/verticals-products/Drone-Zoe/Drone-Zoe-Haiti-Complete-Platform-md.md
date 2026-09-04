@@ -4,7 +4,7 @@ source_project_uuid: 0197e6d0-e935-724d-8916-5cbbdf9646ab
 doc_uuid: 36a7adac-3bf5-4b83-918a-b6f695bf2572
 original_filename: Drone Zoe Haiti - Complete Platform.md
 created_at: 2025-07-08T23:26:06.589488+00:00
-content_hash: 9f4fa05c23a7
+content_hash: 9f4fa05c23a7topic: certification-skills-applications
 ---
 
 # DRONE ZOE HAITI

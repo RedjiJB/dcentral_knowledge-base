@@ -4,7 +4,7 @@ source_project_uuid: 019a6ba2-1cf8-703d-b379-bb50cd7fad34
 doc_uuid: 7ce13798-93bb-4ddc-83e0-1caf8d204c9d
 original_filename: HARDWARE_BOM.md
 created_at: 2025-12-02T00:47:54.958277+00:00
-content_hash: bce30b2bc93dcross_category_duplicate_at: "security-identity/Open-Vision/HARDWARE-BOM-md.md"
+content_hash: bce30b2bc93dcross_category_duplicate_at: "security-identity/Open-Vision/HARDWARE-BOM-md.md"topic: compute-axis-samsung
 ---
 
 # OpenVision Platform - Hardware Bill of Materials

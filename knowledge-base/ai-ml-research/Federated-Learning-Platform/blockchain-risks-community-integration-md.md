@@ -4,7 +4,7 @@ source_project_uuid: 019842bc-7455-7338-a70c-4eb07f2f069c
 doc_uuid: 8a4c7d87-1b7b-4801-94cd-9fa3dec430c5
 original_filename: blockchain_risks_community_integration.md
 created_at: 2025-07-25T17:58:36.876551+00:00
-content_hash: eef68d71858f
+content_hash: eef68d71858ftopic: student-members-technological
 ---
 
 # Blockchain Integration Analysis & Community Learning Network Framework

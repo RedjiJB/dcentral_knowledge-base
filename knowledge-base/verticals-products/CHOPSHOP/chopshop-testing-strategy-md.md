@@ -4,7 +4,7 @@ source_project_uuid: 019accd8-cfe0-7247-860b-1b169a50a0e1
 doc_uuid: 98e7c57c-9645-45eb-8b51-5f905b6bccb8
 original_filename: chopshop_testing_strategy.md
 created_at: 2025-11-28T23:43:27.857773+00:00
-content_hash: 13a8e53f1c51
+content_hash: 13a8e53f1c51topic: decoding-cipher-chopshop
 ---
 
 # ChopShop-CLI Testing Strategy & Quality Assurance

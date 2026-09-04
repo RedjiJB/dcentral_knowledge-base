@@ -4,7 +4,7 @@ source_project_uuid: 01974d4c-50e6-768c-a691-f98101e245de
 doc_uuid: 19772a5b-11ca-4ff2-a234-02436cd86a9b
 original_filename: D-Central_Master_Explanation.md
 created_at: 2025-06-08T02:09:56.742682+00:00
-content_hash: 891f2406caba
+content_hash: 891f2406cabatopic: mechanism-long-projects
 ---
 
 ---

@@ -4,7 +4,7 @@ source_project_uuid: 019e82f3-7ab2-715c-87c1-3e1074a12ab6
 doc_uuid: 8d54e666-dd84-4344-ae8e-6f032932ec02
 original_filename: OPS-GUARD-001_CivicMesh_Security_Response_SOP_v1.docx
 created_at: 2026-06-01T11:32:20.510177+00:00
-content_hash: c81aae84b9c5
+content_hash: c81aae84b9c5topic: guard-replace-dispatch
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

@@ -4,7 +4,7 @@ source_project_uuid: 019e82f3-7ab2-715c-87c1-3e1074a12ab6
 doc_uuid: 9a482b40-2de3-4bc8-914e-7ef363fff356
 original_filename: DEPLOY-CS-002_CommunityShield_Apartment_Complex_Deployment_v1.docx
 created_at: 2026-06-01T11:32:22.410821+00:00
-content_hash: 3c28fd60700c
+content_hash: 3c28fd60700ctopic: communityshield-opt-location
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

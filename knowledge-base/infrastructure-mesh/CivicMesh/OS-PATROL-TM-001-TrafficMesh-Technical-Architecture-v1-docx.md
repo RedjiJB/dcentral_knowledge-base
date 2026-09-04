@@ -4,7 +4,7 @@ source_project_uuid: 019e82f3-7ab2-715c-87c1-3e1074a12ab6
 doc_uuid: 5a01f4e8-a96e-4d2b-9516-465d20106d2c
 original_filename: OS-PATROL-TM-001_TrafficMesh_Technical_Architecture_v1.docx
 created_at: 2026-06-01T11:32:21.011874+00:00
-content_hash: 817ffd2fec9d
+content_hash: 817ffd2fec9dtopic: update-records-gps
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

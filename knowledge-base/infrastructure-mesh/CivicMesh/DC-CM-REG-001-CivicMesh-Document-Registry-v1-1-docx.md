@@ -4,7 +4,7 @@ source_project_uuid: 019e82f3-7ab2-715c-87c1-3e1074a12ab6
 doc_uuid: 13740e84-867c-49b4-a623-60c3677205d2
 original_filename: DC-CM-REG-001_CivicMesh_Document_Registry_v1(1).docx
 created_at: 2026-06-01T11:32:21.944823+00:00
-content_hash: 20cb034c3e54
+content_hash: 20cb034c3e54topic: digital-communities-participation
 ---
 
 DC-CM-REG-001  |  CivicMesh Platform — Document Registry  |  v1.0  |  May 2026  |  **D-Central Group  |  Confidential**

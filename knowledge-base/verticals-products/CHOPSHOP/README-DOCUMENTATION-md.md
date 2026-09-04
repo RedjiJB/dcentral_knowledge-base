@@ -4,7 +4,7 @@ source_project_uuid: 019accd8-cfe0-7247-860b-1b169a50a0e1
 doc_uuid: 049a42b6-c414-493f-bdc8-8ca8dd4f973b
 original_filename: README_DOCUMENTATION.md
 created_at: 2025-11-28T23:43:32.049707+00:00
-content_hash: 37d4c113e649
+content_hash: 37d4c113e649topic: decoding-cipher-chopshop
 ---
 
 # ChopShop-CLI Complete Documentation Package

@@ -4,7 +4,7 @@ source_project_uuid: 019a6ba2-1cf8-703d-b379-bb50cd7fad34
 doc_uuid: 0184a391-b416-4fd5-9c40-81e57e42f883
 original_filename: 00-Quick-Start-Guide.md
 created_at: 2025-12-02T00:47:54.552334+00:00
-content_hash: 4e09e21e0155cross_category_duplicate_at: "security-identity/Open-Vision/00-Quick-Start-Guide-md.md"
+content_hash: 4e09e21e0155cross_category_duplicate_at: "security-identity/Open-Vision/00-Quick-Start-Guide-md.md"topic: yml-compose-frigate
 ---
 
 # OpenVision Platform

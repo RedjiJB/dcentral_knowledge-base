@@ -4,7 +4,7 @@ source_project_uuid: 01974158-4109-742e-81e6-e28ad94a4041
 doc_uuid: c1fe93eb-ff43-425b-b2f2-b26d40b507a0
 original_filename: Innovative Cooperative Business Models for the Mesh Economy.md
 created_at: 2025-06-06T14:30:13.127040+00:00
-content_hash: 27efe7ea7efd
+content_hash: 27efe7ea7efdtopic: facilitation-accounting-food
 ---
 
 # Innovative Cooperative Business Models for the Mesh Economy

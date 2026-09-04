@@ -4,7 +4,7 @@ source_project_uuid: 0198b52e-0516-768e-b6d4-182ebfca6ef0
 doc_uuid: 52986876-02ae-4e41-92fb-e64f9a568ba0
 original_filename: DION Platform - Development Setup & Configuration.txt
 created_at: 2025-08-23T16:08:52.703020+00:00
-content_hash: 0bca8453c7c5
+content_hash: 0bca8453c7c5topic: url-kubernetes-yaml
 ---
 
 # DION Platform - Development Setup & Configuration Files

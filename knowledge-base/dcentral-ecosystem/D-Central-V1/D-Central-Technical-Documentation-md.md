@@ -4,7 +4,7 @@ source_project_uuid: 01974d4c-50e6-768c-a691-f98101e245de
 doc_uuid: 3ec93215-cf4f-4fe2-9eb8-feaaf5003383
 original_filename: D-Central_Technical_Documentation.md
 created_at: 2025-06-08T02:10:24.561999+00:00
-content_hash: 93ebf89be7ca
+content_hash: 93ebf89be7catopic: mechanism-long-projects
 ---
 
 ---

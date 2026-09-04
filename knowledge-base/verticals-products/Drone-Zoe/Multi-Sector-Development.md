@@ -4,7 +4,7 @@ source_project_uuid: 0197e6d0-e935-724d-8916-5cbbdf9646ab
 doc_uuid: d4a8484d-5365-4b29-9933-fa1874712c00
 original_filename: Multi Sector Development
 created_at: 2025-07-08T22:45:08.803544+00:00
-content_hash: 555ef40a3c06
+content_hash: 555ef40a3c06topic: certification-skills-applications
 ---
 
 ## 9. Long-Term Vision and Impact (continued)

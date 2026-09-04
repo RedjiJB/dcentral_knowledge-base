@@ -4,7 +4,7 @@ source_project_uuid: 019cba7f-8d2d-72ed-bbc7-a730cc31b95e
 doc_uuid: 57d57db8-093c-4170-afe9-a9c7b11ce4a9
 original_filename: OS-GUARDIAN_Network_Topology.md
 created_at: 2026-03-04T20:35:38.221617+00:00
-content_hash: a82423bf1ca1
+content_hash: a82423bf1ca1topic: retrieval-scenarios-warm
 ---
 
 # OS-GUARDIAN Network Topology

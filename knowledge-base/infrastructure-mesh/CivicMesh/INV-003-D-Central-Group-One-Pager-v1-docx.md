@@ -4,7 +4,7 @@ source_project_uuid: 019e82f3-7ab2-715c-87c1-3e1074a12ab6
 doc_uuid: 1e49b430-b0b9-4292-96bc-d08623eed81b
 original_filename: INV-003_D-Central_Group_One-Pager_v1.docx
 created_at: 2026-06-01T11:32:21.050167+00:00
-content_hash: 7b46d3274d38
+content_hash: 7b46d3274d38topic: format-open-ask
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

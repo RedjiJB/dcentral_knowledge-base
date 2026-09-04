@@ -4,7 +4,7 @@ source_project_uuid: 019cba7f-8d2d-72ed-bbc7-a730cc31b95e
 doc_uuid: e383559c-20be-46a1-bfbb-474240c77ad3
 original_filename: OS-PATROL_Implementation_Guide.md
 created_at: 2026-03-04T20:33:40.303754+00:00
-content_hash: 341301480efc
+content_hash: 341301480efctopic: timeout-lighting-login
 ---
 
 # OS-PATROL Implementation Guide

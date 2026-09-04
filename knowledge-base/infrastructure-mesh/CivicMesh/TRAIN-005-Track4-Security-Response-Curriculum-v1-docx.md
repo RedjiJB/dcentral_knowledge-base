@@ -4,7 +4,7 @@ source_project_uuid: 019e82f3-7ab2-715c-87c1-3e1074a12ab6
 doc_uuid: 4ecdacac-88c8-476b-bf87-f0895e7d2601
 original_filename: TRAIN-005_Track4_Security_Response_Curriculum_v1.docx
 created_at: 2026-06-01T11:32:21.278810+00:00
-content_hash: b126a1698236
+content_hash: b126a1698236topic: guard-replace-dispatch
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

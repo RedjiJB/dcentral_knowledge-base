@@ -4,7 +4,7 @@ source_project_uuid: 0198b52e-0516-768e-b6d4-182ebfca6ef0
 doc_uuid: bed7f060-fba4-4ca9-96e3-5931b34a5f34
 original_filename: decentralized_ints_expansion.md
 created_at: 2025-08-23T03:10:32.732509+00:00
-content_hash: 6ac345d39e52
+content_hash: 6ac345d39e52topic: cryptography-representatives-credentials
 ---
 
 # Expanded Decentralized Intelligence Platform Architecture

@@ -4,7 +4,7 @@ source_project_uuid: 019e82f3-7ab2-715c-87c1-3e1074a12ab6
 doc_uuid: f2a66fa1-aee8-4d7a-9898-f4a8df26ba9c
 original_filename: PPTX-INV-003_D-Central_Cooperative_Economy_Thesis_Deck_v1.docx
 created_at: 2026-06-01T11:32:20.982622+00:00
-content_hash: b943c091c37e
+content_hash: b943c091c37etopic: script-pptx-produce
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

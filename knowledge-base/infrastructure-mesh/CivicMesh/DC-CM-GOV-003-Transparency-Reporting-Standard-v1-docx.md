@@ -4,7 +4,7 @@ source_project_uuid: 019e82f3-7ab2-715c-87c1-3e1074a12ab6
 doc_uuid: 48c388fe-7cea-416f-b64b-86a8ef06fd7e
 original_filename: DC-CM-GOV-003_Transparency_Reporting_Standard_v1.docx
 created_at: 2026-06-01T11:32:21.594645+00:00
-content_hash: 86e87824adde
+content_hash: 86e87824addetopic: positive-federation-findings
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

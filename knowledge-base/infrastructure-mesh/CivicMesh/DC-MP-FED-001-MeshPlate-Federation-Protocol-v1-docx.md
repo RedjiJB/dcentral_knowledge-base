@@ -4,7 +4,7 @@ source_project_uuid: 019e82f3-7ab2-715c-87c1-3e1074a12ab6
 doc_uuid: 2bc09a45-75a1-47f9-aeca-97048eb613e9
 original_filename: DC-MP-FED-001_MeshPlate_Federation_Protocol_v1.docx
 created_at: 2026-06-01T11:32:19.037533+00:00
-content_hash: 5aec0bd01a42
+content_hash: 5aec0bd01a42topic: federation-authority-private
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

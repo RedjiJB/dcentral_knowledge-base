@@ -4,7 +4,7 @@ source_project_uuid: 0197e6d0-e935-724d-8916-5cbbdf9646ab
 doc_uuid: e94038f0-1a4b-4717-b58a-46f0544e0654
 original_filename: Drone Zoe Haiti - Decentralized Open Credentialing System.md
 created_at: 2025-08-22T16:26:26.284541+00:00
-content_hash: 4dd8be044c2d
+content_hash: 4dd8be044c2dtopic: certification-skills-applications
 ---
 
 # DRONE ZOE HAITI

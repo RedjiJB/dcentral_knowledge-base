@@ -4,7 +4,7 @@ source_project_uuid: 019e82f3-7ab2-715c-87c1-3e1074a12ab6
 doc_uuid: 6941cbfd-0e23-49ca-a77a-491d9166ce7c
 original_filename: DC-CM-B2B-003_Platform_Driver_Programme_Specification_v1.docx
 created_at: 2026-06-01T11:32:22.422887+00:00
-content_hash: 515c9e0ee852
+content_hash: 515c9e0ee852topic: vehicles-identity-directly
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

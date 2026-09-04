@@ -4,7 +4,7 @@ source_project_uuid: 019895b3-de37-7121-94fc-2bab9f1f436d
 doc_uuid: 0d6664de-0578-463f-af1d-8933e1d21dae
 original_filename: Comprehensive GraphRAG & GraphQL System Design Document.md
 created_at: 2025-08-16T18:57:21.301228+00:00
-content_hash: 69b98c86bc79
+content_hash: 69b98c86bc79topic: interval-containerport-mock
 ---
 
 # Comprehensive GraphRAG & GraphQL System Design Document

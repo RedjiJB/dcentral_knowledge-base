@@ -4,7 +4,7 @@ source_project_uuid: 0197f150-9d82-70c3-8148-36f5aad82e8c
 doc_uuid: 2f68f112-53ac-4ed7-94d7-0f9283dd3c36
 original_filename: decentralized_tools_equipment_platform.md
 created_at: 2025-07-16T23:25:17.534591+00:00
-content_hash: a6b657b97865
+content_hash: a6b657b97865topic: digital-communities-participation
 ---
 
 # Decentralized Community Tools & Equipment Sharing Platform

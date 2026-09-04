@@ -4,7 +4,7 @@ source_project_uuid: 019accd8-cfe0-7247-860b-1b169a50a0e1
 doc_uuid: 5b23ca75-5b78-43a8-9703-702a83b8cb93
 original_filename: chopshop_roadmap.md
 created_at: 2025-11-28T23:43:27.057338+00:00
-content_hash: 14c958349a5d
+content_hash: 14c958349a5dtopic: decoding-cipher-chopshop
 ---
 
 # ChopShop-CLI Project Roadmap

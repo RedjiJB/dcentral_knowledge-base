@@ -4,7 +4,7 @@ source_project_uuid: 019e82f3-7ab2-715c-87c1-3e1074a12ab6
 doc_uuid: f5ae2764-e9c1-4cbc-9f64-12a868fb59d8
 original_filename: PPTX-CONF-002_CivicMesh_Conference_Talk_Smart_Cities_v1.docx
 created_at: 2026-06-01T11:32:19.306897+00:00
-content_hash: f5ec531e0295
+content_hash: f5ec531e0295topic: script-pptx-produce
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

@@ -4,7 +4,7 @@ source_project_uuid: 0199df04-2107-76ac-8919-203857b7a6c9
 doc_uuid: 83f02076-7f34-42f8-987b-2228593db725
 original_filename: dcentral-whole-of-life-mesh-critical-analysis.md
 created_at: 2025-10-29T04:18:21.906696+00:00
-content_hash: 97ecdae8d251
+content_hash: 97ecdae8d251topic: mechanism-long-projects
 ---
 
 # D-Central Whole-of-Life Mesh Architecture: Critical Expansion & Analysis

@@ -4,7 +4,7 @@ source_project_uuid: 019e82f3-7ab2-715c-87c1-3e1074a12ab6
 doc_uuid: e6c6a2ae-1af7-43a5-b8cf-7f2151f74bac
 original_filename: LOAN-CM-003_Mitacs_Accelerate_University_Research_v1.docx
 created_at: 2026-06-01T11:32:22.794799+00:00
-content_hash: 93c017a18f6e
+content_hash: 93c017a18f6etopic: target-application-entrepreneurship
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

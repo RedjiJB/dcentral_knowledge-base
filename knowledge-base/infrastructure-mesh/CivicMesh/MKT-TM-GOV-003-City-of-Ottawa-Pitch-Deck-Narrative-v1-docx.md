@@ -4,7 +4,7 @@ source_project_uuid: 019e82f3-7ab2-715c-87c1-3e1074a12ab6
 doc_uuid: 5df39d5a-e8f5-43bf-8d02-300301020385
 original_filename: MKT-TM-GOV-003_City_of_Ottawa_Pitch_Deck_Narrative_v1.docx
 created_at: 2026-06-01T11:32:22.795900+00:00
-content_hash: 11c62d15d258
+content_hash: 11c62d15d258topic: condition-illegal-contractor
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

@@ -4,7 +4,7 @@ source_project_uuid: 0197452f-126a-7064-8e83-cc500f73e0b4
 doc_uuid: ad1f1666-5c18-4106-b4b5-4e1cb5e9a897
 original_filename: dcentral-sectors-comprehensive.md
 created_at: 2025-06-06T17:45:57.306436+00:00
-content_hash: 2c2ba30800bf
+content_hash: 2c2ba30800bftopic: estate-liquidity-alerts
 ---
 
 # D Central Comprehensive Sector & Business Integration Matrix

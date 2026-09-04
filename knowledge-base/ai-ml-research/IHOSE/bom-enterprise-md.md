@@ -4,7 +4,7 @@ source_project_uuid: 019a6ba2-1cf8-703d-b379-bb50cd7fad34
 doc_uuid: 5ddac325-60e2-49aa-8421-742e43daf61a
 original_filename: bom-enterprise.md
 created_at: 2025-12-02T00:47:54.249206+00:00
-content_hash: 7bee1bc34cb4cross_category_duplicate_at: "security-identity/Open-Vision/bom-enterprise-md.md"
+content_hash: 7bee1bc34cb4cross_category_duplicate_at: "security-identity/Open-Vision/bom-enterprise-md.md"topic: compute-axis-samsung
 ---
 
 # Enterprise Hardware Bill of Materials (BOM)

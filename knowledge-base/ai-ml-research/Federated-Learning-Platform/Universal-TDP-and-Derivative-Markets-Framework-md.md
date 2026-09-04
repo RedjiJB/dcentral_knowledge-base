@@ -4,7 +4,7 @@ source_project_uuid: 019842bc-7455-7338-a70c-4eb07f2f069c
 doc_uuid: 80c76046-b322-4228-98d3-ab14b929bcee
 original_filename: Universal TDP and Derivative Markets Framework.md
 created_at: 2025-08-03T17:11:55.465023+00:00
-content_hash: b8162c35ff42
+content_hash: b8162c35ff42topic: individual-feedback-research
 ---
 
 # Universal TDP and Derivative Markets Framework

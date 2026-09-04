@@ -4,7 +4,7 @@ source_project_uuid: 019e82f3-7ab2-715c-87c1-3e1074a12ab6
 doc_uuid: 4652a9fb-cd88-4fe2-82d5-9a2ede098f74
 original_filename: DC-MN-ARCH-001_MeshNav_Architecture_v1.docx
 created_at: 2026-06-01T11:32:21.854234+00:00
-content_hash: bd09238d65a2
+content_hash: bd09238d65a2topic: condition-coverage-continuous
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

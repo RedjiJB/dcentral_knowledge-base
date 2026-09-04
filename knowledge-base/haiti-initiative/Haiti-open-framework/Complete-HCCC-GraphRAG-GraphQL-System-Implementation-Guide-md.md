@@ -4,7 +4,7 @@ source_project_uuid: 019895b3-de37-7121-94fc-2bab9f1f436d
 doc_uuid: 47ef7365-cc4f-4f89-b06a-663c3231b891
 original_filename: Complete HCCC GraphRAG & GraphQL System Implementation Guide.md
 created_at: 2025-08-16T18:58:05.203187+00:00
-content_hash: 74e63dcc229b
+content_hash: 74e63dcc229btopic: interval-containerport-mock
 ---
 
 # Complete HCCC GraphRAG & GraphQL System Implementation Guide

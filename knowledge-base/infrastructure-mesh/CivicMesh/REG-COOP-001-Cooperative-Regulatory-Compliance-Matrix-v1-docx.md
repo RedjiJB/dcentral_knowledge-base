@@ -4,7 +4,7 @@ source_project_uuid: 019e82f3-7ab2-715c-87c1-3e1074a12ab6
 doc_uuid: 2185253e-6ceb-4bac-ab84-8a7a4256e5cd
 original_filename: REG-COOP-001_Cooperative_Regulatory_Compliance_Matrix_v1.docx
 created_at: 2026-06-01T11:32:22.372723+00:00
-content_hash: 8474a604bf64
+content_hash: 8474a604bf64topic: accounting-account-financial
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

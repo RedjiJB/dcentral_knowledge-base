@@ -4,7 +4,7 @@ source_project_uuid: 019cba7f-8d2d-72ed-bbc7-a730cc31b95e
 doc_uuid: 5a296c4e-6e24-4b16-9e86-0c5dd6b31722
 original_filename: Provincial_PIV_Infrastructure_Integration.md
 created_at: 2026-03-04T20:38:02.587076+00:00
-content_hash: 7d5cecfd93c1
+content_hash: 7d5cecfd93c1topic: federation-guard-pin
 ---
 
 # Provincial PIV Infrastructure Integration

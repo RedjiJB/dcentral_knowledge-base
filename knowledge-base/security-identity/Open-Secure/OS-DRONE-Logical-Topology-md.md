@@ -4,7 +4,7 @@ source_project_uuid: 019cba7f-8d2d-72ed-bbc7-a730cc31b95e
 doc_uuid: bdb960b4-7b31-48db-92d0-f44f210c441f
 original_filename: OS-DRONE_Logical_Topology.md
 created_at: 2026-03-05T13:51:16.081774+00:00
-content_hash: 3ffcdc34cf45
+content_hash: 3ffcdc34cf45topic: sony-firmware-opensecure
 ---
 
 # OS-DRONE Logical Topology

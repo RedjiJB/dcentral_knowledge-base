@@ -4,7 +4,7 @@ source_project_uuid: 0197235f-e830-753a-966d-40f28b1d1fa2
 doc_uuid: aa08b6c7-0c0c-4a57-93d0-cfa315cd0f07
 original_filename: dcm-blueprint-comprehensive.md
 created_at: 2025-06-01T15:33:01.906251+00:00
-content_hash: 6763784557fb
+content_hash: 6763784557fbtopic: expiration-federation-efficient
 ---
 
 # D Central Mesh Architecture: Comprehensive Technical Blueprint

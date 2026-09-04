@@ -4,7 +4,7 @@ source_project_uuid: 019e82f3-7ab2-715c-87c1-3e1074a12ab6
 doc_uuid: 2ff17eb6-94d9-46ea-bf1c-7d09fc4faa99
 original_filename: DC-CM-CERT-001_Technician_Certification_Programme_v1.docx
 created_at: 2026-06-01T11:32:21.537630+00:00
-content_hash: a3427da4791b
+content_hash: a3427da4791btopic: compute-assessment-investigation
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

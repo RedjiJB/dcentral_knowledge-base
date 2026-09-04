@@ -4,7 +4,7 @@ source_project_uuid: 019cba7f-8d2d-72ed-bbc7-a730cc31b95e
 doc_uuid: 9cabf4fb-2d23-453e-a0b0-51f91cf7a17c
 original_filename: OS-SENTINEL_Network_Topology.md
 created_at: 2026-03-04T20:34:08.570122+00:00
-content_hash: c4521ffbeea4
+content_hash: c4521ffbeea4topic: retrieval-scenarios-warm
 ---
 
 # OS-SENTINEL Network Topology

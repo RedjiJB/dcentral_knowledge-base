@@ -4,7 +4,7 @@ source_project_uuid: 019cba7f-8d2d-72ed-bbc7-a730cc31b95e
 doc_uuid: ee787db4-d5b0-4111-859a-9d68945c413f
 original_filename: OS-DRONE_Advanced_Visual_Intelligence.md
 created_at: 2026-03-05T00:33:47.287133+00:00
-content_hash: 3f7dfdb02d0b
+content_hash: 3f7dfdb02d0btopic: sony-served-construction
 ---
 
 # OS-DRONE Advanced Visual Intelligence System

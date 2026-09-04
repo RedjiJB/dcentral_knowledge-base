@@ -4,7 +4,7 @@ source_project_uuid: 019e82f3-7ab2-715c-87c1-3e1074a12ab6
 doc_uuid: 564aba4d-4593-44b1-a165-e792f7487031
 original_filename: LOAN-CM-001_ISC_Phase1_Application_Framework_v1.docx
 created_at: 2026-06-01T11:32:20.722068+00:00
-content_hash: 91163d6adbd3
+content_hash: 91163d6adbd3topic: gtm-loan-members
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

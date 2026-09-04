@@ -4,7 +4,7 @@ source_project_uuid: 0197235f-e830-753a-966d-40f28b1d1fa2
 doc_uuid: 5b80436c-b190-4999-a1fd-7d8b0c6f123c
 original_filename: D Central MVP Technology Stack Recommendation.pdf
 created_at: 2025-06-01T15:32:12.861017+00:00
-content_hash: ddda8fd98d72
+content_hash: ddda8fd98d72topic: mechanism-long-projects
 ---
 
 D Central MVP Technology Stack Recommendation

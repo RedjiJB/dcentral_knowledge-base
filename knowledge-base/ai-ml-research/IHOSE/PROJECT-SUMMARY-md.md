@@ -4,7 +4,7 @@ source_project_uuid: 019a6ba2-1cf8-703d-b379-bb50cd7fad34
 doc_uuid: e259b6ff-1c44-4c5d-8c0d-f00521bafee9
 original_filename: PROJECT_SUMMARY.md
 created_at: 2025-12-02T00:47:55.731905+00:00
-content_hash: 1cbf30319e40cross_category_duplicate_at: "security-identity/Open-Vision/PROJECT-SUMMARY-md.md"
+content_hash: 1cbf30319e40cross_category_duplicate_at: "security-identity/Open-Vision/PROJECT-SUMMARY-md.md"topic: free-smb-premium
 ---
 
 # OpenVision Platform - Complete Technical Framework

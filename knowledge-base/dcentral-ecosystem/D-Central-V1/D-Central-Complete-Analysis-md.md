@@ -4,7 +4,7 @@ source_project_uuid: 01974d4c-50e6-768c-a691-f98101e245de
 doc_uuid: 7e936e6a-cbb2-4693-940d-7ad90f49fc7e
 original_filename: D-Central_Complete_Analysis.md
 created_at: 2025-06-08T02:10:52.997459+00:00
-content_hash: d58247ec6cd0
+content_hash: d58247ec6cd0topic: mechanism-long-projects
 ---
 
 ---

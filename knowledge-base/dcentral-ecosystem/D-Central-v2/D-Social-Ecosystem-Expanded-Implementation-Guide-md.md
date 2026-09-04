@@ -4,7 +4,7 @@ source_project_uuid: 0199df04-2107-76ac-8919-203857b7a6c9
 doc_uuid: 66befb7c-b9d2-4db6-9d44-b7768f8382d5
 original_filename: D-Social Ecosystem: Expanded Implementation Guide.md
 created_at: 2025-10-13T22:45:46.307472+00:00
-content_hash: 4a11ac21449a
+content_hash: 4a11ac21449atopic: mechanism-long-projects
 ---
 
 # D-Social v1.0: Complete Architectural Specification

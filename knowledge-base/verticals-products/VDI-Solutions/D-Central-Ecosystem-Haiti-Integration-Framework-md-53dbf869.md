@@ -6,7 +6,7 @@ original_filename: D Central Ecosystem: Haiti Integration Framework.md
 created_at: 2025-09-11T19:36:38.995648+00:00
 content_hash: ae9b1d032293status: disputed
 conflicts_with: D-Central-Ecosystem-Haiti-Integration-Framework-md.md
-unresolved_reason: "Identical title and opening TOC, but the LATER upload (53dbf869, 19:36) is less than half the size of the EARLIER one (19:35, 130812 chars) -- contradicts the recency-implies-superset pattern every other pair in this batch fit. No explicit correction language, no engagement evidence either direction. Per DC-DEDUP-STD-001 SS4, this is a genuine 'no basis to prefer one' case, not a failure to resolve."
+unresolved_reason: "Identical title and opening TOC, but the LATER upload (53dbf869, 19:36) is less than half the size of the EARLIER one (19:35, 130812 chars) -- contradicts the recency-implies-superset pattern every other pair in this batch fit. No explicit correction language, no engagement evidence either direction. Per DC-DEDUP-STD-001 SS4, this is a genuine 'no basis to prefer one' case, not a failure to resolve."topic: certification-skills-applications
 ---
 
 # D Central Ecosystem: Haiti Integration Framework

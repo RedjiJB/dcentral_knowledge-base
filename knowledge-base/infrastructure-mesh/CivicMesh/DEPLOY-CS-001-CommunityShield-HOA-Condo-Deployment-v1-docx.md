@@ -4,7 +4,7 @@ source_project_uuid: 019e82f3-7ab2-715c-87c1-3e1074a12ab6
 doc_uuid: ca249c48-b7b1-49b0-9598-47d5694b58ba
 original_filename: DEPLOY-CS-001_CommunityShield_HOA_Condo_Deployment_v1.docx
 created_at: 2026-06-01T11:32:20.766072+00:00
-content_hash: 93f1120f4d5d
+content_hash: 93f1120f4d5dtopic: communityshield-opt-location
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

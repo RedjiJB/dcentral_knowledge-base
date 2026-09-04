@@ -4,7 +4,7 @@ source_project_uuid: 0196837f-6da6-71e6-954b-c8a742cf2112
 doc_uuid: b106d37e-c4d9-4b7c-b6a1-8efdd4208b64
 original_filename: Comptia A+ {Master Platform}
 created_at: 2025-04-29T21:44:09.769262+00:00
-content_hash: 8aa9b17152bd
+content_hash: 8aa9b17152bdtopic: boring-package-david
 ---
 
 # CompTIA A+ Master

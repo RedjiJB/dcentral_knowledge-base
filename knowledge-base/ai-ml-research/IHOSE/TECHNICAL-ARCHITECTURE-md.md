@@ -4,7 +4,7 @@ source_project_uuid: 019a6ba2-1cf8-703d-b379-bb50cd7fad34
 doc_uuid: bf87aef2-9853-4f03-a532-262a03db3fd6
 original_filename: TECHNICAL_ARCHITECTURE.md
 created_at: 2025-12-02T00:47:53.908429+00:00
-content_hash: 016ad5e12c19cross_category_duplicate_at: "security-identity/Open-Vision/TECHNICAL-ARCHITECTURE-md.md"
+content_hash: 016ad5e12c19cross_category_duplicate_at: "security-identity/Open-Vision/TECHNICAL-ARCHITECTURE-md.md"topic: person-vpn-mode
 ---
 
 # OpenVision Platform - Complete Technical Architecture

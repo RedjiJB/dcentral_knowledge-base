@@ -4,7 +4,7 @@ source_project_uuid: 01981e20-b3bf-74c6-b6de-0525da3fed1e
 doc_uuid: a8054796-70c0-4d87-b801-8167caf586fa
 original_filename: comprehensive_government_public_sector_analysis.md
 created_at: 2025-07-18T15:22:12.538460+00:00
-content_hash: 427fe1cbde44
+content_hash: 427fe1cbde44topic: individual-feedback-research
 ---
 
 # Complete Government & Public Sector Cooperative Analysis

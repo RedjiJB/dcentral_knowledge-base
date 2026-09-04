@@ -4,7 +4,7 @@ source_project_uuid: 0197f150-9d82-70c3-8148-36f5aad82e8c
 doc_uuid: 9dbe742b-160e-4f4d-9061-2bb45969180f
 original_filename: decentralized_trades_training_platform.md
 created_at: 2025-07-16T23:25:09.060068+00:00
-content_hash: 51df5f9538d1
+content_hash: 51df5f9538d1topic: digital-communities-participation
 ---
 
 # Decentralized Community Trades Training & Certification Platform

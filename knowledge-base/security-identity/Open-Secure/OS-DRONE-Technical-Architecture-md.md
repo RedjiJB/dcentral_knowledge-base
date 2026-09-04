@@ -4,7 +4,7 @@ source_project_uuid: 019cba7f-8d2d-72ed-bbc7-a730cc31b95e
 doc_uuid: ca223f86-9fed-4884-ab20-dc26559f4e9f
 original_filename: OS-DRONE_Technical_Architecture.md
 created_at: 2026-03-05T13:51:06.389642+00:00
-content_hash: b2ef79dfc8f3
+content_hash: b2ef79dfc8f3topic: sony-firmware-opensecure
 ---
 
 # OS-DRONE — Complete Technical Architecture

@@ -4,7 +4,7 @@ source_project_uuid: 0197e6d0-e935-724d-8916-5cbbdf9646ab
 doc_uuid: 9fec9930-3391-44c0-b3e6-24292a735b16
 original_filename: Drone Zoe Haiti - Monetization Strategy & Revenue Streams.md
 created_at: 2025-08-22T16:26:43.989258+00:00
-content_hash: 8a5d0e33cddf
+content_hash: 8a5d0e33cddftopic: certification-skills-applications
 ---
 
 # DRONE ZOE HAITI
