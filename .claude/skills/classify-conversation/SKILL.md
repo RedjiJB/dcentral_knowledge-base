@@ -96,27 +96,59 @@ Append exactly this shape as one JSON line (no pretty-printing, one line per rec
 
 ## 6. Worked examples
 
-**Example 1** — title: "D-Central ISP implementation in Haiti", excerpt discusses MeshISP network
-architecture, cellular/router identity binding, DID-based universal WiFi access.
+These are the first three real conversations classified by this skill (uuids 1-3 of 743), kept as
+worked examples because they demonstrate a real edge case, not a manufactured one: two of the three
+are near-duplicate conversations about the same underlying problem, and each still needs a distinct,
+specific abstract rather than a copy-pasted one.
+
+**Example 1** — title: "Creating Custom iPhone Shortcuts", excerpt is a personal request for iPhone
+Shortcuts automations (morning routine, sunrise routine).
 
 ```json
-{"uuid": "fc99aa3d-...", "title": "D-Central ISP implementation in Haiti", "created_at": "2025-08-23T05:28:35Z", "extracted_doc_ids": ["DC-MESHISP-ARCH-001"], "primary_category": "d-central/mesh-services/connectivity", "secondary_tags": ["d-central/haiti-diaspora", "d-central/core/identity"], "links_to": ["DC-MESHISP-ARCH-001"], "abstract": "Designs the full MeshISP network architecture for a Haiti pilot, correcting an early assumption to make WiFi access identity-bound (device-DID to person-DID to subscription VC) rather than tied to the household router, so a person's service follows them across any CPE in the mesh."}
+{"uuid": "cb4f9448-d4db-44fe-8c6b-a5aceff7d0db", "title": "Creating Custom iPhone Shortcuts", "created_at": "2025-03-10T03:03:28.457417Z", "extracted_doc_ids": [], "primary_category": "d-central/academic-personal", "secondary_tags": [], "links_to": [], "abstract": "Personal request for iPhone Shortcuts automations (morning routine, sunrise routine). No D-Central content."}
 ```
 
-Why this classification: the conversation's core subject is mesh connectivity/access design, not
-Haiti policy generally — `haiti-diaspora` is a secondary tag (the deployment target), not primary,
-because the technical content (identity-bound WiFi access) is the actual thing being designed.
-
-**Example 2** — title: "CompTIA A+ Week 3 assignment help", excerpt is coursework Q&A, no D-Central
-content.
+**Example 2** — title: "Troubleshooting SSH Connection Timeout to Azure VM", excerpt is a personal/work
+Azure VM SSH connection timeout, diagnosing NSG rules, firewall, and dynamic IP.
 
 ```json
-{"uuid": "...", "title": "CompTIA A+ Week 3 assignment help", "created_at": "...", "extracted_doc_ids": [], "primary_category": "d-central/academic-personal", "secondary_tags": [], "links_to": [], "abstract": "Coursework help for a CompTIA A+ certification assignment covering hardware troubleshooting basics. No D-Central content."}
+{"uuid": "d78e87d5-b525-4e2e-a478-27f032d9f37d", "title": "Troubleshooting SSH Connection Timeout to Azure VM", "created_at": "2025-03-11T08:49:59.782833Z", "extracted_doc_ids": [], "primary_category": "d-central/academic-personal", "secondary_tags": [], "links_to": [], "abstract": "Troubleshooting an SSH connection timeout to a personal/work Azure VM (network security group, firewall, dynamic IP checks). No D-Central content."}
 ```
 
-Why this classification: genuinely unrelated coursework gets `academic-personal`, not forced into a
-D-Central category — this mirrors the real corpus finding that `academic-training` correctly has
-zero conceptual overlap with the rest of the architecture (see `CROSS-POLLINATION-FINDINGS.md`).
+**Example 3** — title: "Troubleshooting SSH Access to Azure VM", a DIFFERENT conversation than Example
+2, one day later, same VM, but a different failure mode (permission-denied / wrong username, not a
+timeout) and further into it, a "what can I do with this VM" follow-up.
+
+```json
+{"uuid": "648dab5c-c6ae-43d7-91c5-c9788276ea80", "title": "Troubleshooting SSH Access to Azure VM", "created_at": "2025-03-12T09:24:11.031957Z", "extracted_doc_ids": [], "primary_category": "d-central/academic-personal", "secondary_tags": [], "links_to": [], "abstract": "Fixing SSH key-permission and username errors to access a personal Azure VM, then a general orientation on what to do with the VM once connected. No D-Central content."}
+```
+
+Why all three get `academic-personal`: none contain D-Central content — this mirrors the real corpus
+finding that some conversations genuinely have zero conceptual overlap with the architecture (see
+`CROSS-POLLINATION-FINDINGS.md`'s `academic-training` category, which found the same thing). Don't
+force a stretch classification just because a conversation involves technical work — "technical" and
+"D-Central-related" are not the same test.
+
+Why examples 2 and 3 get DIFFERENT abstracts despite being about the same VM one day apart: example 2
+is a connection *timeout* (network/firewall-layer problem), example 3 is a permission *denial* with a
+different root cause (wrong username) that gets fixed mid-conversation, plus new content afterward (a
+"what can I do with this VM" orientation). A lazy classification would copy-paste one abstract across
+both since they look similar at a glance — the actual content differs enough that they need distinct
+abstracts. If you find yourself writing near-identical abstracts for two different UUIDs, that's a
+signal to re-read the excerpt rather than assume they're duplicates (a real duplicate would have the
+same UUID, and `get_next_conversation.py` already filters those out).
+
+**A hypothetical example, for contrast** — showing what a real D-Central-content conversation looks
+like, since the three real ones above happened to all be personal/unrelated: a conversation titled
+"D-Central ISP implementation in Haiti" discussing MeshISP network architecture and DID-based
+universal WiFi access would get:
+
+```json
+{"primary_category": "d-central/mesh-services/connectivity", "secondary_tags": ["d-central/haiti-diaspora", "d-central/core/identity"], "links_to": ["DC-MESHISP-ARCH-001"], "abstract": "Designs the full MeshISP network architecture for a Haiti pilot, correcting an early assumption to make WiFi access identity-bound (device-DID to person-DID to subscription VC) rather than tied to the household router, so a person's service follows them across any CPE in the mesh."}
+```
+
+`haiti-diaspora` is a secondary tag here, not primary — the deployment target isn't the core subject,
+the identity-bound access design is.
 
 ## 7. Guardrails
 
