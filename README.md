@@ -9,8 +9,14 @@ standards/   00-05 numbered architecture/ops standards + DC-*-STD-001 pipeline s
 taxonomy/    DC-TAXONOMY-001..009
 registry/    DC-REG-001 master document registry (v0.1, v0.2 — both deprecated snapshots)
 docs/        Other DC-*-001 specs: agent governance (DAO loop, expert review, credential,
-             observability, verifiable rollout) and knowledge-layer/storage architecture
+             observability, verifiable rollout) and knowledge-layer/storage architecture,
+             plus platform/security/dual-lab architecture docs and the V24 unified source of truth
+reference/   V24 reading lists, unified taxonomy docs, research-field/DePIN matrices, master timeline
+scripts/     build_registry*.py — the scripts used to produce the DC-REG-001 snapshots
 ```
+
+Not included: raw conversation/project/memory export zips, installers/binaries, coursework, and
+ungrouped scratch files from the Downloads staging area — these aren't part of the document corpus.
 
 ## Pipeline standards (new)
 

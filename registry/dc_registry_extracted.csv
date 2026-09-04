@@ -1,0 +1,374 @@
+doc_id,mention_count,inferred_status,source_conversations,sample_context
+CST8182,15,draft,GPA calculation with course grades; Semester success and study strategy; Creating step-by-step lab manuals with instructions; Master Curriculum Development Guide; SSH configuration and lab cleanup procedures; Weekly Academic Schedule Planning; Course repository setup; Building projects from documentation to implementation; Semester success plan and schedule; Create; Weekly Schedule ICS Calendar; Preparing for Ottawa CyberSci competition; Project ideas from course syllabuses; DC-foundation-01 lab configuration and command line setup; Course Schedule ICS Calendar,"Networking Curriculum that integrates everything from our conversation into a beautifully organized reference document. This includes:
+
+🔧 **Complete CST8182 Integration**
+- Full course outline, CLOs, "
+CST8200,9,unclear,GPA calculation with course grades; Lab manuals with GUI and command line instructions; Creating a CLI lab manual with screenshots; Platform architecture and deployment strategy; Refining prompts through iterative critique; Building projects from documentation to implementation; Open source cybersecurity suite with AI integration; Creating comprehensive lab manuals from course materials; Open source enterprise IT stack for security services,"File Shares, and DFS: Now I'll create the final Lab 5 manual covering GPOs, RSOP, and Logging: I've created three comprehensive lab manuals for your CST8200 Windows Domain Administration course. Each "
+CST8202,25,unclear,GPA calculation with course grades; Weekly Academic Schedule Planning; Converting lab document to LaTeX; Course Schedule ICS Calendar; SBA practice lab manual with GUI and PowerShell instructions; Semester success plan and schedule; Master Curriculum Development Guide; Lab manual with terminal and GUI instructions; Weekly Schedule ICS Calendar; d90a1f60-1257-44bc-a02e-b2216f428e6a; CSV user import null name parameter error; Semester success and study strategy; Expanding lab manual with screenshots and deliverables; Course repository setup; Course Preparation Plan Integration; Create; Windows Admin Toolkit PowerShell project; DC-foundation-01 lab configuration and command line setup; Comprehensive VMware and Windows system guide; Building projects from documentation to implementation; LaTeX document formatting; Networking Course Success Strategy; Comprehensive lab manual design; Preparing for Ottawa CyberSci competition; Project ideas from course syllabuses,! in an artifact i want you to use the cst8182 curriculum as a template and apply it to this course I'll create a comprehensive curriculum system for CST8202 Windows Desktop Support using the same str
+CST8206,2,complete,GPA calculation with course grades; DC-foundation-01 lab configuration and command line setup,"ses are:
+
+| Level | Course | Hours |
+|---|---|---|
+| 02 | CST8200, CST8208, CST8305, CST8315, CST8324 | 294.0 |
+| 02 | LIB1982 Gen Ed | 42.0 |
+| 03 | CST8206, CST8246, CST8316, CST8342, CST8371, DAT01"
+CST8207,16,unclear,GPA calculation with course grades; Semester success and study strategy; Master Curriculum Development Guide; Weekly Academic Schedule Planning; Course repository setup; Course Preparation Plan Integration; Converting lab document to LaTeX; Building projects from documentation to implementation; Semester success plan and schedule; LaTeX document formatting; Weekly Schedule ICS Calendar; Create; Project ideas from course syllabuses; Open source cybersecurity suite with AI integration; DC-foundation-01 lab configuration and command line setup; Course Schedule ICS Calendar,"xpertise that employers value.
+
+Ready to master Windows desktop support? The complete system is ready for implementation! I'll create a comprehensive CST8207 GNU/Linux System Support curriculum system"
+CST8208,4,unclear,GPA calculation with course grades; Creating comprehensive lab manuals from course materials; Command line and GUI instructions; PC hardware and components quiz,"ate the remaining two study guides for CST8324 (Programming) and CST8200 (Windows Domain Administration), and also create a comprehensive PC Systems (CST8208) study guide based on the Jeopardy questio"
+CST8245,1,draft,Building projects from documentation to implementation,"rity; CST8323 *Cyber and Network Security* is the Networking version of CST8249 *Network Security*; and the database course is DAT0129 in Networking, CST8245 in Security. So the list works whichever p"
+CST8246,1,unclear,GPA calculation with course grades,"| Level | Course | Hours |
+|---|---|---|
+| 02 | CST8200, CST8208, CST8305, CST8315, CST8324 | 294.0 |
+| 02 | LIB1982 Gen Ed | 42.0 |
+| 03 | CST8206, CST8246, CST8316, CST8342, CST8371, DAT0129 | 336.0"
+CST8248,2,draft,GPA calculation with course grades; Building projects from documentation to implementation,"a, 69–99 is the security specialization.
+
+**I caught the places the two maps use different course names for the same slot** and flagged them inline — CST8248 is *Cloud Infrastructure Administration* i"
+CST8249,1,draft,Building projects from documentation to implementation,frastructure Administration* in Networking but *Emerging Technologies* in Security; CST8323 *Cyber and Network Security* is the Networking version of CST8249 *Network Security*; and the database cours
+CST8300,7,unclear,GPA calculation with course grades; Semester success and study strategy; Weekly Academic Schedule Planning; CST8300 Course Curriculum Template; Weekly Schedule ICS Calendar; Team project on technological innovations; Course Schedule ICS Calendar,"dy hours for each course; each course has a recommended amount of time for theory/lab/study,  MAT8002 3/0/3 CST8182 3/2/5 CST8207 3/2/4 CST8202 2/2/2 CST8300 3/0/3 ENL1813T 3/0/3 
+
+i also plan on stud"
+CST8305,9,unclear,GPA calculation with course grades; Managing local users and groups in Red Hat; Lab manuals with GUI and command line instructions; Comprehensive midterm study guide with commands; Platform architecture and deployment strategy; Refining prompts through iterative critique; Open source cybersecurity suite with AI integration; Creating comprehensive lab manuals from course materials; DC-foundation-01 lab configuration and command line setup,"our coursework and will serve as excellent reference materials for your lab demonstrations and skill-building assessments. [skip to main content
+
+26W_CST8305_AllSections GNU/Linux Server Administratio"
+CST8315,21,draft,Mobile SOC center setup options; GPA calculation with course grades; Building the D-Central sensor node POC; Tackling assignments; Inter-VLAN routing study preparation; Creating comprehensive lab manuals from course materials; Cisco Packet Tracer lab setup guide; Number base conversions and Boolean algebra quiz; Packet Tracer network configuration lab manual; 💬 I have an idea for the dcentra…; Requesting course extensions due to work conflicts; Open source cybersecurity suite with AI integration; DC-foundation-01 lab configuration and command line setup; AI-generated DAO governance and code risks; Enable ICMP ping via Windows Firewall command line; Platform architecture and deployment strategy; Coworker sessions context; Mesh Home; Building projects from documentation to implementation; Low-level programming labs prerequisites; Temu's hidden cash withdrawal requirements,"sensor input — the kind of thing you'd bench-test before specifying real hardware for OpenSecure.
+- **Learning embedded/firmware basics** — useful if CST8315 or later networking courses touch on IoT/e"
+CST8316,1,unclear,GPA calculation with course grades,"| Course | Hours |
+|---|---|---|
+| 02 | CST8200, CST8208, CST8305, CST8315, CST8324 | 294.0 |
+| 02 | LIB1982 Gen Ed | 42.0 |
+| 03 | CST8206, CST8246, CST8316, CST8342, CST8371, DAT0129 | 336.0 |
+| 04 "
+CST8317,1,unclear,GPA calculation with course grades,"8305, CST8315, CST8324 | 294.0 |
+| 02 | LIB1982 Gen Ed | 42.0 |
+| 03 | CST8206, CST8246, CST8316, CST8342, CST8371, DAT0129 | 336.0 |
+| 04 | CST8248, CST8317, CST8323, CST8378, ENL8720 | 266.0 |
+| 04 "
+CST8323,3,unclear,GPA calculation with course grades; DC-foundation-01 lab configuration and command line setup; Building projects from documentation to implementation,for the same slot** and flagged them inline — CST8248 is *Cloud Infrastructure Administration* in Networking but *Emerging Technologies* in Security; CST8323 *Cyber and Network Security* is the Networ
+CST8324,7,complete,GPA calculation with course grades; Lab 2 and worksheet 2 comprehensive manuals; Lab 5 manual: version control with Git and Hello World; Create; Open source cybersecurity suite with AI integration; Completing worksheet and lab file; Creating comprehensive lab manuals from course materials,"create a complete lab manual for lab 5 similar to that of lab 4 based on the criteria and review; 
+
+summission details [# CST8324 — Lab 5 Submission Details
+**Source:** `cst8324_lab5_SubmissionDetails"
+CST8342,1,unclear,GPA calculation with course grades,"| Hours |
+|---|---|---|
+| 02 | CST8200, CST8208, CST8305, CST8315, CST8324 | 294.0 |
+| 02 | LIB1982 Gen Ed | 42.0 |
+| 03 | CST8206, CST8246, CST8316, CST8342, CST8371, DAT0129 | 336.0 |
+| 04 | CST8248"
+CST8371,1,unclear,GPA calculation with course grades,"|---|---|---|
+| 02 | CST8200, CST8208, CST8305, CST8315, CST8324 | 294.0 |
+| 02 | LIB1982 Gen Ed | 42.0 |
+| 03 | CST8206, CST8246, CST8316, CST8342, CST8371, DAT0129 | 336.0 |
+| 04 | CST8248, CST8317,"
+CST8378,1,unclear,GPA calculation with course grades,"8324 | 294.0 |
+| 02 | LIB1982 Gen Ed | 42.0 |
+| 03 | CST8206, CST8246, CST8316, CST8342, CST8371, DAT0129 | 336.0 |
+| 04 | CST8248, CST8317, CST8323, CST8378, ENL8720 | 266.0 |
+| 04 | Gen Ed elective "
+CST8601,3,unclear,GPA calculation with course grades; Open source cybersecurity suite with AI integration; Building projects from documentation to implementation,"5, 8305, 8324, 8200, 8208, then 8371, 8246, 8342, 8317, 8378). The Security advanced diploma just keeps going into Levels 5–6 with the heavy stuff: **CST8601 Securing Routers & Switches, CST8602 Pen T"
+CST8602,3,unclear,GPA calculation with course grades; Open source cybersecurity suite with AI integration; Building projects from documentation to implementation,"8246, 8342, 8317, 8378). The Security advanced diploma just keeps going into Levels 5–6 with the heavy stuff: **CST8601 Securing Routers & Switches, CST8602 Pen Testing, CST8603 Security Law & Complia"
+CST8603,1,unclear,Building projects from documentation to implementation,"78). The Security advanced diploma just keeps going into Levels 5–6 with the heavy stuff: **CST8601 Securing Routers & Switches, CST8602 Pen Testing, CST8603 Security Law & Compliance, CST8604 Risk Ma"
+CST8604,1,unclear,Building projects from documentation to implementation,"just keeps going into Levels 5–6 with the heavy stuff: **CST8601 Securing Routers & Switches, CST8602 Pen Testing, CST8603 Security Law & Compliance, CST8604 Risk Management, CST8605 Advanced Security"
+CST8605,1,unclear,Building projects from documentation to implementation,"els 5–6 with the heavy stuff: **CST8601 Securing Routers & Switches, CST8602 Pen Testing, CST8603 Security Law & Compliance, CST8604 Risk Management, CST8605 Advanced Security Appliances, CST8606 Digi"
+CST8606,3,unclear,GPA calculation with course grades; Open source cybersecurity suite with AI integration; Building projects from documentation to implementation,"1 Securing Routers & Switches, CST8602 Pen Testing, CST8603 Security Law & Compliance, CST8604 Risk Management, CST8605 Advanced Security Appliances, CST8606 Digital Forensics, CST8607 Applied Cryptog"
+CST8607,1,draft,Building projects from documentation to implementation,"es, CST8602 Pen Testing, CST8603 Security Law & Compliance, CST8604 Risk Management, CST8605 Advanced Security Appliances, CST8606 Digital Forensics, CST8607 Applied Cryptography, CST8608 Incident Res"
+CST8608,1,draft,Building projects from documentation to implementation,"03 Security Law & Compliance, CST8604 Risk Management, CST8605 Advanced Security Appliances, CST8606 Digital Forensics, CST8607 Applied Cryptography, CST8608 Incident Response, CST8609 Business Contin"
+CST8609,2,draft,Open source cybersecurity suite with AI integration; Building projects from documentation to implementation,"e, CST8604 Risk Management, CST8605 Advanced Security Appliances, CST8606 Digital Forensics, CST8607 Applied Cryptography, CST8608 Incident Response, CST8609 Business Continuity & DR.** So the 99 spli"
+DC-AGD-001,3,executed,Modern police; Bio-inspired construction automation with swarm robotics; Building projects from documentation to implementation,"ous speech-quality audio. This is both the right call and your strongest legitimacy argument.
+
+Let me write it out. That's the full reference design, DC-AGD-001, covering every layer you asked for: th"
+DC-AGD-002,1,complete,Modern police,"ithout a central owner. Let me write the companion spec, then I'll give you the network-effects breakdown directly since you asked to be told. Done — DC-AGD-002 has the full three-DAO governance, the "
+DC-AGD-003,2,executed,Modern police; AI-generated DAO governance and code risks,"your design brief. The integration has to be built so it's the *answer* to that, not another instance of it.
+
+I've written the full integration spec, DC-AGD-003. DC-AGD-003 is done. The architecture i"
+DC-AGENT-001,1,unclear,Coworker sessions context,"Lightweight service mesh (Docker networks + Cloudflare routing rules) so one compromised agent has a contained blast radius
+
+**D-Central (more)**
+1. DC-AGENT-001 registry doc — formal agent roles, per"
+DC-ARCH-001,1,complete,Mesh Home,"ne. create complete technical documentation   I'll build this as a full technical document. Given the scope, I'll write it in sections iteratively. **DC-ARCH-001** is complete — 1,356 paragraphs, full"
+DC-ASSET-001,3,unclear,Decentralized networks for construction and landscaping; Finding past campus conversation; Mesh Home,"tworks. This expands the Diaspora Tranche alongside the Haitian corridor without any regulatory complexity.
+
+Third, the asset-as-service framing from DC-ASSET-001 — the insight that hardware justifica"
+DC-B2B-001,1,executed,Fixing operational visibility in decentralized construction,"b expansion   The visualization tool is timing out on my end right now — the document has everything you need. Here's the strategic summary of what **DC-B2B-001** builds.
+
+---
+
+**The thesis in one sen"
+DC-BEAM-001,1,unclear,Decentralized ecosystem design through emergent coordination,"ure: audio beams + wearable LENS for private visuals, with shared directional displays as a later tier.
+
+If you formalize this, it's really one spec: DC-BEAM-001 — ""spatially scoped channels"" covering"
+DC-BEAM-002,1,unclear,Decentralized ecosystem design through emergent coordination,"cheapest capability multiplier in your entire registry.
+
+The registry treatment: DC-BEAM-001 stays the channel spec, and this fleet retrofit becomes DC-BEAM-002 — ""Acoustic Plane: fleet integration pr"
+DC-CAMPUS-001,1,unclear,Mobile SOC center setup options,"hor node and shared yard**, while staying inside the same refused-departments and regulated-boundary limits as every other layer.
+
+Want me to write **DC-CAMPUS-001** as the proper capability spec — th"
+DC-CAMPUS-002,1,unclear,Mobile SOC center setup options,"individual homes around it, exactly the traditional structure.
+
+This is a significant enough synthesis that it deserves its own capstone document — **DC-CAMPUS-002 (or an amendment to your existing ca"
+DC-COMPUTE-001,2,executed,Modern police; Private credit market risks and refinancing challenges,"es, NGOs, other municipalities, build applications the original architects never imagined. This is the actual source of the network effects from your DC-COMPUTE-001 doc: a closed platform's capability"
+DC-COOP-001,2,complete,Fixing operational visibility in decentralized construction; Coworker sessions context,tually i want you to complete rebuild the company from the ground up using dcentral and ill adjust and remove the features i dont think will work   **DC-COOP-001** is registered. Here's what the full 
+DC-DEV-001,1,executed,Mobile SOC center setup options,"so I flagged that the durable design is the routing *tiers* (fast vs. accuracy-critical vs. rules), not the exact model names, since those rotate.
+
+**DC-DEV-001 — the mesh-native developer platform** "
+DC-DEVENV-001,1,unclear,D-Central ISP implementation in Haiti,", not a reuse.
+
+Everything else — identity, discovery, payment, transport — is composition of what already exists. If you want, I can turn this into `DC-DEVENV-001` and pin down the RepoAccessVC schem"
+DC-DISPATCH-002,1,draft,D-Central ISP implementation in Haiti,"d fail closed if the responding DID's role VC was just revoked, not deliver anyway.
+
+If you want, I can draft this as a proper spec — something like `DC-DISPATCH-002: General Role-Based Routing` — tha"
+DC-DMCA-001,1,draft,Decentralizing strategic chokepoints through global capital,"n D-Central's physical infrastructure verticals, but at the level of international maritime law.
+
+---
+
+Want me to draft this as a formal whitepaper — DC-DMCA-001 — in your document convention? This is"
+DC-ENERGY-001,1,unclear,Mesh Home,"WireGuard peer setup, MSSP NOC endpoint configuration, JIT credential provisioning |
+
+### Energy System
+
+| ID | Document | Purpose |
+|---|---|---|
+| DC-ENERGY-001 | Energy System Configuration Guide |"
+DC-ENERGY-002,1,unclear,Mesh Home,"Y-001 | Energy System Configuration Guide | Victron MultiPlus-II setup, EG4 battery commissioning, Cerbo GX configuration, VRM portal integration |
+| DC-ENERGY-002 | VPP Enrollment and Commissioning C"
+DC-ENERGY-003,1,unclear,Mesh Home,"ENERGY-002 | VPP Enrollment and Commissioning Checklist | Step-by-step for completing Hydro Ottawa net metering + IESO demand response enrollment |
+| DC-ENERGY-003 | OpenEVSE OCPP Integration Guide | "
+DC-ENERGY-004,1,unclear,Mesh Home,"enrollment |
+| DC-ENERGY-003 | OpenEVSE OCPP Integration Guide | EV charger configuration, OCPP 2.0.1 server setup, smart charge scheduling rules |
+| DC-ENERGY-004 | Waste Heat Recovery Installation S"
+DC-ENTERPRISE-001,1,unclear,Fixing operational visibility in decentralized construction,se Whitelabels the ecosystem and use it internally how would that look like and can there be hybrid   Now the interactive white-label configurator: **DC-ENTERPRISE-001** registered. System count is no
+DC-EVC-001,1,unclear,EV conversion business for vehicles and equipment,"ian household energy needs.
+
+## 5. Where it sits in the D-Central registry
+
+Practically, this would register as its own initiative — something like a DC-EVC-001 spec — sitting alongside TrafficMesh an"
+DC-FIN-001,1,referenced-only,Mobile SOC center setup options,"g appreciated property into the expansion vaults → the fractal self-finances. Each stage reduces dependence on the one before it.
+
+This wants to be **DC-FIN-001 — Ecosystem Funding & Financing Archite"
+DC-FOS-001,3,executed,Integrating OSIRIS into D-Central platform; Coworker sessions context; Fixing operational visibility in decentralized construction,"cident overlays, and speed enforcement events on a single map — without building that visualization stack from scratch.
+
+**D-FIELD / Sod Boys Ottawa (DC-FOS-001)**
+The map-first rendering + live layer"
+DC-FRACTAL-001,2,executed,Mobile SOC center setup options; Decentralized ride-sharing with DIDs and verifiable credentials,"incorporation and invoice #1.
+
+So the documentation set is now clear: **DC-TPL-000** (Template Standard: schema, lifecycle, changelog, validation), **DC-FRACTAL-001** (the Fractal Cell Architecture: c"
+DC-FULLSUITE-001,1,unclear,Decentralized ecosystem design through emergent coordination,"ially look into expanding the sensor node, agd, mesh, nation wide saturation and other level saturation the tiered home levels for the SHI node, etc. DC-FULLSUITE-001 is registered — the additive maxi"
+DC-GAP-001,1,unclear,Private credit market risks and refinancing challenges,"g, the energy infrastructure, the software stack with the GPU scheduler, the agent architecture, and the safety/compliance matrix — all with the same DC-GAP-001 corrections intact (T3 pilot, certified"
+DC-GOV-002,2,referenced-only,Mobile SOC center setup options; Coworker sessions context,"automation is the *last* thing you add to a business, not the first — a DAO can't save a nightclub with bad margins.
+
+This is worth formalizing as **DC-GOV-002: Conglomerate Governance & Capital Alloc"
+DC-HAITI-001,1,unclear,Mobile SOC center setup options,"olds regardless of who's in power, but the *timing* of all of it depends on security developments I shouldn't guess at.
+
+Want me to write this into **DC-HAITI-001 — Competitiveness Thesis & Honest Con"
+DC-HMCS-002,1,unclear,Decentralized ecosystem design through emergent coordination,"mapping, the two cautions — is basically the thesis statement of the HMCS whitepaper updated for everything designed this session. Worth capturing as DC-HMCS-002 when you're ready. What will be the in"
+DC-IMPACT-001,1,unclear,Mobile SOC center setup options,"g condition, and it's worth stating plainly in the docs so future-you (and future stewards) can't quietly let them erode.
+
+This deserves capture as **DC-IMPACT-001 — Community Economic Effects & Struc"
+DC-LIC-001,1,unclear,Mobile SOC center setup options,"— the family-office architecture: four layers, vault capital-allocation cycle, your time model at maturity, and the honest sequencing constraint.
+
+**DC-LIC-001** — the PSISA agency licence pathway ste"
+DC-LKB-001,2,executed,Mobile SOC center setup options; Decentralized family banking framework with modular services,"ctually written in your registry (from prior sessions, the solid foundation):* DC-SHI-SPEC-001 and -002 (the node master specs, deeply detailed), the DC-LKB-001/002/003 banking series, DC-SCALE-001, D"
+DC-LKB-002,1,complete,Decentralized family banking framework with modular services,"ation document. Four sections: API design, governance contract, LMIS module interface, and UX flows. Now the full technical specification document. **DC-LKB-002** is complete. Here's a precise breakdo"
+DC-LKB-003,1,complete,Decentralized family banking framework with modular services,"e, any membership model, any banking vertical, all on one open protocol. Let me build the complete architecture. Now the full v2 protocol document. **DC-LKB-003** — the full v2 protocol document — is "
+DC-LKF-001,2,executed,Coworker sessions context; Creating third places for men,"Not sure yet — you decide
+
+Q: How formal should the first deliverable be?
+A: Full spec doc (DC-XXX-001 style) I named it **Lakou Fraternity Network (DC-LKF-001)** — it reuses your existing Fractal DAO"
+DC-MOGUL-001,1,unclear,Mobile SOC center setup options,"the vault risk model (loss reserves, portfolio thinking across principals) or the first cohort's failures will drain the commons.
+
+This wants to be **DC-MOGUL-001: The Principal Track Protocol** — pro"
+DC-MONETARY-001,3,unclear,Decentralized networks for construction and landscaping; Finding past campus conversation; Mesh Home,"ity stack, the medical/banking/education service sectors, the cooperative housing model with CLT + LEHC + DECU, the multi-tier monetary architecture (DC-MONETARY-001), the GENIUS Act integration, the "
+DC-MSOC-001,1,unclear,Mobile SOC center setup options,"flagged.
+
+Where it *does* fit, sequenced properly:
+
+**Phase 1 (now–Month 6):** Nothing physical. At most, document the mobile SOC as a registry spec (DC-MSOC-001) so it's captured, then park it.
+
+**Ph"
+DC-NET-001,1,executed,Mesh Home,"heduler, event save mechanism, consent ledger write procedures |
+
+### Network and Compute Infrastructure
+
+| ID | Document | Purpose |
+|---|---|---|
+| DC-NET-001 | CUC Rack Build Specification | Physic"
+DC-NET-002,1,executed,Mesh Home,"ose |
+|---|---|---|
+| DC-NET-001 | CUC Rack Build Specification | Physical rack layout, cable management, component placement, power distribution |
+| DC-NET-002 | Network Architecture Specification | "
+DC-NET-003,1,unclear,Mesh Home,"tribution |
+| DC-NET-002 | Network Architecture Specification | Full VLAN topology, routing design, pfSense rule set, MikroTik edge configuration |
+| DC-NET-003 | Dual-WAN Failover Configuration Guide"
+DC-NET-004,1,unclear,Mesh Home,"ation |
+| DC-NET-003 | Dual-WAN Failover Configuration Guide | pfSense dual-WAN setup, failover thresholds, VPP signal continuity during failover |
+| DC-NET-004 | LiFi Network Integration Guide | Emit"
+DC-NET-005,1,unclear,Mesh Home,"ring failover |
+| DC-NET-004 | LiFi Network Integration Guide | Emitter configuration, PoE requirements, zone assignment, home OS SDN integration |
+| DC-NET-005 | ISP Integration Procedures | Bell Fib"
+DC-NET-006,1,unclear,Mesh Home,"DN integration |
+| DC-NET-005 | ISP Integration Procedures | Bell Fibe PPPoE setup, Rogers/Cogeco passthrough configuration, Starlink bypass mode |
+| DC-NET-006 | Remote Access and MSSP Tunnel Configu"
+DC-NET-007,1,unclear,Mesh Home,"es) | 🆕 |
+| DC-NET-006 | Dual-WAN Failover Configuration Guide (pfSense failover thresholds, VPP continuity, MSSP tunnel) | 📋 🔄 Rename and expand |
+| DC-NET-007 | ISP Integration Procedures (Bell Fibe"
+DC-NET-008,1,unclear,Mesh Home,"unnel) | 📋 🔄 Rename and expand |
+| DC-NET-007 | ISP Integration Procedures (Bell Fibe PPPoE, Rogers/Cogeco passthrough, Starlink bypass, FWA) | 📋 |
+| DC-NET-008 | Remote Access and MSSP Tunnel Configu"
+DC-NET-009,1,unclear,Mesh Home,"rough, Starlink bypass, FWA) | 📋 |
+| DC-NET-008 | Remote Access and MSSP Tunnel Configuration (WireGuard peers, NOC endpoint, JIT credential) | 📋 |
+| DC-NET-009 | LiFi Network Integration Guide (emitt"
+DC-NET-010,1,unclear,Mesh Home,"rs, NOC endpoint, JIT credential) | 📋 |
+| DC-NET-009 | LiFi Network Integration Guide (emitter config, PoE, zone assignment, SDN integration) | 📋 |
+| DC-NET-010 | BGP/ASN Registration Guide (future fa"
+DC-NET-011,1,unclear,Mesh Home,"gnment, SDN integration) | 📋 |
+| DC-NET-010 | BGP/ASN Registration Guide (future facilities-based ISP path — ARIN registration, MikroTik BGP) | 🆕 |
+| DC-NET-011 | Wholesale ISP Reseller Agreement Fram"
+DC-NETINFRA-001,2,complete,Fixing operational visibility in decentralized construction; Coworker sessions context,nt to start building any of these? I mean more for d-move and the other supporting infrastructure allowing companies to have the same flexibility   **DC-NETINFRA-001** registered. System count is now 
+DC-OPS-001,1,draft,Coworker sessions context,"go in Obsidian as dated entries, linked back to the relevant runbook — that becomes your postmortem trail
+
+If you want, I can draft this as a formal DC-OPS-001 registry doc in your existing style, or "
+DC-OS-001,2,unclear,Mobile SOC center setup options; Mesh Home,"hes you *this* language), the agent cabinet (agents and humans drive the same verbs), and the mesh (every cell is addressable). Worth specifying as **DC-OS-001 — the ecosystem shell and navigation gra"
+DC-OS-002,2,unclear,Mobile SOC center setup options; Mesh Home,"re's a spectrum from ""foreign web"" to ""fully native,"" and compatibility is the gradient between them.
+
+Here's the architecture, which I'll write as **DC-OS-002 — Interoperability & Compatible-Site Pro"
+DC-OS-003,1,executed,Mesh Home,"flows |
+| DC-OS-002 | Consent Engine Technical Specification | Tier definitions, consent ledger schema, PIPEDA compliance mapping, API contracts |
+| DC-OS-003 | VPP Integration Specification | OpenADR"
+DC-OS-004,1,executed,Mesh Home,"| VPP Integration Specification | OpenADR 2.0 client implementation, battery dispatch logic, solar forecast integration, EV scheduling algorithm |
+| DC-OS-004 | Zero-Trust Network Policy Specification"
+DC-OS-005,1,unclear,Mesh Home,"DC-OS-004 | Zero-Trust Network Policy Specification | VLAN definitions, firewall rule sets, WireGuard peer configuration, device onboarding flow |
+| DC-OS-005 | MSSP Heartbeat Protocol Specification |"
+DC-OS-006,1,unclear,Mesh Home,"ow |
+| DC-OS-005 | MSSP Heartbeat Protocol Specification | Encrypted signal schema, alert taxonomy, JIT access token lifecycle, MSSP API contract |
+| DC-OS-006 | Open SDK Developer Guide | Module sand"
+DC-OS-007,1,executed,Mesh Home,"OS-006 | Open SDK Developer Guide | Module sandbox API, data access contracts, consent requirements per data type, packaging and submission guide |
+| DC-OS-007 | Home OS Installation and Configuration"
+DC-OS-011,1,executed,Mesh Home,"corporation
+
+**This quarter:**
+- Pilot home SHI Tier 1 deployment (the first node)
+- COOP-001 through COOP-006: DHC and DECU foundational documents
+- DC-OS-011: D-Credit technical implementation
+- IRA"
+DC-OS-014,2,unclear,Decentralized networks for construction and landscaping; Mesh Home,"side GENIUS Act jurisdiction.
+
+**The three new integrations with the highest immediate value:**
+
+First, the GENIUS Act stablecoin compliance layer in DC-OS-014 (DCIX settlement protocol) — D-Central F"
+DC-OSINT-001,2,unclear,Integrating OSIRIS into D-Central platform; Private credit market risks and refinancing challenges,"e global frame needs |
+| TrafficMesh/CivicMesh, MeshPlate/Ear/Nav | Sensing + civic data | Open map/API public layer is its natural home |
+| OSIRIS / DC-OSINT-001 | Visualization/analytics + XR | Beco"
+DC-PLANE-001,6,unclear,Mobile SOC center setup options; Bio-inspired construction automation with swarm robotics; 💬 I have an idea for the dcentra…; GNS3 for decentralized ecosystem; Blue light poles mesh network integration; Decentralized ecosystem design through emergent coordination,"col. The site is just a new deployment surface for it.
+
+**What this means practically**
+
+There's no new architecture here. DC-AGD-001 gives the node, DC-PLANE-001 gives the channels, DC-SWARM-001 give"
+DC-PROCUREMENT-001,2,executed,Coworker sessions context; Building the D-Central sensor node POC,"der, or an SR&ED file. Nothing in the orb/wearable/CUC line gets you that for under $5K.
+
+Run it in parallel with the Phase 1 network foundation from DC-PROCUREMENT-001 — but scoped down to what dc-no"
+DC-REG-001,5,unclear,Mobile SOC center setup options; Finding past campus conversation; Mesh Home; Sovereign AI integration with D-Central blockchain; Private credit market risks and refinancing challenges,"cycle prediction
+- IronPulse equipment telemetry
+
+**Retrieval-Augmented Generation (RAG) on your doc registry** — near-term win:
+- Your 515-document DC-REG-001 registry becomes a sovereign knowledge b"
+DC-REINVEST-002,1,executed,Coworker sessions context,"esk + ergonomic chair | $300–800 |
+| Business VPN subscription | $60–120/yr |
+| UPS for workspace | $80–150 |
+
+**Note:** router is already covered in DC-REINVEST-002's homelab section ($150–220 for th"
+DC-REINVEST-003,1,unclear,Coworker sessions context,"old together as one set:
+
+1. **DC-CORP-FINANCE-001** — incorporation, contract, credit reality, funding stack, insurance, sequence of operations
+2. **DC-REINVEST-003** — the final procurement plan (su"
+DC-SAT-001,1,unclear,Mobile SOC center setup options,"l-but-far horizon** — and all of it lives under SkyLedger with the same sensing-boundary discipline as every other layer.
+
+Want me to write this as **DC-SAT-001**, structured as the signal catalogue ("
+DC-SCALE-001,2,executed,Mobile SOC center setup options; Decentralized ecosystem design through emergent coordination,"lly diaspora/community early adopters). This is where the Lakou framing becomes literal.
+- **Year 3+:** The 10³ operational break-even threshold from DC-SCALE-001 becomes the target, with the IESO VPP"
+DC-SCOUT-001,1,unclear,Fixing operational visibility in decentralized construction,"city, help me weave this into the dcentral architecture   Now the interactive simulator so you can actually see the zone pricing cascade in action: **DC-SCOUT-001** is registered. The simulator shows "
+DC-SENSE-001,1,executed,Mesh Home,"tep-by-step for SHI technician deploying the OS layer on a new CUC |
+
+### Sensing and Inference Pipeline
+
+| ID | Document | Purpose |
+|---|---|---|
+| DC-SENSE-001 | Sensor Mesh Deployment Guide | Per-"
+DC-SENSE-002,1,executed,Mesh Home,"-|---|
+| DC-SENSE-001 | Sensor Mesh Deployment Guide | Per-level installation procedures, mounting specs, calibration sequences, PoE requirements |
+| DC-SENSE-002 | NVIDIA Inference Pipeline Specifica"
+DC-SENSE-003,1,executed,Mesh Home,"ence Pipeline Specification | TensorRT model deployment, Triton server configuration, DeepStream pipeline topology, Holoscan sensor fusion design |
+| DC-SENSE-003 | L5 Multi-Camera Rig Calibration Pro"
+DC-SENSE-004,1,executed,Mesh Home,"|
+| DC-SENSE-003 | L5 Multi-Camera Rig Calibration Procedure | Extrinsic calibration protocol, 3DGS initialization, InsightFace model deployment |
+| DC-SENSE-004 | LiDAR SLAM Initialization Procedure "
+DC-SENSE-005,1,executed,Mesh Home,"ment |
+| DC-SENSE-004 | LiDAR SLAM Initialization Procedure | Livox Mid-360 configuration, ROS 2 driver setup, initial map generation walkthrough |
+| DC-SENSE-005 | Sensor Data Retention Policy (Techn"
+DC-SHELL-001,1,referenced-only,Modern police,"rs — and because Haiti has a world-class craft tradition that makes this idea genuinely sing. Got the references I need. Now the spec. The spec is in DC-SHELL-001, codename **Gadyen** (Haitian Creole "
+DC-SHI-001,1,complete,Mesh Home,"he SHI node including all tiers hardware fixture structural embeddings, software etc discussed in this chat This is the master integration document — DC-SHI-001, the complete technical specification t"
+DC-SIM-000,1,referenced-only,💬 I have an idea for the dcentra…,"hensive detailed documentation of this conversation and the sub documentation Nine documents, ~1,455 lines, following your registry conventions.
+
+- **DC-SIM-000** — index, document map, and the stop c"
+DC-SIM-001,1,referenced-only,💬 I have an idea for the dcentra…,"documentation Nine documents, ~1,455 lines, following your registry conventions.
+
+- **DC-SIM-000** — index, document map, and the stop condition
+- **DC-SIM-001** — fidelity reference; the core artifac"
+DC-SIM-002,1,referenced-only,💬 I have an idea for the dcentra…,"01** — fidelity reference; the core artifact, including the two traps that produce *wrong* conclusions (mesh link metrics, distributed inference)
+- **DC-SIM-002** — topology, node inventory, compute s"
+DC-SIM-003,1,executed,💬 I have an idea for the dcentra…,"t produce *wrong* conclusions (mesh link metrics, distributed inference)
+- **DC-SIM-002** — topology, node inventory, compute sizing, repo layout
+- **DC-SIM-003** — DC-OS Buildroot dual-arch spec, wit"
+DC-SIM-004,1,executed,💬 I have an idea for the dcentra…,"*DC-SIM-002** — topology, node inventory, compute sizing, repo layout
+- **DC-SIM-003** — DC-OS Buildroot dual-arch spec, with acceptance criteria
+- **DC-SIM-004** — scenario catalogue and mandatory wr"
+DC-SIM-005,1,executed,💬 I have an idea for the dcentra…,"*DC-SIM-003** — DC-OS Buildroot dual-arch spec, with acceptance criteria
+- **DC-SIM-004** — scenario catalogue and mandatory write-up limitations
+- **DC-SIM-005** — Cloud bridge, and the full-hardware"
+DC-SIM-006,1,executed,💬 I have an idea for the dcentra…,"riteria
+- **DC-SIM-004** — scenario catalogue and mandatory write-up limitations
+- **DC-SIM-005** — Cloud bridge, and the full-hardware inversion
+- **DC-SIM-006** — deployment ladder with the four reg"
+DC-SIM-007,1,executed,💬 I have an idea for the dcentra…,"- **DC-SIM-005** — Cloud bridge, and the full-hardware inversion
+- **DC-SIM-006** — deployment ladder with the four regulatory thresholds marked
+- **DC-SIM-007** — DAO governance across the three laye"
+DC-SIM-008,1,executed,💬 I have an idea for the dcentra…,"version
+- **DC-SIM-006** — deployment ladder with the four regulatory thresholds marked
+- **DC-SIM-007** — DAO governance across the three layers
+- **DC-SIM-008** — open decisions, FCN resolution flag"
+DC-SITE-001,2,executed,Coworker sessions context; Bio-inspired construction automation with swarm robotics,"The honest summary:** every layer above already exists as a specification. What this thread produced is a deployment surface, not new architecture — `DC-SITE-001` as an integration doc, not a program."
+DC-SKY-001,2,draft,Coworker sessions context; SkyLedger and XaaS model recall,"can add your drone to the fleet, they can assist in farming, construction and other such services using the dcentral philosophy and architecture   **DC-SKY-001 v1.0** is drafted. Here's what's in it:
+"
+DC-SKY-002,1,executed,SkyLedger and XaaS model recall,"hon, enforces safety constraints at the hardware level before arming, and signs every telemetry packet with the drone's DID key.
+
+**Still to build:** DC-SKY-002 through 006 — the edge agent spec, modu"
+DC-SQS-001,1,executed,Mesh Home,"your vitals, the grounds keeper already knows which plants are stressed, the electrician already knows which circuit. Seven tabs. This is document **DC-SQS-001** — the capstone that everything else in"
+DC-STATUS-001,12,complete,Mobile SOC center setup options; Bio-inspired construction automation with swarm robotics; Building the dcentral ecosystem through Company Zero; Coworker sessions context; Mesh Home; Fractal DAO granularity limits; D-Central ISP implementation in Haiti; Decentralized cooperative sales network for verified sellers; Decentralized ride-sharing with DIDs and verifiable credentials; AI-generated DAO governance and code risks; Building the D-Central sensor node POC; Decentralized ecosystem design through emergent coordination,"documented, practiced.
+
+*The one that applies to you specifically.* Building the operating system can consume the company it was meant to run. That's DC-STATUS-001 restated at the firm level: 95% desi"
+DC-STATUS-002,1,unclear,AI-generated DAO governance and code risks,"tests ✅, DSL determinism demo ✅, functioning multisig DAO ✅, two-node mesh ✅, LayRight in a paying (or at least piloting) contractor's hands. That's DC-STATUS-002 reading ""execution: begun"" — seven re"
+DC-STATUS-003,1,unclear,AI-generated DAO governance and code risks,"ng the T1 spec — the commercial and residential architectures visibly converging
+- **DSL paper submitted** somewhere real (workshop tier is fine)
+- **DC-STATUS-003** written: honest audit, same as 001"
+DC-SWARM-001,6,unclear,Mobile SOC center setup options; Bio-inspired construction automation with swarm robotics; 💬 I have an idea for the dcentra…; Decentralized ride-sharing with DIDs and verifiable credentials; GNS3 for decentralized ecosystem; Decentralized ecosystem design through emergent coordination,"oint. That's a live area (there's 2026 work on decision-focused learning for communication-free multi-robot allocation), and it's much closer to your DC-SWARM-001 thinking than the biomimetic-training"
+DC-SWARM-002,1,executed,Bio-inspired construction automation with swarm robotics,"he uncomfortable part directly, because you've named it yourself in the status finding: the failure mode here isn't technical, it's that this becomes DC-SWARM-002 — beautifully specified, never run. T"
+DC-TAG-001,1,unclear,Decentralized ecosystem design through emergent coordination,"ible split, and tag recyclability belongs in the spec.
+
+**Registry treatment**
+
+This is big enough to be its own document rather than an amendment: **DC-TAG-001 — Universal Object Layer**: the four-ti"
+DC-TPL-000,2,draft,Mobile SOC center setup options; Decentralized ride-sharing with DIDs and verifiable credentials,"nverse of where the ecosystem has lived so far. Incorporation and the first subcontract invoice are still the gate for everything.
+
+Want me to create DC-TPL-000 — the Template Standard itself (schema,"
+DC-VENTURE-001,1,unclear,Mobile SOC center setup options,"ction (from club+security) — your document's ""synergistic"" tier emerges from operations rather than being founded cold.
+
+Want me to formalize this as DC-VENTURE-001 — the venture sequencing registry w"
+DC-XXX-001,3,complete,AI-generated DAO governance and code risks; Creating third places for men; Decentralized cooperative sales network for verified sellers,"2 companies, orbs, wearables, ISPs, drones, banking protocols, satellite stacks — and zero nodes deployed, zero customers, zero legal entity. Writing DC-XXX-001 documents produces the *feeling* of ins"
+GEN1957,2,draft,Requesting course extensions due to work conflicts; Tackling assignments,"eline) embedded as in-world technical schematics Malik references, or keep the final piece pure prose? That affects how you draft it.
+
+3. **Check the GEN1957 due date again.** From the original assign"
+MAT8002,20,unclear,Mobile SOC center setup options; GPA calculation with course grades; MAT8002 Decimal Number System Guide; Creating additional midterm review documents; Weekly Academic Schedule Planning; Math assignment solutions; Course Schedule ICS Calendar; Weekly Schedule ICS Calendar; Tackling assignments; Semester success and study strategy; Statistics and probability problem set; Timeline; help me prepare for these cour...; Requesting course extensions due to work conflicts; Open source cybersecurity suite with AI integration; Coworker sessions context; CST8300 Course Curriculum Template; Academic assignment solution guide; Low-level programming labs prerequisites; Document transcription request,"rses, the flowchart diagram inlcudes the recommended study hours for each course; each course has a recommended amount of time for theory/lab/study,  MAT8002 3/0/3 CST8182 3/2/5 CST8207 3/2/4 CST8202 "
+OS-CPFQ-001,1,complete,OS-PACS Haitian localization gap analysis,"ce exceeds DAO-configured threshold  All five ZK mechanisms, full notification with dispute rights, DAO-defined scope per deployment. Building now. **OS-CPFQ-001 v1.0** — validated, 481 paragraphs, CC"
+OS-DCINT-001,1,draft,OS-PACS Haitian localization gap analysis,"documents before designing anything. Good. I now have a thorough picture of the entire D-Central ecosystem. Let me build the integration document. **OS-DCINT-001 v1.0** — validated, 595 paragraphs, CC"
+OS-OSIP-001,1,unclear,OS-PACS Haitian localization gap analysis,"ble({` needs `})`. The fix is line 253 needs `})]` → closes TableRow `})`, closes children array `]`, then `})]` closes rows array. Let me rewrite: **OS-OSIP-001 v1.0** — validated, 485 paragraphs, li"
+OS-SENSE-001,3,executed,Mesh Home; Timeline; Decentralized ecosystem design through emergent coordination,"ical research domain (spatial sensing, Li-Fi, LiDAR/ToF, NeRF, Gaussian Splatting, acoustic sensing) that maps directly onto the OpenSecure Platform (OS-SENSE-001, OS-PACS, OS-GUARDIAN, OS-SENTINEL, O"
