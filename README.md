@@ -8,6 +8,8 @@ Repo home for D-Central's numbered standards, taxonomy docs, and document regist
 standards/   00-05 numbered architecture/ops standards + DC-*-STD-001 pipeline standards
 taxonomy/    DC-TAXONOMY-001..009
 registry/    DC-REG-001 master document registry (v0.1, v0.2 — both deprecated snapshots)
+docs/        Other DC-*-001 specs: agent governance (DAO loop, expert review, credential,
+             observability, verifiable rollout) and knowledge-layer/storage architecture
 ```
 
 ## Pipeline standards (new)
