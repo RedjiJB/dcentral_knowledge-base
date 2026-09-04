@@ -16,6 +16,10 @@ scripts/       build_registry*.py (legacy) + extract_conversations.py (current S
 conversations/ Stage 1 extraction output: index of all 743 conversations + worked dedup example
 projects/      Stage 1 index (33 projects) + Stage 2 artifacts: all 428 KB docs extracted to
                projects/kb-docs/<project>/<doc>.md, indexed in projects/_kb_docs_index.md
+knowledge-base/ Stage 3 classification: the same 428 docs routed by category (dcentral-ecosystem,
+               security-identity, infrastructure-mesh, haiti-initiative, ai-ml-research,
+               verticals-products, academic-training, other-experimental) — regeneratable via
+               scripts/classify_docs.py, do not hand-edit
 raw-export/    Unzipped Claude export (conversations.json, project JSONs, memories) — git-ignored,
                this is extraction *input*, regenerate from the export zips + scripts/extract_conversations.py
 ```
