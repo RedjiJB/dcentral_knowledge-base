@@ -14,7 +14,8 @@ docs/          Other DC-*-001 specs: agent governance (DAO loop, expert review, 
 reference/     V24 reading lists, unified taxonomy docs, research-field/DePIN matrices, master timeline
 scripts/       build_registry*.py (legacy) + extract_conversations.py (current Stage 1/2 extractor)
 conversations/ Stage 1 extraction output: index of all 743 conversations + worked dedup example
-projects/      Stage 1 extraction output: index of all 33 projects and their KB doc counts
+projects/      Stage 1 index (33 projects) + Stage 2 artifacts: all 428 KB docs extracted to
+               projects/kb-docs/<project>/<doc>.md, indexed in projects/_kb_docs_index.md
 raw-export/    Unzipped Claude export (conversations.json, project JSONs, memories) — git-ignored,
                this is extraction *input*, regenerate from the export zips + scripts/extract_conversations.py
 ```

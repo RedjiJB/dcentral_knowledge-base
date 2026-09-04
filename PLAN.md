@@ -25,9 +25,9 @@ not versioned KB content; regenerate by re-unzipping the export and re-running t
 | Stage | Standard | Status |
 |---|---|---|
 | 1. Extract conversations | — | **Done.** `scripts/extract_conversations.py` → `conversations/_extracted_index.md` (743 rows: uuid, name, dates, doc-IDs mentioned) |
-| 2. Extract artifacts | — | **Partial.** Doc-ID mentions extracted into `registry/dc_registry_extracted_v2.csv` (136 unique IDs, full corpus — supersedes the stale 135-ID v1 CSV that only covered pattern-matching against a smaller pass). Project KB docs (428 of them, the actual artifact *content*, not just ID mentions) indexed by count only in `projects/_extracted_index.md` — not yet pulled out as individual files. |
-| 3. Classify → folder tree | — | **Not started.** No `mesh-services/`-style topic folder tree exists yet; conversations/projects are only in flat indexes. |
-| 4. Dedup/status pass | [DC-DEDUP-STD-001](standards/DC-DEDUP-STD-001.md) | **Not started** (needs Stage 3 first, per pipeline ordering §2). One manual example done by hand: the two identical Haiti-ISP chat exports were an "identity check" (§3 step 1) case — same content, kept one copy in `conversations/examples/`. |
+| 2. Extract artifacts | — | **Done.** `scripts/extract_project_docs.py` → all 428 project KB docs pulled out of `raw-export/projects/projects/*.json` as individual files under `projects/kb-docs/<project>/<doc>.md`, each with front matter (source project, doc uuid, created_at, sha256 content hash). Indexed in `projects/_kb_docs_index.md`. Doc-ID *mentions* in conversation text (separate from KB doc *content*) remain in `registry/dc_registry_extracted_v2.csv` (136 unique IDs). |
+| 3. Classify → folder tree | — | **Not started.** No `mesh-services/`-style topic folder tree exists yet; the 428 extracted docs sit in per-project folders (mirroring Claude's own Project structure), not yet reclassified by topic. |
+| 4. Dedup/status pass | [DC-DEDUP-STD-001](standards/DC-DEDUP-STD-001.md) | **Not started** as an automated pass, but **61 exact-content duplicates were already surfaced for free** by the Stage 2 extraction's content-hash check — see `projects/_kb_docs_index.md`'s "Exact duplicate of" column. These are ready-made §3-step-1 identity-check cases: same content hash, mechanical dedup, no judgment call needed. One earlier manual example also done by hand: the two identical Haiti-ISP chat exports (kept one copy in `conversations/examples/`). |
 | 5. Topic synthesis | [DC-TOPIC-SYNTH-STD-001](standards/DC-TOPIC-SYNTH-STD-001.md) | Not started. |
 | 6. Consolidator | [DC-CONSOLIDATOR-STD-001](standards/DC-CONSOLIDATOR-STD-001.md) | Not started. |
 | 7. Materialize filesystem | — | Not started. |
@@ -36,11 +36,13 @@ not versioned KB content; regenerate by re-unzipping the export and re-running t
 ## Known gaps in the extraction itself
 
 - **Project-to-conversation mapping is missing from the export** (Anthropic limitation, not ours) — the 743 conversations aren't tagged with which of the 33 projects they belong to. Stage 3 classification will have to infer folder placement from conversation content/title rather than reading it off a field.
-- **428 project KB docs are not yet extracted as individual files** — `projects/_extracted_index.md` only has per-project counts. Pulling each `doc` out of each project JSON (`raw-export/projects/projects/*.json` → `docs[]` → `title`/`content`) is the next concrete task under Stage 2, and is what actually populates the artifact layer the rest of the pipeline operates on.
 - **136 unique doc IDs found** in conversation text — this number should be reconciled against `registry/DC-REG-001-Master-Registry-v0.2.md`'s claimed 135 and against the actual 428 KB docs (a KB doc doesn't necessarily get its doc-ID mentioned inside conversation text, so these two counts measuring different things is expected, not a discrepancy to force-match).
+- **61 of 428 KB docs are exact content duplicates** of another doc already extracted (same sha256 hash) — see `projects/_kb_docs_index.md`. These are likely the same document uploaded to more than one project's knowledge base, not genuine content variants.
 
 ## Next concrete step
 
-Write `scripts/extract_project_docs.py`: walk `raw-export/projects/projects/*.json`, write each `docs[]` entry
-to `projects/kb-docs/<project-name>/<doc-title>.md` (or content-hash filename if titles collide). That's the
-actual Stage 2 artifact extraction the pipeline standards assume exists before Stage 3 classification can run.
+Stage 3 classification: design and build the actual topic/vertical folder tree (the `mesh-services/`-style
+structure from the pipeline standards) and write a script that routes each of the 428 extracted KB docs
+(and eventually the 743 conversations) into it — replacing the current per-Claude-Project folder mirroring
+in `projects/kb-docs/` with a structure organized by subject matter instead of by which Project the doc
+happened to be uploaded to.
