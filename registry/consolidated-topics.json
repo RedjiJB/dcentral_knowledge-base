@@ -23,6 +23,30 @@
     "consolidated_doc": "docs/DC-CM-ISC-LOAN-RECONCILED-001.md",
     "doc_count": 2
   },
+  "civicmesh-mitacs-accelerate-applications": {
+    "consolidated_doc": "docs/DC-CM-MITACS-RECONCILED-001.md",
+    "doc_count": 2
+  },
+  "civicmesh-partner-incentive-programmes": {
+    "consolidated_doc": "docs/DC-CM-PARTNER-INCENTIVES-RECONCILED-001.md",
+    "doc_count": 2
+  },
+  "civicmesh-security-response-training": {
+    "consolidated_doc": "docs/DC-CM-SECURITY-RESPONSE-RECONCILED-001.md",
+    "doc_count": 2
+  },
+  "civicmesh-technician-certification-training": {
+    "consolidated_doc": "docs/DC-CM-TECHNICIAN-CERT-RECONCILED-001.md",
+    "doc_count": 2
+  },
+  "civicmesh-trafficmesh-articles-of-incorporation": {
+    "consolidated_doc": "docs/DC-CM-TM-ARTICLES-RECONCILED-001.md",
+    "doc_count": 2
+  },
+  "dcentral-developer-ecosystem-os-specs": {
+    "consolidated_doc": "docs/DC-DEV-OS-RECONCILED-001.md",
+    "doc_count": 2
+  },
   "federated-learning-platform-community-sovereignty-cooperative": {
     "consolidated_doc": "docs/DC-FLP-SOVEREIGNTY-RECONCILED-001.md",
     "doc_count": 6

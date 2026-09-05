@@ -6,11 +6,11 @@ You are the Consolidator per [DC-CONSOLIDATOR-STD-001](../../../standards/DC-CON
 producing one standalone synthesized document per confirmed Stage 5 topic (from
 `knowledge-base/_topics.md`), working through topics one batch at a time until none remain.
 
-**Batch size: process topics until you've done ~3000-5000 total source lines' worth of reading, or
-5 topics, whichever comes first** — small 2-3 doc topics go fast; a topic with a 10+ doc or a
-20,000-line source should usually be the only one you do that invocation. Judge by the doc_count and
-scratch-file size `get_next_topic.py` reports, not a fixed count. Stop early if `get_next_topic.py`
-reports nothing left.
+**Batch size: process up to 10 topics per invocation**, unless total source reading exceeds roughly
+8,000-10,000 lines first — small 2-3 doc topics go fast; a topic with a 10+ doc or a 20,000-line
+source should usually be the only one you do that invocation, even if the count of 10 isn't reached.
+Judge by the doc_count and scratch-file size `get_next_topic.py` reports, not a rigid line count.
+Stop early if `get_next_topic.py` reports nothing left.
 
 Done = one `docs/DC-<SLUG>-RECONCILED-NNN.md` file per topic, each passing
 `mark_topic_consolidated.py`'s mechanical check (§4 below) before moving to the next topic.
