@@ -471,20 +471,46 @@ six-document construction-cooperative revision chain within one conversation) ex
 conversation exports and were invisible to every classification pass run so far, because none of them
 were ever uploaded to a Project.
 
-**Not yet done**: these 44 docs are extracted but unclassified — they haven't been through Stage 3
-(fine-grained classification), Stage 4 (dedup — at minimum `DC-REG-001-Master-Registry-v0.2.md` and
-`DC-REG-001-Master-Registry.md` look like they may be a revision pair, and `DC-COOP-001` has two
-versions v1.0/v2.0 within the same conversation), or Stage 5 (topic synthesis). They currently sit
-outside `knowledge-base/` entirely, in `conversations/artifacts/`.
+## Stage 3 extended to the 44 conversation-artifact docs — 472/472 classified
+
+`get_next_kb_doc.py` now reads from two sources: `projects/kb-docs/*/*.md` (the original 428) and
+`conversations/artifacts/*.md` (the 44 gap-fill docs above). Conversation-artifact docs have no
+`doc_uuid` of their own (they carry `doc_id`, e.g. `DC-SIM-003` — not unique, since a doc_id can have
+multiple revisions as separate files) — the artifact's filename stem is used as its `doc_uuid` instead,
+since that's guaranteed unique. `scripts/rebuild_knowledge_base_fine.py` (which targeted the now-retired
+`knowledge-base-fine/`) is replaced by `scripts/materialize_kb_docs.py`, which places newly-classified
+docs directly into `knowledge-base/` from either source, without touching docs already placed (so it
+can never clobber the Stage 4/5 metadata `reconcile_knowledge_base.py` attached).
+
+All 44 docs read and classified individually (not defaulted from their shared `conversation-artifacts`
+"project" label). Distribution: `business-legal` (11 — mostly the Sod Boys cooperative-transformation
+and procurement-plan documents), `meta/simulation` (10 — the full `DC-SIM-000`..`009` series, a brand
+new category that had zero docs before this batch), `core/governance` (6), `mesh-services/sensors-mobility`
+(3), `meta/platform-scaffolding` (3), `hardware/sensing-planes` (2), `meta/status-tracking` (2, the two
+`DC-REG-001` registry drafts), plus one each in `mesh-services/ai`, `hardware/campus`,
+`mesh-services/compute`, `verticals/social-comm`, `core/economics`, `security`, `mesh-services/connectivity`.
+
+**Flagged, not yet resolved (Stage 4's job)**: three explicit revision/supersession chains visible
+directly in the documents' own text, found while reading them for classification —
+`DC-COOP-001` v1.0 → v2.0 (v2.0 says "Supersedes: DC-COOP-001 v1.0"), `DC-REINVEST-001` → `002` → `003`
+(each explicitly supersedes the prior), and `DC-SIM-008` → `DC-SIM-009` (009 "Supersedes DC-SIM-008
+§§1-6, analysis retained"). The two `DC-REG-001-Master-Registry` files (`v0.2` vs. no-suffix) are also
+very likely a draft/final pair given their own text ("v0.1... treat as scaffold to correct and extend"
+vs. "v0.2 — merged from hand-curated draft (v0.1) + auto-extraction"). None of these were marked
+`status: superseded` in this pass — that's a real Stage 4 judgment call (verify by reading both
+sides, per DC-DEDUP-STD-001, not just trust the self-reported "Supersedes" line), not something to
+rubber-stamp during classification.
+
+Verified after: `wc -l knowledge-base/_kb_doc_classified.jsonl` → 472, and `find knowledge-base -name
+"*.md" ! -name "_*" | wc -l` → 472 — exact match, nothing missing or double-placed.
 
 ## Next concrete step
 
 Two threads, not mutually exclusive:
 
-1. **Route the 44 new conversation-artifact docs through Stages 3–5** — extend `classify-kb-doc` (or
-   a sibling script) to also read from `conversations/artifacts/`, not just `projects/kb-docs/`, then
-   run them through classification, dedup (the `DC-REG-001` and `DC-COOP-001` version pairs are the
-   obvious first dedup candidates), and topic synthesis alongside the existing 428.
+1. **Run Stage 4 (dedup) on the 44 new docs** — the four revision chains named directly above are the
+   places to start; each needs the same read-both-sides verification the original 428's dedup pass
+   used, not an automatic supersession just because a document says so about itself.
 2. More Stage 6 Consolidator passes: the four topic clusters named in earlier sessions still apply at
    their new fine-grained paths (`federation-sovereignty-cooperative-platforms`,
    `digital-community-participation-platforms`, `chopshop-project-documentation`,

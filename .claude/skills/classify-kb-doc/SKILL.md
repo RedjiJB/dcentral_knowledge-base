@@ -151,6 +151,12 @@ elsewhere. Classify what THIS document is about, not what its project is general
   assistant-reply openers, and duplicate abstracts). A validation rejection means re-read the
   document, never reword to slip past the check.
 - **Never re-classify an already-done doc_uuid** — `get_next_kb_doc.py` filters these out.
-- **After a full pass, run `python3 scripts/rebuild_knowledge_base_fine.py`** to materialize the
-  classified records into `knowledge-base-fine/<category>/<project>/<file>` — this only needs to
-  run once at the end (or after any batch, to check progress), not per document.
+- **After a batch, run `python3 scripts/materialize_kb_docs.py`** to place newly-classified docs into
+  `knowledge-base/<category>/<project>/<file>` — safe to run repeatedly; it only adds docs not yet
+  present and never touches docs already placed (which may carry Stage 4/5 metadata this script has
+  no business overwriting).
+- **Source docs come from two places**: `projects/kb-docs/*/*.md` (the original 428, uploaded to a
+  Project) and `conversations/artifacts/*.md` (44 more, created inline in a conversation via
+  `create_file` and never uploaded anywhere — see `extract_conversation_artifacts.py`). Both are
+  scoped by `get_next_kb_doc.py` the same way; conversation-artifact docs use their own filename stem
+  as `doc_uuid` (they don't have a real one) and `source_project: "conversation-artifacts"`.

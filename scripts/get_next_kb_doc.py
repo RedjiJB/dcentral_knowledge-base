@@ -11,8 +11,14 @@ doc's front matter + content to a scratch file, so a classification session neve
 has to hold more than one document in context at a time.
 
 Source of truth for "what needs classifying" is every .md file under
-projects/kb-docs/**/*.md (the Stage-2 project-mirror extraction) -- NOT the derived
-knowledge-base/ tree, which stays a Stage-3 output.
+projects/kb-docs/**/*.md (the Stage-2 project-mirror extraction) PLUS every .md file
+under conversations/artifacts/*.md (the Stage-2 gap-fill: docs created inline in a
+conversation via create_file and never uploaded to a Project -- see
+extract_conversation_artifacts.py) -- NOT the derived knowledge-base/ tree, which
+stays a Stage-3 output. Conversation-artifact docs have no doc_uuid of their own
+(they carry doc_id instead, e.g. "DC-SIM-003", which is NOT always unique -- a doc_id
+can have multiple revisions/versions as separate files); the artifact's filename stem
+is used as its doc_uuid instead, since that IS guaranteed unique.
 
 Usage: python3 scripts/get_next_kb_doc.py [--count N]
 Exit 0 + writes conversations/_scratch/current_kb_doc.json: one or more docs ready to classify.
@@ -35,6 +41,7 @@ for _stream in (sys.stdout, sys.stderr):
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 KB_DOCS_DIR = REPO_ROOT / "projects" / "kb-docs"
+ARTIFACTS_DIR = REPO_ROOT / "conversations" / "artifacts"
 CLASSIFIED_PATH = REPO_ROOT / "knowledge-base" / "_kb_doc_classified.jsonl"
 SCRATCH_PATH = REPO_ROOT / "conversations" / "_scratch" / "current_kb_doc.json"
 CONTENT_CHARS = 4000
@@ -80,7 +87,9 @@ def main():
         sys.exit(f"Missing {KB_DOCS_DIR}")
 
     done = load_done()
-    all_docs = sorted(KB_DOCS_DIR.glob("*/*.md"))
+    project_docs = sorted(KB_DOCS_DIR.glob("*/*.md"))
+    artifact_docs = sorted(ARTIFACTS_DIR.glob("*.md")) if ARTIFACTS_DIR.exists() else []
+    all_docs = project_docs + artifact_docs
     remaining = len(all_docs) - len(done)
 
     batch = []
@@ -88,14 +97,15 @@ def main():
         if len(batch) >= count:
             break
         front, body = parse_doc(path)
-        doc_uuid = front.get("doc_uuid", "")
+        is_artifact = path in artifact_docs
+        doc_uuid = path.stem if is_artifact else front.get("doc_uuid", "")
         if not doc_uuid or doc_uuid in done:
             continue
 
         batch.append({
             "doc_uuid": doc_uuid,
-            "source_project": front.get("source_project", ""),
-            "original_filename": front.get("original_filename", ""),
+            "source_project": "conversation-artifacts" if is_artifact else front.get("source_project", ""),
+            "original_filename": path.name if is_artifact else front.get("original_filename", ""),
             "relative_path": str(path.relative_to(REPO_ROOT)).replace("\\", "/"),
             "created_at": front.get("created_at", ""),
             "content_hash": front.get("content_hash", ""),
