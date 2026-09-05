@@ -5,7 +5,6 @@ doc_uuid: 539e0bd4-ceeb-48cd-ab98-4baad1477409
 original_filename: MKT-CCSC-003_Public_Consultation_Toolkit_v1.docx
 created_at: 2026-06-01T11:32:21.910108+00:00
 content_hash: 2c1b4b8f886f
-topic: communityshield-residential-deployment
 topic: "communityshield-hoa-deployment-package"
 ---
 

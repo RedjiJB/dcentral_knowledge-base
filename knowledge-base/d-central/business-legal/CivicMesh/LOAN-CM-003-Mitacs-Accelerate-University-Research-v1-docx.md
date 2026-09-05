@@ -6,7 +6,6 @@ original_filename: LOAN-CM-003_Mitacs_Accelerate_University_Research_v1.docx
 created_at: 2026-06-01T11:32:22.794799+00:00
 content_hash: 93c017a18f6e
 topic: civicmesh-mitacs-accelerate-applications
-topic: "mitacs-accelerate-applications"
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

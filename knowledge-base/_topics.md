@@ -111,11 +111,6 @@ the taxonomy category a document's own content earned it.
 - [d-central/business-legal/CivicMesh/MKT-CM-GOV-003-Government-Incentive-Programme-Brief-v1-docx.md](./d-central/business-legal/CivicMesh/MKT-CM-GOV-003-Government-Incentive-Programme-Brief-v1-docx.md)
 - [d-central/business-legal/CivicMesh/MKT-MSSP-001-MSSP-Partner-Programme-Prospectus-v1-docx.md](./d-central/business-legal/CivicMesh/MKT-MSSP-001-MSSP-Partner-Programme-Prospectus-v1-docx.md)
 
-## civicmesh-security-response-ops-training (2 docs)
-
-- [d-central/security/CivicMesh/OPS-GUARD-001-CivicMesh-Security-Response-SOP-v1-docx.md](./d-central/security/CivicMesh/OPS-GUARD-001-CivicMesh-Security-Response-SOP-v1-docx.md)
-- [d-central/security/CivicMesh/TRAIN-005-Track4-Security-Response-Curriculum-v1-docx.md](./d-central/security/CivicMesh/TRAIN-005-Track4-Security-Response-Curriculum-v1-docx.md)
-
 ## civicmesh-security-response-training (2 docs)
 
 - [d-central/security/CivicMesh/OPS-GUARD-001-CivicMesh-Security-Response-SOP-v1-docx.md](./d-central/security/CivicMesh/OPS-GUARD-001-CivicMesh-Security-Response-SOP-v1-docx.md)
@@ -146,13 +141,6 @@ the taxonomy category a document's own content earned it.
 - [d-central/core/identity/CivicMesh/DC-CM-B2B-005-Commercial-Driver-VC-Schema-v1-docx.md](./d-central/core/identity/CivicMesh/DC-CM-B2B-005-Commercial-Driver-VC-Schema-v1-docx.md)
 
 ## communityshield-hoa-deployment-package (4 docs)
-
-- [d-central/business-legal/CivicMesh/DEPLOY-CS-001-CommunityShield-HOA-Condo-Deployment-v1-docx.md](./d-central/business-legal/CivicMesh/DEPLOY-CS-001-CommunityShield-HOA-Condo-Deployment-v1-docx.md)
-- [d-central/business-legal/CivicMesh/DEPLOY-CS-002-CommunityShield-Apartment-Complex-Deployment-v1-docx.md](./d-central/business-legal/CivicMesh/DEPLOY-CS-002-CommunityShield-Apartment-Complex-Deployment-v1-docx.md)
-- [d-central/business-legal/CivicMesh/LEGAL-CM-012-HOA-Condo-Participation-Agreement-v1-docx.md](./d-central/business-legal/CivicMesh/LEGAL-CM-012-HOA-Condo-Participation-Agreement-v1-docx.md)
-- [d-central/business-legal/CivicMesh/MKT-CCSC-003-Public-Consultation-Toolkit-v1-docx.md](./d-central/business-legal/CivicMesh/MKT-CCSC-003-Public-Consultation-Toolkit-v1-docx.md)
-
-## communityshield-residential-deployment (4 docs)
 
 - [d-central/business-legal/CivicMesh/DEPLOY-CS-001-CommunityShield-HOA-Condo-Deployment-v1-docx.md](./d-central/business-legal/CivicMesh/DEPLOY-CS-001-CommunityShield-HOA-Condo-Deployment-v1-docx.md)
 - [d-central/business-legal/CivicMesh/DEPLOY-CS-002-CommunityShield-Apartment-Complex-Deployment-v1-docx.md](./d-central/business-legal/CivicMesh/DEPLOY-CS-002-CommunityShield-Apartment-Complex-Deployment-v1-docx.md)
@@ -486,11 +474,6 @@ the taxonomy category a document's own content earned it.
 - [d-central/security/CivicMesh/REG-CM-001-CivicMesh-PIPEDA-Compliance-Framework-v1-docx.md](./d-central/security/CivicMesh/REG-CM-001-CivicMesh-PIPEDA-Compliance-Framework-v1-docx.md)
 - [d-central/security/CivicMesh/REG-CS-001-CommunityShield-Surveillance-Regulatory-Analysis-v1-docx.md](./d-central/security/CivicMesh/REG-CS-001-CommunityShield-Surveillance-Regulatory-Analysis-v1-docx.md)
 
-## mitacs-accelerate-applications (2 docs)
-
-- [d-central/business-legal/CivicMesh/LOAN-CM-003-Mitacs-Accelerate-University-Research-v1-docx.md](./d-central/business-legal/CivicMesh/LOAN-CM-003-Mitacs-Accelerate-University-Research-v1-docx.md)
-- [d-central/business-legal/CivicMesh/LOAN-CM-004-Mitacs-Accelerate-Entrepreneur-v1-docx.md](./d-central/business-legal/CivicMesh/LOAN-CM-004-Mitacs-Accelerate-Entrepreneur-v1-docx.md)
-
 ## openpiv-pacs-integration-suite (4 docs)
 
 - [d-central/security/Open-Secure/OpenPIV-Implementation-Roadmap-md.md](./d-central/security/Open-Secure/OpenPIV-Implementation-Roadmap-md.md)
@@ -581,11 +564,6 @@ the taxonomy category a document's own content earned it.
 - [d-central/security/Open-Secure/OpenSecure-Hub-Logical-Topology-md.md](./d-central/security/Open-Secure/OpenSecure-Hub-Logical-Topology-md.md)
 - [d-central/security/Open-Secure/OpenSecure-Hub-Network-Topology-md.md](./d-central/security/Open-Secure/OpenSecure-Hub-Network-Topology-md.md)
 - [d-central/meta/status-tracking/Open-Secure/TOPOLOGY-SUITE-SUMMARY-md.md](./d-central/meta/status-tracking/Open-Secure/TOPOLOGY-SUITE-SUMMARY-md.md)
-
-## os-drone-advanced-capabilities (2 docs)
-
-- [d-central/security/Open-Secure/OS-DRONE-Advanced-Visual-Intelligence-md.md](./d-central/security/Open-Secure/OS-DRONE-Advanced-Visual-Intelligence-md.md)
-- [d-central/security/Open-Secure/OS-DRONE-Federation-3D-Spatial-md.md](./d-central/security/Open-Secure/OS-DRONE-Federation-3D-Spatial-md.md)
 
 ## provincial-security-network-programs (5 docs)
 

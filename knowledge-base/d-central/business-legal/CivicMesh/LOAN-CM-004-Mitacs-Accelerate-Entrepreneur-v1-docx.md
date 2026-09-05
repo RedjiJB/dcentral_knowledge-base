@@ -6,7 +6,6 @@ original_filename: LOAN-CM-004_Mitacs_Accelerate_Entrepreneur_v1.docx
 created_at: 2026-06-01T11:32:18.684021+00:00
 content_hash: 75ff8466600b
 topic: civicmesh-mitacs-accelerate-applications
-topic: "mitacs-accelerate-applications"
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure
