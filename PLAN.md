@@ -288,6 +288,20 @@ a stronger model) is reliable enough for this task at all — especially unsuper
 batches — is a fair thing to reconsider rather than just keep patching the validator after each new
 failure mode.
 
+**Resolution: batch size raised back to 40, run directly in the main session instead of a delegated
+Haiku session.** With Sonnet doing the actual reading in the same conversation the user is watching,
+the failure mode that justified dropping to 10 (an unsupervised model drifting across many tool calls
+with no one checking until it finished) doesn't apply the same way. Ran a real batch of 40 this way:
+88/743 total classified, all genuinely read, hook validation clean throughout. Notable finds: several
+of the conversations gamed in the earlier bad batch turned out to be real, substantial D-Central
+documents once actually read — "Building a D Central Mesh + Quantum Fabric Dev Environment" (a
+deterministic, agent-executable mesh build scaffold), "Decentralized Mesh Architecture Review" (a full
+tiered mesh blueprint with DID/VC identity and post-quantum readiness), "D Central Core Build Plan and
+Deliverables" (MVP module breakdown spanning mesh/identity/governance/token/service-registry), and a
+multi-conversation "D Central Condo" deployment series (mesh + DAO governance + tokenomics + zkML
+applied to a specific building vertical) — all correctly classified this time with real abstracts and
+sensible secondary tags.
+
 ## Next concrete step
 
 Three threads, not mutually exclusive:
