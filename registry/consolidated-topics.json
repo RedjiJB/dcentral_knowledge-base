@@ -11,6 +11,10 @@
     "consolidated_doc": "docs/DC-CM-COOP-LEGAL-RECONCILED-001.md",
     "doc_count": 2
   },
+  "civicmesh-federation-noc-municipal-deployment": {
+    "consolidated_doc": "docs/DC-CIVICMESH-FEDERATION-NOC-MUNICIPAL-RECONCILED-001.md",
+    "doc_count": 5
+  },
   "civicmesh-financial-unit-economics": {
     "consolidated_doc": "docs/DC-CM-UNIT-ECONOMICS-RECONCILED-001.md",
     "doc_count": 2
@@ -63,6 +67,10 @@
     "consolidated_doc": "docs/DC-CM-TM-GRANT-FUNDING-RECONCILED-001.md",
     "doc_count": 3
   },
+  "commercial-b2b-vehicle-fleet-programme": {
+    "consolidated_doc": "docs/DC-CM-COMMERCIAL-B2B-VEHICLE-FLEET-RECONCILED-001.md",
+    "doc_count": 5
+  },
   "communityshield-hoa-deployment-package": {
     "consolidated_doc": "docs/DC-CS-HOA-DEPLOYMENT-RECONCILED-001.md",
     "doc_count": 4
@@ -99,6 +107,10 @@
     "consolidated_doc": "docs/DC-REINVEST-PROCUREMENT-RECONCILED-001.md",
     "doc_count": 3
   },
+  "dcentral-venture-governance-protocol-suite": {
+    "consolidated_doc": "docs/DC-VENTURE-GOVERNANCE-PROTOCOL-SUITE-RECONCILED-001.md",
+    "doc_count": 5
+  },
   "dion-operator-deployment-credentialing": {
     "consolidated_doc": "docs/DC-DION-OPERATOR-DEPLOYMENT-RECONCILED-001.md",
     "doc_count": 4
@@ -110,6 +122,10 @@
   "dion-platform-expansion-explanation": {
     "consolidated_doc": "docs/DC-DION-EXPANSION-EXPLANATION-RECONCILED-001.md",
     "doc_count": 3
+  },
+  "dion-platform-technical-architecture": {
+    "consolidated_doc": "docs/DC-DION-PLATFORM-TECHNICAL-ARCHITECTURE-RECONCILED-001.md",
+    "doc_count": 5
   },
   "drone-zoe-hardware-selection-guides": {
     "consolidated_doc": "docs/DC-DRONE-HARDWARE-RECONCILED-001.md",
