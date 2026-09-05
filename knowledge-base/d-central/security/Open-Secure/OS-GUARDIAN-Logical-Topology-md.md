@@ -5,6 +5,7 @@ doc_uuid: 457d8a37-559f-41fa-8fe1-80c9d6ecf18e
 original_filename: OS-GUARDIAN_Logical_Topology.md
 created_at: 2026-03-04T20:35:37.848975+00:00
 content_hash: d2e42c1a450c
+topic: "opensecure-topology-documentation-suite"
 ---
 
 # OS-GUARDIAN Logical Topology

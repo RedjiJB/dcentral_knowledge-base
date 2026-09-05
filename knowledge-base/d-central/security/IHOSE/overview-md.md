@@ -6,6 +6,7 @@ original_filename: overview.md
 created_at: 2025-12-02T00:47:55.827432+00:00
 content_hash: 1503b4f28db6
 topic: ihose-architecture-deployment
+topic: "ihose-openvision-documentation-package"
 ---
 
 # System Architecture Overview

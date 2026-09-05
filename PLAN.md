@@ -535,6 +535,70 @@ DC-DEDUP-STD-001 warns about (don't trust a document's self-description, verify 
 `scripts/dedup_conversation_artifacts.py` applies all four verdicts. Verified after: still 472 files in
 `knowledge-base/`, none lost — the 2 duplicate `DC-REG-001` copies moved to `_superseded/`, not deleted.
 
+## Stage 5 topic synthesis: `security` and `business-legal`
+
+Before clustering, ran `scripts/dedup_exact_hash.py` against both categories — a genuine,
+previously-unaddressed Stage 4 gap: several `Open-Secure` and cross-`D-Central-*`-project docs had
+identical SHA-256 body hashes (some already flagged "Exact-content duplicate of..." in their own Stage 3
+abstract, but never actually moved to `_superseded/`). Resolved 15 duplicate copies (7 security, 8
+business-legal) before clustering, so they wouldn't skew the lexical candidates. `security` went from 99
+→ 73 docs after this plus the earlier 44-doc addition; `business-legal` went 100 → 98.
+
+Ran `scripts/topic_candidates.py` (new — the old `topic_synthesis.py` assumed the now-defunct top-level
+`knowledge-base/<cat>/` layout; this version takes one `knowledge-base/d-central/<cat>/` directory at a
+time and, per the lesson from the reconciliation bug above, writes ONLY a scratch review file — never
+`topic:` front matter — until a real subject-check confirms each cluster). Then read every candidate
+cluster's actual docs per DC-TOPIC-SYNTH-STD-001 §4, confirming, splitting, merging, or rejecting each:
+
+- **`security`** (18 lexical candidates → 9 confirmed topics, 61 docs): the lexical pass fragmented the
+  IHOSE/OpenVision documentation set across 7 different candidate groups (general architecture,
+  quickstart/install, executive-summary pair, enterprise-deployment trio, module-dev pair,
+  docker-compose pair, plus loose singletons) purely because filenames vary
+  (`README-md` vs `TECHNICAL-ARCHITECTURE-md` vs `01-OpenVision-Architecture-docx`, etc.) — reading them
+  confirmed they're all genuinely one platform's documentation set, merged into
+  `ihose-openvision-documentation-package` (19 docs). Similarly split the fragmented Open-Secure
+  architecture/topology docs into two real topics by what they actually describe:
+  `opensecure-topology-documentation-suite` (15 docs — network/logical topology + technical architecture
+  + hub implementation guide + the digital-twin doc, which the lexical pass had wrongly grouped with the
+  unrelated "Sectors" use-case docs instead) and `opensecure-per-service-implementation-guides` (5 docs,
+  one per OS-* service). Confirmed cleanly as-is: `opensecure-sector-use-case-analyses` (5),
+  `provincial-security-network-programs` (5), `openpiv-pacs-integration-suite` (4). Split out
+  `os-drone-advanced-capabilities` (2) as its own topic rather than folding into the Sectors cluster —
+  visual-intelligence/3D-spatial content, not a sector use case. Expanded
+  `meshplate-federation-privacy-compliance` from the lexical pass's 3 docs to 4 by adding the singleton
+  `REG-CS-001-CommunityShield-Surveillance-Regulatory-Analysis`, genuinely the same subject. Confirmed
+  `civicmesh-security-response-training` (2). **Rejected** several lexical pairings as incidental
+  vocabulary overlap, not real subjects: `museum-agriculture-use-case` (pulled into the Sectors cluster
+  by generic wording, not an actual sector doc), and the `haiti-drone-cooperative-framework` /
+  `comprehensive-military-security-analysis` pairing (different subjects entirely). 12 docs left
+  ungrouped (9 original singletons + 3 rejected pairings).
+- **`business-legal`** (17 lexical candidates → 14 confirmed topics, 50 docs): the largest lexical
+  cluster (`equipment-high-monitoring`, 19 docs) was mostly noise — a grab-bag spanning cooperative
+  business plans, B2B expansion, critical-market analyses, and unrelated chat exports with no shared
+  subject — split into two real topics that survived a read (`ihose-business-strategy-documents`, 4 docs;
+  `mesh-cooperative-business-model-framework`, 6 docs, including both `DC-COOP-001` versions) plus 7 docs
+  rejected back to ungrouped. Similarly trimmed `streams-delivery-predictive` down to
+  `mesh-food-economy-business-models` (4 of 6 docs — the generic pitch-template and value-chain-viz docs
+  aren't food-specific despite the lexical overlap). Confirmed cleanly: `communityshield-hoa-deployment-
+  package` (4), `civicmesh-investor-pitch-decks` (4), `civicmesh-government-funding-applications` (4),
+  `dcentral-reinvestment-procurement-plans` (3, matching the Stage 4 chain already resolved above),
+  `civicmesh-competitive-analysis` (2), `civicmesh-cooperative-legal-structures` (2 — same slug and
+  membership as an existing topic from an earlier pass), `mitacs-accelerate-applications` (2),
+  `civicmesh-trafficmesh-articles-of-incorporation` (2), `fediverse-academic-institution-services` (2),
+  `trafficmesh-ontario-regulatory-compliance` (2). **Merged** two separate lexical candidates
+  (`slides-narrative-live` + `bus-property-alerts`) into one `trafficmesh-ottawa-government-engagement`
+  (4 docs) — same city-engagement program, just split by document type (presentation vs. deployment
+  plan) in the lexical pass. **Rejected**: `field-drivers-driver` (4 docs spanning unrelated subjects —
+  commercial-vehicle programme, white-label enterprise, SodBoys, network infra), `unit-projections-
+  professional` (cost analysis vs. general business model — different subjects), `slides-officer-
+  narrative` (investor deck vs. MSSP recruitment deck — different subjects). 48 docs left ungrouped.
+
+Applied via `scripts/apply_confirmed_topics.py` (writes `topic:` front matter only for the confirmed
+final verdicts above, never the raw lexical output) and `scripts/insert_new_topics.py` (merged the 22
+genuinely-new topic sections into the consolidated root `_topics.md`, alphabetically, matching the
+existing format). **Root `_topics.md` now holds 77 confirmed topic clusters, 343 docs clustered** (up
+from 55/238) — `_topics_summary.md` updated to match.
+
 ## Next concrete step
 
 One thread:
@@ -542,6 +606,5 @@ One thread:
 1. More Stage 6 Consolidator passes: the four topic clusters named in earlier sessions still apply at
    their new fine-grained paths (`federation-sovereignty-cooperative-platforms`,
    `digital-community-participation-platforms`, `chopshop-project-documentation`,
-   `haiti-integration-platforms`) — plus the newly-visible `security` (99 docs) and `business-legal`
-   (100 docs) fine-grained categories are large enough to warrant their own topic-synthesis pass before
-   any Stage 6 consolidation.
+   `haiti-integration-platforms`) — plus the newly-confirmed `security` and `business-legal` topics above
+   are now candidates for the same treatment.

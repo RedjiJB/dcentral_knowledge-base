@@ -6,6 +6,7 @@ original_filename: TRAIN-005_Track4_Security_Response_Curriculum_v1.docx
 created_at: 2026-06-01T11:32:21.278810+00:00
 content_hash: b126a1698236
 topic: civicmesh-security-response-ops-training
+topic: "civicmesh-security-response-training"
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

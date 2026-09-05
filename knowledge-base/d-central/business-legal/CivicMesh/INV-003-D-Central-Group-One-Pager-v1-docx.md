@@ -6,6 +6,7 @@ original_filename: INV-003_D-Central_Group_One-Pager_v1.docx
 created_at: 2026-06-01T11:32:21.050167+00:00
 content_hash: 7b46d3274d38
 topic: dcentral-presentation-decks
+topic: "civicmesh-investor-pitch-decks"
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

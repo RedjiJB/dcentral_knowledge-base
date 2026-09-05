@@ -6,6 +6,7 @@ original_filename: install.sh
 created_at: 2025-12-02T00:47:55.067525+00:00
 content_hash: a0c26462eb3e
 topic: ihose-quickstart-install
+topic: "ihose-openvision-documentation-package"
 ---
 
 #!/bin/bash

@@ -6,6 +6,7 @@ original_filename: REG-TM-002_TrafficMesh_Provincial_Variation_Matrix_v1.docx
 created_at: 2026-06-01T11:32:18.658214+00:00
 content_hash: 91284a2a1bef
 topic: trafficmesh-legal-regulatory-compliance
+topic: "trafficmesh-ontario-regulatory-compliance"
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

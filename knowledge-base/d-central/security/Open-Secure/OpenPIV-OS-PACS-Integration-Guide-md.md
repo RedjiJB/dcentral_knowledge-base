@@ -6,6 +6,7 @@ original_filename: OpenPIV_OS-PACS_Integration_Guide.md
 created_at: 2026-03-04T20:36:56.701363+00:00
 content_hash: 568e17365ac2
 topic: opensecure-openpiv-subsystem
+topic: "openpiv-pacs-integration-suite"
 ---
 
 # OpenPIV + OS-PACS Integration Guide

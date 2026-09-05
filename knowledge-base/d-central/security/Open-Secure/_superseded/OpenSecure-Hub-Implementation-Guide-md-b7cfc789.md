@@ -5,6 +5,9 @@ doc_uuid: b7cfc789-fa23-40c7-9148-e1594e783dae
 original_filename: OpenSecure_Hub_Implementation_Guide.md
 created_at: 2026-03-04T20:36:31.961063+00:00
 content_hash: 5851010d8475
+status: "duplicate"
+duplicate_of: "knowledge-base/d-central/security/Open-Secure/OpenSecure-Hub-Implementation-Guide-md.md"
+duplicate_reason: "exact body-hash match within the same category, resolved during Stage 5 topic-synthesis prep (never went through Stage 4 exact-hash dedup, which only covered the original 428 docs before this fine-grained reclassification)"
 ---
 
 # OpenSecure Hub Implementation Guide

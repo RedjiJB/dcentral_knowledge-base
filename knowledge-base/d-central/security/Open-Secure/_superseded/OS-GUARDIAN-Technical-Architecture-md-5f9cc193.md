@@ -5,6 +5,9 @@ doc_uuid: 5f9cc193-6ce6-4b45-86bb-ebb3af3d5fc7
 original_filename: OS-GUARDIAN_Technical_Architecture.md
 created_at: 2026-03-04T20:35:38.685520+00:00
 content_hash: 19c920013b67
+status: "duplicate"
+duplicate_of: "knowledge-base/d-central/security/Open-Secure/OS-GUARDIAN-Technical-Architecture-md.md"
+duplicate_reason: "exact body-hash match within the same category, resolved during Stage 5 topic-synthesis prep (never went through Stage 4 exact-hash dedup, which only covered the original 428 docs before this fine-grained reclassification)"
 ---
 
 # OS-GUARDIAN - Complete Technical Architecture

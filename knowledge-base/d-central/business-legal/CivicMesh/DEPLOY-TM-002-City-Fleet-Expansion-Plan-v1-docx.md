@@ -6,6 +6,7 @@ original_filename: DEPLOY-TM-002_City_Fleet_Expansion_Plan_v1.docx
 created_at: 2026-06-01T11:32:19.955165+00:00
 content_hash: e869d3ccd0fa
 topic: trafficmesh-city-fleet-deployment
+topic: "trafficmesh-ottawa-government-engagement"
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

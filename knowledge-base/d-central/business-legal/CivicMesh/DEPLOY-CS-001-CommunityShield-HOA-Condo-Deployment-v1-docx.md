@@ -6,6 +6,7 @@ original_filename: DEPLOY-CS-001_CommunityShield_HOA_Condo_Deployment_v1.docx
 created_at: 2026-06-01T11:32:20.766072+00:00
 content_hash: 93f1120f4d5d
 topic: communityshield-residential-deployment
+topic: "communityshield-hoa-deployment-package"
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

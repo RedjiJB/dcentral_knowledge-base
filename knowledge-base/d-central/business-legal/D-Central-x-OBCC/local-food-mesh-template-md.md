@@ -5,6 +5,7 @@ doc_uuid: 36ec5d7f-5710-4a32-85c7-40ec54689f92
 original_filename: local-food-mesh-template.md
 created_at: 2025-06-06T17:46:36.374896+00:00
 content_hash: 1ea6bd257066
+topic: "mesh-food-economy-business-models"
 ---
 
 # Local Food Industry Mesh Network Transformation Template

@@ -6,6 +6,7 @@ original_filename: OS-GUARDIAN_Technical_Architecture.md
 created_at: 2026-03-04T20:30:19.372173+00:00
 content_hash: 19c920013b67
 topic: opensecure-guardian-sentinel-architecture
+topic: "opensecure-topology-documentation-suite"
 ---
 
 # OS-GUARDIAN - Complete Technical Architecture

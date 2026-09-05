@@ -6,6 +6,7 @@ original_filename: LEGAL-CM-012_HOA_Condo_Participation_Agreement_v1.docx
 created_at: 2026-06-01T11:32:21.737785+00:00
 content_hash: c487fa76a776
 topic: communityshield-residential-deployment
+topic: "communityshield-hoa-deployment-package"
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

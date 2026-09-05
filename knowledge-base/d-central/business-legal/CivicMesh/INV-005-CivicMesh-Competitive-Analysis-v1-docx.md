@@ -6,6 +6,7 @@ original_filename: INV-005_CivicMesh_Competitive_Analysis_v1.docx
 created_at: 2026-06-01T11:32:21.046346+00:00
 content_hash: 7277bba1ec38
 topic: dcentral-competitive-strategy-analysis
+topic: "civicmesh-competitive-analysis"
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

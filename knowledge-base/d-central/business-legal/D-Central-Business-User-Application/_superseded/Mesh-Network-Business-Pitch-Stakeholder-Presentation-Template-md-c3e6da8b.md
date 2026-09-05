@@ -5,6 +5,9 @@ doc_uuid: c3e6da8b-ec97-40e3-b1ab-4b233b2a260b
 original_filename: Mesh Network Business Pitch & Stakeholder Presentation Template.md
 created_at: 2025-06-06T13:51:00.142056+00:00
 content_hash: 5ec0ba6a668d
+status: "duplicate"
+duplicate_of: "knowledge-base/d-central/business-legal/D-Central-Business-User-Application/Mesh-Network-Business-Pitch-Stakeholder-Presentation-Template-md.md"
+duplicate_reason: "exact body-hash match within the same category, resolved during Stage 5 topic-synthesis prep (never went through Stage 4 exact-hash dedup, which only covered the original 428 docs before this fine-grained reclassification)"
 ---
 
 # Mesh Network Business Pitch & Stakeholder Presentation Template

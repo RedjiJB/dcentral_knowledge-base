@@ -5,6 +5,7 @@ doc_uuid: aa73fcf7-42e3-4e1c-93ae-561b5fe82675
 original_filename: Restaurant Mesh Transformation: Complete Cost Analysis & Revenue Generation.md
 created_at: 2025-06-05T19:49:33.038995+00:00
 content_hash: 4e99f746a5c8
+topic: "mesh-food-economy-business-models"
 ---
 
 # Restaurant Mesh Transformation: Complete Cost Analysis & Revenue Generation

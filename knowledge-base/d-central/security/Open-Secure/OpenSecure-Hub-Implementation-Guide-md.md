@@ -5,6 +5,7 @@ doc_uuid: 9d3cb91f-6f93-4b46-8ca7-74588b40d8b4
 original_filename: OpenSecure_Hub_Implementation_Guide.md
 created_at: 2026-03-04T20:34:32.078203+00:00
 content_hash: 5851010d8475
+topic: "opensecure-topology-documentation-suite"
 ---
 
 # OpenSecure Hub Implementation Guide

@@ -6,6 +6,7 @@ original_filename: Provincial_Security_Vehicle_Network.md
 created_at: 2026-03-04T20:38:03.426976+00:00
 content_hash: 70dbd571efe0
 topic: opensecure-provincial-security-network
+topic: "provincial-security-network-programs"
 ---
 
 # Provincial Security Vehicle Network (PSVN-Fleet)

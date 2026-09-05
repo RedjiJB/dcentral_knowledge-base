@@ -6,6 +6,7 @@ original_filename: EXECUTIVE_SUMMARY.md
 created_at: 2025-12-02T00:47:54.681155+00:00
 content_hash: 6dfd1de39e8a
 topic: ihose-business-summaries
+topic: "ihose-openvision-documentation-package"
 ---
 
 # OpenVision Platform - Executive Summary

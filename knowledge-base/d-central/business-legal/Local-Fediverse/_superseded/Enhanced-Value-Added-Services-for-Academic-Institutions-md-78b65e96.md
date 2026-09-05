@@ -5,6 +5,9 @@ doc_uuid: 78b65e96-c9e6-4012-9bf4-908a77b9b549
 original_filename: Enhanced Value-Added Services for Academic Institutions.md
 created_at: 2025-07-10T16:21:17.868172+00:00
 content_hash: 74abc6ebc7f9
+status: "duplicate"
+duplicate_of: "knowledge-base/d-central/business-legal/Local-Fediverse/Enhanced-Value-Added-Services-for-Academic-Institutions-md.md"
+duplicate_reason: "exact body-hash match within the same category, resolved during Stage 5 topic-synthesis prep (never went through Stage 4 exact-hash dedup, which only covered the original 428 docs before this fine-grained reclassification)"
 ---
 
 # Enhanced Value-Added Services for Academic Institutions

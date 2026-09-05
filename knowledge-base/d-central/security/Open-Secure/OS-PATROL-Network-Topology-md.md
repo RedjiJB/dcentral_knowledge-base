@@ -5,6 +5,7 @@ doc_uuid: 4f07bbf7-4d9c-40ca-aa4c-899b5d900b43
 original_filename: OS-PATROL_Network_Topology.md
 created_at: 2026-03-04T20:33:41.219570+00:00
 content_hash: 82a4ea977951
+topic: "opensecure-topology-documentation-suite"
 ---
 
 # OS-PATROL Network Topology

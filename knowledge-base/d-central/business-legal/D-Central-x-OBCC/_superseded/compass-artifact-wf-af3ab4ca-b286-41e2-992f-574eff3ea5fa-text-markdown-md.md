@@ -5,6 +5,9 @@ doc_uuid: 000bf52b-399a-4065-b44b-40b7cf47f742
 original_filename: compass_artifact_wf-af3ab4ca-b286-41e2-992f-574eff3ea5fa_text_markdown.md
 created_at: 2025-06-06T17:43:52.872102+00:00
 content_hash: 099d18738af2
+status: "duplicate"
+duplicate_of: "knowledge-base/d-central/business-legal/D-Central-Business-User-Application/Comprehensive-Cost-Analysis-for-Open-Source-Mesh-Network-Development-md.md"
+duplicate_reason: "exact body-hash match within the same category, resolved during Stage 5 topic-synthesis prep (never went through Stage 4 exact-hash dedup, which only covered the original 428 docs before this fine-grained reclassification)"
 ---
 
 # Comprehensive Cost Analysis for Open Source Mesh Network Development

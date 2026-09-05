@@ -6,6 +6,7 @@ original_filename: 04-Enterprise-Deployment.md
 created_at: 2025-12-02T00:47:55.903097+00:00
 content_hash: 2ef2b76fd7f9
 topic: ihose-deployment-infrastructure
+topic: "ihose-openvision-documentation-package"
 ---
 
 # OpenVision Platform

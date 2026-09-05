@@ -5,6 +5,7 @@ doc_uuid: 23e9b8a6-a5b4-44f1-a9b3-bcb166a639f4
 original_filename: OpenSecure_Hub_Network_Topology.md
 created_at: 2026-03-04T20:34:33.251796+00:00
 content_hash: 48197ec1fe07
+topic: "opensecure-topology-documentation-suite"
 ---
 
 # OpenSecure Hub Network Topology

@@ -5,6 +5,7 @@ doc_uuid: 1572d631-81f0-4cdf-9184-a2c3ac6c63ff
 original_filename: Decentralized Community Funding Model for Local Food Mesh Network.md
 created_at: 2025-06-06T00:59:27.278446+00:00
 content_hash: a984337c787a
+topic: "mesh-food-economy-business-models"
 ---
 
 # Decentralized Community Funding Model for Local Food Mesh Network

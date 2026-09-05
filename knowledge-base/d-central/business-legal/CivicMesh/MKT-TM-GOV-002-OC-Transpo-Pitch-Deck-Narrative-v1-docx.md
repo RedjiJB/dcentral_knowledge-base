@@ -6,6 +6,7 @@ original_filename: MKT-TM-GOV-002_OC_Transpo_Pitch_Deck_Narrative_v1.docx
 created_at: 2026-06-01T11:32:22.267720+00:00
 content_hash: 069fabf8b1b3
 topic: dcentral-presentation-decks
+topic: "civicmesh-investor-pitch-decks"
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

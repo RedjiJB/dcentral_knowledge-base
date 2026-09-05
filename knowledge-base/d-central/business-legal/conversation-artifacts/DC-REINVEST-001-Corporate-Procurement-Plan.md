@@ -6,6 +6,7 @@ doc_id: DC-REINVEST-001
 description: "Master reinvestment and procurement plan combining this session's backlog items with existing TrafficMesh/D-Central BOM data, sequenced against the corporate compensation strategy"
 extraction_method: conversation-artifact (create_file tool-use block, never uploaded to a Project KB)
 reconciliation_note: "Part of a three-document evolving-plan chain (DC-REINVEST-001/002/003), each later doc claiming in its own header to supersede the former -- verified NOT a clean chain on reading all three: 002 only replaces 001's deferred Tier 5 (001's Tier 0 protective spend and Tier 4 cloud-lab budget have no other copy); 003 restates most of 002's sections but drops the cloud-lab line entirely. All three left in place, none marked superseded -- discarding any one would silently lose real budget line items."
+topic: "dcentral-reinvestment-procurement-plans"
 ---
 
 # DC-REINVEST-001 — Corporate Reinvestment & Procurement Plan

@@ -5,6 +5,7 @@ doc_uuid: 52053d40-a9b5-4cd1-844e-c74a48a8a947
 original_filename: OS-PATROL_Logical_Topology.md
 created_at: 2026-03-04T20:33:40.759833+00:00
 content_hash: a64caf68f8de
+topic: "opensecure-topology-documentation-suite"
 ---
 
 # OS-PATROL Logical Topology

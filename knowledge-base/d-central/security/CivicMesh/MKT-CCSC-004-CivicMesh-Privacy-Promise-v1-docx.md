@@ -5,6 +5,7 @@ doc_uuid: eeb62029-57dd-4f73-bbd8-68550d2b1a42
 original_filename: MKT-CCSC-004_CivicMesh_Privacy_Promise_v1.docx
 created_at: 2026-06-01T11:32:21.269020+00:00
 content_hash: 74c037f17307
+topic: "meshplate-federation-privacy-compliance"
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

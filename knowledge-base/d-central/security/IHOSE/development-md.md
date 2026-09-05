@@ -6,6 +6,7 @@ original_filename: development.md
 created_at: 2025-12-02T00:47:54.475170+00:00
 content_hash: 32792e91c3bc
 topic: ihose-module-development
+topic: "ihose-openvision-documentation-package"
 ---
 
 # Module Development Guide

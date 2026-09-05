@@ -6,6 +6,7 @@ original_filename: 03-Module-Development-Guide.docx
 created_at: 2025-12-02T00:47:55.481964+00:00
 content_hash: 8f4d5286535f
 topic: ihose-module-development
+topic: "ihose-openvision-documentation-package"
 ---
 
 OpenVision Platform

@@ -6,6 +6,7 @@ original_filename: 01-OpenVision-Architecture.docx
 created_at: 2025-12-02T00:47:56.017015+00:00
 content_hash: 20e189a18b0e
 topic: ihose-architecture-deployment
+topic: "ihose-openvision-documentation-package"
 ---
 
 OpenVision Platform

@@ -5,6 +5,7 @@ doc_uuid: bf4fc23c-22d9-486d-972c-3e7f224fdf89
 original_filename: OS-GUARDIAN_Implementation_Guide.md
 created_at: 2026-03-04T20:35:37.555622+00:00
 content_hash: 3fad9f925c4e
+topic: "opensecure-per-service-implementation-guides"
 ---
 
 # OS-GUARDIAN Implementation Guide

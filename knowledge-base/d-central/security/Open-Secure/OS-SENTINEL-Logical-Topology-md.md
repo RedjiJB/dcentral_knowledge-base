@@ -5,6 +5,7 @@ doc_uuid: a24f60e2-01fd-4b3e-82c2-dd2c47910023
 original_filename: OS-SENTINEL_Logical_Topology.md
 created_at: 2026-03-04T20:34:08.249743+00:00
 content_hash: fc173e5b2151
+topic: "opensecure-topology-documentation-suite"
 ---
 
 # OS-SENTINEL Logical Topology

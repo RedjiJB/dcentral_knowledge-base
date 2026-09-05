@@ -5,6 +5,9 @@ doc_uuid: f48e2964-e084-4cd0-b697-d04303a2194f
 original_filename: OS-DRONE_Advanced_Visual_Intelligence.md
 created_at: 2026-03-05T13:50:43.645421+00:00
 content_hash: 3f7dfdb02d0b
+status: "duplicate"
+duplicate_of: "knowledge-base/d-central/security/Open-Secure/OS-DRONE-Advanced-Visual-Intelligence-md.md"
+duplicate_reason: "exact body-hash match within the same category, resolved during Stage 5 topic-synthesis prep (never went through Stage 4 exact-hash dedup, which only covered the original 428 docs before this fine-grained reclassification)"
 ---
 
 # OS-DRONE Advanced Visual Intelligence System

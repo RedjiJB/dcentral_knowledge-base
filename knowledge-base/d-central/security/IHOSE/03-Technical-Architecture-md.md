@@ -6,6 +6,7 @@ original_filename: 03-Technical-Architecture.md
 created_at: 2025-12-02T00:47:55.109190+00:00
 content_hash: f59e17b4196c
 topic: ihose-architecture-deployment
+topic: "ihose-openvision-documentation-package"
 ---
 
 # OpenVision Platform

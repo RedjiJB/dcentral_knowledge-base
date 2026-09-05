@@ -5,6 +5,7 @@ doc_uuid: 8734cfa3-d154-4c35-aa3d-3d46de3a15e6
 original_filename: Provincial_Security_Reserve_Forces_Integration.md
 created_at: 2026-03-04T20:38:03.172305+00:00
 content_hash: 1ad6896aac9b
+topic: "provincial-security-network-programs"
 ---
 
 # Provincial Security Reserve Forces Integration Program (PSRFIP)

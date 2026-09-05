@@ -5,6 +5,7 @@ doc_uuid: fd387ce5-6c4c-48b8-a2a6-59e027a91460
 original_filename: REG-CM-001_CivicMesh_PIPEDA_Compliance_Framework_v1.docx
 created_at: 2026-06-01T11:32:22.762816+00:00
 content_hash: 4f61b9a8b67c
+topic: "meshplate-federation-privacy-compliance"
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

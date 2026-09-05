@@ -5,6 +5,9 @@ doc_uuid: 5ea74085-d92a-49b7-a05a-b5563959de2f
 original_filename: OpenSecure_Hub_Logical_Topology.md
 created_at: 2026-03-04T20:36:32.306888+00:00
 content_hash: 05d06b1b5704
+status: "duplicate"
+duplicate_of: "knowledge-base/d-central/security/Open-Secure/OpenSecure-Hub-Logical-Topology-md.md"
+duplicate_reason: "exact body-hash match within the same category, resolved during Stage 5 topic-synthesis prep (never went through Stage 4 exact-hash dedup, which only covered the original 428 docs before this fine-grained reclassification)"
 ---
 
 # OpenSecure Hub Logical Topology

@@ -5,6 +5,9 @@ doc_uuid: b8b972f8-2a59-4598-8b92-68a6a1e809bb
 original_filename: Academic Institution-Specific ROI & Value Propositions.md
 created_at: 2025-07-10T16:20:46.953634+00:00
 content_hash: 898b430bcfd5
+status: "duplicate"
+duplicate_of: "knowledge-base/d-central/business-legal/Local-Fediverse/Academic-Institution-Specific-ROI-Value-Propositions-md.md"
+duplicate_reason: "exact body-hash match within the same category, resolved during Stage 5 topic-synthesis prep (never went through Stage 4 exact-hash dedup, which only covered the original 428 docs before this fine-grained reclassification)"
 ---
 
 # Academic Institution-Specific ROI & Value Propositions

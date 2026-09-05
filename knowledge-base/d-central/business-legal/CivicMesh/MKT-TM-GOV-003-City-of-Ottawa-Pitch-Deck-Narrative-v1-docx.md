@@ -6,6 +6,7 @@ original_filename: MKT-TM-GOV-003_City_of_Ottawa_Pitch_Deck_Narrative_v1.docx
 created_at: 2026-06-01T11:32:22.795900+00:00
 content_hash: 11c62d15d258
 topic: trafficmesh-city-fleet-deployment
+topic: "trafficmesh-ottawa-government-engagement"
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

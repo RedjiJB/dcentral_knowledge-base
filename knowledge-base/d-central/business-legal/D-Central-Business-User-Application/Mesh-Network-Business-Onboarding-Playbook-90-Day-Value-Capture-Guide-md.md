@@ -5,6 +5,7 @@ doc_uuid: 77b79849-eb1a-44d1-a0fe-edff09d1f808
 original_filename: Mesh Network Business Onboarding Playbook - 90-Day Value Capture Guide.md
 created_at: 2025-06-06T13:51:19.378685+00:00
 content_hash: 2c4426b78306
+topic: "mesh-cooperative-business-model-framework"
 ---
 
 # Mesh Network Business Onboarding Playbook - 90-Day Value Capture Guide

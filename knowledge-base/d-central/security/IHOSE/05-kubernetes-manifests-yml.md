@@ -6,6 +6,7 @@ original_filename: 05-kubernetes-manifests.yml
 created_at: 2025-12-02T00:47:53.944256+00:00
 content_hash: a70faedca0ef
 topic: ihose-deployment-infrastructure
+topic: "ihose-openvision-documentation-package"
 ---
 
 # OpenVision Platform - Kubernetes Deployment Manifests

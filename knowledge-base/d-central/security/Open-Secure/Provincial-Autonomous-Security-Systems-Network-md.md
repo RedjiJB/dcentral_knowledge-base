@@ -6,6 +6,7 @@ original_filename: Provincial_Autonomous_Security_Systems_Network.md
 created_at: 2026-03-04T20:38:02.041389+00:00
 content_hash: fee7afb688b7
 topic: opensecure-provincial-security-network
+topic: "provincial-security-network-programs"
 ---
 
 # Provincial Autonomous Security Systems Network (PASSN)

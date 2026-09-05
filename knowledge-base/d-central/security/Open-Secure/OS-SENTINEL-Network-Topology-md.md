@@ -6,6 +6,7 @@ original_filename: OS-SENTINEL_Network_Topology.md
 created_at: 2026-03-04T20:34:08.570122+00:00
 content_hash: c4521ffbeea4
 topic: opensecure-guardian-sentinel-topology
+topic: "opensecure-topology-documentation-suite"
 ---
 
 # OS-SENTINEL Network Topology

@@ -5,6 +5,7 @@ doc_uuid: 982d7522-cdd4-4bd1-9da9-efee0cc5692d
 original_filename: REG-CS-001_CommunityShield_Surveillance_Regulatory_Analysis_v1.docx
 created_at: 2026-06-01T11:32:18.652847+00:00
 content_hash: fcf8658803b5
+topic: "meshplate-federation-privacy-compliance"
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

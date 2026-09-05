@@ -6,6 +6,7 @@ original_filename: DC-MP-FED-001_MeshPlate_Federation_Protocol_v1.docx
 created_at: 2026-06-01T11:32:19.037533+00:00
 content_hash: 5aec0bd01a42
 topic: civicmesh-federation-noc-municipal-deployment
+topic: "meshplate-federation-privacy-compliance"
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

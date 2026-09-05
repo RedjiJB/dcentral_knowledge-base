@@ -6,6 +6,7 @@ original_filename: BUSINESS_PRESENTATION.md
 created_at: 2025-12-02T00:47:54.349718+00:00
 content_hash: 04e215b1305a
 topic: ihose-business-summaries
+topic: "ihose-business-strategy-documents"
 ---
 
 # OpenVision Platform - Business Presentation Deck

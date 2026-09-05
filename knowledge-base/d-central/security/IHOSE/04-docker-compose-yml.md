@@ -6,6 +6,7 @@ original_filename: 04-docker-compose.yml
 created_at: 2025-12-02T00:47:55.330226+00:00
 content_hash: 175760e08949
 topic: ihose-deployment-infrastructure
+topic: "ihose-openvision-documentation-package"
 ---
 
 version: '3.8'

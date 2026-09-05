@@ -6,6 +6,7 @@ original_filename: dcentral-sectors-comprehensive.md
 created_at: 2025-06-06T17:45:57.306436+00:00
 content_hash: 2c2ba30800bf
 topic: dcentral-obcc-sector-implementation
+topic: "mesh-food-economy-business-models"
 ---
 
 # D Central Comprehensive Sector & Business Integration Matrix

@@ -5,6 +5,7 @@ doc_uuid: 174bd9b4-9ff3-412f-8c00-b110635d87cd
 original_filename: OpenPIV_OS-PACS_Deployment_Checklist.md
 created_at: 2026-03-04T20:36:55.958704+00:00
 content_hash: 973154d82b46
+topic: "openpiv-pacs-integration-suite"
 ---
 
 # OpenPIV + OS-PACS Deployment Checklist

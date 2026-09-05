@@ -6,6 +6,7 @@ original_filename: 08-Ecosystem-Business-Models.md
 created_at: 2025-12-02T00:47:54.331004+00:00
 content_hash: aed2d954fae5
 topic: ihose-use-cases-business-models
+topic: "ihose-business-strategy-documents"
 ---
 
 # OpenVision Platform

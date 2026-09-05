@@ -5,6 +5,9 @@ doc_uuid: da478c55-e622-476f-aa22-1389a5dccd98
 original_filename: community_first_strategy.md
 created_at: 2025-06-06T17:45:42.216082+00:00
 content_hash: a85161f3b18f
+status: "duplicate"
+duplicate_of: "knowledge-base/d-central/business-legal/D-Central-Live-Development/community-first-strategy-md.md"
+duplicate_reason: "exact body-hash match within the same category, resolved during Stage 5 topic-synthesis prep (never went through Stage 4 exact-hash dedup, which only covered the original 428 docs before this fine-grained reclassification)"
 ---
 
 # Community-First Development Strategy

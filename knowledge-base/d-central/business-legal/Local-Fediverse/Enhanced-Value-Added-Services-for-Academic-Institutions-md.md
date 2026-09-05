@@ -6,6 +6,7 @@ original_filename: Enhanced Value-Added Services for Academic Institutions.md
 created_at: 2025-07-10T14:32:38.794219+00:00
 content_hash: 74abc6ebc7f9
 topic: digital-community-participation-platforms
+topic: "fediverse-academic-institution-services"
 ---
 
 # Enhanced Value-Added Services for Academic Institutions

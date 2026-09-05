@@ -5,6 +5,7 @@ doc_uuid: f5509eaf-4038-4527-830f-a4eb30897180
 original_filename: OpenSecure_Hub_Logical_Topology.md
 created_at: 2026-03-04T20:34:32.742894+00:00
 content_hash: 05d06b1b5704
+topic: "opensecure-topology-documentation-suite"
 ---
 
 # OpenSecure Hub Logical Topology

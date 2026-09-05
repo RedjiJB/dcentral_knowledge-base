@@ -6,6 +6,7 @@ original_filename: OS-DRONE_Implementation_Guide.md
 created_at: 2026-03-05T13:50:53.278435+00:00
 content_hash: 479038e41b81
 topic: opensecure-os-drone-subsystem
+topic: "opensecure-per-service-implementation-guides"
 ---
 
 # OS-DRONE Implementation Guide

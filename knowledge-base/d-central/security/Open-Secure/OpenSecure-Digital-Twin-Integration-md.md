@@ -5,6 +5,7 @@ doc_uuid: c4380254-ada9-4ebb-96d5-97146220c688
 original_filename: OpenSecure_Digital_Twin_Integration.md
 created_at: 2026-03-04T20:34:31.862852+00:00
 content_hash: ec06e35f7b86
+topic: "opensecure-topology-documentation-suite"
 ---
 
 # OpenSecure Digital Twin Integration Framework

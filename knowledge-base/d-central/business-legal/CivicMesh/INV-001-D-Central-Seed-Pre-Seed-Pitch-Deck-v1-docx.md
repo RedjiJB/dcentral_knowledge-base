@@ -6,6 +6,7 @@ original_filename: INV-001_D-Central_Seed_Pre-Seed_Pitch_Deck_v1.docx
 created_at: 2026-06-01T11:32:20.173822+00:00
 content_hash: b8db6e19d3b4
 topic: dcentral-presentation-decks
+topic: "civicmesh-investor-pitch-decks"
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

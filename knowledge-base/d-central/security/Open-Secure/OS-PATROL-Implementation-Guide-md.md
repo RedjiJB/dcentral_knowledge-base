@@ -6,6 +6,7 @@ original_filename: OS-PATROL_Implementation_Guide.md
 created_at: 2026-03-04T20:33:40.303754+00:00
 content_hash: 341301480efc
 topic: opensecure-patrol-sentinel-implementation
+topic: "opensecure-per-service-implementation-guides"
 ---
 
 # OS-PATROL Implementation Guide

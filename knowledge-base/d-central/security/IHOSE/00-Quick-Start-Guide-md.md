@@ -6,6 +6,7 @@ original_filename: 00-Quick-Start-Guide.md
 created_at: 2025-12-02T00:47:54.552334+00:00
 content_hash: 4e09e21e0155
 topic: ihose-quickstart-install
+topic: "ihose-openvision-documentation-package"
 ---
 
 # OpenVision Platform

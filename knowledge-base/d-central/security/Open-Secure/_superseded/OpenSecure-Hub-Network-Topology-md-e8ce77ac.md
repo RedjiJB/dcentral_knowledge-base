@@ -5,6 +5,9 @@ doc_uuid: e8ce77ac-4220-4b44-b4c1-faee52b6fea3
 original_filename: OpenSecure_Hub_Network_Topology.md
 created_at: 2026-03-04T20:36:32.675043+00:00
 content_hash: 48197ec1fe07
+status: "duplicate"
+duplicate_of: "knowledge-base/d-central/security/Open-Secure/OpenSecure-Hub-Network-Topology-md.md"
+duplicate_reason: "exact body-hash match within the same category, resolved during Stage 5 topic-synthesis prep (never went through Stage 4 exact-hash dedup, which only covered the original 428 docs before this fine-grained reclassification)"
 ---
 
 # OpenSecure Hub Network Topology

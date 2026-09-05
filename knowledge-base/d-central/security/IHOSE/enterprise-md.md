@@ -6,6 +6,7 @@ original_filename: enterprise.md
 created_at: 2025-12-02T00:47:54.611595+00:00
 content_hash: f073231f17bd
 topic: ihose-architecture-deployment
+topic: "ihose-openvision-documentation-package"
 ---
 
 # Enterprise Deployment Guide

@@ -5,6 +5,7 @@ doc_uuid: 75e96be3-ea29-4a50-98ee-d212f27df95c
 original_filename: 06-Implementation-Roadmap.md
 created_at: 2025-12-02T00:47:53.897624+00:00
 content_hash: 8f375d96620d
+topic: "ihose-business-strategy-documents"
 ---
 
 # OpenVision Platform

@@ -37,6 +37,11 @@ the taxonomy category a document's own content earned it.
 - [d-central/academic-personal/CHOPSHOP/chopshop-technical-architecture-md.md](./d-central/academic-personal/CHOPSHOP/chopshop-technical-architecture-md.md)
 - [d-central/academic-personal/CHOPSHOP/chopshop-testing-strategy-md.md](./d-central/academic-personal/CHOPSHOP/chopshop-testing-strategy-md.md)
 
+## civicmesh-competitive-analysis (2 docs)
+
+- [d-central/business-legal/CivicMesh/DC-STRAT-005-Competitive-Moat-Analysis-v1-docx.md](./d-central/business-legal/CivicMesh/DC-STRAT-005-Competitive-Moat-Analysis-v1-docx.md)
+- [d-central/business-legal/CivicMesh/INV-005-CivicMesh-Competitive-Analysis-v1-docx.md](./d-central/business-legal/CivicMesh/INV-005-CivicMesh-Competitive-Analysis-v1-docx.md)
+
 ## civicmesh-cooperative-finance-regulatory (2 docs)
 
 - [d-central/business-legal/CivicMesh/REG-COOP-001-Cooperative-Regulatory-Compliance-Matrix-v1-docx.md](./d-central/business-legal/CivicMesh/REG-COOP-001-Cooperative-Regulatory-Compliance-Matrix-v1-docx.md)
@@ -65,6 +70,20 @@ the taxonomy category a document's own content earned it.
 - [d-central/core/governance/CivicMesh/DC-CM-GOV-002-Community-Audit-Framework-v1-docx.md](./d-central/core/governance/CivicMesh/DC-CM-GOV-002-Community-Audit-Framework-v1-docx.md)
 - [d-central/core/governance/CivicMesh/DC-CM-GOV-003-Transparency-Reporting-Standard-v1-docx.md](./d-central/core/governance/CivicMesh/DC-CM-GOV-003-Transparency-Reporting-Standard-v1-docx.md)
 
+## civicmesh-government-funding-applications (4 docs)
+
+- [d-central/business-legal/CivicMesh/IRAP-TM-001-NRC-IRAP-Application-TrafficMesh-v1-docx.md](./d-central/business-legal/CivicMesh/IRAP-TM-001-NRC-IRAP-Application-TrafficMesh-v1-docx.md)
+- [d-central/business-legal/CivicMesh/LOAN-CM-001-ISC-Phase1-Application-Framework-v1-docx.md](./d-central/business-legal/CivicMesh/LOAN-CM-001-ISC-Phase1-Application-Framework-v1-docx.md)
+- [d-central/business-legal/CivicMesh/SRED-CM-001-SR-ED-Project-Ledger-CivicMesh-v1-docx.md](./d-central/business-legal/CivicMesh/SRED-CM-001-SR-ED-Project-Ledger-CivicMesh-v1-docx.md)
+- [d-central/business-legal/CivicMesh/SRED-TM-001-SR-ED-Project-Ledger-TrafficMesh-v1-docx.md](./d-central/business-legal/CivicMesh/SRED-TM-001-SR-ED-Project-Ledger-TrafficMesh-v1-docx.md)
+
+## civicmesh-investor-pitch-decks (4 docs)
+
+- [d-central/business-legal/CivicMesh/INV-001-D-Central-Seed-Pre-Seed-Pitch-Deck-v1-docx.md](./d-central/business-legal/CivicMesh/INV-001-D-Central-Seed-Pre-Seed-Pitch-Deck-v1-docx.md)
+- [d-central/business-legal/CivicMesh/INV-002-CivicMesh-Deep-Dive-Investor-Deck-v1-docx.md](./d-central/business-legal/CivicMesh/INV-002-CivicMesh-Deep-Dive-Investor-Deck-v1-docx.md)
+- [d-central/business-legal/CivicMesh/INV-003-D-Central-Group-One-Pager-v1-docx.md](./d-central/business-legal/CivicMesh/INV-003-D-Central-Group-One-Pager-v1-docx.md)
+- [d-central/business-legal/CivicMesh/MKT-TM-GOV-002-OC-Transpo-Pitch-Deck-Narrative-v1-docx.md](./d-central/business-legal/CivicMesh/MKT-TM-GOV-002-OC-Transpo-Pitch-Deck-Narrative-v1-docx.md)
+
 ## civicmesh-isc-loan-application (2 docs)
 
 - [d-central/business-legal/CivicMesh/LOAN-CM-001-ISC-Phase1-Application-Framework-v1-docx.md](./d-central/business-legal/CivicMesh/LOAN-CM-001-ISC-Phase1-Application-Framework-v1-docx.md)
@@ -91,10 +110,20 @@ the taxonomy category a document's own content earned it.
 - [d-central/security/CivicMesh/OPS-GUARD-001-CivicMesh-Security-Response-SOP-v1-docx.md](./d-central/security/CivicMesh/OPS-GUARD-001-CivicMesh-Security-Response-SOP-v1-docx.md)
 - [d-central/security/CivicMesh/TRAIN-005-Track4-Security-Response-Curriculum-v1-docx.md](./d-central/security/CivicMesh/TRAIN-005-Track4-Security-Response-Curriculum-v1-docx.md)
 
+## civicmesh-security-response-training (2 docs)
+
+- [d-central/security/CivicMesh/OPS-GUARD-001-CivicMesh-Security-Response-SOP-v1-docx.md](./d-central/security/CivicMesh/OPS-GUARD-001-CivicMesh-Security-Response-SOP-v1-docx.md)
+- [d-central/security/CivicMesh/TRAIN-005-Track4-Security-Response-Curriculum-v1-docx.md](./d-central/security/CivicMesh/TRAIN-005-Track4-Security-Response-Curriculum-v1-docx.md)
+
 ## civicmesh-technician-certification-training (2 docs)
 
 - [d-central/core/identity/CivicMesh/DC-CM-CERT-001-Technician-Certification-Programme-v1-docx.md](./d-central/core/identity/CivicMesh/DC-CM-CERT-001-Technician-Certification-Programme-v1-docx.md)
 - [d-central/core/identity/CivicMesh/TRAIN-002-Track1-Node-Technician-Curriculum-v1-docx.md](./d-central/core/identity/CivicMesh/TRAIN-002-Track1-Node-Technician-Curriculum-v1-docx.md)
+
+## civicmesh-trafficmesh-articles-of-incorporation (2 docs)
+
+- [d-central/business-legal/CivicMesh/LEGAL-CM-001-CivicMesh-Inc-Articles-v1-docx.md](./d-central/business-legal/CivicMesh/LEGAL-CM-001-CivicMesh-Inc-Articles-v1-docx.md)
+- [d-central/business-legal/CivicMesh/LEGAL-TM-001-TrafficMesh-Technologies-Articles-v1-docx.md](./d-central/business-legal/CivicMesh/LEGAL-TM-001-TrafficMesh-Technologies-Articles-v1-docx.md)
 
 ## civicmesh-trafficmesh-grant-funding-applications (3 docs)
 
@@ -108,6 +137,13 @@ the taxonomy category a document's own content earned it.
 - [d-central/business-legal/CivicMesh/DC-CM-B2B-002-Fleet-Operator-Agreement-Template-v1-docx.md](./d-central/business-legal/CivicMesh/DC-CM-B2B-002-Fleet-Operator-Agreement-Template-v1-docx.md)
 - [d-central/business-legal/CivicMesh/DC-CM-B2B-003-Platform-Driver-Programme-Specification-v1-docx.md](./d-central/business-legal/CivicMesh/DC-CM-B2B-003-Platform-Driver-Programme-Specification-v1-docx.md)
 - [d-central/core/identity/CivicMesh/DC-CM-B2B-006-Commercial-Platform-API-Integration-Spec-v1-docx.md](./d-central/core/identity/CivicMesh/DC-CM-B2B-006-Commercial-Platform-API-Integration-Spec-v1-docx.md)
+
+## communityshield-hoa-deployment-package (4 docs)
+
+- [d-central/business-legal/CivicMesh/DEPLOY-CS-001-CommunityShield-HOA-Condo-Deployment-v1-docx.md](./d-central/business-legal/CivicMesh/DEPLOY-CS-001-CommunityShield-HOA-Condo-Deployment-v1-docx.md)
+- [d-central/business-legal/CivicMesh/DEPLOY-CS-002-CommunityShield-Apartment-Complex-Deployment-v1-docx.md](./d-central/business-legal/CivicMesh/DEPLOY-CS-002-CommunityShield-Apartment-Complex-Deployment-v1-docx.md)
+- [d-central/business-legal/CivicMesh/LEGAL-CM-012-HOA-Condo-Participation-Agreement-v1-docx.md](./d-central/business-legal/CivicMesh/LEGAL-CM-012-HOA-Condo-Participation-Agreement-v1-docx.md)
+- [d-central/business-legal/CivicMesh/MKT-CCSC-003-Public-Consultation-Toolkit-v1-docx.md](./d-central/business-legal/CivicMesh/MKT-CCSC-003-Public-Consultation-Toolkit-v1-docx.md)
 
 ## communityshield-residential-deployment (4 docs)
 
@@ -177,6 +213,12 @@ the taxonomy category a document's own content earned it.
 - [d-central/core/governance/CivicMesh/PPTX-CONF-003-D-Central-Cooperative-Economy-Talk-v1-docx.md](./d-central/core/governance/CivicMesh/PPTX-CONF-003-D-Central-Cooperative-Economy-Talk-v1-docx.md)
 - [d-central/core/governance/CivicMesh/PPTX-INV-003-D-Central-Cooperative-Economy-Thesis-Deck-v1-docx.md](./d-central/core/governance/CivicMesh/PPTX-INV-003-D-Central-Cooperative-Economy-Thesis-Deck-v1-docx.md)
 
+## dcentral-reinvestment-procurement-plans (3 docs)
+
+- [d-central/business-legal/conversation-artifacts/DC-REINVEST-001-Corporate-Procurement-Plan.md](./d-central/business-legal/conversation-artifacts/DC-REINVEST-001-Corporate-Procurement-Plan.md)
+- [d-central/business-legal/conversation-artifacts/DC-REINVEST-002-Full-Immediate-Buildout.md](./d-central/business-legal/conversation-artifacts/DC-REINVEST-002-Full-Immediate-Buildout.md)
+- [d-central/business-legal/conversation-artifacts/DC-REINVEST-003-Master-Procurement-Plan.md](./d-central/business-legal/conversation-artifacts/DC-REINVEST-003-Master-Procurement-Plan.md)
+
 ## digital-community-participation-platforms (16 docs)
 
 - [d-central/business-legal/CivicMesh/Chat-Context-B.md](./d-central/business-legal/CivicMesh/Chat-Context-B.md)
@@ -232,6 +274,11 @@ the taxonomy category a document's own content earned it.
 - [d-central/meta/platform-scaffolding/IHOSE/Iron-Horse-IHOSE-Complete-Technical-Specification-docx.md](./d-central/meta/platform-scaffolding/IHOSE/Iron-Horse-IHOSE-Complete-Technical-Specification-docx.md)
 - [d-central/meta/platform-scaffolding/IHOSE/IronHorse-md.md](./d-central/meta/platform-scaffolding/IHOSE/IronHorse-md.md)
 
+## fediverse-academic-institution-services (2 docs)
+
+- [d-central/business-legal/Local-Fediverse/Academic-Institution-Specific-ROI-Value-Propositions-md.md](./d-central/business-legal/Local-Fediverse/Academic-Institution-Specific-ROI-Value-Propositions-md.md)
+- [d-central/business-legal/Local-Fediverse/Enhanced-Value-Added-Services-for-Academic-Institutions-md.md](./d-central/business-legal/Local-Fediverse/Enhanced-Value-Added-Services-for-Academic-Institutions-md.md)
+
 ## haiti-cooperative-resilience-framework (11 docs)
 
 - [d-central/haiti-diaspora/Haiti-Project-1/haiti-mesh-plan-txt.md](./d-central/haiti-diaspora/Haiti-Project-1/haiti-mesh-plan-txt.md)
@@ -277,6 +324,13 @@ the taxonomy category a document's own content earned it.
 - [d-central/security/IHOSE/enterprise-md.md](./d-central/security/IHOSE/enterprise-md.md)
 - [d-central/security/IHOSE/overview-md.md](./d-central/security/IHOSE/overview-md.md)
 
+## ihose-business-strategy-documents (4 docs)
+
+- [d-central/business-legal/IHOSE/06-Implementation-Roadmap-md.md](./d-central/business-legal/IHOSE/06-Implementation-Roadmap-md.md)
+- [d-central/business-legal/IHOSE/08-Ecosystem-Business-Models-md.md](./d-central/business-legal/IHOSE/08-Ecosystem-Business-Models-md.md)
+- [d-central/business-legal/IHOSE/BUSINESS-PRESENTATION-md.md](./d-central/business-legal/IHOSE/BUSINESS-PRESENTATION-md.md)
+- [d-central/business-legal/IHOSE/IMPROVEMENT-RECOMMENDATIONS-md.md](./d-central/business-legal/IHOSE/IMPROVEMENT-RECOMMENDATIONS-md.md)
+
 ## ihose-business-summaries (5 docs)
 
 - [d-central/business-legal/IHOSE/BUSINESS-PRESENTATION-md.md](./d-central/business-legal/IHOSE/BUSINESS-PRESENTATION-md.md)
@@ -304,6 +358,29 @@ the taxonomy category a document's own content earned it.
 - [d-central/security/IHOSE/03-Module-Development-Guide-docx.md](./d-central/security/IHOSE/03-Module-Development-Guide-docx.md)
 - [d-central/security/IHOSE/development-md.md](./d-central/security/IHOSE/development-md.md)
 
+## ihose-openvision-documentation-package (20 docs)
+
+- [d-central/security/IHOSE/00-Quick-Start-Guide-md.md](./d-central/security/IHOSE/00-Quick-Start-Guide-md.md)
+- [d-central/security/IHOSE/01-Executive-Summary-md.md](./d-central/security/IHOSE/01-Executive-Summary-md.md)
+- [d-central/security/IHOSE/01-OpenVision-Architecture-docx.md](./d-central/security/IHOSE/01-OpenVision-Architecture-docx.md)
+- [d-central/security/IHOSE/03-Module-Development-Guide-docx.md](./d-central/security/IHOSE/03-Module-Development-Guide-docx.md)
+- [d-central/security/IHOSE/03-Technical-Architecture-md.md](./d-central/security/IHOSE/03-Technical-Architecture-md.md)
+- [d-central/security/IHOSE/04-Enterprise-Deployment-md.md](./d-central/security/IHOSE/04-Enterprise-Deployment-md.md)
+- [d-central/security/IHOSE/04-docker-compose-yml.md](./d-central/security/IHOSE/04-docker-compose-yml.md)
+- [d-central/security/IHOSE/05-kubernetes-manifests-yml.md](./d-central/security/IHOSE/05-kubernetes-manifests-yml.md)
+- [d-central/security/IHOSE/06-Complete-Deployment-Guide-docx.md](./d-central/security/IHOSE/06-Complete-Deployment-Guide-docx.md)
+- [d-central/security/IHOSE/07-Use-Cases-Integration-md.md](./d-central/security/IHOSE/07-Use-Cases-Integration-md.md)
+- [d-central/security/IHOSE/DEPLOYMENT-GUIDE-md.md](./d-central/security/IHOSE/DEPLOYMENT-GUIDE-md.md)
+- [d-central/security/IHOSE/EXECUTIVE-SUMMARY-md.md](./d-central/security/IHOSE/EXECUTIVE-SUMMARY-md.md)
+- [d-central/security/IHOSE/IHOSE-DataFlow-API-DevSecOps-Specification-md.md](./d-central/security/IHOSE/IHOSE-DataFlow-API-DevSecOps-Specification-md.md)
+- [d-central/security/IHOSE/README-md.md](./d-central/security/IHOSE/README-md.md)
+- [d-central/security/IHOSE/TECHNICAL-ARCHITECTURE-md.md](./d-central/security/IHOSE/TECHNICAL-ARCHITECTURE-md.md)
+- [d-central/security/IHOSE/core-stack-yml.md](./d-central/security/IHOSE/core-stack-yml.md)
+- [d-central/security/IHOSE/development-md.md](./d-central/security/IHOSE/development-md.md)
+- [d-central/security/IHOSE/enterprise-md.md](./d-central/security/IHOSE/enterprise-md.md)
+- [d-central/security/IHOSE/install-sh.md](./d-central/security/IHOSE/install-sh.md)
+- [d-central/security/IHOSE/overview-md.md](./d-central/security/IHOSE/overview-md.md)
+
 ## ihose-quickstart-install (3 docs)
 
 - [d-central/meta/status-tracking/IHOSE/QUICK-START-md.md](./d-central/meta/status-tracking/IHOSE/QUICK-START-md.md)
@@ -321,15 +398,50 @@ the taxonomy category a document's own content earned it.
 - [d-central/meta/platform-scaffolding/D-Central-Live-Development/overlay-websocket-server-ts.md](./d-central/meta/platform-scaffolding/D-Central-Live-Development/overlay-websocket-server-ts.md)
 - [d-central/meta/platform-scaffolding/D-Central-Live-Development/streaming-overlay-system-tsx.md](./d-central/meta/platform-scaffolding/D-Central-Live-Development/streaming-overlay-system-tsx.md)
 
+## mesh-cooperative-business-model-framework (6 docs)
+
+- [d-central/business-legal/D-Central-Business-User-Application/Innovative-Cooperative-Business-Models-for-the-Mesh-Economy-md.md](./d-central/business-legal/D-Central-Business-User-Application/Innovative-Cooperative-Business-Models-for-the-Mesh-Economy-md.md)
+- [d-central/business-legal/D-Central-Business-User-Application/Mesh-Network-Business-Onboarding-Playbook-90-Day-Value-Capture-Guide-md.md](./d-central/business-legal/D-Central-Business-User-Application/Mesh-Network-Business-Onboarding-Playbook-90-Day-Value-Capture-Guide-md.md)
+- [d-central/business-legal/D-Central-x-OBCC/mesh-cooperative-infrastructure-md.md](./d-central/business-legal/D-Central-x-OBCC/mesh-cooperative-infrastructure-md.md)
+- [d-central/business-legal/D-Central/D-Central-x-OBCC-Complete-Master-Implementation-Plan-md.md](./d-central/business-legal/D-Central/D-Central-x-OBCC-Complete-Master-Implementation-Plan-md.md)
+- [d-central/business-legal/conversation-artifacts/DC-COOP-001_v1.0_SodBoys_FullRebuild.md](./d-central/business-legal/conversation-artifacts/DC-COOP-001_v1.0_SodBoys_FullRebuild.md)
+- [d-central/business-legal/conversation-artifacts/DC-COOP-001_v2.0_SodBoys_FullExpansion.md](./d-central/business-legal/conversation-artifacts/DC-COOP-001_v2.0_SodBoys_FullExpansion.md)
+
 ## mesh-cooperative-business-models (2 docs)
 
 - [d-central/business-legal/D-Central-Business-User-Application/Innovative-Cooperative-Business-Models-for-the-Mesh-Economy-md.md](./d-central/business-legal/D-Central-Business-User-Application/Innovative-Cooperative-Business-Models-for-the-Mesh-Economy-md.md)
 - [d-central/business-legal/D-Central-x-OBCC/mesh-cooperative-infrastructure-md.md](./d-central/business-legal/D-Central-x-OBCC/mesh-cooperative-infrastructure-md.md)
 
+## mesh-food-economy-business-models (4 docs)
+
+- [d-central/business-legal/D-Central-Business-User-Application/Decentralized-Community-Funding-Model-for-Local-Food-Mesh-Network-md.md](./d-central/business-legal/D-Central-Business-User-Application/Decentralized-Community-Funding-Model-for-Local-Food-Mesh-Network-md.md)
+- [d-central/business-legal/D-Central-Business-User-Application/Restaurant-Mesh-Transformation-Complete-Cost-Analysis-Revenue-Generation-md.md](./d-central/business-legal/D-Central-Business-User-Application/Restaurant-Mesh-Transformation-Complete-Cost-Analysis-Revenue-Generation-md.md)
+- [d-central/business-legal/D-Central-x-OBCC/dcentral-sectors-comprehensive-md.md](./d-central/business-legal/D-Central-x-OBCC/dcentral-sectors-comprehensive-md.md)
+- [d-central/business-legal/D-Central-x-OBCC/local-food-mesh-template-md.md](./d-central/business-legal/D-Central-x-OBCC/local-food-mesh-template-md.md)
+
 ## meshnav-architecture-data-pipeline (2 docs)
 
 - [d-central/mesh-services/sensors-mobility/CivicMesh/DC-MN-ARCH-001-MeshNav-Architecture-v1-docx.md](./d-central/mesh-services/sensors-mobility/CivicMesh/DC-MN-ARCH-001-MeshNav-Architecture-v1-docx.md)
 - [d-central/mesh-services/sensors-mobility/CivicMesh/DC-MN-DATA-001-MeshNav-Data-Pipeline-v1-docx.md](./d-central/mesh-services/sensors-mobility/CivicMesh/DC-MN-DATA-001-MeshNav-Data-Pipeline-v1-docx.md)
+
+## meshplate-federation-privacy-compliance (4 docs)
+
+- [d-central/security/CivicMesh/DC-MP-FED-001-MeshPlate-Federation-Protocol-v1-docx.md](./d-central/security/CivicMesh/DC-MP-FED-001-MeshPlate-Federation-Protocol-v1-docx.md)
+- [d-central/security/CivicMesh/MKT-CCSC-004-CivicMesh-Privacy-Promise-v1-docx.md](./d-central/security/CivicMesh/MKT-CCSC-004-CivicMesh-Privacy-Promise-v1-docx.md)
+- [d-central/security/CivicMesh/REG-CM-001-CivicMesh-PIPEDA-Compliance-Framework-v1-docx.md](./d-central/security/CivicMesh/REG-CM-001-CivicMesh-PIPEDA-Compliance-Framework-v1-docx.md)
+- [d-central/security/CivicMesh/REG-CS-001-CommunityShield-Surveillance-Regulatory-Analysis-v1-docx.md](./d-central/security/CivicMesh/REG-CS-001-CommunityShield-Surveillance-Regulatory-Analysis-v1-docx.md)
+
+## mitacs-accelerate-applications (2 docs)
+
+- [d-central/business-legal/CivicMesh/LOAN-CM-003-Mitacs-Accelerate-University-Research-v1-docx.md](./d-central/business-legal/CivicMesh/LOAN-CM-003-Mitacs-Accelerate-University-Research-v1-docx.md)
+- [d-central/business-legal/CivicMesh/LOAN-CM-004-Mitacs-Accelerate-Entrepreneur-v1-docx.md](./d-central/business-legal/CivicMesh/LOAN-CM-004-Mitacs-Accelerate-Entrepreneur-v1-docx.md)
+
+## openpiv-pacs-integration-suite (4 docs)
+
+- [d-central/security/Open-Secure/OpenPIV-Implementation-Roadmap-md.md](./d-central/security/Open-Secure/OpenPIV-Implementation-Roadmap-md.md)
+- [d-central/security/Open-Secure/OpenPIV-OS-PACS-Deployment-Checklist-md.md](./d-central/security/Open-Secure/OpenPIV-OS-PACS-Deployment-Checklist-md.md)
+- [d-central/security/Open-Secure/OpenPIV-OS-PACS-Integration-Guide-md.md](./d-central/security/Open-Secure/OpenPIV-OS-PACS-Integration-Guide-md.md)
+- [d-central/security/Open-Secure/OpenPIV-Quick-Start-Guide-md.md](./d-central/security/Open-Secure/OpenPIV-Quick-Start-Guide-md.md)
 
 ## opensecure-guardian-sentinel-architecture (2 docs)
 
@@ -371,12 +483,59 @@ the taxonomy category a document's own content earned it.
 - [d-central/security/Open-Secure/OS-PATROL-Implementation-Guide-md.md](./d-central/security/Open-Secure/OS-PATROL-Implementation-Guide-md.md)
 - [d-central/security/Open-Secure/OS-SENTINEL-Implementation-Guide-md.md](./d-central/security/Open-Secure/OS-SENTINEL-Implementation-Guide-md.md)
 
+## opensecure-per-service-implementation-guides (5 docs)
+
+- [d-central/security/Open-Secure/OS-CONCIERGE-Implementation-Guide-md.md](./d-central/security/Open-Secure/OS-CONCIERGE-Implementation-Guide-md.md)
+- [d-central/security/Open-Secure/OS-DRONE-Implementation-Guide-md.md](./d-central/security/Open-Secure/OS-DRONE-Implementation-Guide-md.md)
+- [d-central/security/Open-Secure/OS-GUARDIAN-Implementation-Guide-md.md](./d-central/security/Open-Secure/OS-GUARDIAN-Implementation-Guide-md.md)
+- [d-central/security/Open-Secure/OS-PATROL-Implementation-Guide-md.md](./d-central/security/Open-Secure/OS-PATROL-Implementation-Guide-md.md)
+- [d-central/security/Open-Secure/OS-SENTINEL-Implementation-Guide-md.md](./d-central/security/Open-Secure/OS-SENTINEL-Implementation-Guide-md.md)
+
 ## opensecure-provincial-security-network (6 docs)
 
 - [d-central/core/identity/Open-Secure/Provincial-PIV-Infrastructure-Integration-md.md](./d-central/core/identity/Open-Secure/Provincial-PIV-Infrastructure-Integration-md.md)
 - [d-central/core/identity/Open-Secure/Provincial-Security-Guard-Universal-Credential-System-md.md](./d-central/core/identity/Open-Secure/Provincial-Security-Guard-Universal-Credential-System-md.md)
 - [d-central/security/Open-Secure/Provincial-Autonomous-Security-Systems-Network-md.md](./d-central/security/Open-Secure/Provincial-Autonomous-Security-Systems-Network-md.md)
 - [d-central/security/Open-Secure/Provincial-Body-Camera-Evidence-Network-md.md](./d-central/security/Open-Secure/Provincial-Body-Camera-Evidence-Network-md.md)
+- [d-central/security/Open-Secure/Provincial-Security-Vehicle-Network-md.md](./d-central/security/Open-Secure/Provincial-Security-Vehicle-Network-md.md)
+- [d-central/security/Open-Secure/Provincial-Security-Video-Network-md.md](./d-central/security/Open-Secure/Provincial-Security-Video-Network-md.md)
+
+## opensecure-sector-use-case-analyses (5 docs)
+
+- [d-central/security/Open-Secure/Comprehensive-OS-CONCIERGE-Sectors-md.md](./d-central/security/Open-Secure/Comprehensive-OS-CONCIERGE-Sectors-md.md)
+- [d-central/security/Open-Secure/Comprehensive-OS-DRONE-Sectors-md.md](./d-central/security/Open-Secure/Comprehensive-OS-DRONE-Sectors-md.md)
+- [d-central/security/Open-Secure/Comprehensive-OS-GUARDIAN-Sectors-md.md](./d-central/security/Open-Secure/Comprehensive-OS-GUARDIAN-Sectors-md.md)
+- [d-central/security/Open-Secure/Comprehensive-OS-PATROL-Sectors-md.md](./d-central/security/Open-Secure/Comprehensive-OS-PATROL-Sectors-md.md)
+- [d-central/security/Open-Secure/Comprehensive-OS-SENTINEL-Sectors-md.md](./d-central/security/Open-Secure/Comprehensive-OS-SENTINEL-Sectors-md.md)
+
+## opensecure-topology-documentation-suite (15 docs)
+
+- [d-central/security/Open-Secure/OS-DRONE-Logical-Topology-md.md](./d-central/security/Open-Secure/OS-DRONE-Logical-Topology-md.md)
+- [d-central/security/Open-Secure/OS-DRONE-Network-Topology-md.md](./d-central/security/Open-Secure/OS-DRONE-Network-Topology-md.md)
+- [d-central/security/Open-Secure/OS-DRONE-Technical-Architecture-md.md](./d-central/security/Open-Secure/OS-DRONE-Technical-Architecture-md.md)
+- [d-central/security/Open-Secure/OS-GUARDIAN-Logical-Topology-md.md](./d-central/security/Open-Secure/OS-GUARDIAN-Logical-Topology-md.md)
+- [d-central/security/Open-Secure/OS-GUARDIAN-Network-Topology-md.md](./d-central/security/Open-Secure/OS-GUARDIAN-Network-Topology-md.md)
+- [d-central/security/Open-Secure/OS-GUARDIAN-Technical-Architecture-md.md](./d-central/security/Open-Secure/OS-GUARDIAN-Technical-Architecture-md.md)
+- [d-central/security/Open-Secure/OS-PATROL-Logical-Topology-md.md](./d-central/security/Open-Secure/OS-PATROL-Logical-Topology-md.md)
+- [d-central/security/Open-Secure/OS-PATROL-Network-Topology-md.md](./d-central/security/Open-Secure/OS-PATROL-Network-Topology-md.md)
+- [d-central/security/Open-Secure/OS-SENTINEL-Logical-Topology-md.md](./d-central/security/Open-Secure/OS-SENTINEL-Logical-Topology-md.md)
+- [d-central/security/Open-Secure/OS-SENTINEL-Network-Topology-md.md](./d-central/security/Open-Secure/OS-SENTINEL-Network-Topology-md.md)
+- [d-central/security/Open-Secure/OS-SENTINEL-Technical-Architecture-md.md](./d-central/security/Open-Secure/OS-SENTINEL-Technical-Architecture-md.md)
+- [d-central/security/Open-Secure/OpenSecure-Digital-Twin-Integration-md.md](./d-central/security/Open-Secure/OpenSecure-Digital-Twin-Integration-md.md)
+- [d-central/security/Open-Secure/OpenSecure-Hub-Implementation-Guide-md.md](./d-central/security/Open-Secure/OpenSecure-Hub-Implementation-Guide-md.md)
+- [d-central/security/Open-Secure/OpenSecure-Hub-Logical-Topology-md.md](./d-central/security/Open-Secure/OpenSecure-Hub-Logical-Topology-md.md)
+- [d-central/security/Open-Secure/OpenSecure-Hub-Network-Topology-md.md](./d-central/security/Open-Secure/OpenSecure-Hub-Network-Topology-md.md)
+
+## os-drone-advanced-capabilities (2 docs)
+
+- [d-central/security/Open-Secure/OS-DRONE-Advanced-Visual-Intelligence-md.md](./d-central/security/Open-Secure/OS-DRONE-Advanced-Visual-Intelligence-md.md)
+- [d-central/security/Open-Secure/OS-DRONE-Federation-3D-Spatial-md.md](./d-central/security/Open-Secure/OS-DRONE-Federation-3D-Spatial-md.md)
+
+## provincial-security-network-programs (5 docs)
+
+- [d-central/security/Open-Secure/Provincial-Autonomous-Security-Systems-Network-md.md](./d-central/security/Open-Secure/Provincial-Autonomous-Security-Systems-Network-md.md)
+- [d-central/security/Open-Secure/Provincial-Body-Camera-Evidence-Network-md.md](./d-central/security/Open-Secure/Provincial-Body-Camera-Evidence-Network-md.md)
+- [d-central/security/Open-Secure/Provincial-Security-Reserve-Forces-Integration-md.md](./d-central/security/Open-Secure/Provincial-Security-Reserve-Forces-Integration-md.md)
 - [d-central/security/Open-Secure/Provincial-Security-Vehicle-Network-md.md](./d-central/security/Open-Secure/Provincial-Security-Vehicle-Network-md.md)
 - [d-central/security/Open-Secure/Provincial-Security-Video-Network-md.md](./d-central/security/Open-Secure/Provincial-Security-Video-Network-md.md)
 
@@ -410,3 +569,15 @@ the taxonomy category a document's own content earned it.
 - [d-central/business-legal/CivicMesh/REG-TM-001-TrafficMesh-Ontario-HTA-Compliance-Analysis-v1-docx.md](./d-central/business-legal/CivicMesh/REG-TM-001-TrafficMesh-Ontario-HTA-Compliance-Analysis-v1-docx.md)
 - [d-central/business-legal/CivicMesh/REG-TM-002-TrafficMesh-Provincial-Variation-Matrix-v1-docx.md](./d-central/business-legal/CivicMesh/REG-TM-002-TrafficMesh-Provincial-Variation-Matrix-v1-docx.md)
 - [d-central/security/CivicMesh/OS-PATROL-TM-EV-001-TrafficMesh-Evidence-Legal-Framework-v1-docx.md](./d-central/security/CivicMesh/OS-PATROL-TM-EV-001-TrafficMesh-Evidence-Legal-Framework-v1-docx.md)
+## trafficmesh-ontario-regulatory-compliance (2 docs)
+
+- [d-central/business-legal/CivicMesh/REG-TM-001-TrafficMesh-Ontario-HTA-Compliance-Analysis-v1-docx.md](./d-central/business-legal/CivicMesh/REG-TM-001-TrafficMesh-Ontario-HTA-Compliance-Analysis-v1-docx.md)
+- [d-central/business-legal/CivicMesh/REG-TM-002-TrafficMesh-Provincial-Variation-Matrix-v1-docx.md](./d-central/business-legal/CivicMesh/REG-TM-002-TrafficMesh-Provincial-Variation-Matrix-v1-docx.md)
+
+## trafficmesh-ottawa-government-engagement (4 docs)
+
+- [d-central/business-legal/CivicMesh/DEPLOY-TM-002-City-Fleet-Expansion-Plan-v1-docx.md](./d-central/business-legal/CivicMesh/DEPLOY-TM-002-City-Fleet-Expansion-Plan-v1-docx.md)
+- [d-central/business-legal/CivicMesh/MKT-TM-GOV-003-City-of-Ottawa-Pitch-Deck-Narrative-v1-docx.md](./d-central/business-legal/CivicMesh/MKT-TM-GOV-003-City-of-Ottawa-Pitch-Deck-Narrative-v1-docx.md)
+- [d-central/business-legal/CivicMesh/PPTX-GOV-001-TrafficMesh-OC-Transpo-Pilot-Presentation-v1-docx.md](./d-central/business-legal/CivicMesh/PPTX-GOV-001-TrafficMesh-OC-Transpo-Pilot-Presentation-v1-docx.md)
+- [d-central/business-legal/CivicMesh/PPTX-GOV-002-TrafficMesh-City-of-Ottawa-Council-Presentation-v1-docx.md](./d-central/business-legal/CivicMesh/PPTX-GOV-002-TrafficMesh-City-of-Ottawa-Council-Presentation-v1-docx.md)
+
