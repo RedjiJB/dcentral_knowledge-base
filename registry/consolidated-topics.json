@@ -63,6 +63,10 @@
     "consolidated_doc": "docs/DC-CM-TM-GRANT-FUNDING-RECONCILED-001.md",
     "doc_count": 3
   },
+  "communityshield-hoa-deployment-package": {
+    "consolidated_doc": "docs/DC-CS-HOA-DEPLOYMENT-RECONCILED-001.md",
+    "doc_count": 4
+  },
   "comptia-a-learning-platform": {
     "consolidated_doc": "docs/DC-COMPTIA-A-PLATFORM-RECONCILED-001.md",
     "doc_count": 3
@@ -95,6 +99,14 @@
     "consolidated_doc": "docs/DC-REINVEST-PROCUREMENT-RECONCILED-001.md",
     "doc_count": 3
   },
+  "dion-operator-deployment-credentialing": {
+    "consolidated_doc": "docs/DC-DION-OPERATOR-DEPLOYMENT-RECONCILED-001.md",
+    "doc_count": 4
+  },
+  "dion-platform-api-backend-architecture": {
+    "consolidated_doc": "docs/DC-DION-API-BACKEND-RECONCILED-001.md",
+    "doc_count": 4
+  },
   "dion-platform-expansion-explanation": {
     "consolidated_doc": "docs/DC-DION-EXPANSION-EXPLANATION-RECONCILED-001.md",
     "doc_count": 3
@@ -119,6 +131,18 @@
     "consolidated_doc": "docs/DC-HAITI-SECURITY-OUTREACH-RECONCILED-001.md",
     "doc_count": 2
   },
+  "ihose-business-strategy-documents": {
+    "consolidated_doc": "docs/DC-IHOSE-BUSINESS-STRATEGY-RECONCILED-001.md",
+    "doc_count": 4
+  },
+  "ihose-deployment-infrastructure": {
+    "consolidated_doc": "docs/DC-IHOSE-DEPLOYMENT-INFRA-RECONCILED-001.md",
+    "doc_count": 4
+  },
+  "ihose-hardware-bom": {
+    "consolidated_doc": "docs/DC-IHOSE-HARDWARE-BOM-RECONCILED-001.md",
+    "doc_count": 4
+  },
   "ihose-module-development": {
     "consolidated_doc": "docs/DC-IHOSE-MODULE-DEV-RECONCILED-001.md",
     "doc_count": 2
@@ -139,9 +163,21 @@
     "consolidated_doc": "docs/DC-MESH-COOP-BUSINESS-RECONCILED-001.md",
     "doc_count": 2
   },
+  "mesh-food-economy-business-models": {
+    "consolidated_doc": "docs/DC-MESH-FOOD-ECONOMY-RECONCILED-001.md",
+    "doc_count": 4
+  },
   "meshnav-architecture-data-pipeline": {
     "consolidated_doc": "docs/DC-MESHNAV-RECONCILED-001.md",
     "doc_count": 2
+  },
+  "meshplate-federation-privacy-compliance": {
+    "consolidated_doc": "docs/DC-MESHPLATE-PRIVACY-COMPLIANCE-RECONCILED-001.md",
+    "doc_count": 4
+  },
+  "openpiv-pacs-integration-suite": {
+    "consolidated_doc": "docs/DC-OPENPIV-PACS-INTEGRATION-RECONCILED-001.md",
+    "doc_count": 4
   },
   "opensecure-guardian-sentinel-architecture": {
     "consolidated_doc": "docs/DC-OPENSECURE-GUARDIAN-SENTINEL-ARCH-RECONCILED-001.md",
