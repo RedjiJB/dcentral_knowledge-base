@@ -35,6 +35,15 @@ import sys
 import time
 from pathlib import Path
 
+# Windows consoles default stdout/stderr to cp1252, which can't encode emoji that show up
+# in real conversation titles (e.g. a leading speech-bubble icon). Reconfigure to UTF-8 with
+# a replace fallback so a fancy title never crashes the script after it already did the real
+# work (claiming the uuid, writing the scratch file) -- losing only cosmetic characters in
+# the printed confirmation line is fine; crashing here is not.
+for _stream in (sys.stdout, sys.stderr):
+    if hasattr(_stream, "reconfigure"):
+        _stream.reconfigure(encoding="utf-8", errors="replace")
+
 REPO_ROOT = Path(__file__).resolve().parent.parent
 CONV_PATH = REPO_ROOT / "raw-export" / "conversations" / "conversations.json"
 CLASSIFIED_PATH = REPO_ROOT / "conversations" / "_classified.jsonl"
