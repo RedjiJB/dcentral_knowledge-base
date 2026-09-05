@@ -5,6 +5,9 @@ created_at: 2026-08-13T03:06:36.336567Z
 doc_id: DC-REG-001
 description: 'Compiling a first-pass master registry of D-Central documents reconstructed from past conversations'
 extraction_method: conversation-artifact (create_file tool-use block, never uploaded to a Project KB)
+status: "duplicate"
+duplicate_of: "registry/DC-REG-001-Master-Registry.md"
+duplicate_reason: "exact body match (verified byte-for-byte) -- already extracted by hand into registry/ in an earlier session, this conversation-artifact copy is redundant"
 ---
 
 # DC-REG-001 — Master Document Registry (First Pass)

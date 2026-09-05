@@ -5,6 +5,7 @@ created_at: 2026-06-10T01:34:30.970459Z
 doc_id: DC-COOP-001
 description: 'Complete D-Central cooperative transformation blueprint for Sod Boys Ottawa - DC-COOP-001'
 extraction_method: conversation-artifact (create_file tool-use block, never uploaded to a Project KB)
+reconciliation_note: "v2.0 (same conversation) declares 'Supersedes: DC-COOP-001 v1.0' in its own header, but reading both shows this is inaccurate as a blanket claim: v2.0's own change log states 'Tiers 0-10 from v1.0 remain unchanged' and only adds Tiers 11-13 in full. v1.0 is the only copy of Tiers 0-10 and must NOT be treated as superseded/removable -- both documents are required together for the complete spec. Verified during Stage 4 dedup, not taken at face value."
 ---
 
 # DC-COOP-001: D-Central Cooperative Transformation Protocol

@@ -5,6 +5,7 @@ created_at: 2026-06-10T01:34:30.970459Z
 doc_id: DC-COOP-001
 description: 'DC-COOP-001 v2.0 - Full expansion with basic needs, advanced asset architecture, and cooperative growth engine'
 extraction_method: conversation-artifact (create_file tool-use block, never uploaded to a Project KB)
+reconciliation_note: "This document's own header claims 'Supersedes: DC-COOP-001 v1.0,' but it is actually an addendum, not a replacement -- its own change log confirms 'Tiers 0-10 from v1.0 remain unchanged,' and only Tiers 11-13 are specified here. v1.0 must be read alongside this document, not discarded in its favour."
 ---
 
 # DC-COOP-001 v2.0: D-Central Cooperative Field Enterprise

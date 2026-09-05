@@ -5,6 +5,7 @@ created_at: 2026-08-08T03:34:00.540823Z
 doc_id: DC-SIM-008
 description: 'Open architecture decisions blocking implementation'
 extraction_method: conversation-artifact (create_file tool-use block, never uploaded to a Project KB)
+reconciliation_note: "DC-SIM-009 supersedes this document's OPEN STATUS on items 1-6 (each is now decided) but explicitly retains this document's analysis as necessary reading -- verified accurate on reading both; not marked status: superseded because the analysis here (the two-ISP finding, the FCN reading A/B distinction, etc.) is not restated in DC-SIM-009 and remains required context for the decisions it records."
 ---
 
 # DC-SIM-008 — Open Architecture Decisions

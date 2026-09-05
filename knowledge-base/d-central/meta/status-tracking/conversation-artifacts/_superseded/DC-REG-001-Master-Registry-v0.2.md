@@ -5,6 +5,9 @@ created_at: 2026-08-23T06:32:27.243833Z
 doc_id: DC-REG-001
 description: 'DC-REG-001 v0.2 — merged registry combining hand-curated and auto-extracted entries'
 extraction_method: conversation-artifact (create_file tool-use block, never uploaded to a Project KB)
+status: "duplicate"
+duplicate_of: "registry/DC-REG-001-Master-Registry-v0.2.md"
+duplicate_reason: "exact body match (verified byte-for-byte) -- already extracted by hand into registry/ in an earlier session, this conversation-artifact copy is redundant"
 ---
 
 # DC-REG-001 — Master Document Registry (v0.2)

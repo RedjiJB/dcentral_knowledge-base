@@ -504,14 +504,42 @@ rubber-stamp during classification.
 Verified after: `wc -l knowledge-base/_kb_doc_classified.jsonl` → 472, and `find knowledge-base -name
 "*.md" ! -name "_*" | wc -l` → 472 — exact match, nothing missing or double-placed.
 
+## Stage 4 run on the 44 new docs: three of four "obvious" chains were not what they claimed
+
+Read both sides of all four flagged chains before touching any front matter, per DC-DEDUP-STD-001 —
+result: **only one of the four was a clean supersession as claimed.**
+
+- **Both `DC-REG-001-Master-Registry(-v0.2)` files** — confirmed exact byte-for-byte duplicates of
+  files already sitting in `registry/` (extracted by hand in an earlier session). Clean case: marked
+  `status: duplicate`, moved to `_superseded/`.
+- **`DC-COOP-001` v1.0 → v2.0** — v2.0's own header claims `Supersedes: DC-COOP-001 v1.0`. Reading both
+  showed this is **false as a blanket claim**: v2.0's own change log says "Tiers 0-10 from v1.0 remain
+  unchanged," and only adds three new tiers (11-13) in full. v1.0 is the *only* copy of tiers 0-10.
+  Marking it superseded would have silently deleted two-thirds of the actual specification. Both left
+  in place, `reconciliation_note` added to each explaining why the self-report doesn't hold.
+- **`DC-REINVEST-001/002/003`** — each later doc's header claims to supersede the one(s) before it.
+  Reading all three: 002 only replaces 001's deferred Tier 5 (001's Tier 0 protective-spend items and
+  Tier 4 cloud-lab budget appear nowhere else); 003 restates most of 002's sections but drops the
+  cloud-lab line entirely. No single doc is a strict superset of the others — discarding any one loses
+  real budget line items. All three left in place with a shared `reconciliation_note`.
+- **`DC-SIM-008` → `DC-SIM-009`** — the one chain that checked out exactly as described. 009's own
+  header already says "Supersedes DC-SIM-008 §§1-6 (open status only; analysis retained)," and reading
+  both confirmed this precisely: 009 resolves 008's six open decisions but doesn't restate 008's
+  analysis, which stays necessary reading. Both left in place (008 was never a candidate for removal),
+  `reconciliation_note` added to each making the verified relationship explicit rather than relying on
+  a reader noticing 009's header line.
+
+Net: of four documents/chains whose own text claimed a supersession relationship, **three were
+overstated or incomplete self-reports** and only one was accurate — exactly the failure mode
+DC-DEDUP-STD-001 warns about (don't trust a document's self-description, verify by reading both sides).
+`scripts/dedup_conversation_artifacts.py` applies all four verdicts. Verified after: still 472 files in
+`knowledge-base/`, none lost — the 2 duplicate `DC-REG-001` copies moved to `_superseded/`, not deleted.
+
 ## Next concrete step
 
-Two threads, not mutually exclusive:
+One thread:
 
-1. **Run Stage 4 (dedup) on the 44 new docs** — the four revision chains named directly above are the
-   places to start; each needs the same read-both-sides verification the original 428's dedup pass
-   used, not an automatic supersession just because a document says so about itself.
-2. More Stage 6 Consolidator passes: the four topic clusters named in earlier sessions still apply at
+1. More Stage 6 Consolidator passes: the four topic clusters named in earlier sessions still apply at
    their new fine-grained paths (`federation-sovereignty-cooperative-platforms`,
    `digital-community-participation-platforms`, `chopshop-project-documentation`,
    `haiti-integration-platforms`) — plus the newly-visible `security` (99 docs) and `business-legal`
