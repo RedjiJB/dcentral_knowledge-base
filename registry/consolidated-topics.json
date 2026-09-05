@@ -59,8 +59,20 @@
     "consolidated_doc": "docs/DC-NETWORKING-ARCH-RECONCILED-001.md",
     "doc_count": 2
   },
+  "dcentral-obcc-sector-implementation": {
+    "consolidated_doc": "docs/DC-OBCC-SECTOR-RECONCILED-001.md",
+    "doc_count": 2
+  },
+  "drone-zoe-hardware-selection-guides": {
+    "consolidated_doc": "docs/DC-DRONE-HARDWARE-RECONCILED-001.md",
+    "doc_count": 2
+  },
   "federated-learning-platform-community-sovereignty-cooperative": {
     "consolidated_doc": "docs/DC-FLP-SOVEREIGNTY-RECONCILED-001.md",
     "doc_count": 6
+  },
+  "fediverse-academic-institution-services": {
+    "consolidated_doc": "docs/DC-FEDIFLOW-ACADEMIC-RECONCILED-001.md",
+    "doc_count": 2
   }
 }
