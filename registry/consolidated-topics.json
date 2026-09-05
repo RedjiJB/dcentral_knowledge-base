@@ -98,5 +98,13 @@
   "meshnav-architecture-data-pipeline": {
     "consolidated_doc": "docs/DC-MESHNAV-RECONCILED-001.md",
     "doc_count": 2
+  },
+  "opensecure-guardian-sentinel-architecture": {
+    "consolidated_doc": "docs/DC-OPENSECURE-GUARDIAN-SENTINEL-ARCH-RECONCILED-001.md",
+    "doc_count": 2
+  },
+  "opensecure-guardian-sentinel-topology": {
+    "consolidated_doc": "docs/DC-OPENSECURE-GUARDIAN-SENTINEL-TOPOLOGY-RECONCILED-001.md",
+    "doc_count": 2
   }
 }
