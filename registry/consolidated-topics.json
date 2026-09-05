@@ -151,6 +151,10 @@
     "consolidated_doc": "docs/DC-IHOSE-BUSINESS-STRATEGY-RECONCILED-001.md",
     "doc_count": 4
   },
+  "ihose-business-summaries": {
+    "consolidated_doc": "docs/DC-IHOSE-BUSINESS-SUMMARIES-RECONCILED-001.md",
+    "doc_count": 5
+  },
   "ihose-deployment-infrastructure": {
     "consolidated_doc": "docs/DC-IHOSE-DEPLOYMENT-INFRA-RECONCILED-001.md",
     "doc_count": 4
@@ -207,6 +211,10 @@
     "consolidated_doc": "docs/DC-OPENSECURE-GUARDIAN-SENTINEL-TOPOLOGY-RECONCILED-001.md",
     "doc_count": 2
   },
+  "opensecure-openpiv-subsystem": {
+    "consolidated_doc": "docs/DC-OPENSECURE-OPENPIV-SUBSYSTEM-RECONCILED-001.md",
+    "doc_count": 5
+  },
   "opensecure-os-concierge-topology": {
     "consolidated_doc": "docs/DC-OPENSECURE-OS-CONCIERGE-TOPOLOGY-RECONCILED-001.md",
     "doc_count": 2
@@ -222,6 +230,10 @@
   "opensecure-patrol-sentinel-implementation": {
     "consolidated_doc": "docs/DC-OPENSECURE-PATROL-SENTINEL-IMPL-RECONCILED-001.md",
     "doc_count": 2
+  },
+  "opensecure-per-service-implementation-guides": {
+    "consolidated_doc": "docs/DC-OPENSECURE-PER-SERVICE-IMPL-GUIDES-RECONCILED-001.md",
+    "doc_count": 5
   },
   "trafficmesh-city-fleet-deployment": {
     "consolidated_doc": "docs/DC-TRAFFICMESH-CITY-FLEET-RECONCILED-001.md",
