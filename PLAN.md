@@ -249,6 +249,14 @@ Scaffolding-Generator-related conversations into one topic node regardless of wh
 each individual conversation landed in — this is a concrete test case for whether Stage 5's
 clustering actually recovers from Stage 2's per-call inconsistency the way it's supposed to.
 
+**Batch size raised 10 → 40** after several clean batches in a row (40/46/40 conversations all
+spot-checked good, no boilerplate, no duplicate abstracts, aggregate counts accurate). Justification:
+the mechanical backstop added after the original failure (boilerplate/duplicate-abstract rejection in
+`append_classification.py` and the hook) has held without needing to fire across multiple batches —
+that's what makes a larger batch survivable this time, not a claim that careful per-conversation
+reading is no longer necessary. Worth continuing to spot-check periodically rather than assuming the
+larger batch size is risk-free.
+
 ## Next concrete step
 
 Three threads, not mutually exclusive:
