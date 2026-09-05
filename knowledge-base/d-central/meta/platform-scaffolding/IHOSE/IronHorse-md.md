@@ -5,7 +5,6 @@ doc_uuid: 05862f2c-f2d7-48bc-b51b-4a4ef9f82d4a
 original_filename: IronHorse.md
 created_at: 2025-12-02T00:45:14.808736+00:00
 content_hash: 3fbb5041a86e
-topic: "ihose-federation-ecosystem-partnership-framework"
 ---
 
 # Iron Horse Workspace Suite

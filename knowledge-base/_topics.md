@@ -294,13 +294,12 @@ the taxonomy category a document's own content earned it.
 - [d-central/hardware/sensing-planes/Drone-Zoe/drone-selection-guide2-md-f756780a.md](./d-central/hardware/sensing-planes/Drone-Zoe/drone-selection-guide2-md-f756780a.md)
 - [d-central/hardware/sensing-planes/Drone-Zoe/updated-drone-guide-md-1780e328.md](./d-central/hardware/sensing-planes/Drone-Zoe/updated-drone-guide-md-1780e328.md)
 
-## ihose-federation-ecosystem-partnership-framework (5 docs)
+## ihose-federation-ecosystem-partnership-framework (4 docs)
 
 - [d-central/business-legal/IHOSE/IMPROVEMENT-RECOMMENDATIONS-md.md](./d-central/business-legal/IHOSE/IMPROVEMENT-RECOMMENDATIONS-md.md)
 - [d-central/core/governance/IHOSE/IHOSE-Federation-Ecosystem-Framework-md.md](./d-central/core/governance/IHOSE/IHOSE-Federation-Ecosystem-Framework-md.md)
 - [d-central/meta/platform-scaffolding/IHOSE/IHOSE-Complete-Technical-Specification-Combined-md.md](./d-central/meta/platform-scaffolding/IHOSE/IHOSE-Complete-Technical-Specification-Combined-md.md)
 - [d-central/meta/platform-scaffolding/IHOSE/Iron-Horse-IHOSE-Complete-Technical-Specification-docx.md](./d-central/meta/platform-scaffolding/IHOSE/Iron-Horse-IHOSE-Complete-Technical-Specification-docx.md)
-- [d-central/meta/platform-scaffolding/IHOSE/IronHorse-md.md](./d-central/meta/platform-scaffolding/IHOSE/IronHorse-md.md)
 
 ## federated-learning-platform-community-sovereignty-cooperative (6 docs)
 
