@@ -1,8 +1,4 @@
 {
-  "federated-learning-platform-community-sovereignty-cooperative": {
-    "consolidated_doc": "docs/DC-FLP-SOVEREIGNTY-RECONCILED-001.md",
-    "doc_count": 6
-  },
   "civicmesh-competitive-analysis": {
     "consolidated_doc": "docs/DC-CM-COMPETITIVE-RECONCILED-001.md",
     "doc_count": 2
@@ -10,5 +6,25 @@
   "civicmesh-cooperative-finance-regulatory": {
     "consolidated_doc": "docs/DC-CM-COOP-FINANCE-RECONCILED-001.md",
     "doc_count": 2
+  },
+  "civicmesh-cooperative-legal-structures": {
+    "consolidated_doc": "docs/DC-CM-COOP-LEGAL-RECONCILED-001.md",
+    "doc_count": 2
+  },
+  "civicmesh-financial-unit-economics": {
+    "consolidated_doc": "docs/DC-CM-UNIT-ECONOMICS-RECONCILED-001.md",
+    "doc_count": 2
+  },
+  "civicmesh-governance-audit-transparency": {
+    "consolidated_doc": "docs/DC-CM-AUDIT-TRANSPARENCY-RECONCILED-001.md",
+    "doc_count": 2
+  },
+  "civicmesh-isc-loan-application": {
+    "consolidated_doc": "docs/DC-CM-ISC-LOAN-RECONCILED-001.md",
+    "doc_count": 2
+  },
+  "federated-learning-platform-community-sovereignty-cooperative": {
+    "consolidated_doc": "docs/DC-FLP-SOVEREIGNTY-RECONCILED-001.md",
+    "doc_count": 6
   }
 }
