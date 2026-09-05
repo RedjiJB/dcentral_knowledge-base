@@ -448,13 +448,43 @@ What the script did, precisely:
 paths in their prose — these are historical investigation narratives, not live indexes, and rewriting
 their path references would misrepresent what was actually true when each was written.
 
+## Stage 2 gap-fill: systematic conversation-artifact extraction — 44 new docs found
+
+Ran `scripts/extract_conversation_artifacts.py`, scanning all 743 conversations' `create_file`
+tool-use blocks for a `DC-*-NNN`/`OS-*-NNN`-pattern basename (the same detection rule
+`get_next_conversation.py` already uses for doc-ID *mentions*, applied here to the filename itself
+rather than message text — i.e. "is this create_file call producing a document that IS a registry-ID
+doc," not "does this conversation merely talk about one"). Confirmed the tool's real schema first
+(`name: "create_file"`, `input: {path, description, file_text}` — an earlier guess at `name:
+"artifacts"` with `command: "create"` was wrong and found zero matches).
+
+**Result: 47 doc-ID-named artifacts found, 44 newly extracted** to `conversations/artifacts/` (3 were
+DC-LKB-001/002/003, already pulled by hand in an earlier session — skipped, not re-extracted). Zero
+duplicate paths within any single conversation, so no revision-chain collision to resolve. Full
+listing in `conversations/_artifacts_index.md`.
+
+This confirms the suspicion from the DC-LKB find was not a one-off: entire conversations' worth of
+substantial-sounding architecture docs (`DC-CAMPUS-001` Neighbourhood Campus Master Spec, `DC-OS-001`
+Ecosystem Operating System, a 9-document `DC-SIM-000` through `DC-SIM-009` simulation-framework
+series, a `DC-COOP-001`/`DC-FOS-001`/`DC-SCOUT-001`/`DC-B2B-001`/`DC-NETINFRA-001`/`DC-ENTERPRISE-001`
+six-document construction-cooperative revision chain within one conversation) existed only inside
+conversation exports and were invisible to every classification pass run so far, because none of them
+were ever uploaded to a Project.
+
+**Not yet done**: these 44 docs are extracted but unclassified — they haven't been through Stage 3
+(fine-grained classification), Stage 4 (dedup — at minimum `DC-REG-001-Master-Registry-v0.2.md` and
+`DC-REG-001-Master-Registry.md` look like they may be a revision pair, and `DC-COOP-001` has two
+versions v1.0/v2.0 within the same conversation), or Stage 5 (topic synthesis). They currently sit
+outside `knowledge-base/` entirely, in `conversations/artifacts/`.
+
 ## Next concrete step
 
 Two threads, not mutually exclusive:
 
-1. **Systematic conversation-artifact extraction** — scan all 743 conversations' `create_file`
-   tool-use blocks for `DC-*-NNN`-pattern filenames, not just project KB docs (the DC-LKB pull did
-   this by hand for one conversation; likely more exist).
+1. **Route the 44 new conversation-artifact docs through Stages 3–5** — extend `classify-kb-doc` (or
+   a sibling script) to also read from `conversations/artifacts/`, not just `projects/kb-docs/`, then
+   run them through classification, dedup (the `DC-REG-001` and `DC-COOP-001` version pairs are the
+   obvious first dedup candidates), and topic synthesis alongside the existing 428.
 2. More Stage 6 Consolidator passes: the four topic clusters named in earlier sessions still apply at
    their new fine-grained paths (`federation-sovereignty-cooperative-platforms`,
    `digital-community-participation-platforms`, `chopshop-project-documentation`,
