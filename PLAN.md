@@ -677,6 +677,35 @@ sections. **Root `_topics.md` now holds 83 confirmed topic clusters, 378 docs cl
 77/343) — `_topics_summary.md` updated to match. This completes Stage 5 across all 9 fine-grained
 categories.
 
+## Stage 6: first real Consolidator pass — `federated-learning-platform-community-sovereignty-cooperative`
+
+Produced [docs/DC-FLP-SOVEREIGNTY-RECONCILED-001.md](../docs/DC-FLP-SOVEREIGNTY-RECONCILED-001.md) per
+DC-CONSOLIDATOR-STD-001, consolidating the 6-doc topic that resulted from splitting the mis-merged
+`federation-sovereignty-cooperative-platforms` topic above. Read all 6 source docs in full (or
+near-full for the two 6,800/9,800-line occupation catalogs, sampled for structure after confirming
+their pattern) rather than summarizing from headers, per the standard's exhaustiveness requirement.
+
+**What the topic actually is**: a progressively-broadening vision from one Federated Learning
+Platform project — starting from a single 20ft-container educational micro-DC, extending to a
+40ft/16-sector version, then to a 3-tier national network, then generalizing the same
+container-as-community-asset pattern into a universal equipment-documentation framework (TDP), and
+finally to exhaustive occupation catalogs meant to back the token economy's per-occupation earning
+rules.
+
+**Two apparent conflicts turned out to be explicit source-stated evolutions, not real tensions**
+(reconciliation attempted per §4 before treating as unresolved): the 20ft-vs-40ft container size
+discrepancy is FLP-16SECTOR's own explicit framing ("40ft container vs. 20ft for education-only"),
+and the 4-token-vs-5-token discrepancy is the addition of a network-level RESOURCE token layered on
+top of the four community-level tokens, not a competing token design.
+
+**Two genuine unresolved tensions surfaced and got flagged, not silently resolved**: (1) the
+Universal TDP framework's DAO/tokenomics financing layer never states whether it shares the same
+token ledger as the container docs' SKILL/SPACE/COMM/GOV economy, or is an independent system reusing
+similar vocabulary; (2) the two occupation catalogs price skills in real-market consulting dollars
+while the container docs price the same activities in SKILL-token amounts, with no source stating a
+conversion rule between the two — a real implementation gap, not just a documentation style
+difference.
+
 ## Next concrete step
 
 One thread:
