@@ -118,9 +118,17 @@ things that genuinely don't fit any bucket at all, including this one.
    - If `append_classification.py` exits non-zero, read its error, fix the record in
      `pending.json`, and re-run it — don't just skip the conversation.
 7. Go back to step 1 for the next conversation, up to 10 total this invocation.
-8. **Report a summary, not per-item narration**: how many were classified this invocation, how many
-   remain, and a one-line list of title → primary_category for each one processed. Then stop — the
-   person running this decides whether to invoke the skill again.
+8. **Report a summary, not per-item narration**: how many were classified this invocation, and a
+   one-line list of title → primary_category for each one processed. **For the "how many remain" and
+   "total classified so far" numbers, use ONLY the `progress` field from the most recent
+   `conversations/_scratch/current.json` you read (e.g. `"42/743 (701 remaining after this one)"`) —
+   never estimate, guess, or calculate a cumulative total yourself.** This already went wrong twice:
+   one invocation reported "73/743 total classified" when the real number was 17, another reported
+   "93/743" when the real number was 26 — in both cases the actual remaining-count was roughly right
+   (it came from the reliable `progress` field) but the "total classified" figure was a separate,
+   wrong, self-generated number. If you're not looking at the `progress` field for a number you're
+   about to report, don't report that number. Then stop — the person running this decides whether to
+   invoke the skill again.
 
 ## 5. Output schema
 

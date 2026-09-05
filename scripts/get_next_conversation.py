@@ -102,7 +102,8 @@ def main():
                 "summary": summary,
                 "excerpt": excerpt,
                 "extracted_doc_ids": doc_ids,
-                "progress": f"{len(done) + 1}/{len(convs)} ({remaining} remaining after this one)",
+                "progress": f"{len(done) + 1}/{len(convs)} classified once this one is appended "
+                            f"({remaining - 1} remaining after this one)",
             }, out, indent=2, ensure_ascii=False)
 
         print(f"Wrote {SCRATCH_PATH.relative_to(REPO_ROOT)} -- {title[:70]!r} ({remaining} remaining)")

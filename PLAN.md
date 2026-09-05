@@ -221,6 +221,18 @@ updated both validators' `VALID_CATEGORIES` and the skill's taxonomy list. Also 
 self-report claiming "73/743 total classified" when the real count was 17 — second instance of a
 wrong self-reported number, reinforcing: verify the actual file, don't trust the summary line.
 
+**Fourth batch (9 more, spot-checked)**: content quality held up — two borderline calls both checked
+out as defensible after reading the raw text. But the self-reported total was wrong a THIRD time
+("93/743" vs. real 26), while the "remaining" number was roughly accurate both times. Root-caused it:
+`get_next_conversation.py`'s own `progress` field (the accurate source both "remaining" numbers were
+implicitly tracking) was mislabeled — `remaining` was calculated as the unclassified count *including*
+the current conversation, but labeled "remaining after this one" as if it excluded it, an off-by-one.
+Separately, the skill was never told to actually read that field for its final summary — it was
+generating a "total classified" number some other way each time. Fixed both: the `progress` field now
+says accurately `"N/743 classified once this one is appended (M remaining after this one)"`, and
+`SKILL.md` §4 step 8 now requires using ONLY that field for reported counts, never a self-calculated
+guess.
+
 ## Next concrete step
 
 Three threads, not mutually exclusive:
