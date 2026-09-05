@@ -195,6 +195,10 @@
     "consolidated_doc": "docs/DC-OPENSECURE-OS-DRONE-ADVANCED-RECONCILED-001.md",
     "doc_count": 2
   },
+  "opensecure-os-drone-subsystem": {
+    "consolidated_doc": "docs/DC-OPENSECURE-OS-DRONE-RECONCILED-001.md",
+    "doc_count": 4
+  },
   "opensecure-patrol-sentinel-implementation": {
     "consolidated_doc": "docs/DC-OPENSECURE-PATROL-SENTINEL-IMPL-RECONCILED-001.md",
     "doc_count": 2
@@ -210,5 +214,9 @@
   "trafficmesh-ontario-regulatory-compliance": {
     "consolidated_doc": "docs/DC-TRAFFICMESH-REGULATORY-RECONCILED-001.md",
     "doc_count": 2
+  },
+  "trafficmesh-ottawa-government-engagement": {
+    "consolidated_doc": "docs/DC-TRAFFICMESH-OTTAWA-GOV-ENGAGEMENT-RECONCILED-001.md",
+    "doc_count": 4
   }
 }
