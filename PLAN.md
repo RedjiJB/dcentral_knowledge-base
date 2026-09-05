@@ -346,16 +346,81 @@ good output. Turning that into actual unattended agents means wiring an orchestr
 DC-PIPELINE-STD-001 §3 — that doesn't exist yet, and is distinct from (harder than) simply having run
 Stage 2's classifier skill to completion.
 
+## Stage 3 redone at per-document granularity: 428/428 classified
+
+The original Stage 3 (`classify_docs.py`) routed all 428 KB docs by **project** — every doc in a
+project inherited that project's single coarse category (8 buckets total). This new pass classifies
+each **document** individually into the same fine-grained 30-path taxonomy the Stage 2 conversation
+classifier uses, via a new `classify-kb-doc` skill mirroring Stage 2's architecture:
+
+- `scripts/get_next_kb_doc.py` — scoped-context helper, now with `--count N` batch mode (hands out up
+  to N unclassified docs' front matter + a 4000-char content excerpt at once, instead of one per call)
+- `scripts/append_kb_doc_classification.py` — validates + appends; accepts either a single record or
+  a JSON array (batch mode), stopping at and naming the first record that fails validation
+- `scripts/validate_kb_doc_classification.py` — `PostToolUse` hook backstop (schema, taxonomy,
+  duplicate-uuid/duplicate-abstract checks), wired alongside the Stage 2 hook in `.claude/settings.json`
+- `scripts/rebuild_knowledge_base_fine.py` — materializes `knowledge-base-fine/<category>/<project>/<file>`
+  from `knowledge-base/_kb_doc_classified.jsonl`, copying from `projects/kb-docs/` (never touching the
+  original coarse `knowledge-base/` tree, which is left in place as a separate, untouched output)
+
+Ran to completion in-session (Sonnet reading each document's content directly, batch sizes 1→20→22
+as the pipeline matured) across all 33 projects' 428 docs. Final distribution:
+
+| Category | Count | | Category | Count |
+|---|---|---|---|---|
+| business-legal | 100 | | mesh-services/sensors-mobility | 7 |
+| security | 99 | | core/economics | 13 |
+| haiti-diaspora | 47 | | hardware/sensing-planes | 16 |
+| meta/platform-scaffolding | 41 | | core/governance | 16 |
+| academic-personal | 27 | | core/identity | 19 |
+| meta/status-tracking | 13 | | verticals/social-comm | 10 |
+| core/observability | 3 | | mesh-services/ai | 7 |
+| hardware/campus | 2 | | mesh-services/compute | 2 |
+| hardware/shi-node | 1 | | mesh-services/connectivity | 1 |
+| verticals/commerce | 2 | | verticals/home-trades | 2 |
+
+**Notable findings from reading every document individually** (impossible to see from the coarse
+project-level pass):
+- **A single project can span many categories.** CivicMesh alone (82 docs) produced records in 12 of
+  the 19 categories used — sensors-mobility, security, governance, business-legal, identity,
+  observability, economics, hardware (campus + sensing-planes), status-tracking. The old coarse pass
+  would have put every one of those 82 docs in one bucket.
+- **Open-Vision's entire 32-doc knowledge base being an exact clone of IHOSE's** (already found during
+  the Stage 4 cross-category dedup pass) was independently visible again here: every Open-Vision doc's
+  content excerpt was byte-identical to its IHOSE counterpart, confirming that finding from a second
+  angle.
+- **The "D Central" family of 8+ related projects** (D Central, D Central v2, D Central Business/User
+  Application, D Central Live Development, D Central V1, D Central Hardware/Software Tech Stack, D
+  Central x OBCC) turned out to hold largely non-overlapping content once actually read — architecture
+  docs, a Twitch livestream build campaign, business/cooperative-economics essays, and an OBCC
+  (Ottawa Black Chamber of Commerce) partnership plan are genuinely different subjects that happened
+  to share a name prefix, not duplicates of each other.
+- **Two new, previously-unseen-in-this-repo document families surfaced**: the `Open Secure` /
+  `Security Ecosystem` projects (the OS-PATROL/GUARDIAN/SENTINEL/DRONE/CONCIERGE/PACS suite plus
+  provincial-scale federation proposals — this is where the D-Central taxonomy's `security` category
+  name actually comes from) and `VDI Solutions` (holds the disputed Haiti-integration doc pair flagged
+  unresolved back in the Stage 4 review — both copies present here, still unresolved, not re-litigated
+  by this pass).
+
+**Known limitation, same one flagged before starting**: this pass classifies documents by their own
+content, not by inheriting any category from the 743-conversation Stage 2 pass — the two still don't
+share doc-level linkage (see the earlier note in this file on why `extracted_doc_ids` doesn't bridge
+them). `knowledge-base-fine/` and `knowledge-base/` are two independent, complete outputs; reconciling
+or replacing one with the other is a separate decision, not yet made.
+
 ## Next concrete step
 
 Three threads, not mutually exclusive:
 
-1. **Run the Stage 2 classifier** (above) — once run, its output should be reconciled against the
-   existing `knowledge-base/` category tree (built from Project-level classification, coarser) rather
-   than replacing it outright.
+1. **Decide what to do with the two parallel Stage 3 outputs** — `knowledge-base/` (coarse,
+   project-level, original) and `knowledge-base-fine/` (fine-grained, per-document, just completed).
+   Options discussed earlier: replace the coarse tree with the fine one, keep both, or merge with the
+   coarse tree deferring to the fine one wherever they conflict.
 2. **Systematic conversation-artifact extraction** — scan all 743 conversations' `create_file`
    tool-use blocks for `DC-*-NNN`-pattern filenames, not just project KB docs (the DC-LKB pull did
    this by hand for one conversation; likely more exist).
 3. More Stage 6 Consolidator passes: `federation-sovereignty-cooperative-platforms` (11 docs),
    `digital-community-participation-platforms` (16 docs), `chopshop-project-documentation` (17 docs),
-   `haiti-integration-platforms` (12 docs).
+   `haiti-integration-platforms` (12 docs) — plus, now that it exists, the `knowledge-base-fine/`
+   `security` (99 docs) and `business-legal` (100 docs) categories are large enough to warrant their
+   own topic-synthesis pass before any Stage 6 consolidation.
