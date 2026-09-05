@@ -243,6 +243,10 @@
     "consolidated_doc": "docs/DC-OPENSECURE-PER-SERVICE-IMPL-GUIDES-RECONCILED-001.md",
     "doc_count": 5
   },
+  "opensecure-provincial-security-network": {
+    "consolidated_doc": "docs/DC-OPENSECURE-PROVINCIAL-PIV-CREDENTIAL-RECONCILED-001.md",
+    "doc_count": 6
+  },
   "opensecure-sector-use-case-analyses": {
     "consolidated_doc": "docs/DC-OPENSECURE-SECTOR-USE-CASE-RECONCILED-001.md",
     "doc_count": 5
