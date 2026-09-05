@@ -47,6 +47,18 @@
     "consolidated_doc": "docs/DC-DEV-OS-RECONCILED-001.md",
     "doc_count": 2
   },
+  "dcentral-economic-model-critiques": {
+    "consolidated_doc": "docs/DC-ECONOMIC-CRITIQUES-RECONCILED-001.md",
+    "doc_count": 2
+  },
+  "dcentral-iot-integration-blueprint": {
+    "consolidated_doc": "docs/DC-IOT-BLUEPRINT-RECONCILED-001.md",
+    "doc_count": 2
+  },
+  "dcentral-networking-architecture": {
+    "consolidated_doc": "docs/DC-NETWORKING-ARCH-RECONCILED-001.md",
+    "doc_count": 2
+  },
   "federated-learning-platform-community-sovereignty-cooperative": {
     "consolidated_doc": "docs/DC-FLP-SOVEREIGNTY-RECONCILED-001.md",
     "doc_count": 6
