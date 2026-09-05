@@ -5,7 +5,7 @@ doc_uuid: 47e85d58-fc80-4ba8-be91-e1757972dae1
 original_filename: Iron_Horse_IHOSE_Complete_Technical_Specification.docx
 created_at: 2025-11-10T02:40:28.175354+00:00
 content_hash: f80606dfd101
-topic: federation-sovereignty-cooperative-platforms
+topic: "ihose-federation-ecosystem-partnership-framework"
 ---
 
 Iron Horse Security

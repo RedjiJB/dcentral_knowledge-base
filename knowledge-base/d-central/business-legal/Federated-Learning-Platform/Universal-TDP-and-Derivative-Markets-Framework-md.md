@@ -5,7 +5,7 @@ doc_uuid: 80c76046-b322-4228-98d3-ab14b929bcee
 original_filename: Universal TDP and Derivative Markets Framework.md
 created_at: 2025-08-03T17:11:55.465023+00:00
 content_hash: b8162c35ff42
-topic: federation-sovereignty-cooperative-platforms
+topic: "federated-learning-platform-community-sovereignty-cooperative"
 ---
 
 # Universal TDP and Derivative Markets Framework

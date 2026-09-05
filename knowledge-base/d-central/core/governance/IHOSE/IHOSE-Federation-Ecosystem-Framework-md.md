@@ -5,7 +5,7 @@ doc_uuid: 1257eed5-120e-4efc-acdf-72d67de9afbf
 original_filename: IHOSE_Federation_Ecosystem_Framework.md
 created_at: 2025-11-10T23:43:14.240150+00:00
 content_hash: 810034ad3f58
-topic: federation-sovereignty-cooperative-platforms
+topic: "ihose-federation-ecosystem-partnership-framework"
 ---
 
 # Iron Horse Security - Federation & Ecosystem Framework

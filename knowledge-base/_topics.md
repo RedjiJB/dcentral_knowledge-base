@@ -306,19 +306,22 @@ the taxonomy category a document's own content earned it.
 - [d-central/hardware/sensing-planes/Drone-Zoe/drone-selection-guide2-md-f756780a.md](./d-central/hardware/sensing-planes/Drone-Zoe/drone-selection-guide2-md-f756780a.md)
 - [d-central/hardware/sensing-planes/Drone-Zoe/updated-drone-guide-md-1780e328.md](./d-central/hardware/sensing-planes/Drone-Zoe/updated-drone-guide-md-1780e328.md)
 
-## federation-sovereignty-cooperative-platforms (11 docs)
+## ihose-federation-ecosystem-partnership-framework (5 docs)
 
-- [d-central/business-legal/Federated-Learning-Platform/Universal-TDP-and-Derivative-Markets-Framework-md.md](./d-central/business-legal/Federated-Learning-Platform/Universal-TDP-and-Derivative-Markets-Framework-md.md)
 - [d-central/business-legal/IHOSE/IMPROVEMENT-RECOMMENDATIONS-md.md](./d-central/business-legal/IHOSE/IMPROVEMENT-RECOMMENDATIONS-md.md)
-- [d-central/core/economics/Federated-System-Integration/comprehensive-professional-cooperative-analysis-md.md](./d-central/core/economics/Federated-System-Integration/comprehensive-professional-cooperative-analysis-md.md)
-- [d-central/core/governance/Federated-System-Integration/comprehensive-government-public-sector-analysis-md.md](./d-central/core/governance/Federated-System-Integration/comprehensive-government-public-sector-analysis-md.md)
 - [d-central/core/governance/IHOSE/IHOSE-Federation-Ecosystem-Framework-md.md](./d-central/core/governance/IHOSE/IHOSE-Federation-Ecosystem-Framework-md.md)
-- [d-central/haiti-diaspora/Federated-Learning-Platform/Enhanced-Educational-Sovereignty-Framework-Complete-Technical-Integration-md.md](./d-central/haiti-diaspora/Federated-Learning-Platform/Enhanced-Educational-Sovereignty-Framework-Complete-Technical-Integration-md.md)
-- [d-central/haiti-diaspora/Federated-Learning-Platform/Integrated-Community-Sovereignty-Platform-16-Sector-Integration-md.md](./d-central/haiti-diaspora/Federated-Learning-Platform/Integrated-Community-Sovereignty-Platform-16-Sector-Integration-md.md)
-- [d-central/haiti-diaspora/Federated-Learning-Platform/comprehensive-educational-sovereignty-md.md](./d-central/haiti-diaspora/Federated-Learning-Platform/comprehensive-educational-sovereignty-md.md)
 - [d-central/meta/platform-scaffolding/IHOSE/IHOSE-Complete-Technical-Specification-Combined-md.md](./d-central/meta/platform-scaffolding/IHOSE/IHOSE-Complete-Technical-Specification-Combined-md.md)
 - [d-central/meta/platform-scaffolding/IHOSE/Iron-Horse-IHOSE-Complete-Technical-Specification-docx.md](./d-central/meta/platform-scaffolding/IHOSE/Iron-Horse-IHOSE-Complete-Technical-Specification-docx.md)
 - [d-central/meta/platform-scaffolding/IHOSE/IronHorse-md.md](./d-central/meta/platform-scaffolding/IHOSE/IronHorse-md.md)
+
+## federated-learning-platform-community-sovereignty-cooperative (6 docs)
+
+- [d-central/business-legal/Federated-Learning-Platform/Universal-TDP-and-Derivative-Markets-Framework-md.md](./d-central/business-legal/Federated-Learning-Platform/Universal-TDP-and-Derivative-Markets-Framework-md.md)
+- [d-central/core/economics/Federated-System-Integration/comprehensive-professional-cooperative-analysis-md.md](./d-central/core/economics/Federated-System-Integration/comprehensive-professional-cooperative-analysis-md.md)
+- [d-central/core/governance/Federated-System-Integration/comprehensive-government-public-sector-analysis-md.md](./d-central/core/governance/Federated-System-Integration/comprehensive-government-public-sector-analysis-md.md)
+- [d-central/haiti-diaspora/Federated-Learning-Platform/Enhanced-Educational-Sovereignty-Framework-Complete-Technical-Integration-md.md](./d-central/haiti-diaspora/Federated-Learning-Platform/Enhanced-Educational-Sovereignty-Framework-Complete-Technical-Integration-md.md)
+- [d-central/haiti-diaspora/Federated-Learning-Platform/Integrated-Community-Sovereignty-Platform-16-Sector-Integration-md.md](./d-central/haiti-diaspora/Federated-Learning-Platform/Integrated-Community-Sovereignty-Platform-16-Sector-Integration-md.md)
+- [d-central/haiti-diaspora/Federated-Learning-Platform/comprehensive-educational-sovereignty-md.md](./d-central/haiti-diaspora/Federated-Learning-Platform/comprehensive-educational-sovereignty-md.md)
 
 ## fediverse-academic-institution-services (2 docs)
 

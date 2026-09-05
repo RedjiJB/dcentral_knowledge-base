@@ -5,8 +5,8 @@ doc_uuid: 23b00c2d-f3cb-448b-a616-cf75cd9d3b59
 original_filename: IMPROVEMENT_RECOMMENDATIONS.md
 created_at: 2025-12-02T00:47:55.100352+00:00
 content_hash: 71ca3473e7e5
-topic: federation-sovereignty-cooperative-platforms
 topic: "ihose-business-strategy-documents"
+topic: "ihose-federation-ecosystem-partnership-framework"
 ---
 
 # OpenVision Platform Documentation
