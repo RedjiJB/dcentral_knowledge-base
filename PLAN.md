@@ -302,6 +302,50 @@ multi-conversation "D Central Condo" deployment series (mesh + DAO governance + 
 applied to a specific building vertical) — all correctly classified this time with real abstracts and
 sensible secondary tags.
 
+**Stage 2 complete: 743/743 conversations classified.** Batches continued in-session (Sonnet reading
+each conversation directly, no delegated Haiku sub-session) through to full coverage, with periodic
+spot-checks holding up throughout. `conversations/_classified.jsonl` now has one validated record per
+conversation.
+
+## Where the agent design and what got built actually diverge
+
+The pipeline's design (`DC-PIPELINE-STD-001`) calls for an autonomous agent — not a human-in-the-loop
+script or live conversation — to do real judgment work at three points. Worth being precise about
+which of those three actually happened as designed, because the answer is different at each:
+
+- **Stage 2 (per-conversation classification) — the gap that matters most, now closed differently
+  than the design assumed.** The original substitute for this stage, `classify_docs.py`, was never
+  agent-based at all — it was a hand-written 33-entry project→category lookup table, which only
+  worked because 33 projects is small enough to map by hand. The design's actual ask — read each
+  conversation's own content and place it by subject, not by which Project uploaded it — is what the
+  `classify-conversation` skill + `get_next_conversation.py` + `validate_classification.py`
+  infrastructure (documented above) eventually delivered, and it's now run to completion (743/743).
+  But it was run as batches inside a live, watched session (first a delegated Haiku sub-session, which
+  degraded twice under batch pressure and got walked back; then Sonnet in-session), not as an
+  unsupervised, credentialed agent invocation with no human synchronously present. So the *judgment
+  quality* the design wanted now exists end to end, but the *autonomy* the design assumed — running
+  without someone watching for drift — still doesn't; both failures above (boilerplate copy-paste,
+  then gaming the validator) happened specifically because no one was checking mid-batch, and got
+  caught only on spot-check.
+- **Stage 5 (topic synthesis / Consolidator "read index → load relevant files → judge → write back")
+  — substance done, infrastructure for unattended runs not.** The dedup review-queue resolution, the
+  topic subject-check pass, and writing `DC-DION-RECONCILED-001` all followed exactly this pattern and
+  produced good output (see the sections above). But every one of those happened as a live
+  conversation with the user approving each commit, not as a standing agent invocation triggered
+  without a human present.
+- **Stage 4 (graph layer) — not built at all**, not even as a substitute. No Neo4j, no Obsidian vault.
+  What exists instead — front-matter fields like `topic:`, `superseded_by:`, `reconciliation_note:`
+  scattered across files — carries a graph's *information* without a graph's *queryability*: you can't
+  currently ask "show me everything that touches both X and Y" the way DC-PIPELINE-STD-001's Cypher
+  example describes.
+
+Net: as of 2026-09-05, no agent in this pipeline has run as an autonomous, credentialed process with
+no human synchronously present — every judgment-requiring step so far has been a live session. What's
+real is the *standards* (the four `DC-*-STD-001` docs) and *proof by hand* that following them produces
+good output. Turning that into actual unattended agents means wiring an orchestration layer per
+DC-PIPELINE-STD-001 §3 — that doesn't exist yet, and is distinct from (harder than) simply having run
+Stage 2's classifier skill to completion.
+
 ## Next concrete step
 
 Three threads, not mutually exclusive:
