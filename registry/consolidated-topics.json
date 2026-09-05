@@ -207,6 +207,10 @@
     "consolidated_doc": "docs/DC-IHOSE-MODULE-DEV-RECONCILED-001.md",
     "doc_count": 2
   },
+  "ihose-openvision-documentation-package": {
+    "consolidated_doc": "docs/DC-IHOSE-OPENVISION-DOCUMENTATION-PACKAGE-RECONCILED-001.md",
+    "doc_count": 20
+  },
   "ihose-quickstart-install": {
     "consolidated_doc": "docs/DC-IHOSE-QUICKSTART-RECONCILED-001.md",
     "doc_count": 3
