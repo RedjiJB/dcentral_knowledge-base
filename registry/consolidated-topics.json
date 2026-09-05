@@ -27,6 +27,10 @@
     "consolidated_doc": "docs/DC-CM-MITACS-RECONCILED-001.md",
     "doc_count": 2
   },
+  "civicmesh-noc-manager-dashboard-specifications": {
+    "consolidated_doc": "docs/DC-CM-NOC-DASHBOARD-RECONCILED-001.md",
+    "doc_count": 3
+  },
   "civicmesh-partner-incentive-programmes": {
     "consolidated_doc": "docs/DC-CM-PARTNER-INCENTIVES-RECONCILED-001.md",
     "doc_count": 2
@@ -113,6 +117,14 @@
   },
   "opensecure-os-drone-advanced-capabilities": {
     "consolidated_doc": "docs/DC-OPENSECURE-OS-DRONE-ADVANCED-RECONCILED-001.md",
+    "doc_count": 2
+  },
+  "opensecure-patrol-sentinel-implementation": {
+    "consolidated_doc": "docs/DC-OPENSECURE-PATROL-SENTINEL-IMPL-RECONCILED-001.md",
+    "doc_count": 2
+  },
+  "trafficmesh-ontario-regulatory-compliance": {
+    "consolidated_doc": "docs/DC-TRAFFICMESH-REGULATORY-RECONCILED-001.md",
     "doc_count": 2
   }
 }
