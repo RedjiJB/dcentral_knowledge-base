@@ -1,4 +1,8 @@
 {
+  "blockchain-education-federation": {
+    "consolidated_doc": "docs/DC-BLOCKCHAIN-EDUCATION-FEDERATION-RECONCILED-001.md",
+    "doc_count": 6
+  },
   "civicmesh-competitive-analysis": {
     "consolidated_doc": "docs/DC-CM-COMPETITIVE-RECONCILED-001.md",
     "doc_count": 2
@@ -246,6 +250,10 @@
   "trafficmesh-city-fleet-deployment": {
     "consolidated_doc": "docs/DC-TRAFFICMESH-CITY-FLEET-RECONCILED-001.md",
     "doc_count": 3
+  },
+  "trafficmesh-insurance-integration-revenue": {
+    "consolidated_doc": "docs/DC-TRAFFICMESH-INSURANCE-INTEGRATION-RECONCILED-001.md",
+    "doc_count": 5
   },
   "trafficmesh-legal-regulatory-compliance": {
     "consolidated_doc": "docs/DC-TRAFFICMESH-LEGAL-RECONCILED-001.md",
