@@ -402,25 +402,62 @@ project-level pass):
   unresolved back in the Stage 4 review — both copies present here, still unresolved, not re-litigated
   by this pass).
 
-**Known limitation, same one flagged before starting**: this pass classifies documents by their own
-content, not by inheriting any category from the 743-conversation Stage 2 pass — the two still don't
-share doc-level linkage (see the earlier note in this file on why `extracted_doc_ids` doesn't bridge
-them). `knowledge-base-fine/` and `knowledge-base/` are two independent, complete outputs; reconciling
-or replacing one with the other is a separate decision, not yet made.
+**Known limitation, since resolved**: this pass classifies documents by their own content, not by
+inheriting any category from the 743-conversation Stage 2 pass — the two still don't share doc-level
+linkage (see the earlier note in this file on why `extracted_doc_ids` doesn't bridge them). But the
+separate question of what to do with `knowledge-base-fine/` vs. the original coarse `knowledge-base/`
+has now been resolved — see below.
+
+## Stage 3 outputs reconciled into one tree
+
+`knowledge-base/` and `knowledge-base-fine/` were two independent, complete outputs after the previous
+session — the coarse original carried real accumulated Stage 4 (dedup status) and Stage 5 (topic
+cluster) work that the clean fine-grained copy didn't have. `scripts/reconcile_knowledge_base.py`
+merged them: **`knowledge-base/` now lives at the fine-grained per-document category paths**, with
+every doc's dedup status and topic-cluster membership carried forward onto its new location.
+`knowledge-base-fine/` has been retired (its job — staging this merge — is done).
+
+What the script did, precisely:
+- Copied each of the 428 docs from `projects/kb-docs/` (clean source) to its fine-grained path
+  (`knowledge-base/<category>/<project>/<file>`), re-attaching whatever Stage 4/6 front-matter fields
+  the old coarse-tree copy had accumulated (`status: duplicate/superseded/disputed`,
+  `duplicate_of`/`superseded_by`/`conflicts_with`, `reconciliation_note`) — and fixed a pre-existing
+  formatting bug where `content_hash` and the next front-matter key ran together with no newline.
+- Docs marked `duplicate`/`superseded` moved into a `_superseded/` subfolder under their new category
+  (same convention as before); `disputed` docs stayed in place, matching how the Stage 4 review left
+  them (see the VDI-Solutions pair, still genuinely unresolved, not re-litigated by this merge).
+- Rewrote every `duplicate_of`/`superseded_by`/`conflicts_with` path reference from its old coarse
+  location to the doc's new fine-grained one, so cross-references still resolve.
+- **Caught a real, pre-existing data-quality bug in the process**: doc front matter still carried
+  orphaned `topic:` tags from Stage 5's first-pass *lexical* auto-clustering (garbage slugs like
+  `'amplifier-default-steward'`) that were superseded by the actual subject-checked resolution but
+  never cleaned out of the files themselves — only the per-category `_topics.md` files reflected the
+  real, human-confirmed 55 clusters. A first version of this script naively trusted front-matter
+  `topic:` tags and produced 115 "topics" (real ones plus leftover noise); rewritten to source topic
+  membership from the `_topics.md` files instead (the actual Stage 5 output), which reproduced the
+  original **55 confirmed clusters, 238 docs clustered** — verified as an exact match before treating
+  the reconciliation as done.
+- Consolidated the 7 per-category `_topics.md`/`_INDEX.md` files into one root `_topics.md` and one
+  regenerated `_INDEX.md` reflecting the 19 fine-grained categories (topic clusters now legitimately
+  span multiple categories, since a topic is a semantic cluster independent of any one document's own
+  taxonomy category).
+- Verified afterward: all 428 classified docs present in the new tree, zero missing, zero orphaned.
+
+**Left untouched, deliberately**: `registry/dedup-review/*.md`, `TOPIC-RESOLUTION.md`,
+`CROSS-POLLINATION-FINDINGS.md`, and `docs/DC-DION-RECONCILED-001.md` still reference the old coarse
+paths in their prose — these are historical investigation narratives, not live indexes, and rewriting
+their path references would misrepresent what was actually true when each was written.
 
 ## Next concrete step
 
-Three threads, not mutually exclusive:
+Two threads, not mutually exclusive:
 
-1. **Decide what to do with the two parallel Stage 3 outputs** — `knowledge-base/` (coarse,
-   project-level, original) and `knowledge-base-fine/` (fine-grained, per-document, just completed).
-   Options discussed earlier: replace the coarse tree with the fine one, keep both, or merge with the
-   coarse tree deferring to the fine one wherever they conflict.
-2. **Systematic conversation-artifact extraction** — scan all 743 conversations' `create_file`
+1. **Systematic conversation-artifact extraction** — scan all 743 conversations' `create_file`
    tool-use blocks for `DC-*-NNN`-pattern filenames, not just project KB docs (the DC-LKB pull did
    this by hand for one conversation; likely more exist).
-3. More Stage 6 Consolidator passes: `federation-sovereignty-cooperative-platforms` (11 docs),
-   `digital-community-participation-platforms` (16 docs), `chopshop-project-documentation` (17 docs),
-   `haiti-integration-platforms` (12 docs) — plus, now that it exists, the `knowledge-base-fine/`
-   `security` (99 docs) and `business-legal` (100 docs) categories are large enough to warrant their
-   own topic-synthesis pass before any Stage 6 consolidation.
+2. More Stage 6 Consolidator passes: the four topic clusters named in earlier sessions still apply at
+   their new fine-grained paths (`federation-sovereignty-cooperative-platforms`,
+   `digital-community-participation-platforms`, `chopshop-project-documentation`,
+   `haiti-integration-platforms`) — plus the newly-visible `security` (99 docs) and `business-legal`
+   (100 docs) fine-grained categories are large enough to warrant their own topic-synthesis pass before
+   any Stage 6 consolidation.
