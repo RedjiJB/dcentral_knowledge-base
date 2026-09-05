@@ -105,7 +105,7 @@ Per the Charter's own Part XII.3, the rollout sequencing from a present-day popu
 
 ## 9. Gap registry status
 
-**New — not yet in the gap registry.** Recommend registering as a formal gap-registry item alongside #24 (`DC-AGENT-CREDENTIAL-001`), since this document follows the identical extension pattern (new credential type + permission table on existing `dc-identity`/`dc-governance`/`dc-attestation`, no new microservice) and should be tracked the same way.
+**#25b `DC-CIVIC-EDUCATION-001` — specified, this document.** Follows the identical extension pattern as #24 (`DC-AGENT-CREDENTIAL-001`): new credential type + permission table on existing `dc-identity`/`dc-governance`/`dc-attestation`, no new microservice. Companion spec `DC-CIVIC-DIVIDEND-001` (gap #26) implements the disbursement side as an LMIS-conformant Lakou module consuming the credential schema defined here. Recommend the user confirm final numbering against the live registry — #25 was already assigned to `DC-DAO-AGENT-LOOP-001`, so this and #26 may need renumbering rather than the placeholder suffix used here.
 
 ---
 
