@@ -86,5 +86,17 @@
   "ihose-module-development": {
     "consolidated_doc": "docs/DC-IHOSE-MODULE-DEV-RECONCILED-001.md",
     "doc_count": 2
+  },
+  "ihose-use-cases-business-models": {
+    "consolidated_doc": "docs/DC-IHOSE-USE-CASES-RECONCILED-001.md",
+    "doc_count": 2
+  },
+  "mesh-cooperative-business-models": {
+    "consolidated_doc": "docs/DC-MESH-COOP-BUSINESS-RECONCILED-001.md",
+    "doc_count": 2
+  },
+  "meshnav-architecture-data-pipeline": {
+    "consolidated_doc": "docs/DC-MESHNAV-RECONCILED-001.md",
+    "doc_count": 2
   }
 }
