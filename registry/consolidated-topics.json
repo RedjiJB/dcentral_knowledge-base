@@ -31,6 +31,10 @@
     "consolidated_doc": "docs/DC-CM-NOC-DASHBOARD-RECONCILED-001.md",
     "doc_count": 3
   },
+  "civicmesh-officer-portal-municipal-training": {
+    "consolidated_doc": "docs/DC-CM-OFFICER-PORTAL-RECONCILED-001.md",
+    "doc_count": 3
+  },
   "civicmesh-partner-incentive-programmes": {
     "consolidated_doc": "docs/DC-CM-PARTNER-INCENTIVES-RECONCILED-001.md",
     "doc_count": 2
@@ -46,6 +50,14 @@
   "civicmesh-trafficmesh-articles-of-incorporation": {
     "consolidated_doc": "docs/DC-CM-TM-ARTICLES-RECONCILED-001.md",
     "doc_count": 2
+  },
+  "civicmesh-trafficmesh-grant-funding-applications": {
+    "consolidated_doc": "docs/DC-CM-TM-GRANT-FUNDING-RECONCILED-001.md",
+    "doc_count": 3
+  },
+  "comptia-a-learning-platform": {
+    "consolidated_doc": "docs/DC-COMPTIA-A-PLATFORM-RECONCILED-001.md",
+    "doc_count": 3
   },
   "dcentral-developer-ecosystem-os-specs": {
     "consolidated_doc": "docs/DC-DEV-OS-RECONCILED-001.md",
