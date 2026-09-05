@@ -59,6 +59,10 @@
     "consolidated_doc": "docs/DC-COMPTIA-A-PLATFORM-RECONCILED-001.md",
     "doc_count": 3
   },
+  "dcentral-competitive-strategy-analysis": {
+    "consolidated_doc": "docs/DC-COMPETITIVE-STRATEGY-RECONCILED-001.md",
+    "doc_count": 3
+  },
   "dcentral-developer-ecosystem-os-specs": {
     "consolidated_doc": "docs/DC-DEV-OS-RECONCILED-001.md",
     "doc_count": 2
@@ -78,6 +82,10 @@
   "dcentral-obcc-sector-implementation": {
     "consolidated_doc": "docs/DC-OBCC-SECTOR-RECONCILED-001.md",
     "doc_count": 2
+  },
+  "dcentral-reinvestment-procurement-plans": {
+    "consolidated_doc": "docs/DC-REINVEST-PROCUREMENT-RECONCILED-001.md",
+    "doc_count": 3
   },
   "drone-zoe-hardware-selection-guides": {
     "consolidated_doc": "docs/DC-DRONE-HARDWARE-RECONCILED-001.md",
