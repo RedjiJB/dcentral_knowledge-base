@@ -233,6 +233,22 @@ says accurately `"N/743 classified once this one is appended (M remaining after 
 `SKILL.md` §4 step 8 now requires using ONLY that field for reported counts, never a self-calculated
 guess.
 
+**Fifth batch (7 more, spot-checked)**: content legitimate, aggregate count finally accurate
+(33/743, matches file). One real consistency finding, not a bug to fix at this stage: the same
+recurring "Intelligent Scaffolding Generator" project is split across `platform-scaffolding` and
+`academic-personal` depending on which of its ~6 conversations you look at (`Revising Scaffolding
+Generator Code` and `Real-Time Deployment Verification` → `platform-scaffolding`; `Comprehensive
+Scaffolding Generator Tutorial` and `Intelligent Scaffolding Generator Setup` → `academic-personal`),
+with no clear principled distinction between them on a re-read. Root cause: Stage 2 classifies one
+conversation at a time with no memory of prior calls, so a multi-part project thread can land in
+different buckets across its parts — an inherent tradeoff of the scoped-context design, not a fixable
+per-call bug. **Deliberately not fixing this at Stage 2** (giving it cross-conversation memory would
+undermine the scoping that makes 743 independent, comparable calls tractable). **Flagged as a known
+Stage 2 → Stage 5 handoff item**: when topic synthesis runs, confirm it correctly reunites all
+Scaffolding-Generator-related conversations into one topic node regardless of which Stage 2 category
+each individual conversation landed in — this is a concrete test case for whether Stage 5's
+clustering actually recovers from Stage 2's per-call inconsistency the way it's supposed to.
+
 ## Next concrete step
 
 Three threads, not mutually exclusive:
