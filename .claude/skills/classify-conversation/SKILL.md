@@ -52,6 +52,15 @@ guardrail in §7 on why).
 - **Read only `conversations/_scratch/current.json`.** Never read `raw-export/conversations/conversations.json`
   directly — it's 320MB, and reading it defeats the entire scoped-context premise this pipeline runs
   on. If `get_next_conversation.py` exits 1 ("nothing left to classify"), stop — the pass is done.
+- **Running more than one classification session at the same time**: pass `--session <name>` to
+  `get_next_conversation.py` (e.g. `--session a` in one session, `--session b` in the other). Each
+  session then gets its own scratch file (`current_<name>.json` instead of the shared `current.json`)
+  and the script claims whichever uuid it hands out (in `conversations/_scratch/_claims.json`, TTL
+  20 min) so the other session's next call skips it instead of also picking it. Without distinct
+  `--session` values, two concurrent runs will repeatedly grab the same conversation and clobber each
+  other's scratch file — pass matching `<path-to-record.json>` names to `append_classification.py`
+  too (e.g. `pending_a.json` / `pending_b.json`) so the two sessions' in-progress records don't
+  overwrite each other either.
 - **Read the taxonomy in §3 below.** Do not read other categories' `_topics.md` or the full
   `knowledge-base/` tree — you don't need it, and loading it just for one classification call is the
   same "context dump" failure mode this whole pipeline exists to avoid.
