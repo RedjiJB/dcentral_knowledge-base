@@ -87,6 +87,10 @@
     "consolidated_doc": "docs/DC-REINVEST-PROCUREMENT-RECONCILED-001.md",
     "doc_count": 3
   },
+  "dion-platform-expansion-explanation": {
+    "consolidated_doc": "docs/DC-DION-EXPANSION-EXPLANATION-RECONCILED-001.md",
+    "doc_count": 3
+  },
   "drone-zoe-hardware-selection-guides": {
     "consolidated_doc": "docs/DC-DRONE-HARDWARE-RECONCILED-001.md",
     "doc_count": 2
@@ -111,9 +115,17 @@
     "consolidated_doc": "docs/DC-IHOSE-MODULE-DEV-RECONCILED-001.md",
     "doc_count": 2
   },
+  "ihose-quickstart-install": {
+    "consolidated_doc": "docs/DC-IHOSE-QUICKSTART-RECONCILED-001.md",
+    "doc_count": 3
+  },
   "ihose-use-cases-business-models": {
     "consolidated_doc": "docs/DC-IHOSE-USE-CASES-RECONCILED-001.md",
     "doc_count": 2
+  },
+  "livestream-overlay-chatbot-system": {
+    "consolidated_doc": "docs/DC-LIVESTREAM-OVERLAY-RECONCILED-001.md",
+    "doc_count": 3
   },
   "mesh-cooperative-business-models": {
     "consolidated_doc": "docs/DC-MESH-COOP-BUSINESS-RECONCILED-001.md",
