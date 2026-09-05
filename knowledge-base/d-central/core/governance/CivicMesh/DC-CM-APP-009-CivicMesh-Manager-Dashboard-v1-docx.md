@@ -5,6 +5,7 @@ doc_uuid: 51b4b1e1-6a8c-4839-b71a-a40ad611fdc9
 original_filename: DC-CM-APP-009_CivicMesh_Manager_Dashboard_v1.docx
 created_at: 2026-06-01T11:32:20.310339+00:00
 content_hash: 30505e33dfb2
+topic: "civicmesh-noc-manager-dashboard-specifications"
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

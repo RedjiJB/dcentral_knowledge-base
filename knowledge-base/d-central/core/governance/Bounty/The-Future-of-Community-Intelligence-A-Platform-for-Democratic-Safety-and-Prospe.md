@@ -5,6 +5,7 @@ doc_uuid: e726ae6b-5b7b-4274-9b55-2cd84bf3d21b
 original_filename: The Future of Community Intelligence: A Platform for Democratic Safety and Prosperity.md
 created_at: 2025-08-23T15:21:37.796073+00:00
 content_hash: dfeff86185b1
+topic: "dion-operator-deployment-credentialing"
 ---
 
 # The Future of Community Intelligence: A Platform for Democratic Safety and Prosperity

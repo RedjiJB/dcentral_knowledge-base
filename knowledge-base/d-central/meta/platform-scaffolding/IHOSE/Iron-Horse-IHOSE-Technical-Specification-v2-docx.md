@@ -5,6 +5,7 @@ doc_uuid: c857a3fd-8ce9-452b-8c2d-4db7a77ed1d3
 original_filename: Iron_Horse_IHOSE_Technical_Specification_v2.docx
 created_at: 2025-11-10T02:40:28.513876+00:00
 content_hash: 614e8fb64322
+topic: "ihose-architecture-deployment"
 ---
 
 Iron Horse Security

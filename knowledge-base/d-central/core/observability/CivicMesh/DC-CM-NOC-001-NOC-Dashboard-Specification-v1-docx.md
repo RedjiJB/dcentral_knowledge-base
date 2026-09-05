@@ -6,6 +6,7 @@ original_filename: DC-CM-NOC-001_NOC_Dashboard_Specification_v1.docx
 created_at: 2026-06-01T11:32:19.782831+00:00
 content_hash: b2346f9d6d5f
 topic: civicmesh-federation-noc-municipal-deployment
+topic: "civicmesh-noc-manager-dashboard-specifications"
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

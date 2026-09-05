@@ -5,6 +5,7 @@ doc_uuid: f29d8edd-1684-4b80-abb1-fa5b762f4a73
 original_filename: DION Platform API - Completion of OpenAPI Specification.md
 created_at: 2025-08-23T15:56:37.850493+00:00
 content_hash: 3602b9784e86
+topic: "dion-platform-api-backend-architecture"
 ---
 
 # DION Platform API - Completion of OpenAPI Specification

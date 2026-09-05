@@ -5,6 +5,7 @@ doc_uuid: ffe43277-5b95-49f6-b3a6-ee9eca198a63
 original_filename: Simple Platform Explanation with D Central Integration.md
 created_at: 2025-08-23T15:53:35.558282+00:00
 content_hash: 31d0301702c8
+topic: "dion-platform-expansion-explanation"
 ---
 
 # The Intelligence Platform + D Central: Simple Explanation

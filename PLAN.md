@@ -615,6 +615,68 @@ in the consolidated `_topics.md` before moving them, so no topic-cluster links b
 still accounted for (398 live + 74 now in `_superseded/`). This closes the Stage 4 exact-hash gap
 across all 9 fine-grained categories.
 
+## Stage 5 topic synthesis finished: remaining 7 categories
+
+Closed out Stage 5 across the whole taxonomy. Ran `topic_candidates.py` against `core`,
+`haiti-diaspora`, `hardware`, `mesh-services`, `meta`, `verticals`, and `academic-personal`, then
+subject-checked every lexical cluster the same way as `security`/`business-legal`. The dominant
+finding this time was different: **most lexical clusters in these 7 categories were already
+confirmed topics from an earlier pre-reconciliation pass** — checking each candidate cluster's docs
+for existing `topic:` front matter (rather than re-reading full content first) quickly showed most
+"new" candidates were just the same already-correctly-tagged docs re-grouped by the lexical
+clusterer, which doesn't know about existing tags. Real new work turned out to be: (1) a handful of
+genuinely new small clusters mostly made of untagged conversation-artifacts that were never run
+through the original pre-reconciliation topic pass (since that pass predates the artifact-extraction
+work), and (2) individual untagged docs that belonged in an already-confirmed topic alongside docs
+that got tagged earlier.
+
+**7 new confirmed topics (26 docs)**:
+- `dcentral-venture-governance-protocol-suite` (5) — `DC-FRACTAL-001`/`DC-GOV-002`/`DC-MOGUL-001`/
+  `DC-TPL-000`/`DC-VENTURE-001`, confirmed genuinely one governance-protocol document set by their
+  own explicit `Related:`/`Supersedes in part:` cross-references to each other, not by lexical
+  overlap.
+- `civicmesh-noc-manager-dashboard-specifications` (3) — `DC-CM-APP-009`, `DC-CM-APP-003`,
+  `DC-CM-NOC-001`; confirmed by reading past each doc's shared corporate-template boilerplate header
+  to their actual dashboard/console product-spec content.
+- `haiti-security-framework-outreach` (2) — an email and its attached proposal doc, same outreach
+  (Bob Rae introduction to Mr. Côté-Fournier), confirmed by matching intro paragraphs and different
+  content-hashes (companion pieces, not duplicates).
+- `dion-platform-api-backend-architecture` (4) — 4 untagged Bounty/DION-Platform API/backend docs
+  the earlier pass never covered.
+- `dcentral-developer-ecosystem-os-specs` (2) — `DC-DEV-001` (Mesh-Native Developer Platform) +
+  `DC-OS-001` (Ecosystem Operating System), both master platform-scaffolding specs.
+- `dcentral-simulation-lab-programme` (10) — `DC-SIM-000` through `DC-SIM-009`, confirmed as one
+  sequentially-numbered simulation programme by each doc's own heading; folds in the `DC-SIM-008`/
+  `DC-SIM-009` pair whose supersession relationship was already verified during the Stage 4
+  conversation-artifact dedup pass.
+
+**8 docs added as a second `topic:` tag to an already-confirmed topic** (verified by reading each,
+not inferred from the lexical grouping): the Bounty "Community Intelligence" companion doc and the
+DION-Platform-Operator-Network Blueprint into `dion-operator-deployment-credentialing`; a second
+Commercial-Driver-VC-Schema doc into `commercial-b2b-vehicle-fleet-programme`; an IHOSE spec
+revision into `ihose-architecture-deployment`; the topology-suite's own summary/index doc into
+`opensecure-topology-documentation-suite`; a frontend-components doc into
+`dion-platform-technical-architecture`; a simple-explanation doc into
+`dion-platform-expansion-explanation`; a registry amendment into
+`digital-community-participation-platforms`; and a game-suite doc into `comptia-a-learning-platform`.
+
+**Rejected as false lexical groupings** (confirmed already-correct via existing topic tags spanning
+multiple different topics, or genuinely unrelated subjects on read): `core`'s
+`comprehensive-coordination-expertise` (7 docs already split across `federation-sovereignty-
+cooperative-platforms`, `haiti-integration-platforms`, `dcentral-core-narrative-analysis`, and
+`digital-community-participation-platforms`), `java-end-templates` (already split across
+`opensecure-openpiv-subsystem`, `opensecure-provincial-security-network`, `federation-sovereignty-
+cooperative-platforms`), `lane-opt-percentile`, `class-intel-availability`, `extraordinary-actions-
+federation`, `installation-diagnostics-expert` (all fully covered by existing topics already);
+`mesh-services`'s `rural-device-bridging` (3 docs, 3 different existing topics).
+
+Applied via the same `apply_confirmed_topics.py` (extended with an `ADDITIONAL_TOPIC_TAGS` dict for
+the second-tag cases, with an idempotency check so re-running it is safe) plus a new
+`scripts/add_topic_members.py` for merging those second tags into their existing `_topics.md`
+sections. **Root `_topics.md` now holds 83 confirmed topic clusters, 378 docs clustered** (up from
+77/343) — `_topics_summary.md` updated to match. This completes Stage 5 across all 9 fine-grained
+categories.
+
 ## Next concrete step
 
 One thread:

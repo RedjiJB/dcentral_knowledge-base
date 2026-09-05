@@ -5,6 +5,7 @@ doc_uuid: 056900cd-aff6-4fd0-983c-d07c72f1d578
 original_filename: security_email.md
 created_at: 2025-08-03T12:35:40.606544+00:00
 content_hash: 6100fb15622b
+topic: "haiti-security-framework-outreach"
 ---
 
 Subject: Introduction from Bob Rae: Community-Led Cooperative Framework for Haiti's Self-Sufficiency

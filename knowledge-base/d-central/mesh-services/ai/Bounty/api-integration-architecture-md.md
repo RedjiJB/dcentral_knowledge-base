@@ -5,6 +5,7 @@ doc_uuid: 12ef7c38-d2fa-4999-84bf-082a4cdf8105
 original_filename: api_integration_architecture.md
 created_at: 2025-08-23T03:10:32.362099+00:00
 content_hash: bb2ee10fcd21
+topic: "dion-platform-api-backend-architecture"
 ---
 
 # API, Webhook, GraphQL, GraphRAG & MCP Integration Architecture

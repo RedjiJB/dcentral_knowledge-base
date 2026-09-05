@@ -5,6 +5,7 @@ doc_uuid: cc6f3244-667c-45d9-be26-4bb1e2c58571
 original_filename: {Game Suite}
 created_at: 2025-04-29T21:45:04.855800+00:00
 content_hash: c4ede119d124
+topic: "comptia-a-learning-platform"
 ---
 
 # CompTIA A+ Certification Game Suite

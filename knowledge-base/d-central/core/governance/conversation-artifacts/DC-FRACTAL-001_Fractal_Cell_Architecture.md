@@ -5,6 +5,7 @@ created_at: 2026-07-22T11:23:34.845895Z
 doc_id: DC-FRACTAL-001
 description: 'DC-FRACTAL-001: Fractal Cell Architecture'
 extraction_method: conversation-artifact (create_file tool-use block, never uploaded to a Project KB)
+topic: "dcentral-venture-governance-protocol-suite"
 ---
 
 # DC-FRACTAL-001 — Fractal Cell Architecture (The Franchise Co-op Model)

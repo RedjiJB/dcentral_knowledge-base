@@ -177,6 +177,84 @@ TOPICS = {
         "knowledge-base/d-central/business-legal/CivicMesh/REG-TM-001-TrafficMesh-Ontario-HTA-Compliance-Analysis-v1-docx.md",
         "knowledge-base/d-central/business-legal/CivicMesh/REG-TM-002-TrafficMesh-Provincial-Variation-Matrix-v1-docx.md",
     ],
+
+    # ---------------- core (round 2 -- remaining 7 categories) ----------------
+    "dcentral-venture-governance-protocol-suite": [
+        "knowledge-base/d-central/core/governance/conversation-artifacts/DC-FRACTAL-001_Fractal_Cell_Architecture.md",
+        "knowledge-base/d-central/core/governance/conversation-artifacts/DC-GOV-002_Conglomerate_Governance_Architecture.md",
+        "knowledge-base/d-central/core/governance/conversation-artifacts/DC-MOGUL-001_Principal_Track_Protocol.md",
+        "knowledge-base/d-central/core/governance/conversation-artifacts/DC-TPL-000_Template_Standard.md",
+        "knowledge-base/d-central/core/governance/conversation-artifacts/DC-VENTURE-001_Venture_Sequencing_Registry.md",
+    ],
+    "civicmesh-noc-manager-dashboard-specifications": [
+        "knowledge-base/d-central/core/governance/CivicMesh/DC-CM-APP-009-CivicMesh-Manager-Dashboard-v1-docx.md",
+        "knowledge-base/d-central/core/observability/CivicMesh/DC-CM-APP-003-CivicMesh-NOC-Console-v1-docx.md",
+        "knowledge-base/d-central/core/observability/CivicMesh/DC-CM-NOC-001-NOC-Dashboard-Specification-v1-docx.md",
+    ],
+
+    # ---------------- haiti-diaspora ----------------
+    "haiti-security-framework-outreach": [
+        "knowledge-base/d-central/haiti-diaspora/Federated-Learning-Platform/security-email-md.md",
+        "knowledge-base/d-central/haiti-diaspora/Haiti-open-framework/haiti-security-proposal-md.md",
+    ],
+
+    # ---------------- mesh-services ----------------
+    "dion-platform-api-backend-architecture": [
+        "knowledge-base/d-central/mesh-services/ai/Bounty/api-integration-architecture-md.md",
+        "knowledge-base/d-central/mesh-services/ai/Bounty/DION-Platform-API-Completion-of-OpenAPI-Specification-md.md",
+        "knowledge-base/d-central/mesh-services/ai/Bounty/DION-Platform-Backend-Services-Implementation-txt.md",
+        "knowledge-base/d-central/mesh-services/ai/Bounty/federated-hybrid-integration-md.md",
+    ],
+
+    # ---------------- meta ----------------
+    "dcentral-developer-ecosystem-os-specs": [
+        "knowledge-base/d-central/meta/platform-scaffolding/conversation-artifacts/DC-DEV-001_Mesh_Native_Developer_Platform.md",
+        "knowledge-base/d-central/meta/platform-scaffolding/conversation-artifacts/DC-OS-001_Ecosystem_Operating_System.md",
+    ],
+    "dcentral-simulation-lab-programme": [
+        "knowledge-base/d-central/meta/simulation/conversation-artifacts/DC-SIM-000-Index.md",
+        "knowledge-base/d-central/meta/simulation/conversation-artifacts/DC-SIM-001-Fidelity-Reference.md",
+        "knowledge-base/d-central/meta/simulation/conversation-artifacts/DC-SIM-002-Topology-Build-Spec.md",
+        "knowledge-base/d-central/meta/simulation/conversation-artifacts/DC-SIM-003-DCOS-Build-Spec.md",
+        "knowledge-base/d-central/meta/simulation/conversation-artifacts/DC-SIM-004-Test-Scenario-Catalogue.md",
+        "knowledge-base/d-central/meta/simulation/conversation-artifacts/DC-SIM-005-Cloud-Bridge-External-Integration.md",
+        "knowledge-base/d-central/meta/simulation/conversation-artifacts/DC-SIM-006-Hardware-Integration-Roadmap.md",
+        "knowledge-base/d-central/meta/simulation/conversation-artifacts/DC-SIM-007-DAO-Governance-Simulation.md",
+        "knowledge-base/d-central/meta/simulation/conversation-artifacts/DC-SIM-008-Open-Architecture-Decisions.md",
+        "knowledge-base/d-central/meta/simulation/conversation-artifacts/DC-SIM-009-Architecture-Decision-Records.md",
+    ],
+}
+
+# Docs that already carry a DIFFERENT confirmed topic from an earlier pass, but
+# also genuinely belong to one more -- topic: is multi-valued, so these ADD a
+# second tag rather than overwriting. Every entry here was verified by reading
+# the doc, not inferred from the lexical candidate grouping alone.
+ADDITIONAL_TOPIC_TAGS = {
+    "dion-operator-deployment-credentialing": [
+        "knowledge-base/d-central/core/governance/Bounty/The-Future-of-Community-Intelligence-A-Platform-for-Democratic-Safety-and-Prospe.md",
+        "knowledge-base/d-central/meta/platform-scaffolding/Bounty/D-Central-Intelligence-Operator-Network-Complete-Platform-Blueprint-md.md",
+    ],
+    "commercial-b2b-vehicle-fleet-programme": [
+        "knowledge-base/d-central/core/identity/CivicMesh/DC-CM-B2B-005-Commercial-Driver-VC-Schema-v1-docx.md",
+    ],
+    "ihose-architecture-deployment": [
+        "knowledge-base/d-central/meta/platform-scaffolding/IHOSE/Iron-Horse-IHOSE-Technical-Specification-v2-docx.md",
+    ],
+    "opensecure-topology-documentation-suite": [
+        "knowledge-base/d-central/meta/status-tracking/Open-Secure/TOPOLOGY-SUITE-SUMMARY-md.md",
+    ],
+    "dion-platform-technical-architecture": [
+        "knowledge-base/d-central/meta/platform-scaffolding/Bounty/DION-Platform-Frontend-Components-Structure-txt.md",
+    ],
+    "dion-platform-expansion-explanation": [
+        "knowledge-base/d-central/meta/platform-scaffolding/Bounty/Simple-Platform-Explanation-with-D-Central-Integration-md.md",
+    ],
+    "digital-community-participation-platforms": [
+        "knowledge-base/d-central/meta/status-tracking/CivicMesh/DC-CM-REG-001-AMD-001-B2B-Registry-Addendum-v1-docx.md",
+    ],
+    "comptia-a-learning-platform": [
+        "knowledge-base/d-central/academic-personal/Comptia-A/Game-Suite.md",
+    ],
 }
 
 
@@ -187,6 +265,8 @@ def add_topic(path: Path, topic: str):
         print(f"SKIP (no front matter): {path}")
         return
     fm_lines = m.group(1).splitlines()
+    if any(l.strip() in (f'topic: "{topic}"', f"topic: {topic}") for l in fm_lines):
+        return  # already tagged -- safe to re-run this script
     fm_lines.append(f'topic: "{topic}"')
     new_text = "---\n" + "\n".join(fm_lines) + "\n---\n" + m.group(2)
     path.write_text(new_text, encoding="utf-8")
@@ -203,6 +283,17 @@ def main():
             add_topic(path, topic)
             total += 1
     print(f"\nTagged {total} docs across {len(TOPICS)} confirmed topics.")
+
+    extra = 0
+    for topic, rel_paths in ADDITIONAL_TOPIC_TAGS.items():
+        for rel in rel_paths:
+            path = REPO_ROOT / rel
+            if not path.exists():
+                print(f"MISSING: {rel}")
+                continue
+            add_topic(path, topic)
+            extra += 1
+    print(f"Added {extra} additional (second) topic tags to already-tagged docs.")
 
 
 if __name__ == "__main__":

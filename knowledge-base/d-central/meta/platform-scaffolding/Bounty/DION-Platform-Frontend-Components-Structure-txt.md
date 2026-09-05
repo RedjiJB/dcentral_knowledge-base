@@ -5,6 +5,7 @@ doc_uuid: b56027f4-f252-4cb8-a01c-c14419f18bcd
 original_filename: DION Platform - Frontend Components Structure.txt
 created_at: 2025-08-23T16:09:37.011659+00:00
 content_hash: c0de811992c7
+topic: "dion-platform-technical-architecture"
 ---
 
 // DION Platform - Key Frontend Components

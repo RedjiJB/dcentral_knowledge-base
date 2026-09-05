@@ -5,6 +5,7 @@ doc_uuid: 9c4a924a-13b3-4426-9da7-2fbaa61885bc
 original_filename: TOPOLOGY_SUITE_SUMMARY.md
 created_at: 2026-03-04T20:36:03.424908+00:00
 content_hash: d67f283ad580
+topic: "opensecure-topology-documentation-suite"
 ---
 
 # OpenSecure Topology Documentation Suite

@@ -6,6 +6,7 @@ doc_id: DC-SIM-009
 description: 'Architecture decision records resolving the six open decisions'
 extraction_method: conversation-artifact (create_file tool-use block, never uploaded to a Project KB)
 reconciliation_note: "Supersedes DC-SIM-008's open status on items 1-6 only (verified accurate against its own header claim) -- DC-SIM-008's analysis is not restated here and remains necessary reading alongside these decision records."
+topic: "dcentral-simulation-lab-programme"
 ---
 
 # DC-SIM-009 — Architecture Decision Records

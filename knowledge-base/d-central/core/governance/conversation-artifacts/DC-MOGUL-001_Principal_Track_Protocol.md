@@ -5,6 +5,7 @@ created_at: 2026-07-22T11:23:34.845895Z
 doc_id: DC-MOGUL-001
 description: 'DC-MOGUL-001: The Principal Track Protocol'
 extraction_method: conversation-artifact (create_file tool-use block, never uploaded to a Project KB)
+topic: "dcentral-venture-governance-protocol-suite"
 ---
 
 # DC-MOGUL-001 — The Principal Track Protocol

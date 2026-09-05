@@ -5,6 +5,7 @@ created_at: 2026-07-22T11:23:34.845895Z
 doc_id: DC-GOV-002
 description: 'DC-GOV-002: Conglomerate governance and capital allocation architecture'
 extraction_method: conversation-artifact (create_file tool-use block, never uploaded to a Project KB)
+topic: "dcentral-venture-governance-protocol-suite"
 ---
 
 # DC-GOV-002 — Conglomerate Governance & Capital Allocation Architecture

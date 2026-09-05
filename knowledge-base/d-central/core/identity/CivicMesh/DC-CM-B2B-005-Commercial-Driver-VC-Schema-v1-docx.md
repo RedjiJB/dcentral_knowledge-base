@@ -5,6 +5,7 @@ doc_uuid: a6e4a4ad-4477-4b58-8415-fee119ec0478
 original_filename: DC-CM-B2B-005_Commercial_Driver_VC_Schema_v1.docx
 created_at: 2026-06-01T11:32:19.797602+00:00
 content_hash: e2515cd6951a
+topic: "commercial-b2b-vehicle-fleet-programme"
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

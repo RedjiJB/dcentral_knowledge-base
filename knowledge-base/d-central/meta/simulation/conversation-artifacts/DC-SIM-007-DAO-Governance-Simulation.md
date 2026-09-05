@@ -5,6 +5,7 @@ created_at: 2026-08-08T03:34:00.540823Z
 doc_id: DC-SIM-007
 description: 'DAO governance simulation across contract, economic, and enforcement layers'
 extraction_method: conversation-artifact (create_file tool-use block, never uploaded to a Project KB)
+topic: "dcentral-simulation-lab-programme"
 ---
 
 # DC-SIM-007 — DAO Governance Simulation

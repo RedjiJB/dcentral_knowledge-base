@@ -5,6 +5,7 @@ doc_uuid: d693881b-94e3-4fd0-88a7-4f08d05b7b1f
 original_filename: federated_hybrid_integration.md
 created_at: 2025-08-23T03:10:32.902768+00:00
 content_hash: 7a5cc5d960f8
+topic: "dion-platform-api-backend-architecture"
 ---
 
 # Federated Learning & Hybrid Cloud Computing Mesh Integration

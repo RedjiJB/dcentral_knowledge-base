@@ -94,6 +94,12 @@ the taxonomy category a document's own content earned it.
 - [d-central/business-legal/CivicMesh/LOAN-CM-003-Mitacs-Accelerate-University-Research-v1-docx.md](./d-central/business-legal/CivicMesh/LOAN-CM-003-Mitacs-Accelerate-University-Research-v1-docx.md)
 - [d-central/business-legal/CivicMesh/LOAN-CM-004-Mitacs-Accelerate-Entrepreneur-v1-docx.md](./d-central/business-legal/CivicMesh/LOAN-CM-004-Mitacs-Accelerate-Entrepreneur-v1-docx.md)
 
+## civicmesh-noc-manager-dashboard-specifications (3 docs)
+
+- [d-central/core/governance/CivicMesh/DC-CM-APP-009-CivicMesh-Manager-Dashboard-v1-docx.md](./d-central/core/governance/CivicMesh/DC-CM-APP-009-CivicMesh-Manager-Dashboard-v1-docx.md)
+- [d-central/core/observability/CivicMesh/DC-CM-APP-003-CivicMesh-NOC-Console-v1-docx.md](./d-central/core/observability/CivicMesh/DC-CM-APP-003-CivicMesh-NOC-Console-v1-docx.md)
+- [d-central/core/observability/CivicMesh/DC-CM-NOC-001-NOC-Dashboard-Specification-v1-docx.md](./d-central/core/observability/CivicMesh/DC-CM-NOC-001-NOC-Dashboard-Specification-v1-docx.md)
+
 ## civicmesh-officer-portal-municipal-training (3 docs)
 
 - [d-central/core/identity/CivicMesh/TRAIN-006-Track5-Municipal-Partner-Curriculum-v1-docx.md](./d-central/core/identity/CivicMesh/TRAIN-006-Track5-Municipal-Partner-Curriculum-v1-docx.md)
@@ -131,12 +137,13 @@ the taxonomy category a document's own content earned it.
 - [d-central/business-legal/CivicMesh/SRED-CM-001-SR-ED-Project-Ledger-CivicMesh-v1-docx.md](./d-central/business-legal/CivicMesh/SRED-CM-001-SR-ED-Project-Ledger-CivicMesh-v1-docx.md)
 - [d-central/business-legal/CivicMesh/SRED-TM-001-SR-ED-Project-Ledger-TrafficMesh-v1-docx.md](./d-central/business-legal/CivicMesh/SRED-TM-001-SR-ED-Project-Ledger-TrafficMesh-v1-docx.md)
 
-## commercial-b2b-vehicle-fleet-programme (4 docs)
+## commercial-b2b-vehicle-fleet-programme (5 docs)
 
 - [d-central/business-legal/CivicMesh/DC-CM-B2B-001-Commercial-Vehicle-Network-Programme-v1-docx.md](./d-central/business-legal/CivicMesh/DC-CM-B2B-001-Commercial-Vehicle-Network-Programme-v1-docx.md)
 - [d-central/business-legal/CivicMesh/DC-CM-B2B-002-Fleet-Operator-Agreement-Template-v1-docx.md](./d-central/business-legal/CivicMesh/DC-CM-B2B-002-Fleet-Operator-Agreement-Template-v1-docx.md)
 - [d-central/business-legal/CivicMesh/DC-CM-B2B-003-Platform-Driver-Programme-Specification-v1-docx.md](./d-central/business-legal/CivicMesh/DC-CM-B2B-003-Platform-Driver-Programme-Specification-v1-docx.md)
 - [d-central/core/identity/CivicMesh/DC-CM-B2B-006-Commercial-Platform-API-Integration-Spec-v1-docx.md](./d-central/core/identity/CivicMesh/DC-CM-B2B-006-Commercial-Platform-API-Integration-Spec-v1-docx.md)
+- [d-central/core/identity/CivicMesh/DC-CM-B2B-005-Commercial-Driver-VC-Schema-v1-docx.md](./d-central/core/identity/CivicMesh/DC-CM-B2B-005-Commercial-Driver-VC-Schema-v1-docx.md)
 
 ## communityshield-hoa-deployment-package (4 docs)
 
@@ -152,10 +159,11 @@ the taxonomy category a document's own content earned it.
 - [d-central/business-legal/CivicMesh/LEGAL-CM-012-HOA-Condo-Participation-Agreement-v1-docx.md](./d-central/business-legal/CivicMesh/LEGAL-CM-012-HOA-Condo-Participation-Agreement-v1-docx.md)
 - [d-central/business-legal/CivicMesh/MKT-CCSC-003-Public-Consultation-Toolkit-v1-docx.md](./d-central/business-legal/CivicMesh/MKT-CCSC-003-Public-Consultation-Toolkit-v1-docx.md)
 
-## comptia-a-learning-platform (2 docs)
+## comptia-a-learning-platform (3 docs)
 
 - [d-central/academic-personal/Comptia-A/Comptia-A-Master-Platform.md](./d-central/academic-personal/Comptia-A/Comptia-A-Master-Platform.md)
 - [d-central/academic-personal/Comptia-A/marketing-site-html.md](./d-central/academic-personal/Comptia-A/marketing-site-html.md)
+- [d-central/academic-personal/Comptia-A/Game-Suite.md](./d-central/academic-personal/Comptia-A/Game-Suite.md)
 
 ## dcentral-competitive-strategy-analysis (3 docs)
 
@@ -178,6 +186,11 @@ the taxonomy category a document's own content earned it.
 - [d-central/meta/platform-scaffolding/D-Central-v2/dcentral-whole-of-life-mesh-critical-analysis-md.md](./d-central/meta/platform-scaffolding/D-Central-v2/dcentral-whole-of-life-mesh-critical-analysis-md.md)
 - [d-central/meta/platform-scaffolding/D-Central/D-Central-MVP-Technology-Stack-Recommendation-pdf.md](./d-central/meta/platform-scaffolding/D-Central/D-Central-MVP-Technology-Stack-Recommendation-pdf.md)
 - [d-central/verticals/social-comm/D-Central-v2/D-Social-Ecosystem-Expanded-Implementation-Guide-md.md](./d-central/verticals/social-comm/D-Central-v2/D-Social-Ecosystem-Expanded-Implementation-Guide-md.md)
+
+## dcentral-developer-ecosystem-os-specs (2 docs)
+
+- [d-central/meta/platform-scaffolding/conversation-artifacts/DC-DEV-001_Mesh_Native_Developer_Platform.md](./d-central/meta/platform-scaffolding/conversation-artifacts/DC-DEV-001_Mesh_Native_Developer_Platform.md)
+- [d-central/meta/platform-scaffolding/conversation-artifacts/DC-OS-001_Ecosystem_Operating_System.md](./d-central/meta/platform-scaffolding/conversation-artifacts/DC-OS-001_Ecosystem_Operating_System.md)
 
 ## dcentral-economic-model-critiques (2 docs)
 
@@ -219,7 +232,28 @@ the taxonomy category a document's own content earned it.
 - [d-central/business-legal/conversation-artifacts/DC-REINVEST-002-Full-Immediate-Buildout.md](./d-central/business-legal/conversation-artifacts/DC-REINVEST-002-Full-Immediate-Buildout.md)
 - [d-central/business-legal/conversation-artifacts/DC-REINVEST-003-Master-Procurement-Plan.md](./d-central/business-legal/conversation-artifacts/DC-REINVEST-003-Master-Procurement-Plan.md)
 
-## digital-community-participation-platforms (16 docs)
+## dcentral-simulation-lab-programme (10 docs)
+
+- [d-central/meta/simulation/conversation-artifacts/DC-SIM-000-Index.md](./d-central/meta/simulation/conversation-artifacts/DC-SIM-000-Index.md)
+- [d-central/meta/simulation/conversation-artifacts/DC-SIM-001-Fidelity-Reference.md](./d-central/meta/simulation/conversation-artifacts/DC-SIM-001-Fidelity-Reference.md)
+- [d-central/meta/simulation/conversation-artifacts/DC-SIM-002-Topology-Build-Spec.md](./d-central/meta/simulation/conversation-artifacts/DC-SIM-002-Topology-Build-Spec.md)
+- [d-central/meta/simulation/conversation-artifacts/DC-SIM-003-DCOS-Build-Spec.md](./d-central/meta/simulation/conversation-artifacts/DC-SIM-003-DCOS-Build-Spec.md)
+- [d-central/meta/simulation/conversation-artifacts/DC-SIM-004-Test-Scenario-Catalogue.md](./d-central/meta/simulation/conversation-artifacts/DC-SIM-004-Test-Scenario-Catalogue.md)
+- [d-central/meta/simulation/conversation-artifacts/DC-SIM-005-Cloud-Bridge-External-Integration.md](./d-central/meta/simulation/conversation-artifacts/DC-SIM-005-Cloud-Bridge-External-Integration.md)
+- [d-central/meta/simulation/conversation-artifacts/DC-SIM-006-Hardware-Integration-Roadmap.md](./d-central/meta/simulation/conversation-artifacts/DC-SIM-006-Hardware-Integration-Roadmap.md)
+- [d-central/meta/simulation/conversation-artifacts/DC-SIM-007-DAO-Governance-Simulation.md](./d-central/meta/simulation/conversation-artifacts/DC-SIM-007-DAO-Governance-Simulation.md)
+- [d-central/meta/simulation/conversation-artifacts/DC-SIM-008-Open-Architecture-Decisions.md](./d-central/meta/simulation/conversation-artifacts/DC-SIM-008-Open-Architecture-Decisions.md)
+- [d-central/meta/simulation/conversation-artifacts/DC-SIM-009-Architecture-Decision-Records.md](./d-central/meta/simulation/conversation-artifacts/DC-SIM-009-Architecture-Decision-Records.md)
+
+## dcentral-venture-governance-protocol-suite (5 docs)
+
+- [d-central/core/governance/conversation-artifacts/DC-FRACTAL-001_Fractal_Cell_Architecture.md](./d-central/core/governance/conversation-artifacts/DC-FRACTAL-001_Fractal_Cell_Architecture.md)
+- [d-central/core/governance/conversation-artifacts/DC-GOV-002_Conglomerate_Governance_Architecture.md](./d-central/core/governance/conversation-artifacts/DC-GOV-002_Conglomerate_Governance_Architecture.md)
+- [d-central/core/governance/conversation-artifacts/DC-MOGUL-001_Principal_Track_Protocol.md](./d-central/core/governance/conversation-artifacts/DC-MOGUL-001_Principal_Track_Protocol.md)
+- [d-central/core/governance/conversation-artifacts/DC-TPL-000_Template_Standard.md](./d-central/core/governance/conversation-artifacts/DC-TPL-000_Template_Standard.md)
+- [d-central/core/governance/conversation-artifacts/DC-VENTURE-001_Venture_Sequencing_Registry.md](./d-central/core/governance/conversation-artifacts/DC-VENTURE-001_Venture_Sequencing_Registry.md)
+
+## digital-community-participation-platforms (17 docs)
 
 - [d-central/business-legal/CivicMesh/Chat-Context-B.md](./d-central/business-legal/CivicMesh/Chat-Context-B.md)
 - [d-central/business-legal/Local-Fediverse/Academic-Institution-Specific-ROI-Value-Propositions-md.md](./d-central/business-legal/Local-Fediverse/Academic-Institution-Specific-ROI-Value-Propositions-md.md)
@@ -237,23 +271,35 @@ the taxonomy category a document's own content earned it.
 - [d-central/verticals/social-comm/Local-Fediverse/FediFlow-Enterprise-Complete-Ecosystem-Architecture-Strategy-md.md](./d-central/verticals/social-comm/Local-Fediverse/FediFlow-Enterprise-Complete-Ecosystem-Architecture-Strategy-md.md)
 - [d-central/verticals/social-comm/Local-Fediverse/FediFlow-Enterprise-Comprehensive-Technical-Design-Document-md.md](./d-central/verticals/social-comm/Local-Fediverse/FediFlow-Enterprise-Comprehensive-Technical-Design-Document-md.md)
 - [d-central/verticals/social-comm/Local-Fediverse/Riverside-University-FediFlow-Academic-Platform-User-Story-md.md](./d-central/verticals/social-comm/Local-Fediverse/Riverside-University-FediFlow-Academic-Platform-User-Story-md.md)
+- [d-central/meta/status-tracking/CivicMesh/DC-CM-REG-001-AMD-001-B2B-Registry-Addendum-v1-docx.md](./d-central/meta/status-tracking/CivicMesh/DC-CM-REG-001-AMD-001-B2B-Registry-Addendum-v1-docx.md)
 
-## dion-operator-deployment-credentialing (2 docs)
+## dion-operator-deployment-credentialing (4 docs)
 
 - [d-central/core/governance/Bounty/Dynamic-Operator-Deployment-System-for-D-Central-Intelligence-Workflows-md.md](./d-central/core/governance/Bounty/Dynamic-Operator-Deployment-System-for-D-Central-Intelligence-Workflows-md.md)
 - [d-central/core/governance/Bounty/Operator-Credentialing-System-for-D-Central-Intelligence-Network-md.md](./d-central/core/governance/Bounty/Operator-Credentialing-System-for-D-Central-Intelligence-Network-md.md)
+- [d-central/core/governance/Bounty/The-Future-of-Community-Intelligence-A-Platform-for-Democratic-Safety-and-Prospe.md](./d-central/core/governance/Bounty/The-Future-of-Community-Intelligence-A-Platform-for-Democratic-Safety-and-Prospe.md)
+- [d-central/meta/platform-scaffolding/Bounty/D-Central-Intelligence-Operator-Network-Complete-Platform-Blueprint-md.md](./d-central/meta/platform-scaffolding/Bounty/D-Central-Intelligence-Operator-Network-Complete-Platform-Blueprint-md.md)
 
-## dion-platform-expansion-explanation (2 docs)
+## dion-platform-api-backend-architecture (4 docs)
+
+- [d-central/mesh-services/ai/Bounty/DION-Platform-API-Completion-of-OpenAPI-Specification-md.md](./d-central/mesh-services/ai/Bounty/DION-Platform-API-Completion-of-OpenAPI-Specification-md.md)
+- [d-central/mesh-services/ai/Bounty/DION-Platform-Backend-Services-Implementation-txt.md](./d-central/mesh-services/ai/Bounty/DION-Platform-Backend-Services-Implementation-txt.md)
+- [d-central/mesh-services/ai/Bounty/api-integration-architecture-md.md](./d-central/mesh-services/ai/Bounty/api-integration-architecture-md.md)
+- [d-central/mesh-services/ai/Bounty/federated-hybrid-integration-md.md](./d-central/mesh-services/ai/Bounty/federated-hybrid-integration-md.md)
+
+## dion-platform-expansion-explanation (3 docs)
 
 - [d-central/meta/platform-scaffolding/Bounty/decentralized-ints-expansion-md.md](./d-central/meta/platform-scaffolding/Bounty/decentralized-ints-expansion-md.md)
 - [d-central/meta/platform-scaffolding/Bounty/platform-explanation-md.md](./d-central/meta/platform-scaffolding/Bounty/platform-explanation-md.md)
+- [d-central/meta/platform-scaffolding/Bounty/Simple-Platform-Explanation-with-D-Central-Integration-md.md](./d-central/meta/platform-scaffolding/Bounty/Simple-Platform-Explanation-with-D-Central-Integration-md.md)
 
-## dion-platform-technical-architecture (4 docs)
+## dion-platform-technical-architecture (5 docs)
 
 - [d-central/meta/platform-scaffolding/Bounty/DION-Platform-Complete-Technical-Architecture-Implementation-Guide-md.md](./d-central/meta/platform-scaffolding/Bounty/DION-Platform-Complete-Technical-Architecture-Implementation-Guide-md.md)
 - [d-central/meta/platform-scaffolding/Bounty/DION-Platform-Complete-Technical-Architecture-md.md](./d-central/meta/platform-scaffolding/Bounty/DION-Platform-Complete-Technical-Architecture-md.md)
 - [d-central/meta/platform-scaffolding/Bounty/DION-Platform-Development-Setup-Configuration-txt.md](./d-central/meta/platform-scaffolding/Bounty/DION-Platform-Development-Setup-Configuration-txt.md)
 - [d-central/security/Bounty/DION-Platform-Complete-Technical-Architecture-Continuation-md.md](./d-central/security/Bounty/DION-Platform-Complete-Technical-Architecture-Continuation-md.md)
+- [d-central/meta/platform-scaffolding/Bounty/DION-Platform-Frontend-Components-Structure-txt.md](./d-central/meta/platform-scaffolding/Bounty/DION-Platform-Frontend-Components-Structure-txt.md)
 
 ## drone-zoe-hardware-selection-guides (2 docs)
 
@@ -313,7 +359,12 @@ the taxonomy category a document's own content earned it.
 - [d-central/haiti-diaspora/VDI-Solutions/D-Central-Ecosystem-Haiti-Integration-Framework-md.md](./d-central/haiti-diaspora/VDI-Solutions/D-Central-Ecosystem-Haiti-Integration-Framework-md.md)
 - [d-central/security/Drone-Zoe/haiti-drone-cooperative-framework-md-ec202f4d.md](./d-central/security/Drone-Zoe/haiti-drone-cooperative-framework-md-ec202f4d.md)
 
-## ihose-architecture-deployment (8 docs)
+## haiti-security-framework-outreach (2 docs)
+
+- [d-central/haiti-diaspora/Federated-Learning-Platform/security-email-md.md](./d-central/haiti-diaspora/Federated-Learning-Platform/security-email-md.md)
+- [d-central/haiti-diaspora/Haiti-open-framework/haiti-security-proposal-md.md](./d-central/haiti-diaspora/Haiti-open-framework/haiti-security-proposal-md.md)
+
+## ihose-architecture-deployment (9 docs)
 
 - [d-central/meta/platform-scaffolding/IHOSE/IHOSE-C4-Architecture-Models-Part2-md.md](./d-central/meta/platform-scaffolding/IHOSE/IHOSE-C4-Architecture-Models-Part2-md.md)
 - [d-central/meta/platform-scaffolding/IHOSE/IHOSE-C4-Architecture-Models-md.md](./d-central/meta/platform-scaffolding/IHOSE/IHOSE-C4-Architecture-Models-md.md)
@@ -323,6 +374,7 @@ the taxonomy category a document's own content earned it.
 - [d-central/security/IHOSE/TECHNICAL-ARCHITECTURE-md.md](./d-central/security/IHOSE/TECHNICAL-ARCHITECTURE-md.md)
 - [d-central/security/IHOSE/enterprise-md.md](./d-central/security/IHOSE/enterprise-md.md)
 - [d-central/security/IHOSE/overview-md.md](./d-central/security/IHOSE/overview-md.md)
+- [d-central/meta/platform-scaffolding/IHOSE/Iron-Horse-IHOSE-Technical-Specification-v2-docx.md](./d-central/meta/platform-scaffolding/IHOSE/Iron-Horse-IHOSE-Technical-Specification-v2-docx.md)
 
 ## ihose-business-strategy-documents (4 docs)
 
@@ -508,7 +560,7 @@ the taxonomy category a document's own content earned it.
 - [d-central/security/Open-Secure/Comprehensive-OS-PATROL-Sectors-md.md](./d-central/security/Open-Secure/Comprehensive-OS-PATROL-Sectors-md.md)
 - [d-central/security/Open-Secure/Comprehensive-OS-SENTINEL-Sectors-md.md](./d-central/security/Open-Secure/Comprehensive-OS-SENTINEL-Sectors-md.md)
 
-## opensecure-topology-documentation-suite (15 docs)
+## opensecure-topology-documentation-suite (16 docs)
 
 - [d-central/security/Open-Secure/OS-DRONE-Logical-Topology-md.md](./d-central/security/Open-Secure/OS-DRONE-Logical-Topology-md.md)
 - [d-central/security/Open-Secure/OS-DRONE-Network-Topology-md.md](./d-central/security/Open-Secure/OS-DRONE-Network-Topology-md.md)
@@ -525,6 +577,7 @@ the taxonomy category a document's own content earned it.
 - [d-central/security/Open-Secure/OpenSecure-Hub-Implementation-Guide-md.md](./d-central/security/Open-Secure/OpenSecure-Hub-Implementation-Guide-md.md)
 - [d-central/security/Open-Secure/OpenSecure-Hub-Logical-Topology-md.md](./d-central/security/Open-Secure/OpenSecure-Hub-Logical-Topology-md.md)
 - [d-central/security/Open-Secure/OpenSecure-Hub-Network-Topology-md.md](./d-central/security/Open-Secure/OpenSecure-Hub-Network-Topology-md.md)
+- [d-central/meta/status-tracking/Open-Secure/TOPOLOGY-SUITE-SUMMARY-md.md](./d-central/meta/status-tracking/Open-Secure/TOPOLOGY-SUITE-SUMMARY-md.md)
 
 ## os-drone-advanced-capabilities (2 docs)
 
