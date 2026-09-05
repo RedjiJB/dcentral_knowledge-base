@@ -5,6 +5,9 @@ doc_uuid: ffe1af1c-22b3-49f1-8654-4cd7a4eca482
 original_filename: README.md
 created_at: 2025-11-28T23:43:31.693893+00:00
 content_hash: ff48abd66166
+status: "duplicate"
+duplicate_of: "knowledge-base/d-central/academic-personal/CHOPSHOP/README-2-md.md"
+duplicate_reason: "exact body-hash match within the same category, resolved during Stage 5 topic-synthesis prep (never went through Stage 4 exact-hash dedup, which only covered the original 428 docs before this fine-grained reclassification)"
 ---
 
 # ChopShop-CLI Documentation Suite

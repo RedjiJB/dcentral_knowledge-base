@@ -5,6 +5,9 @@ doc_uuid: be07d14c-dbf4-4305-a093-09ee58100225
 original_filename: DION Platform: Complete Technical Architecture & Implementation Guide.md
 created_at: 2025-08-23T15:52:13.639000+00:00
 content_hash: 7b56011ad3ee
+status: "duplicate"
+duplicate_of: "knowledge-base/d-central/meta/platform-scaffolding/Bounty/DION-Platform-Complete-Technical-Architecture-Implementation-Guide-md.md"
+duplicate_reason: "exact body-hash match within the same category, resolved during Stage 5 topic-synthesis prep (never went through Stage 4 exact-hash dedup, which only covered the original 428 docs before this fine-grained reclassification)"
 ---
 
 # DION Platform: Complete Technical Architecture & Implementation Guide

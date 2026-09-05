@@ -5,6 +5,9 @@ doc_uuid: 0d4033e6-0c63-44ad-85ae-5d8a6aac571b
 original_filename: The Future of Community Intelligence: A Platform for Democratic Safety and Prosperity.md
 created_at: 2025-08-23T15:51:57.308971+00:00
 content_hash: dfeff86185b1
+status: "duplicate"
+duplicate_of: "knowledge-base/d-central/core/governance/Bounty/The-Future-of-Community-Intelligence-A-Platform-for-Democratic-Safety-and-Prospe.md"
+duplicate_reason: "exact body-hash match within the same category, resolved during Stage 5 topic-synthesis prep (never went through Stage 4 exact-hash dedup, which only covered the original 428 docs before this fine-grained reclassification)"
 ---
 
 # The Future of Community Intelligence: A Platform for Democratic Safety and Prosperity

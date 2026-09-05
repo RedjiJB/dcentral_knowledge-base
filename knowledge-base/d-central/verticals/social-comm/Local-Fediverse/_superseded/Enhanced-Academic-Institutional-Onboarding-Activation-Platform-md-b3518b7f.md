@@ -5,6 +5,9 @@ doc_uuid: b3518b7f-f0fb-48a9-875a-a2305c36470f
 original_filename: Enhanced Academic Institutional Onboarding & Activation Platform.md
 created_at: 2025-07-10T16:21:04.972353+00:00
 content_hash: 239b6c5e177b
+status: "duplicate"
+duplicate_of: "knowledge-base/d-central/verticals/social-comm/Local-Fediverse/Enhanced-Academic-Institutional-Onboarding-Activation-Platform-md.md"
+duplicate_reason: "exact body-hash match within the same category, resolved during Stage 5 topic-synthesis prep (never went through Stage 4 exact-hash dedup, which only covered the original 428 docs before this fine-grained reclassification)"
 ---
 
 # Enhanced Institutional Onboarding & Activation Platform

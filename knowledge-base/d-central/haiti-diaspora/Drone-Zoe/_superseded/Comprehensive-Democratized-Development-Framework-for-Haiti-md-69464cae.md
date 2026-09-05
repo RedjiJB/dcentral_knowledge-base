@@ -5,6 +5,9 @@ doc_uuid: 69464cae-31c3-4859-bb62-667abbd37463
 original_filename: Comprehensive Democratized Development Framework for Haiti.md
 created_at: 2025-07-08T22:45:37.981397+00:00
 content_hash: cd565eb8c250
+status: "duplicate"
+duplicate_of: "knowledge-base/d-central/haiti-diaspora/Drone-Zoe/Comprehensive-Democratized-Development-Framework-for-Haiti-md-735f60aa.md"
+duplicate_reason: "exact body-hash match within the same category, resolved during Stage 5 topic-synthesis prep (never went through Stage 4 exact-hash dedup, which only covered the original 428 docs before this fine-grained reclassification)"
 ---
 
 ## 7. Sector-Specific Challenges and Mitigation Strategies

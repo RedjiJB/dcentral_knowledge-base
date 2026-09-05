@@ -5,6 +5,9 @@ doc_uuid: 56b1d80d-ce08-4711-9750-0e9d5d3b8628
 original_filename: 2.3.1 - Government of Haiti Recommendations: Complete Integrated Cooperative Framework.md
 created_at: 2025-08-16T15:50:29.647878+00:00
 content_hash: 501a345f4103
+status: "duplicate"
+duplicate_of: "knowledge-base/d-central/haiti-diaspora/Haiti-open-framework/2-3-1-Government-of-Haiti-Recommendations-Complete-Integrated-Cooperative-Framew.md"
+duplicate_reason: "exact body-hash match within the same category, resolved during Stage 5 topic-synthesis prep (never went through Stage 4 exact-hash dedup, which only covered the original 428 docs before this fine-grained reclassification)"
 ---
 
 # 2.3.1 – Government of Haiti Recommendations (¶61): Complete Integrated Cooperative Framework

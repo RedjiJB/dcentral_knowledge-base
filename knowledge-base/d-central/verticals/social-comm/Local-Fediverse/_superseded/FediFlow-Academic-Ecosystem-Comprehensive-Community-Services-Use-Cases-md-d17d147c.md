@@ -5,6 +5,9 @@ doc_uuid: d17d147c-f3e6-4689-82ff-337c040d4ba8
 original_filename: FediFlow Academic Ecosystem: Comprehensive Community Services & Use Cases.md
 created_at: 2025-07-10T16:20:05.064884+00:00
 content_hash: a39b96ba8d37
+status: "duplicate"
+duplicate_of: "knowledge-base/d-central/verticals/social-comm/Local-Fediverse/FediFlow-Academic-Ecosystem-Comprehensive-Community-Services-Use-Cases-md.md"
+duplicate_reason: "exact body-hash match within the same category, resolved during Stage 5 topic-synthesis prep (never went through Stage 4 exact-hash dedup, which only covered the original 428 docs before this fine-grained reclassification)"
 ---
 
 # FediFlow Academic Ecosystem: Comprehensive Community Services & Use Cases

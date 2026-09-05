@@ -5,6 +5,9 @@ doc_uuid: 20452601-5efe-4fcb-a44f-dd0b11809768
 original_filename: FediFlow Enterprise: Complete Ecosystem Architecture & Strategy.md
 created_at: 2025-07-10T16:20:20.707717+00:00
 content_hash: e8a98e156f03
+status: "duplicate"
+duplicate_of: "knowledge-base/d-central/verticals/social-comm/Local-Fediverse/FediFlow-Enterprise-Complete-Ecosystem-Architecture-Strategy-md.md"
+duplicate_reason: "exact body-hash match within the same category, resolved during Stage 5 topic-synthesis prep (never went through Stage 4 exact-hash dedup, which only covered the original 428 docs before this fine-grained reclassification)"
 ---
 
 # FediFlow Enterprise: Complete Ecosystem Architecture & Strategy

@@ -5,6 +5,9 @@ doc_uuid: 1119f649-2df8-4b90-98d8-0fb978ca5026
 original_filename: OS-DRONE_Decentralized_Identity_VC.md
 created_at: 2026-03-05T13:50:31.677323+00:00
 content_hash: 34fab2cb6a12
+status: "duplicate"
+duplicate_of: "knowledge-base/d-central/core/identity/Open-Secure/OS-DRONE-Decentralized-Identity-VC-md.md"
+duplicate_reason: "exact body-hash match within the same category, resolved during Stage 5 topic-synthesis prep (never went through Stage 4 exact-hash dedup, which only covered the original 428 docs before this fine-grained reclassification)"
 ---
 
 # OS-DRONE Decentralized Identity & Verifiable Credentials

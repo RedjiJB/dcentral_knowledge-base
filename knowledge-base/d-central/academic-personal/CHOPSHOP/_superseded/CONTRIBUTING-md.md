@@ -5,6 +5,9 @@ doc_uuid: 988694c6-01cb-453e-b25b-8fe1e12785a1
 original_filename: CONTRIBUTING.md
 created_at: 2025-11-28T23:43:28.801722+00:00
 content_hash: 79bae8805607
+status: "duplicate"
+duplicate_of: "knowledge-base/d-central/academic-personal/CHOPSHOP/CONTRIBUTING-1-md.md"
+duplicate_reason: "exact body-hash match within the same category, resolved during Stage 5 topic-synthesis prep (never went through Stage 4 exact-hash dedup, which only covered the original 428 docs before this fine-grained reclassification)"
 ---
 
 # Contributing to ChopShop-CLI

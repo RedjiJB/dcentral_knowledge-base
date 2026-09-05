@@ -5,6 +5,9 @@ doc_uuid: f8f707b4-ca87-4939-88e0-73fb6c6f0172
 original_filename: comprehensive_mesh_tech_stack.md
 created_at: 2025-06-06T17:43:40.954699+00:00
 content_hash: 02b27271ee18
+status: "duplicate"
+duplicate_of: "knowledge-base/d-central/meta/platform-scaffolding/D-Central-Hardware-Software-Tech-Stack/Comprehensive-Mesh-Network-Tech-Stack-for-Business-Integration-Ecosystem-md.md"
+duplicate_reason: "exact body-hash match within the same category, resolved during Stage 5 topic-synthesis prep (never went through Stage 4 exact-hash dedup, which only covered the original 428 docs before this fine-grained reclassification)"
 ---
 
 # Comprehensive Mesh Network Tech Stack for Business Integration Ecosystem

@@ -599,6 +599,22 @@ genuinely-new topic sections into the consolidated root `_topics.md`, alphabetic
 existing format). **Root `_topics.md` now holds 77 confirmed topic clusters, 343 docs clustered** (up
 from 55/238) — `_topics_summary.md` updated to match.
 
+## Stage 4 exact-hash dedup gap closed on remaining categories
+
+The `security`/`business-legal` exact-hash sweep above only covered 2 of 9 fine-grained categories —
+ran `scripts/dedup_exact_hash.py` against the other 7 (`core`, `haiti-diaspora`, `hardware`,
+`mesh-services`, `meta`, `verticals`, `academic-personal`) to close that gap. Resolved 13 more
+exact-duplicate copies: two `Drone-Zoe`/`Open-Secure` cross-project copies in `core/identity`, a
+`Bounty` copy in `core/governance`, a `D-Central-x-OBCC`/`D-Central-Business-User-Application`
+cross-project copy in `core/economics`, a `Drone-Zoe` internal copy and a `Haiti-open-framework`
+internal copy in `haiti-diaspora`, a `Bounty` (`DION-Platform`) copy and a `D-Central-x-OBCC`/
+`D-Central-Hardware-Software-Tech-Stack` cross-project copy in `meta/platform-scaffolding`, two
+`Local-Fediverse` internal copies in `verticals/social-comm`, and two `CHOPSHOP` internal copies
+(`CONTRIBUTING`/`README`) in `academic-personal`. Verified none of the 13 moved files were referenced
+in the consolidated `_topics.md` before moving them, so no topic-cluster links broke. All 472 docs
+still accounted for (398 live + 74 now in `_superseded/`). This closes the Stage 4 exact-hash gap
+across all 9 fine-grained categories.
+
 ## Next concrete step
 
 One thread:
