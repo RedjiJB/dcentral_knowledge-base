@@ -87,6 +87,10 @@
     "consolidated_doc": "docs/DC-COMPETITIVE-STRATEGY-RECONCILED-001.md",
     "doc_count": 3
   },
+  "dcentral-core-narrative-analysis": {
+    "consolidated_doc": "docs/DC-DCENTRAL-CORE-NARRATIVE-ANALYSIS-RECONCILED-001.md",
+    "doc_count": 13
+  },
   "dcentral-developer-ecosystem-os-specs": {
     "consolidated_doc": "docs/DC-DEV-OS-RECONCILED-001.md",
     "doc_count": 2
