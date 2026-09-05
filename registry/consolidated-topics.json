@@ -255,6 +255,10 @@
     "consolidated_doc": "docs/DC-PROVINCIAL-SECURITY-NETWORK-RECONCILED-001.md",
     "doc_count": 5
   },
+  "security-ecosystem-sector-platforms": {
+    "consolidated_doc": "docs/DC-SECURITY-ECOSYSTEM-SECTOR-PLATFORMS-RECONCILED-001.md",
+    "doc_count": 8
+  },
   "trafficmesh-city-fleet-deployment": {
     "consolidated_doc": "docs/DC-TRAFFICMESH-CITY-FLEET-RECONCILED-001.md",
     "doc_count": 3
