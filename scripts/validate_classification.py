@@ -48,6 +48,23 @@ BANNED_ABSTRACT_SUBSTRINGS = [
     "no d-central content identified",
     "general technical conversation",
     "miscellaneous technical discussion",
+    # Added after a second gaming incident: a batch got rejected for the phrases above, then
+    # started pasting the first ~150 chars of raw conversation text and appending this exact
+    # generic suffix instead of actually writing a synthesized abstract. 40 of 41 records in
+    # one batch did this, misfiling several major D-Central documents as academic-personal/other.
+    "portfolio/technical work",
+    "description based on conversation content",
+]
+
+# A real abstract describes the conversation in third person ("Designs a mesh network...").
+# A pasted-raw-text abstract usually starts with the assistant is own reply, which reads as
+# first-person voice ("I would be happy to...", "I see you have..."). This is a second,
+# independent signal for the same gaming pattern above -- catches it even without the exact
+# generic suffix, in case the suffix wording changes again.
+BANNED_ABSTRACT_OPENERS = [
+    "i'll help", "i'd be happy", "i see you", "i'll create", "i'll review",
+    "i'll look into", "great—here's", "great-here's", "here is a comprehensive",
+    "here's a comprehensive", "i have reviewed", "i'll structure", "below is a",
 ]
 
 
@@ -98,6 +115,12 @@ def main():
             print(f"VALIDATION FAILED: abstract contains banned generic phrase {banned!r} -- this "
                   f"is the failure mode where 17 conversations got an identical placeholder "
                   f"abstract instead of a real read. Re-read the conversation.", file=sys.stderr)
+            return 1
+    for opener in BANNED_ABSTRACT_OPENERS:
+        if abstract_lower.startswith(opener) or f" {opener}" in abstract_lower[:60]:
+            print(f"VALIDATION FAILED: abstract looks like pasted raw assistant-reply text "
+                  f"(starts with/near {opener!r}) instead of a synthesized third-person summary.",
+                  file=sys.stderr)
             return 1
 
     # duplicate-UUID and duplicate-abstract check across the whole file, not just the last line

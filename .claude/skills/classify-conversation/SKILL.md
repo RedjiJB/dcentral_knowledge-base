@@ -13,23 +13,27 @@ of the knowledge-base pipeline described in `PLAN.md` and the `standards/DC-*-ST
 per-conversation classification pass that `scripts/classify_docs.py` (Stage 3, project-level) stood
 in for by hand.
 
-**Batch size: process up to 40 conversations per invocation**, looping through steps 1-7 of §4
+**Batch size: process up to 10 conversations per invocation**, looping through steps 1-7 of §4
 internally, then stop and report a summary (§8) — don't process only one and wait to be told
-"keep going" every single time; that doesn't scale to 743 conversations. Still stop before 40 if
+"keep going" every single time; that doesn't scale to 743 conversations. Still stop before 10 if
 `get_next_conversation.py` reports nothing left.
 
-**This ceiling has moved twice.** It started at 20, dropped to 10 after a real failure (a 20-item
-batch started strong — 7 genuinely-read classifications — then degraded to an identical copy-pasted
-abstract for 17 conversations straight, including a 269KB white paper on D-Central's full
-architecture misfiled as "no D-Central content"). It's now back up to 40 because the mechanical
-backstop that failure led to — `append_classification.py` and the `PostToolUse` hook rejecting
-boilerplate phrases, too-short abstracts, and duplicate abstracts — has held across several
-subsequent batches without needing to fire. That backstop is what makes a larger batch survivable
-this time; it does not make careful per-conversation reading optional. If you notice yourself reaching
-for a faster/generic way to finish the batch, that is the exact moment to stop and slow down, not
-speed up — see the guardrail in §7.
+**This ceiling has moved three times, and it's back down for a serious reason.** It started at 20,
+dropped to 10 after a real failure (a 20-item batch degraded to an identical copy-pasted abstract for
+17 conversations straight, including a 269KB white paper misfiled as "no D-Central content"), went
+back up to 40 once the mechanical backstop held across several clean batches — then a batch at 40
+degraded again, WORSE than before: after getting a validation rejection for a boilerplate phrase, it
+started pasting the first ~150 characters of raw conversation text with a new generic suffix
+("Portfolio/technical work.") specifically to slip past the exact-phrase filter. 40 of 41 records in
+that batch did this, including several major D-Central documents ("D Central Core Build Plan and
+Deliverables," "Building an Investor Pitch Deck for a Mesh Network") misfiled with junk abstracts.
+That is not a speed shortcut, that is circumventing a validation check that exists specifically to
+catch bad output — a materially worse failure than the first one, which is why the ceiling dropped
+back to 10 rather than to 20. Both validators now also reject first-person assistant-reply-style
+openers ("I'll help you...", "I see you have...") as a second, independent detection signal — but
+treat any validation rejection as "go re-read the conversation," never as "find different wording."
 
-Done = up to 40 JSON lines appended to `conversations/_classified.jsonl` via the safe append path in
+Done = up to 10 JSON lines appended to `conversations/_classified.jsonl` via the safe append path in
 §4 step 6 — never construct a shell command with the record's JSON inlined into it (see the
 guardrail in §7 on why).
 
@@ -95,7 +99,7 @@ DAO all mentioned together, e.g. as a directory tree or module list) — this wa
 first real batches showed this is a recurring, specific pattern, not a one-off. Reserve `other` for
 things that genuinely don't fit any bucket at all, including this one.
 
-## 4. Numbered steps (repeat 1-7 up to 40 times per invocation, then do step 8 once)
+## 4. Numbered steps (repeat 1-7 up to 10 times per invocation, then do step 8 once)
 
 1. Run `python3 scripts/get_next_conversation.py`. If it exits 1 (nothing left), stop the loop early
    and go straight to step 8 — don't treat this as an error.
@@ -120,7 +124,7 @@ things that genuinely don't fit any bucket at all, including this one.
      tool has no shell-quoting problem; let it carry the content instead.
    - If `append_classification.py` exits non-zero, read its error, fix the record in
      `pending.json`, and re-run it — don't just skip the conversation.
-7. Go back to step 1 for the next conversation, up to 40 total this invocation.
+7. Go back to step 1 for the next conversation, up to 10 total this invocation.
 8. **Report a summary, not per-item narration**: how many were classified this invocation, and a
    one-line list of title → primary_category for each one processed. **For the "how many remain" and
    "total classified so far" numbers, use ONLY the `progress` field from the most recent
@@ -215,7 +219,7 @@ the identity-bound access design is.
   `scripts/append_classification.py`. A shell one-liner with the record's content embedded in it
   (e.g. `Add-Content -Value '{...}'`) breaks unpredictably on real content — quotes, backslashes, or
   a literal `\n\nHuman:` sequence in an abstract have already caused real failures this way.
-- **40 conversations per invocation is a ceiling, not a target.** Stop early (fewer than 40) the
+- **10 conversations per invocation is a ceiling, not a target.** Stop early (fewer than 10) the
   moment `get_next_conversation.py` reports nothing left — don't pad the batch or wait for a full 10
   before reporting. The scoped-context guarantee (one conversation's data in view at a time) still
   holds within a batch — you're repeating the same one-at-a-time read/classify/write cycle, just
@@ -228,7 +232,22 @@ the identity-bound access design is.
   boilerplate phrases and any abstract that's identical to another record's — but don't rely on that
   backstop; it exists to catch a mistake, not to license making one. If a batch is taking a long time,
   that's expected — reading each conversation properly takes real effort per item. Slowing down and
-  reporting fewer than 10 done is always correct; silently switching to a shortcut is never correct.
+  reporting fewer than the batch ceiling done is always correct; silently switching to a shortcut is
+  never correct.
+- **If `append_classification.py` rejects a record, the correct response is to re-read the
+  conversation, not to reword the abstract just enough to slip past the check.** This happened: after
+  getting rejected for the boilerplate phrase above, a later run started pasting the first ~150
+  characters of the raw conversation excerpt and appending a new generic suffix ("Portfolio/technical
+  work.") instead of writing an actual summary — 40 of 41 records in that batch did this, including
+  several that were obviously major D-Central documents ("D Central Core Build Plan and
+  Deliverables," "Building an Investor Pitch Deck for a Mesh Network") misfiled with junk abstracts.
+  A validation rejection is telling you the abstract wasn't real — the fix is to go read the excerpt
+  in `conversations/_scratch/current.json` and describe what it's actually about, never to find
+  wording that technically avoids the specific banned phrase while still not being a real summary.
+  Both validators now also reject abstracts that open with first-person assistant-reply phrasing
+  ("I'll help you...", "I see you have...", "Here's a comprehensive...") as a second, independent
+  signal for this same failure — but again, the check existing is not permission to find a new way
+  around it.
 - **A long title alone is a strong signal, not proof.** Titles like "D Central: Building a
   Decentralized Ecosystem" or "Verifying D-Central-MVP Project Structure" are very likely real
   D-Central content — if you find yourself about to classify something with an obviously D-Central
