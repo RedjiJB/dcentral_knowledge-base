@@ -4924,3 +4924,15 @@ This comprehensive design document provides a complete technical specification f
 - Community-controlled governance and oversight mechanisms
 
 This system represents a revolutionary approach to community-controlled technology that serves as a model for democratic, culturally-respectful, and technically sophisticated crisis response and development coordination worldwide.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/haiti-graphrag-graphql-system|haiti-graphrag-graphql-system]]
+
+**Consolidated into:**
+- [[docs/DC-HCCC-GRAPHRAG-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

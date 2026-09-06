@@ -5118,3 +5118,15 @@ This vision represents not just improved security outcomes but a fundamental tra
 In this new chapter of Haiti's story, security becomes not the end but the beginning—the foundation upon which communities build comprehensive technological sovereignty, economic prosperity, and social cohesion. The same community that collaboratively protects its streets today develops the capacity to innovate its own solutions tomorrow. The cooperative that maintains security cameras this year creates agricultural monitoring systems next year. The mesh network that carries security alerts today enables telemedicine and distance learning tomorrow.
 
 This is security that serves genuine sovereignty—not just independence from foreign intervention but positive capability to shape a better future. This is protection that creates prosperity rather than consuming resources. This is technology that embodies community values rather than imposing external priorities. This is Haiti building its own future, one secure community at a time.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/haiti-security-framework-outreach|haiti-security-framework-outreach]]
+
+**Consolidated into:**
+- [[docs/DC-HAITI-SECURITY-OUTREACH-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

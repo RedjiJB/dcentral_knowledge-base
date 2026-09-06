@@ -393,3 +393,12 @@ duplicate_reason: exact content_hash match, different category (same doc uploade
 ---
 
 **Next**: [SMB BOM](bom-smb.md) | [Household BOM](bom-household.md)
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/hardware/sensing-planes/IHOSE/bom-enterprise-md]]
+
+<!-- AUTO-GENERATED RELATED END -->

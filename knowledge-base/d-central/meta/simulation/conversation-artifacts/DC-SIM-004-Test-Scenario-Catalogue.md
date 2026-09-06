@@ -157,3 +157,16 @@ Every published result must carry an explicit limitations section stating:
 
 Naming these boundaries reads as rigour. Omitting them and being caught reads as the
 opposite.
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dcentral-simulation-lab-programme|dcentral-simulation-lab-programme]]
+
+**Consolidated into:**
+- [[docs/DC-DCENTRAL-SIMULATION-LAB-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

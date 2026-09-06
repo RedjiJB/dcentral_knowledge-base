@@ -2148,3 +2148,16 @@ lesson: simple_focused_and_user_friendly_wins
 **Recommendation:** Fundamental redesign required before proceeding  
 **Probability of Success (Current Model):** < 1%  
 **Probability of Success (Redesigned Model):** 10-20% (still challenging but possible)
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dcentral-core-narrative-analysis|dcentral-core-narrative-analysis]]
+
+**Consolidated into:**
+- [[docs/DC-DCENTRAL-CORE-NARRATIVE-ANALYSIS-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

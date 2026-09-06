@@ -745,3 +745,18 @@ Monthly Operating Cost:
 **Document Version**: 1.0
 **Platform**: OS-DRONE v1.0
 **Compatible with**: OpenSecure Hub 1.x, OS-PATROL 1.x, OS-SENTINEL 1.x, OS-GUARDIAN 1.x
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/opensecure-os-drone-subsystem|opensecure-os-drone-subsystem]]
+- [[knowledge-base/_topics/opensecure-topology-documentation-suite|opensecure-topology-documentation-suite]]
+
+**Consolidated into:**
+- [[docs/DC-OPENSECURE-OS-DRONE-RECONCILED-001]]
+- [[docs/DC-OPENSECURE-TOPOLOGY-DOCUMENTATION-SUITE-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

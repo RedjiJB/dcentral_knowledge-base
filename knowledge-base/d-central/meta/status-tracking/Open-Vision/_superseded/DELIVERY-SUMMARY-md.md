@@ -617,3 +617,12 @@ You now have **everything needed** to:
 ---
 
 *End of Delivery Summary*
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/meta/status-tracking/IHOSE/DELIVERY-SUMMARY-md]]
+
+<!-- AUTO-GENERATED RELATED END -->

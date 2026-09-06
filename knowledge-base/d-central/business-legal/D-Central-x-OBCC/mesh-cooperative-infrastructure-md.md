@@ -850,3 +850,17 @@ Each cooperative strengthens the others. Each member's success benefits all. Eac
 **This is how we build an economy that works for everyone: One cooperative at a time, one community at a time, one mesh node at a time.**
 
 *The infrastructure for the new economy is cooperative. The time to build it is now.*
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/mesh-cooperative-business-model-framework|mesh-cooperative-business-model-framework]]
+- [[knowledge-base/_topics/mesh-cooperative-business-models|mesh-cooperative-business-models]]
+
+**Consolidated into:**
+- [[docs/DC-MESH-COOPERATIVE-BUSINESS-MODEL-RECONCILED-001]]
+- [[docs/DC-MESH-COOP-BUSINESS-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

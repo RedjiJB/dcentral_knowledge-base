@@ -2454,3 +2454,16 @@ spec:
 [View Full DevOps Implementation Guide](computer:///mnt/user-data/outputs/IHOSE_DevOps_Infrastructure_Implementation_Guide.md)
 
 This completes the Data Flow, API Contracts, and DevSecOps Pipeline specifications for the Iron Horse Security IHOSE platform.
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/ihose-openvision-documentation-package|ihose-openvision-documentation-package]]
+
+**Consolidated into:**
+- [[docs/DC-IHOSE-OPENVISION-DOCUMENTATION-PACKAGE-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

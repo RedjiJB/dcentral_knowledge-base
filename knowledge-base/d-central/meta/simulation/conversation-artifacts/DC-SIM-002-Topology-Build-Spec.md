@@ -210,3 +210,16 @@ dcentral-sim/
 5. Traffic profiles and shaping
 6. Cloud bridge, physical Pi joins (DC-SIM-005)
 7. Full scenario run, write-up, **stop**
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dcentral-simulation-lab-programme|dcentral-simulation-lab-programme]]
+
+**Consolidated into:**
+- [[docs/DC-DCENTRAL-SIMULATION-LAB-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

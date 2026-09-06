@@ -1150,3 +1150,12 @@ For enterprise support:
 ---
 
 **Next**: [Multi-Tenant SaaS Deployment](saas.md)
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/security/IHOSE/enterprise-md]]
+
+<!-- AUTO-GENERATED RELATED END -->

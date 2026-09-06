@@ -885,3 +885,15 @@ This enhanced platform creates a revolutionary model for community-controlled ed
 - **Global Impact**: Contribution to worldwide movement for community-controlled economic development and education
 
 This comprehensive platform creates a revolutionary model for community-controlled trade education that preserves cultural knowledge, builds local wealth, and provides pathways to economic empowerment while maintaining community values and democratic governance.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/digital-community-participation-platforms|digital-community-participation-platforms]]
+
+**Consolidated into:**
+- [[docs/DC-DIGITAL-COMMUNITY-PARTICIPATION-PLATFORMS-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

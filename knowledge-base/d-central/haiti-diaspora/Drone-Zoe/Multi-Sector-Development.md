@@ -732,3 +732,15 @@ The key elements that make this approach powerful include:
 10. **Scalable Replication** - A model that can grow organically across Haiti and beyond
 
 Through this unified framework, Haiti can chart a new path of development that builds on the strength, resilience, and creativity of its people while creating sustainable prosperity and wellbeing for all.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/haiti-integration-platforms|haiti-integration-platforms]]
+
+**Consolidated into:**
+- [[docs/DC-HAITI-INTEGRATION-PLATFORMS-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

@@ -732,3 +732,15 @@ class CompleteIntelligenceWorkflow:
 - âœ… Context-aware AI processing of intelligence data
 
 Together, these technologies create a **real-time, AI-enhanced, event-driven intelligence platform** that can scale from local community needs to national emergency response.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dion-platform-api-backend-architecture|dion-platform-api-backend-architecture]]
+
+**Consolidated into:**
+- [[docs/DC-DION-API-BACKEND-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

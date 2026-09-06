@@ -1405,3 +1405,15 @@ Restaurant Visit → Chef Network Order → Community Growth
 **Last Updated**: July 14, 2025  
 **Next Review Date**: October 14, 2025  
 **Distribution**: Executive Team, Investors, Key Partners
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/digital-community-participation-platforms|digital-community-participation-platforms]]
+
+**Consolidated into:**
+- [[docs/DC-DIGITAL-COMMUNITY-PARTICIPATION-PLATFORMS-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

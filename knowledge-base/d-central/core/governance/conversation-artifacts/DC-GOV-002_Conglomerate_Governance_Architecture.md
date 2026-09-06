@@ -46,3 +46,16 @@ Non-delegable regardless of scale: PSISA designated licence-holder duties and an
 ## 5. Honest sequencing constraint
 
 This end-state architecture activates over years, not at launch. Phases 0–1 of DC-VENTURE-001 require the principal operating day-to-day on sites for roughly the first three to four years. The delegation ladder (DC-VENTURE-001 §6) is the only path to the time model above, and DAO tooling is layered onto a venture only after it is profitable and operationally boring. Governance automation cannot rescue a business with bad margins; it can only make a good business run without its founder.
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dcentral-venture-governance-protocol-suite|dcentral-venture-governance-protocol-suite]]
+
+**Consolidated into:**
+- [[docs/DC-VENTURE-GOVERNANCE-PROTOCOL-SUITE-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

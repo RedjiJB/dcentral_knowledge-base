@@ -603,3 +603,12 @@ With proper execution, OpenVision Platform will deliver enterprise-grade surveil
 **Target Go-Live:** [Date + 12 months]
 
 **Status:** ✓ Ready to Execute
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/business-legal/IHOSE/06-Implementation-Roadmap-md]]
+
+<!-- AUTO-GENERATED RELATED END -->

@@ -291,3 +291,11 @@ duplicate_reason: "exact body-hash match within the same category, resolved duri
 4. **Competitive Advantage**: Sustainable competitive advantage in recruitment, retention, and reputation
 5. **Innovation Leadership**: Position as leader in educational technology and digital transformation
 6. **Future-Proof Investment**: Platform designed for long-term academic success and adaptation
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/business-legal/Local-Fediverse/Academic-Institution-Specific-ROI-Value-Propositions-md]]
+
+<!-- AUTO-GENERATED RELATED END -->

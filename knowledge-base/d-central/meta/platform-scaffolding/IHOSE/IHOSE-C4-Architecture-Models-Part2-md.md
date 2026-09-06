@@ -1112,3 +1112,16 @@ This completes the comprehensive C4 architecture documentation covering all 10 m
 1. Create visual diagram files (PlantUML/Mermaid format)?
 2. Add more detail to any specific subsystem?
 3. Create deployment runbooks or implementation checklists?
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/ihose-architecture-deployment|ihose-architecture-deployment]]
+
+**Consolidated into:**
+- [[docs/DC-IHOSE-ARCHITECTURE-DEPLOYMENT-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

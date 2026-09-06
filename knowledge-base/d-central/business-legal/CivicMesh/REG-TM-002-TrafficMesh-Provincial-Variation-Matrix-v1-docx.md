@@ -63,3 +63,17 @@ TrafficMesh Provincial Variation Matrix
 | --- |
 
 	Toussaint Redji Jean Baptiste  |  D-Central Ecosystem  |  May 2026	Page  of
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/trafficmesh-legal-regulatory-compliance|trafficmesh-legal-regulatory-compliance]]
+- [[knowledge-base/_topics/trafficmesh-ontario-regulatory-compliance|trafficmesh-ontario-regulatory-compliance]]
+
+**Consolidated into:**
+- [[docs/DC-TRAFFICMESH-LEGAL-RECONCILED-001]]
+- [[docs/DC-TRAFFICMESH-REGULATORY-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

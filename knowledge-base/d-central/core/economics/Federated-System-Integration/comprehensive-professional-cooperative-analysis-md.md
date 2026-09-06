@@ -6797,3 +6797,15 @@ consolidated_into: docs/DC-FLP-SOVEREIGNTY-RECONCILED-001.md
 - **Wealth Amplification**: Combined trade-professional cooperative creating unprecedented community wealth
 
 This comprehensive analysis demonstrates how every professional occupation can be transformed into community-controlled cooperatives that maximize intellectual capital utilization, accelerate innovation, and build sustainable knowledge-based economies while providing superior service quality and economic benefits for all community members. The integration of both trades and professional services creates a complete economic ecosystem capable of meeting all community needs while building unprecedented local wealth and resilience.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/federated-learning-platform-community-sovereignty-cooperative|federated-learning-platform-community-sovereignty-cooperative]]
+
+**Consolidated into:**
+- [[docs/DC-FLP-SOVEREIGNTY-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

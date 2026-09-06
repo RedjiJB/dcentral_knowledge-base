@@ -2427,3 +2427,15 @@ ELSE:
         
         # Post-incident review
         self.conduct_post_incident_review(incident, recovery_plan
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dcentral-core-narrative-analysis|dcentral-core-narrative-analysis]]
+
+**Consolidated into:**
+- [[docs/DC-DCENTRAL-CORE-NARRATIVE-ANALYSIS-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

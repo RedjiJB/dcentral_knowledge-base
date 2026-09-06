@@ -1190,3 +1190,11 @@ D-Central's edge networking model transforms the internet from a centralized, se
 8. **Scale progressively** from community → city → region → global
 
 Each layer builds on the previous, creating a complete ecosystem that fundamentally reimagines how networks operate in the 21st century.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Superseded by:** D-Central-Edge-Distribution-Computation-Deep-Dive-md-4aa82ecd.md (unresolved path, see registry/materialized-manifest.json)
+
+<!-- AUTO-GENERATED RELATED END -->

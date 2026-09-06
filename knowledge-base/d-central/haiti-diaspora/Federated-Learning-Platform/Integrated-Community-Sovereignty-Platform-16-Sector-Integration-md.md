@@ -1114,3 +1114,15 @@ This represents the world's most comprehensive community sovereignty platform â€
 **The question is not whether this transformation is possible â€“ the technical architecture, economic models, cooperative framework, and implementation roadmap prove complete feasibility. The question is whether communities worldwide will seize this opportunity to lead the global transformation toward genuine sovereignty through community-controlled cooperative economics and technology.**
 
 The revolution in community sovereignty begins with education and scales through cooperative economics to complete community independence and prosperity.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/federated-learning-platform-community-sovereignty-cooperative|federated-learning-platform-community-sovereignty-cooperative]]
+
+**Consolidated into:**
+- [[docs/DC-FLP-SOVEREIGNTY-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

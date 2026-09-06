@@ -101,3 +101,12 @@ Documentation Last Updated: November 28, 2024
 ---
 
 **Note:** This documentation is living and will evolve as the project develops. All documents follow markdown format for maximum accessibility and version control compatibility.
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/academic-personal/CHOPSHOP/README-2-md]]
+
+<!-- AUTO-GENERATED RELATED END -->

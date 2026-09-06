@@ -1214,3 +1214,11 @@ Mobile Learning System:
 
 &copy; 2025 Drone Zoe Haiti Cooperative. All rights reserved.
 **By Haitians, for Haiti—One Drone at a Time**
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/core/identity/Drone-Zoe/Drone-Zoe-Haiti-Decentralized-Open-Credentialing-System-md]]
+
+<!-- AUTO-GENERATED RELATED END -->

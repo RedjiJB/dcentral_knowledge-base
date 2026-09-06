@@ -172,3 +172,16 @@ is the reference configuration for the programme stop condition.
                                                 │  DC-OS    │
                                                 └───────────┘
 ```
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dcentral-simulation-lab-programme|dcentral-simulation-lab-programme]]
+
+**Consolidated into:**
+- [[docs/DC-DCENTRAL-SIMULATION-LAB-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

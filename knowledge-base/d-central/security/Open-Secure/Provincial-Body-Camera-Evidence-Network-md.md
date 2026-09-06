@@ -1772,3 +1772,18 @@ Together, these create an **unprecedented public safety ecosystem** that:
 - Technical Questions: tech-bodycam@securityguard.gov.on.ca
 - Legal Questions: legal@securityguard.gov.on.ca
 - Privacy Questions: privacy@securityguard.gov.on.ca
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/opensecure-provincial-security-network|opensecure-provincial-security-network]]
+- [[knowledge-base/_topics/provincial-security-network-programs|provincial-security-network-programs]]
+
+**Consolidated into:**
+- [[docs/DC-OPENSECURE-PROVINCIAL-PIV-CREDENTIAL-RECONCILED-001]]
+- [[docs/DC-PROVINCIAL-SECURITY-NETWORK-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

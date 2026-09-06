@@ -54,3 +54,17 @@ Narrative content is in MKT-TM-GOV-003. Production brief below.
 | --- |
 
 	Toussaint Redji Jean Baptiste  |  D-Central Ecosystem  |  May 2026	Page  of
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dcentral-presentation-decks|dcentral-presentation-decks]]
+- [[knowledge-base/_topics/trafficmesh-ottawa-government-engagement|trafficmesh-ottawa-government-engagement]]
+
+**Consolidated into:**
+- [[docs/DC-DCENTRAL-PRESENTATION-DECKS-RECONCILED-001]]
+- [[docs/DC-TRAFFICMESH-OTTAWA-GOV-ENGAGEMENT-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

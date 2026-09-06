@@ -578,3 +578,11 @@ Your competitors are already moving. Your customers are ready. The technology is
 **What are you waiting for?**
 
 *Join the mesh economy revolution. Your 10x revenue growth starts today.*
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/core/economics/D-Central-Business-User-Application/Mesh-Web3-Revenue-Combination-Strategies-Maximum-Value-Extraction-md]]
+
+<!-- AUTO-GENERATED RELATED END -->

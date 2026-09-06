@@ -936,3 +936,15 @@ https://circleci.com/blog/monorepo-dev-practices/
 39
 46
 19
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dcentral-core-narrative-analysis|dcentral-core-narrative-analysis]]
+
+**Consolidated into:**
+- [[docs/DC-DCENTRAL-CORE-NARRATIVE-ANALYSIS-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

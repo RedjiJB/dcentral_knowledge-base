@@ -2268,3 +2268,16 @@ This creates a **$150M+ revenue opportunity** within 5 years, with high margins 
 ---
 
 **End of Document**
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/security-ecosystem-sector-platforms|security-ecosystem-sector-platforms]]
+
+**Consolidated into:**
+- [[docs/DC-SECURITY-ECOSYSTEM-SECTOR-PLATFORMS-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

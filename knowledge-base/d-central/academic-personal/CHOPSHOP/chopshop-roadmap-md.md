@@ -584,3 +584,16 @@ colorama>=0.4.6           # Cross-platform colors
 - **GitHub:** [Repository URL]
 - **Email:** [Project Email]
 - **Discord:** [Community Server]
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/chopshop-project-documentation|chopshop-project-documentation]]
+
+**Consolidated into:**
+- [[docs/DC-CHOPSHOP-PROJECT-DOCUMENTATION-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

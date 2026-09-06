@@ -1182,3 +1182,16 @@ leader.*
 *For implementation support, contact:*
 
 **enterprise@ironhorsesecurity.com**
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/ihose-federation-ecosystem-partnership-framework|ihose-federation-ecosystem-partnership-framework]]
+
+**Consolidated into:**
+- [[docs/DC-IHOSE-FEDERATION-ECOSYSTEM-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

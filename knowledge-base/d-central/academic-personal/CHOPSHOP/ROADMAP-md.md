@@ -915,3 +915,16 @@ For each major feature:
 2. Begin Phase 1, Week 1 tasks
 3. Set up weekly progress tracking
 4. Schedule milestone reviews
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/chopshop-project-documentation|chopshop-project-documentation]]
+
+**Consolidated into:**
+- [[docs/DC-CHOPSHOP-PROJECT-DOCUMENTATION-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

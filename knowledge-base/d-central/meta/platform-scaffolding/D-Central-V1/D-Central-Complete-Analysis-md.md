@@ -2000,3 +2000,15 @@ This forensic-level analysis of the D-Central project reveals a sophisticated, m
 The project is well-positioned for production deployment with recommended improvements implemented over the next 3-6 months. The forensic analysis provides a solid foundation for ongoing development and maintenance activities.
 
 **Overall Assessment: 8.7/10** - Production-ready platform with excellent foundations and clear improvement path.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dcentral-core-narrative-analysis|dcentral-core-narrative-analysis]]
+
+**Consolidated into:**
+- [[docs/DC-DCENTRAL-CORE-NARRATIVE-ANALYSIS-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

@@ -190,3 +190,16 @@ separate sessions producing overlapping, unreconciled specifications.
 1. **Item 2 (FCN)** — one page, blocks node configuration
 2. **Item 1 (which ISP, and the A/B relationship)** — largely decided above; confirm
 3. Items 3–6 — before their respective DC-SIM-006 stages, not before the v1 build
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dcentral-simulation-lab-programme|dcentral-simulation-lab-programme]]
+
+**Consolidated into:**
+- [[docs/DC-DCENTRAL-SIMULATION-LAB-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

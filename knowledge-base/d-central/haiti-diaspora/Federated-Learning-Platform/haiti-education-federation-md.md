@@ -454,3 +454,15 @@ Through the Educational Federation Framework, Haiti's educational institutions c
 This framework represents more than technological improvement—it represents a fundamental transformation toward community-controlled, culturally relevant, economically sustainable education that serves the needs and aspirations of the Haitian people while maintaining complete sovereignty over educational content, priorities, and governance.
 
 **The question is not whether Haitian educational institutions can benefit from federation—the evidence clearly demonstrates transformational potential. The question is which institutions will lead this educational renaissance and serve as models for comprehensive educational sovereignty throughout Haiti and the broader Caribbean region.**
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/blockchain-education-federation|blockchain-education-federation]]
+
+**Consolidated into:**
+- [[docs/DC-BLOCKCHAIN-EDUCATION-FEDERATION-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

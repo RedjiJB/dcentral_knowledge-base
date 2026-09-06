@@ -867,3 +867,16 @@ Reference impl:   Sod Boys Ottawa
 Upgrade path:     Full D-Central sovereign cooperative ecosystem
 Next review:      After Phase 1 deployment (operational feedback integration)
 ```
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/mesh-cooperative-business-model-framework|mesh-cooperative-business-model-framework]]
+
+**Consolidated into:**
+- [[docs/DC-MESH-COOPERATIVE-BUSINESS-MODEL-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

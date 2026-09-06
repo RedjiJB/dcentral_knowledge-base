@@ -4376,3 +4376,15 @@ Phone: [Community-controlled communication network]
 *"The ultimate goal of the educator is to replace himself." - Traditional Haitian Proverb*
 
 *"We are not going to be able to operate our Spaceship Earth successfully nor for much longer unless we see it as a whole spaceship and our fate as common. It has to be everybody or nobody." - Buckminster Fuller*
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/federated-learning-platform-community-sovereignty-cooperative|federated-learning-platform-community-sovereignty-cooperative]]
+
+**Consolidated into:**
+- [[docs/DC-FLP-SOVEREIGNTY-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

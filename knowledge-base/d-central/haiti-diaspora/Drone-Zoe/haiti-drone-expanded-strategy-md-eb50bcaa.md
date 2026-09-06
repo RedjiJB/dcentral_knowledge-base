@@ -1118,3 +1118,15 @@ This expanded document provides exhaustive operational details, implementation r
 - Partner satisfaction: >90%
 
 This comprehensive strategy provides the Haiti Drone Cooperative with multiple pathways to sustainable revenue while maintaining its commitment to open source technology and community empowerment. The phased approach allows for organic growth while building the capabilities needed for long-term market leadership.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/haiti-integration-platforms|haiti-integration-platforms]]
+
+**Consolidated into:**
+- [[docs/DC-HAITI-INTEGRATION-PLATFORMS-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

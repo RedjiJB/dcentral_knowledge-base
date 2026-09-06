@@ -1335,3 +1335,12 @@ DELETE /cross-org/loans/{id}                 Revoke cross-org authorization
 **Companion Documents**: OS-DRONE_Technical_Architecture.md,
                         OpenPIV_Technical_Architecture.md,
                         Provincial_PIV_Infrastructure_Integration.md
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/core/identity/Open-Secure/OS-DRONE-Decentralized-Identity-VC-md]]
+
+<!-- AUTO-GENERATED RELATED END -->

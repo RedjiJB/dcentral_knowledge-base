@@ -507,3 +507,15 @@ consolidated_into: docs/DC-DRONE-HARDWARE-RECONCILED-001.md
 - **Year 4**: $750,000 (Caribbean market expansion)
 
 This comprehensive open source approach enables Haiti Drone Cooperative to build world-class capabilities using affordable, locally-manufacturable components while maintaining complete technological independence and unlimited customization potential.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/drone-zoe-hardware-selection-guides|drone-zoe-hardware-selection-guides]]
+
+**Consolidated into:**
+- [[docs/DC-DRONE-HARDWARE-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

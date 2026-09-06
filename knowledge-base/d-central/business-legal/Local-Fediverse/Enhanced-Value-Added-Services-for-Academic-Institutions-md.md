@@ -236,3 +236,17 @@ consolidated_into: [docs/DC-DIGITAL-COMMUNITY-PARTICIPATION-PLATFORMS-RECONCILED
 - **Student Success & Retention**: Consulting on using digital communities to improve student success and retention outcomes
 - **Alumni Engagement & Fundraising**: Strategic consulting on alumni engagement optimization for fundraising and institutional advancement
 - **Academic Reputation Management**: Ongoing consulting on academic reputation building and crisis prevention through digital engagement
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/digital-community-participation-platforms|digital-community-participation-platforms]]
+- [[knowledge-base/_topics/fediverse-academic-institution-services|fediverse-academic-institution-services]]
+
+**Consolidated into:**
+- [[docs/DC-DIGITAL-COMMUNITY-PARTICIPATION-PLATFORMS-RECONCILED-001]]
+- [[docs/DC-FEDIFLOW-ACADEMIC-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

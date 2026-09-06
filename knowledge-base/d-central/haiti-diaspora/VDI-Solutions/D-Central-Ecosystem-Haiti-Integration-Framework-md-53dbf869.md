@@ -1497,3 +1497,15 @@ The framework's emphasis on offline functionality, multi-stakeholder collaborati
 Success depends on deep community engagement, culturally appropriate design, and sustainable economic models that create value for all participants. The technical architecture provides the foundation, but the social and economic integration determines long-term viability and impact.
 
 This approach offers a pathway to digital inclusion that respects community values, enhances local capabilities, and creates sustainable economic opportunities while addressing immediate practical needs in security, healthcare, education, and economic development.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/haiti-integration-platforms|haiti-integration-platforms]]
+
+**Consolidated into:**
+- [[docs/DC-HAITI-INTEGRATION-PLATFORMS-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

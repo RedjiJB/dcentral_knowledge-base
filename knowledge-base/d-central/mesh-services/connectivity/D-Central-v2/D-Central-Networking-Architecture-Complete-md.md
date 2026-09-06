@@ -4339,3 +4339,14 @@ This architecture enables applications ranging from basic internet access to adv
 
 **Contact:** network@dcentral.org
 
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dcentral-networking-architecture|dcentral-networking-architecture]]
+
+**Consolidated into:**
+- [[docs/DC-NETWORKING-ARCH-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

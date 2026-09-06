@@ -65,3 +65,16 @@ The following are registered as expected emergent lines that graduate from opera
 ## 6. Delegation ladder
 
 Every venture follows the same operator progression: principal operates → supervisor hired → general manager hired with profit-share or equity earn-in → DAO governance tooling layered on top (community-facing ventures only) once profitable and boring. Governance automation is the last addition to any business, never the first. Regulated ventures stop at the GM stage and never receive operational DAO governance, per DC-LIC-001 §4.
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dcentral-venture-governance-protocol-suite|dcentral-venture-governance-protocol-suite]]
+
+**Consolidated into:**
+- [[docs/DC-VENTURE-GOVERNANCE-PROTOCOL-SUITE-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

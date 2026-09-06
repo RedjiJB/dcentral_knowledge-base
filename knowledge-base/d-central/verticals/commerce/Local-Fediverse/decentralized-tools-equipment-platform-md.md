@@ -638,3 +638,15 @@ consolidated_into: docs/DC-DIGITAL-COMMUNITY-PARTICIPATION-PLATFORMS-RECONCILED-
 - **Cultural Preservation Economic Impact**: Economic sustainability of traditional tool knowledge preservation and community cultural development
 
 This comprehensive platform creates a revolutionary model for community-controlled equipment access that maximizes resource utilization, builds local wealth, preserves cultural knowledge, and provides pathways to economic empowerment while maintaining community values and democratic governance. The integration with existing community platforms creates powerful network effects that strengthen the entire community ecosystem.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/digital-community-participation-platforms|digital-community-participation-platforms]]
+
+**Consolidated into:**
+- [[docs/DC-DIGITAL-COMMUNITY-PARTICIPATION-PLATFORMS-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

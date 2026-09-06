@@ -1,0 +1,429 @@
+:START_ID(Document),:END_ID(Project)
+d-central/academic-personal/Algonquin-Courses/MAT8002-Week-1-Preparation-Guide-Decimal-Number-System-md.md,Algonquin Courses
+d-central/academic-personal/CHOPSHOP/ARCHITECTURE-md.md,CHOPSHOP
+d-central/academic-personal/CHOPSHOP/CIPHER-MODULE-GUIDE-md.md,CHOPSHOP
+d-central/academic-personal/CHOPSHOP/CONTRIBUTING-1-md.md,CHOPSHOP
+d-central/academic-personal/CHOPSHOP/DAY1-QUICKSTART-md.md,CHOPSHOP
+d-central/academic-personal/CHOPSHOP/DOCUMENTATION-SUMMARY-md.md,CHOPSHOP
+d-central/academic-personal/CHOPSHOP/EXECUTIVE-SUMMARY-md.md,CHOPSHOP
+d-central/academic-personal/CHOPSHOP/PHASE1-SPECIFICATION-md.md,CHOPSHOP
+d-central/academic-personal/CHOPSHOP/PROJECT-CHARTER-md.md,CHOPSHOP
+d-central/academic-personal/CHOPSHOP/QUICK-START-md.md,CHOPSHOP
+d-central/academic-personal/CHOPSHOP/README-2-md.md,CHOPSHOP
+d-central/academic-personal/CHOPSHOP/README-DOCUMENTATION-md.md,CHOPSHOP
+d-central/academic-personal/CHOPSHOP/ROADMAP-md.md,CHOPSHOP
+d-central/academic-personal/CHOPSHOP/SETUP-GUIDE-md.md,CHOPSHOP
+d-central/academic-personal/CHOPSHOP/_superseded/CONTRIBUTING-md.md,CHOPSHOP
+d-central/academic-personal/CHOPSHOP/_superseded/README-md.md,CHOPSHOP
+d-central/academic-personal/CHOPSHOP/chopshop-development-guide-md.md,CHOPSHOP
+d-central/academic-personal/CHOPSHOP/chopshop-phase1-plan-md.md,CHOPSHOP
+d-central/academic-personal/CHOPSHOP/chopshop-roadmap-md.md,CHOPSHOP
+d-central/academic-personal/CHOPSHOP/chopshop-technical-architecture-md.md,CHOPSHOP
+d-central/academic-personal/CHOPSHOP/chopshop-testing-strategy-md.md,CHOPSHOP
+d-central/academic-personal/Codegen/Initial-Codebase.md,Codegen
+d-central/academic-personal/Comptia-A/Comptia-A-Master-Platform.md,Comptia A+
+d-central/academic-personal/Comptia-A/Game-Suite.md,Comptia A+
+d-central/academic-personal/Comptia-A/marketing-site-html.md,Comptia A+
+d-central/academic-personal/D-Central-v2/chatgpt-md.md,D Central v2
+d-central/academic-personal/How-to-use-Claude/Claude-prompting-guide-md.md,How to use Claude
+d-central/business-legal/CivicMesh/Chat-Context-B.md,CivicMesh
+d-central/business-legal/CivicMesh/DC-CM-B2B-001-Commercial-Vehicle-Network-Programme-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/DC-CM-B2B-002-Fleet-Operator-Agreement-Template-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/DC-CM-B2B-003-Platform-Driver-Programme-Specification-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/DC-CM-MSSP-CERT-001-MSSP-Certification-Programme-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/DC-STRAT-005-Competitive-Moat-Analysis-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/DEPLOY-CS-001-CommunityShield-HOA-Condo-Deployment-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/DEPLOY-CS-002-CommunityShield-Apartment-Complex-Deployment-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/DEPLOY-MP-001-MeshPlate-Municipal-Deployment-Package-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/DEPLOY-TM-002-City-Fleet-Expansion-Plan-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/FIN-CM-001-Founder-Cash-Flow-Model-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/INV-001-D-Central-Seed-Pre-Seed-Pitch-Deck-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/INV-002-CivicMesh-Deep-Dive-Investor-Deck-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/INV-003-D-Central-Group-One-Pager-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/INV-005-CivicMesh-Competitive-Analysis-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/INV-006-D-Central-Cooperative-Economy-Investor-Thesis-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/INV-007-CivicMesh-Government-Validation-Package-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/IRAP-TM-001-NRC-IRAP-Application-TrafficMesh-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/LEGAL-001-D-Central-Group-Articles-of-Incorporation-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/LEGAL-005-Corporate-Structure-Chart-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/LEGAL-CM-001-CivicMesh-Inc-Articles-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/LEGAL-CM-011-Municipal-Data-Federation-Agreement-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/LEGAL-CM-012-HOA-Condo-Participation-Agreement-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/LEGAL-CM-017-MSSP-Franchise-Disclosure-Document-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/LEGAL-GUARD-COOP-001-CivicMesh-Guard-Cooperative-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/LEGAL-MSSP-COOP-001-CivicMesh-MSSP-Cooperative-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/LEGAL-TM-001-TrafficMesh-Technologies-Articles-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/LOAN-CM-001-ISC-Phase1-Application-Framework-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/LOAN-CM-002-ISC-Phase2-Application-Framework-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/LOAN-CM-003-Mitacs-Accelerate-University-Research-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/LOAN-CM-004-Mitacs-Accelerate-Entrepreneur-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/LOAN-CM-005-FedDev-Ontario-Application-Framework-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/LOAN-CM-006-Smart-Cities-Challenge-Framework-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/MKT-CCSC-003-Public-Consultation-Toolkit-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/MKT-CM-GOV-002-CivicMesh-Anti-Flock-Positioning-Brief-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/MKT-CM-GOV-003-Government-Incentive-Programme-Brief-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/MKT-INS-001-Insurance-Partner-Pitch-Deck-Narrative-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/MKT-MSSP-001-MSSP-Partner-Programme-Prospectus-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/MKT-TM-GOV-001-TrafficMesh-Ottawa-Revenue-Gap-Brief-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/MKT-TM-GOV-002-OC-Transpo-Pitch-Deck-Narrative-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/MKT-TM-GOV-003-City-of-Ottawa-Pitch-Deck-Narrative-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/MKT-TM-GOV-005-TrafficMesh-Deterrence-Argument-Brief-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/PPTX-COM-002-CivicMesh-Town-Hall-Public-Consultation-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/PPTX-CONF-002-CivicMesh-Conference-Talk-Smart-Cities-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/PPTX-GOV-001-TrafficMesh-OC-Transpo-Pilot-Presentation-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/PPTX-GOV-002-TrafficMesh-City-of-Ottawa-Council-Presentation-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/PPTX-INV-002-CivicMesh-Deep-Dive-Deck-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/PPTX-MSSP-001-CivicMesh-MSSP-Partner-Recruitment-Deck-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/REG-CM-003-CivicMesh-Open-Source-Licence-Compliance-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/REG-COOP-001-Cooperative-Regulatory-Compliance-Matrix-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/REG-TM-001-TrafficMesh-Ontario-HTA-Compliance-Analysis-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/REG-TM-002-TrafficMesh-Provincial-Variation-Matrix-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/SRED-CM-001-SR-ED-Project-Ledger-CivicMesh-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/SRED-TM-001-SR-ED-Project-Ledger-TrafficMesh-v1-docx.md,CivicMesh
+d-central/business-legal/CivicMesh/TRAIN-007-Accredited-Training-Provider-Programme-v1-docx.md,CivicMesh
+d-central/business-legal/D-Central-Business-User-Application/Comprehensive-Cost-Analysis-for-Open-Source-Mesh-Network-Development-md.md,D Central Business/ User Application
+d-central/business-legal/D-Central-Business-User-Application/Decentralized-Community-Funding-Model-for-Local-Food-Mesh-Network-md.md,D Central Business/ User Application
+d-central/business-legal/D-Central-Business-User-Application/Innovative-Cooperative-Business-Models-for-the-Mesh-Economy-md.md,D Central Business/ User Application
+d-central/business-legal/D-Central-Business-User-Application/Mesh-Network-Business-Onboarding-Playbook-90-Day-Value-Capture-Guide-md.md,D Central Business/ User Application
+d-central/business-legal/D-Central-Business-User-Application/Mesh-Network-Business-Pitch-Stakeholder-Presentation-Template-md.md,D Central Business/ User Application
+d-central/business-legal/D-Central-Business-User-Application/Mesh-Network-Development-Funding-Cascade-Live-Build-Strategy-md.md,D Central Business/ User Application
+d-central/business-legal/D-Central-Business-User-Application/Mesh-Network-Value-Chain-Visualization-Quick-Reference-md.md,D Central Business/ User Application
+d-central/business-legal/D-Central-Business-User-Application/Restaurant-Mesh-Transformation-Complete-Cost-Analysis-Revenue-Generation-md.md,D Central Business/ User Application
+d-central/business-legal/D-Central-Business-User-Application/_superseded/Mesh-Network-Business-Pitch-Stakeholder-Presentation-Template-md-c3e6da8b.md,D Central Business/ User Application
+d-central/business-legal/D-Central-Hardware-Software-Tech-Stack/_superseded/compass-artifact-wf-af3ab4ca-b286-41e2-992f-574eff3ea5fa-text-markdown-md.md,D Central Hardware/Software Tech Stack
+d-central/business-legal/D-Central-Live-Development/community-first-strategy-md.md,D Central Live Development
+d-central/business-legal/D-Central-Live-Development/dccentral-business-model-md.md,D Central Live Development
+d-central/business-legal/D-Central-Live-Development/tactical-implementation-md.md,D Central Live Development
+d-central/business-legal/D-Central-v2/dcentral-creator-economy-telecom-critical-analysis-md.md,D Central v2
+d-central/business-legal/D-Central-v2/dcentral-sales-ecosystem-critical-analysis-md.md,D Central v2
+d-central/business-legal/D-Central-v2/dcentral-workforce-commerce-mlm-critical-analysis-md.md,D Central v2
+d-central/business-legal/D-Central-x-OBCC/_superseded/community-first-strategy-md.md,D Central x OBCC
+d-central/business-legal/D-Central-x-OBCC/_superseded/compass-artifact-wf-af3ab4ca-b286-41e2-992f-574eff3ea5fa-text-markdown-md.md,D Central x OBCC
+d-central/business-legal/D-Central-x-OBCC/_superseded/mesh-onboarding-playbook-md.md,D Central x OBCC
+d-central/business-legal/D-Central-x-OBCC/dcentral-sectors-comprehensive-md.md,D Central x OBCC
+d-central/business-legal/D-Central-x-OBCC/local-food-mesh-template-md.md,D Central x OBCC
+d-central/business-legal/D-Central-x-OBCC/mesh-cooperative-infrastructure-md.md,D Central x OBCC
+d-central/business-legal/D-Central-x-OBCC/mesh-network-loan-template-md.md,D Central x OBCC
+d-central/business-legal/D-Central/D-Central-x-OBCC-Complete-Master-Implementation-Plan-md.md,D Central
+d-central/business-legal/D-Central/_superseded/D-Central-x-OBCC-Complete-Master-Implementation-Plan-md-e5486498.md,D Central
+d-central/business-legal/Drone-Zoe/Enterprise-Partnerships.md,Drone Zoe
+d-central/business-legal/Federated-Learning-Platform/Universal-TDP-and-Derivative-Markets-Framework-md.md,Federated Learning Platform
+d-central/business-legal/IHOSE/02-Business-Case-ROI-md.md,IHOSE
+d-central/business-legal/IHOSE/06-Implementation-Roadmap-md.md,IHOSE
+d-central/business-legal/IHOSE/08-Ecosystem-Business-Models-md.md,IHOSE
+d-central/business-legal/IHOSE/BUSINESS-PRESENTATION-md.md,IHOSE
+d-central/business-legal/IHOSE/IMPROVEMENT-RECOMMENDATIONS-md.md,IHOSE
+d-central/business-legal/Local-Fediverse/Academic-Institution-Specific-ROI-Value-Propositions-md.md,Local Fediverse
+d-central/business-legal/Local-Fediverse/Enhanced-Value-Added-Services-for-Academic-Institutions-md.md,Local Fediverse
+d-central/business-legal/Local-Fediverse/FediFlow-Institutional-Fediverse-Platform-Business-Plan-md.md,Local Fediverse
+d-central/business-legal/Local-Fediverse/_superseded/Academic-Institution-Specific-ROI-Value-Propositions-md-b8b972f8.md,Local Fediverse
+d-central/business-legal/Local-Fediverse/_superseded/Enhanced-Value-Added-Services-for-Academic-Institutions-md-78b65e96.md,Local Fediverse
+d-central/business-legal/Open-Secure/Executive-Summary-One-Page-md.md,Open Secure
+d-central/business-legal/Open-Secure/OS-PACS-v2-md.md,Open Secure
+d-central/business-legal/Open-Vision/_superseded/02-Business-Case-ROI-md.md,Open Vision
+d-central/business-legal/Open-Vision/_superseded/06-Implementation-Roadmap-md.md,Open Vision
+d-central/business-legal/Open-Vision/_superseded/08-Ecosystem-Business-Models-md.md,Open Vision
+d-central/business-legal/Open-Vision/_superseded/BUSINESS-PRESENTATION-md.md,Open Vision
+d-central/business-legal/Open-Vision/_superseded/IMPROVEMENT-RECOMMENDATIONS-md.md,Open Vision
+d-central/business-legal/Security-Ecosystem/Previous-Chat.md,Security Ecosystem
+d-central/core/economics/CivicMesh/DC-CM-INS-001-Insurance-Integration-Specification-v1-docx.md,CivicMesh
+d-central/core/economics/CivicMesh/FIN-CM-002-CivicMesh-Unit-Economics-Model-v1-docx.md,CivicMesh
+d-central/core/economics/CivicMesh/FIN-CM-005-MSSP-Cooperative-Revenue-Model-v1-docx.md,CivicMesh
+d-central/core/economics/CivicMesh/FIN-COOP-001-Cooperative-Patronage-Distribution-Model-v1-docx.md,CivicMesh
+d-central/core/economics/CivicMesh/FIN-TM-001-TrafficMesh-Revenue-Model-v1-docx.md,CivicMesh
+d-central/core/economics/CivicMesh/MKT-INS-002-Insurance-Data-Product-Catalogue-v1-docx.md,CivicMesh
+d-central/core/economics/CivicMesh/OS-PATROL-TM-INS-001-TrafficMesh-Insurance-Integration-v1-docx.md,CivicMesh
+d-central/core/economics/D-Central-Business-User-Application/Mesh-Web3-Revenue-Combination-Strategies-Maximum-Value-Extraction-md.md,D Central Business/ User Application
+d-central/core/economics/D-Central-x-OBCC/_superseded/mesh-web3-combos-md.md,D Central x OBCC
+d-central/core/economics/Federated-Learning-Platform/Cooperative-Economics-Implementation-Guide-md.md,Federated Learning Platform
+d-central/core/economics/Federated-System-Integration/_superseded/comprehensive-trades-cooperative-analysis-md.md,Federated System Integration
+d-central/core/economics/Federated-System-Integration/comprehensive-professional-cooperative-analysis-md.md,Federated System Integration
+d-central/core/economics/Local-Fediverse/comprehensive-trades-cooperative-analysis-md.md,Local Fediverse
+d-central/core/governance/Bounty/Dynamic-Operator-Deployment-System-for-D-Central-Intelligence-Workflows-md.md,Bounty
+d-central/core/governance/Bounty/Operator-Credentialing-System-for-D-Central-Intelligence-Network-md.md,Bounty
+d-central/core/governance/Bounty/The-Future-of-Community-Intelligence-A-Platform-for-Democratic-Safety-and-Prospe.md,Bounty
+d-central/core/governance/Bounty/_superseded/The-Future-of-Community-Intelligence-A-Platform-for-Democratic-Safety-and-Prospe-0d4033e6.md,Bounty
+d-central/core/governance/CivicMesh/DC-CM-APP-009-CivicMesh-Manager-Dashboard-v1-docx.md,CivicMesh
+d-central/core/governance/CivicMesh/DC-CM-FED-001-CivicMesh-Federation-Protocol-v1-docx.md,CivicMesh
+d-central/core/governance/CivicMesh/DC-CM-GOV-002-Community-Audit-Framework-v1-docx.md,CivicMesh
+d-central/core/governance/CivicMesh/DC-CM-GOV-003-Transparency-Reporting-Standard-v1-docx.md,CivicMesh
+d-central/core/governance/CivicMesh/DC-STRAT-001-D-Central-Master-Strategy-v1-docx.md,CivicMesh
+d-central/core/governance/CivicMesh/PPTX-CONF-003-D-Central-Cooperative-Economy-Talk-v1-docx.md,CivicMesh
+d-central/core/governance/CivicMesh/PPTX-INV-003-D-Central-Cooperative-Economy-Thesis-Deck-v1-docx.md,CivicMesh
+d-central/core/governance/D-Central-Live-Development/dcentral-framework-md.md,D Central Live Development
+d-central/core/governance/D-Central-v2/D-Central-Complete-Fractal-DAO-Governance-Architecture-md-7edde1e7.md,D Central v2
+d-central/core/governance/D-Central-v2/_superseded/D-Central-Complete-Fractal-DAO-Governance-Architecture-md.md,D Central v2
+d-central/core/governance/Federated-System-Integration/comprehensive-government-public-sector-analysis-md.md,Federated System Integration
+d-central/core/governance/IHOSE/IHOSE-Federation-Ecosystem-Framework-md.md,IHOSE
+d-central/core/identity/CivicMesh/DC-CM-B2B-005-Commercial-Driver-VC-Schema-v1-docx.md,CivicMesh
+d-central/core/identity/CivicMesh/DC-CM-B2B-006-Commercial-Platform-API-Integration-Spec-v1-docx.md,CivicMesh
+d-central/core/identity/CivicMesh/DC-CM-CERT-001-Technician-Certification-Programme-v1-docx.md,CivicMesh
+d-central/core/identity/CivicMesh/DC-CM-CHAIN-001-On-Chain-Anchoring-Specification-v1-docx.md,CivicMesh
+d-central/core/identity/CivicMesh/DC-CM-SUPPLY-001-Open-Supply-Chain-Architecture-v1-docx.md,CivicMesh
+d-central/core/identity/CivicMesh/DC-CM-WALLET-001-Wallet-Verification-Infrastructure-v1-docx.md,CivicMesh
+d-central/core/identity/CivicMesh/TRAIN-002-Track1-Node-Technician-Curriculum-v1-docx.md,CivicMesh
+d-central/core/identity/CivicMesh/TRAIN-006-Track5-Municipal-Partner-Curriculum-v1-docx.md,CivicMesh
+d-central/core/identity/Drone-Zoe/Drone-Zoe-Haiti-Decentralized-Open-Credentialing-System-md.md,Drone Zoe
+d-central/core/identity/Drone-Zoe/_superseded/Drone-Zoe-Haiti-Decentralized-Open-Credentialing-System-md-b1557673.md,Drone Zoe
+d-central/core/identity/Drone-Zoe/micro-credential-system-md.md,Drone Zoe
+d-central/core/identity/Federated-Learning-Platform/blockchain-education-architecture-md.md,Federated Learning Platform
+d-central/core/identity/Local-Fediverse/decentralized-trades-training-platform-md.md,Local Fediverse
+d-central/core/identity/Open-Secure/OS-DRONE-Decentralized-Identity-VC-md.md,Open Secure
+d-central/core/identity/Open-Secure/OpenPIV-Project-Organization-md.md,Open Secure
+d-central/core/identity/Open-Secure/OpenPIV-Technical-Architecture-md.md,Open Secure
+d-central/core/identity/Open-Secure/Provincial-PIV-Infrastructure-Integration-md.md,Open Secure
+d-central/core/identity/Open-Secure/Provincial-Security-Guard-Universal-Credential-System-md.md,Open Secure
+d-central/core/identity/Open-Secure/_superseded/OS-DRONE-Decentralized-Identity-VC-md-1119f649.md,Open Secure
+d-central/core/observability/CivicMesh/DC-CM-APP-003-CivicMesh-NOC-Console-v1-docx.md,CivicMesh
+d-central/core/observability/CivicMesh/DC-CM-NOC-001-NOC-Dashboard-Specification-v1-docx.md,CivicMesh
+d-central/core/observability/D-Central-v2/dcentral-operations-runbook-md.md,D Central v2
+d-central/haiti-diaspora/Drone-Zoe/Comprehensive-Democratized-Development-Framework-for-Haiti-md-735f60aa.md,Drone Zoe
+d-central/haiti-diaspora/Drone-Zoe/Drone-Zoe-Haiti-Complete-Platform-md.md,Drone Zoe
+d-central/haiti-diaspora/Drone-Zoe/Drone-Zoe-Haiti-Monetization-Strategy-Revenue-Streams-md.md,Drone Zoe
+d-central/haiti-diaspora/Drone-Zoe/Integrated-Financial-Structure.md,Drone Zoe
+d-central/haiti-diaspora/Drone-Zoe/Multi-Sector-Development.md,Drone Zoe
+d-central/haiti-diaspora/Drone-Zoe/_superseded/Comprehensive-Democratized-Development-Framework-for-Haiti-md-69464cae.md,Drone Zoe
+d-central/haiti-diaspora/Drone-Zoe/_superseded/Comprehensive-Democratized-Development-Framework-for-Haiti-md.md,Drone Zoe
+d-central/haiti-diaspora/Drone-Zoe/_superseded/haiti-drone-expanded-strategy-md.md,Drone Zoe
+d-central/haiti-diaspora/Drone-Zoe/drone-cooperative-technical-architecture-md.md,Drone Zoe
+d-central/haiti-diaspora/Drone-Zoe/expanded-monetization-guide-md.md,Drone Zoe
+d-central/haiti-diaspora/Drone-Zoe/haiti-drone-expanded-strategy-md-eb50bcaa.md,Drone Zoe
+d-central/haiti-diaspora/Drone-Zoe/haiti-drone-integration-framework-md.md,Drone Zoe
+d-central/haiti-diaspora/Drone-Zoe/water-communications-cooperative-md.md,Drone Zoe
+d-central/haiti-diaspora/Federated-Learning-Platform/Email-Introduction-to-Laurent-Gabriel-C-t-Fournier-md.md,Federated Learning Platform
+d-central/haiti-diaspora/Federated-Learning-Platform/Enhanced-Educational-Sovereignty-Framework-Complete-Technical-Integration-md.md,Federated Learning Platform
+d-central/haiti-diaspora/Federated-Learning-Platform/Integrated-Community-Sovereignty-Platform-16-Sector-Integration-md.md,Federated Learning Platform
+d-central/haiti-diaspora/Federated-Learning-Platform/Technical-Implementation-Guide-Multi-Sector-Integration-md.md,Federated Learning Platform
+d-central/haiti-diaspora/Federated-Learning-Platform/blockchain-adoption-barriers-md.md,Federated Learning Platform
+d-central/haiti-diaspora/Federated-Learning-Platform/blockchain-risks-community-integration-md.md,Federated Learning Platform
+d-central/haiti-diaspora/Federated-Learning-Platform/blockchain-solutions-roadmap-md.md,Federated Learning Platform
+d-central/haiti-diaspora/Federated-Learning-Platform/comprehensive-educational-sovereignty-md.md,Federated Learning Platform
+d-central/haiti-diaspora/Federated-Learning-Platform/comprehensive-standards-all-platforms-md.md,Federated Learning Platform
+d-central/haiti-diaspora/Federated-Learning-Platform/deep-technical-integration-md.md,Federated Learning Platform
+d-central/haiti-diaspora/Federated-Learning-Platform/haiti-education-federation-md.md,Federated Learning Platform
+d-central/haiti-diaspora/Federated-Learning-Platform/security-email-md.md,Federated Learning Platform
+d-central/haiti-diaspora/Federated-Learning-Platform/universal-global-standards-md.md,Federated Learning Platform
+d-central/haiti-diaspora/Haiti-Project-1/haiti-mesh-plan-txt.md,Haiti Project 1
+d-central/haiti-diaspora/Haiti-open-framework/2-1-3-Health-System-Collapse-Complete-Integrated-Cooperative-Framework-md.md,Haiti open framework
+d-central/haiti-diaspora/Haiti-open-framework/2-1-4-Food-Security-Crisis-Complete-Integrated-Cooperative-Framework-md.md,Haiti open framework
+d-central/haiti-diaspora/Haiti-open-framework/2-2-1-Inter-Sector-Crisis-Cascades-Complete-Integrated-Cooperative-Framework-md.md,Haiti open framework
+d-central/haiti-diaspora/Haiti-open-framework/2-2-2-Climate-as-Universal-Crisis-Multiplier-Complete-Integrated-Cooperative-Fra.md,Haiti open framework
+d-central/haiti-diaspora/Haiti-open-framework/2-3-1-Government-of-Haiti-Recommendations-Complete-Integrated-Cooperative-Framew.md,Haiti open framework
+d-central/haiti-diaspora/Haiti-open-framework/2-3-2-International-Community-Recommendations-Complete-Integrated-Cooperative-Fr.md,Haiti open framework
+d-central/haiti-diaspora/Haiti-open-framework/Complete-Enhanced-Open-Source-Cooperative-Resilience-Framework-for-Haiti-md-fa474e23.md,Haiti open framework
+d-central/haiti-diaspora/Haiti-open-framework/Complete-HCCC-GraphRAG-GraphQL-System-Implementation-Guide-md.md,Haiti open framework
+d-central/haiti-diaspora/Haiti-open-framework/Comprehensive-GraphRAG-GraphQL-System-Design-Document-md.md,Haiti open framework
+d-central/haiti-diaspora/Haiti-open-framework/_superseded/2-3-1-Government-of-Haiti-Recommendations-Complete-Integrated-Cooperative-Framew-56b1d80d.md,Haiti open framework
+d-central/haiti-diaspora/Haiti-open-framework/_superseded/Complete-Enhanced-Open-Source-Cooperative-Resilience-Framework-for-Haiti-md-d47533bb.md,Haiti open framework
+d-central/haiti-diaspora/Haiti-open-framework/_superseded/Complete-Enhanced-Open-Source-Cooperative-Resilience-Framework-for-Haiti-md.md,Haiti open framework
+d-central/haiti-diaspora/Haiti-open-framework/_superseded/complete-framework-tex.md,Haiti open framework
+d-central/haiti-diaspora/Haiti-open-framework/_superseded/hait-security-proposal-eng-tex.md,Haiti open framework
+d-central/haiti-diaspora/Haiti-open-framework/complete-enhanced-haiti-framework-md.md,Haiti open framework
+d-central/haiti-diaspora/Haiti-open-framework/complete-merged-haiti-framework-txt.md,Haiti open framework
+d-central/haiti-diaspora/Haiti-open-framework/expanded-section-2-md.md,Haiti open framework
+d-central/haiti-diaspora/Haiti-open-framework/haiti-security-proposal-md.md,Haiti open framework
+d-central/haiti-diaspora/VDI-Solutions/D-Central-Ecosystem-Haiti-Integration-Framework-md-53dbf869.md,VDI Solutions
+d-central/haiti-diaspora/VDI-Solutions/D-Central-Ecosystem-Haiti-Integration-Framework-md.md,VDI Solutions
+d-central/hardware/campus/D-Central-Hardware-Software-Tech-Stack/mesh-network-tech-stack-md.md,D Central Hardware/Software Tech Stack
+d-central/hardware/campus/D-Central/dccentral-expanded-blueprint-md.md,D Central
+d-central/hardware/sensing-planes/Bounty/collection-layer-expansion-md.md,Bounty
+d-central/hardware/sensing-planes/CivicMesh/DC-CS-NODE-001-CommunityShield-Node-Specification-v1-docx.md,CivicMesh
+d-central/hardware/sensing-planes/CivicMesh/DC-ME-ARCH-001-MeshEar-Architecture-v1-docx.md,CivicMesh
+d-central/hardware/sensing-planes/CivicMesh/OS-PATROL-TM-FLEET-001-TrafficMesh-Fleet-Node-Specification-v1-docx.md,CivicMesh
+d-central/hardware/sensing-planes/Drone-Zoe/_superseded/drone-selection-guide2-md.md,Drone Zoe
+d-central/hardware/sensing-planes/Drone-Zoe/_superseded/updated-drone-guide-md.md,Drone Zoe
+d-central/hardware/sensing-planes/Drone-Zoe/drone-selection-guide2-md-f756780a.md,Drone Zoe
+d-central/hardware/sensing-planes/Drone-Zoe/updated-drone-guide-md-1780e328.md,Drone Zoe
+d-central/hardware/sensing-planes/IHOSE/02-Hardware-Specifications-docx.md,IHOSE
+d-central/hardware/sensing-planes/IHOSE/05-Hardware-Specifications-md.md,IHOSE
+d-central/hardware/sensing-planes/IHOSE/HARDWARE-BOM-md.md,IHOSE
+d-central/hardware/sensing-planes/IHOSE/bom-enterprise-md.md,IHOSE
+d-central/hardware/sensing-planes/Open-Vision/_superseded/02-Hardware-Specifications-docx.md,Open Vision
+d-central/hardware/sensing-planes/Open-Vision/_superseded/05-Hardware-Specifications-md.md,Open Vision
+d-central/hardware/sensing-planes/Open-Vision/_superseded/HARDWARE-BOM-md.md,Open Vision
+d-central/hardware/sensing-planes/Open-Vision/_superseded/bom-enterprise-md.md,Open Vision
+d-central/hardware/shi-node/CivicMesh/DC-CM-HW-001-Open-Hardware-Reference-Design-v1-docx.md,CivicMesh
+d-central/mesh-services/ai/Bounty/DION-Platform-API-Completion-of-OpenAPI-Specification-md.md,Bounty
+d-central/mesh-services/ai/Bounty/DION-Platform-Backend-Services-Implementation-txt.md,Bounty
+d-central/mesh-services/ai/Bounty/api-integration-architecture-md.md,Bounty
+d-central/mesh-services/ai/Bounty/federated-hybrid-integration-md.md,Bounty
+d-central/mesh-services/ai/D-Central-Business-User-Application/D-Central-AI-Agent-Complete-Reference-Guide-md.md,D Central Business/ User Application
+d-central/mesh-services/ai/Federated-Learning-Platform/emerging-tech-integration-md.md,Federated Learning Platform
+d-central/mesh-services/ai/IHOSE/IHOSE-Digital-Twin-Knowledge-Graph-Architecture-md.md,IHOSE
+d-central/mesh-services/compute/D-Central-v2/D-Central-Edge-Distribution-Computation-Deep-Dive-md-4aa82ecd.md,D Central v2
+d-central/mesh-services/compute/D-Central-v2/_superseded/D-Central-Edge-Distribution-Computation-Deep-Dive-md.md,D Central v2
+d-central/mesh-services/connectivity/D-Central-v2/D-Central-Networking-Architecture-Complete-md.md,D Central v2
+d-central/mesh-services/sensors-mobility/CivicMesh/Chat-Context-A.md,CivicMesh
+d-central/mesh-services/sensors-mobility/CivicMesh/DC-CM-APP-008-CivicMesh-Officer-Portal-v1-docx.md,CivicMesh
+d-central/mesh-services/sensors-mobility/CivicMesh/DC-MN-ARCH-001-MeshNav-Architecture-v1-docx.md,CivicMesh
+d-central/mesh-services/sensors-mobility/CivicMesh/DC-MN-DATA-001-MeshNav-Data-Pipeline-v1-docx.md,CivicMesh
+d-central/mesh-services/sensors-mobility/CivicMesh/OPS-TM-001-TrafficMesh-Node-Operations-Manual-v1-docx.md,CivicMesh
+d-central/mesh-services/sensors-mobility/CivicMesh/OPS-TM-002-Officer-Review-Portal-SOP-v1-docx.md,CivicMesh
+d-central/mesh-services/sensors-mobility/CivicMesh/OS-PATROL-TM-001-TrafficMesh-Technical-Architecture-v1-docx.md,CivicMesh
+d-central/meta/platform-scaffolding/Bounty/D-Central-Intelligence-Operator-Network-Complete-Platform-Blueprint-md.md,Bounty
+d-central/meta/platform-scaffolding/Bounty/DION-Platform-Complete-Technical-Architecture-Implementation-Guide-md.md,Bounty
+d-central/meta/platform-scaffolding/Bounty/DION-Platform-Complete-Technical-Architecture-md.md,Bounty
+d-central/meta/platform-scaffolding/Bounty/DION-Platform-Development-Setup-Configuration-txt.md,Bounty
+d-central/meta/platform-scaffolding/Bounty/DION-Platform-Frontend-Components-Structure-txt.md,Bounty
+d-central/meta/platform-scaffolding/Bounty/Simple-Platform-Explanation-with-D-Central-Integration-md.md,Bounty
+d-central/meta/platform-scaffolding/Bounty/_superseded/DION-Platform-Complete-Technical-Architecture-Implementation-Guide-md-be07d14c.md,Bounty
+d-central/meta/platform-scaffolding/Bounty/decentralized-ints-expansion-md.md,Bounty
+d-central/meta/platform-scaffolding/Bounty/platform-explanation-md.md,Bounty
+d-central/meta/platform-scaffolding/D-Central-Hardware-Software-Tech-Stack/Comprehensive-Mesh-Network-Tech-Stack-for-Business-Integration-Ecosystem-md.md,D Central Hardware/Software Tech Stack
+d-central/meta/platform-scaffolding/D-Central-Live-Development/Framework.md,D Central Live Development
+d-central/meta/platform-scaffolding/D-Central-Live-Development/chatbot-integration-system-ts.md,D Central Live Development
+d-central/meta/platform-scaffolding/D-Central-Live-Development/dccentral-ux-guide-md.md,D Central Live Development
+d-central/meta/platform-scaffolding/D-Central-Live-Development/dcentral-dev-strategy-md.md,D Central Live Development
+d-central/meta/platform-scaffolding/D-Central-Live-Development/deployment-setup-guide-md.md,D Central Live Development
+d-central/meta/platform-scaffolding/D-Central-Live-Development/live-dev-blueprint-md.md,D Central Live Development
+d-central/meta/platform-scaffolding/D-Central-Live-Development/overlay-websocket-server-ts.md,D Central Live Development
+d-central/meta/platform-scaffolding/D-Central-Live-Development/streaming-overlay-system-tsx.md,D Central Live Development
+d-central/meta/platform-scaffolding/D-Central-V1/D-Central-Complete-Analysis-md.md,D Central V1
+d-central/meta/platform-scaffolding/D-Central-V1/D-Central-Master-Explanation-Document-html.md,D Central V1
+d-central/meta/platform-scaffolding/D-Central-V1/D-Central-Master-Explanation-md.md,D Central V1
+d-central/meta/platform-scaffolding/D-Central-V1/D-Central-Technical-Documentation-md.md,D Central V1
+d-central/meta/platform-scaffolding/D-Central-v2/chatgpt-organized-md.md,D Central v2
+d-central/meta/platform-scaffolding/D-Central-v2/dcentral-whole-of-life-mesh-critical-analysis-md.md,D Central v2
+d-central/meta/platform-scaffolding/D-Central-x-OBCC/_superseded/comprehensive-mesh-tech-stack-md.md,D Central x OBCC
+d-central/meta/platform-scaffolding/D-Central/D-Central-MVP-Technology-Stack-Recommendation-pdf.md,D Central
+d-central/meta/platform-scaffolding/D-Central/architecture-diagram-md.md,D Central
+d-central/meta/platform-scaffolding/D-Central/dcentral-dev-guide-v2-md.md,D Central
+d-central/meta/platform-scaffolding/D-Central/dcm-blueprint-comprehensive-md.md,D Central
+d-central/meta/platform-scaffolding/Drone-Zoe/haiti-drone-docs-structure-md.md,Drone Zoe
+d-central/meta/platform-scaffolding/IHOSE/IHOSE-C4-Architecture-Models-Part2-md.md,IHOSE
+d-central/meta/platform-scaffolding/IHOSE/IHOSE-C4-Architecture-Models-md.md,IHOSE
+d-central/meta/platform-scaffolding/IHOSE/IHOSE-Complete-Technical-Specification-Combined-md.md,IHOSE
+d-central/meta/platform-scaffolding/IHOSE/IHOSE-DevOps-Infrastructure-Implementation-Guide-md.md,IHOSE
+d-central/meta/platform-scaffolding/IHOSE/Iron-Horse-IHOSE-Complete-Technical-Specification-docx.md,IHOSE
+d-central/meta/platform-scaffolding/IHOSE/Iron-Horse-IHOSE-Technical-Specification-v2-docx.md,IHOSE
+d-central/meta/platform-scaffolding/IHOSE/IronHorse-md.md,IHOSE
+d-central/meta/platform-scaffolding/Security-Ecosystem/iron-horse-complete-documentation-md.md,Security Ecosystem
+d-central/meta/platform-scaffolding/Security-Ecosystem/iron-horse-distributed-ecosystem-md.md,Security Ecosystem
+d-central/meta/platform-scaffolding/Security-Ecosystem/iron-horse-workspace-suite-md.md,Security Ecosystem
+d-central/meta/platform-scaffolding/VDI-Solutions/D-Central-Ecosystem-Technical-Specification-md.md,VDI Solutions
+d-central/meta/status-tracking/CivicMesh/DC-CM-REG-001-AMD-001-B2B-Registry-Addendum-v1-docx.md,CivicMesh
+d-central/meta/status-tracking/CivicMesh/DC-CM-REG-001-CivicMesh-Document-Registry-v1-1-docx.md,CivicMesh
+d-central/meta/status-tracking/CivicMesh/DC-MASTER-DOC-001-Master-Documentation-Registry-v1-1-docx.md,CivicMesh
+d-central/meta/status-tracking/CivicMesh/INV-004-D-Central-Data-Room-Index-v1-docx.md,CivicMesh
+d-central/meta/status-tracking/IHOSE/DELIVERY-SUMMARY-md.md,IHOSE
+d-central/meta/status-tracking/IHOSE/PROJECT-SUMMARY-md.md,IHOSE
+d-central/meta/status-tracking/IHOSE/QUICK-START-md.md,IHOSE
+d-central/meta/status-tracking/IHOSE/START-HERE-md.md,IHOSE
+d-central/meta/status-tracking/Open-Secure/TOPOLOGY-SUITE-SUMMARY-md.md,Open Secure
+d-central/meta/status-tracking/Open-Vision/_superseded/DELIVERY-SUMMARY-md.md,Open Vision
+d-central/meta/status-tracking/Open-Vision/_superseded/PROJECT-SUMMARY-md.md,Open Vision
+d-central/meta/status-tracking/Open-Vision/_superseded/QUICK-START-md.md,Open Vision
+d-central/meta/status-tracking/Open-Vision/_superseded/START-HERE-md.md,Open Vision
+d-central/security/Bounty/DION-Platform-Complete-Technical-Architecture-Continuation-md.md,Bounty
+d-central/security/Bounty/mobilization-scenarios-md.md,Bounty
+d-central/security/CivicMesh/DC-CM-APP-004-CivicMesh-SOC-Console-v1-docx.md,CivicMesh
+d-central/security/CivicMesh/DC-MP-FED-001-MeshPlate-Federation-Protocol-v1-docx.md,CivicMesh
+d-central/security/CivicMesh/MKT-CCSC-004-CivicMesh-Privacy-Promise-v1-docx.md,CivicMesh
+d-central/security/CivicMesh/OPS-GUARD-001-CivicMesh-Security-Response-SOP-v1-docx.md,CivicMesh
+d-central/security/CivicMesh/OS-PATROL-TM-EV-001-TrafficMesh-Evidence-Legal-Framework-v1-docx.md,CivicMesh
+d-central/security/CivicMesh/REG-CM-001-CivicMesh-PIPEDA-Compliance-Framework-v1-docx.md,CivicMesh
+d-central/security/CivicMesh/REG-CS-001-CommunityShield-Surveillance-Regulatory-Analysis-v1-docx.md,CivicMesh
+d-central/security/CivicMesh/TRAIN-005-Track4-Security-Response-Curriculum-v1-docx.md,CivicMesh
+d-central/security/D-Central-Live-Development/livestream-challenges-risks-md.md,D Central Live Development
+d-central/security/Drone-Zoe/_superseded/haiti-drone-cooperative-framework-md.md,Drone Zoe
+d-central/security/Drone-Zoe/haiti-drone-cooperative-framework-md-ec202f4d.md,Drone Zoe
+d-central/security/Federated-System-Integration/comprehensive-military-security-analysis-md.md,Federated System Integration
+d-central/security/IHOSE/00-Quick-Start-Guide-md.md,IHOSE
+d-central/security/IHOSE/01-Executive-Summary-md.md,IHOSE
+d-central/security/IHOSE/01-OpenVision-Architecture-docx.md,IHOSE
+d-central/security/IHOSE/03-Module-Development-Guide-docx.md,IHOSE
+d-central/security/IHOSE/03-Technical-Architecture-md.md,IHOSE
+d-central/security/IHOSE/04-Enterprise-Deployment-md.md,IHOSE
+d-central/security/IHOSE/04-docker-compose-yml.md,IHOSE
+d-central/security/IHOSE/05-kubernetes-manifests-yml.md,IHOSE
+d-central/security/IHOSE/06-Complete-Deployment-Guide-docx.md,IHOSE
+d-central/security/IHOSE/07-Use-Cases-Integration-md.md,IHOSE
+d-central/security/IHOSE/DEPLOYMENT-GUIDE-md.md,IHOSE
+d-central/security/IHOSE/EXECUTIVE-SUMMARY-md.md,IHOSE
+d-central/security/IHOSE/IHOSE-DataFlow-API-DevSecOps-Specification-md.md,IHOSE
+d-central/security/IHOSE/README-md.md,IHOSE
+d-central/security/IHOSE/TECHNICAL-ARCHITECTURE-md.md,IHOSE
+d-central/security/IHOSE/core-stack-yml.md,IHOSE
+d-central/security/IHOSE/development-md.md,IHOSE
+d-central/security/IHOSE/enterprise-md.md,IHOSE
+d-central/security/IHOSE/install-sh.md,IHOSE
+d-central/security/IHOSE/overview-md.md,IHOSE
+d-central/security/Open-Secure/Comprehensive-OS-CONCIERGE-Sectors-md.md,Open Secure
+d-central/security/Open-Secure/Comprehensive-OS-DRONE-Sectors-md.md,Open Secure
+d-central/security/Open-Secure/Comprehensive-OS-GUARDIAN-Sectors-md.md,Open Secure
+d-central/security/Open-Secure/Comprehensive-OS-PATROL-Sectors-md.md,Open Secure
+d-central/security/Open-Secure/Comprehensive-OS-SENTINEL-Sectors-md.md,Open Secure
+d-central/security/Open-Secure/OS-CONCIERGE-Implementation-Guide-md.md,Open Secure
+d-central/security/Open-Secure/OS-CONCIERGE-Logical-Topology-md.md,Open Secure
+d-central/security/Open-Secure/OS-CONCIERGE-Network-Topology-md.md,Open Secure
+d-central/security/Open-Secure/OS-DRONE-Advanced-Visual-Intelligence-md.md,Open Secure
+d-central/security/Open-Secure/OS-DRONE-Federation-3D-Spatial-md.md,Open Secure
+d-central/security/Open-Secure/OS-DRONE-Implementation-Guide-md.md,Open Secure
+d-central/security/Open-Secure/OS-DRONE-Logical-Topology-md.md,Open Secure
+d-central/security/Open-Secure/OS-DRONE-Network-Topology-md.md,Open Secure
+d-central/security/Open-Secure/OS-DRONE-Technical-Architecture-md.md,Open Secure
+d-central/security/Open-Secure/OS-GUARDIAN-Implementation-Guide-md.md,Open Secure
+d-central/security/Open-Secure/OS-GUARDIAN-Logical-Topology-md.md,Open Secure
+d-central/security/Open-Secure/OS-GUARDIAN-Network-Topology-md.md,Open Secure
+d-central/security/Open-Secure/OS-GUARDIAN-Technical-Architecture-md.md,Open Secure
+d-central/security/Open-Secure/OS-PATROL-Implementation-Guide-md.md,Open Secure
+d-central/security/Open-Secure/OS-PATROL-Logical-Topology-md.md,Open Secure
+d-central/security/Open-Secure/OS-PATROL-Network-Topology-md.md,Open Secure
+d-central/security/Open-Secure/OS-SENTINEL-Implementation-Guide-md.md,Open Secure
+d-central/security/Open-Secure/OS-SENTINEL-Logical-Topology-md.md,Open Secure
+d-central/security/Open-Secure/OS-SENTINEL-Network-Topology-md.md,Open Secure
+d-central/security/Open-Secure/OS-SENTINEL-Technical-Architecture-md.md,Open Secure
+d-central/security/Open-Secure/OpenPIV-Implementation-Roadmap-md.md,Open Secure
+d-central/security/Open-Secure/OpenPIV-OS-PACS-Deployment-Checklist-md.md,Open Secure
+d-central/security/Open-Secure/OpenPIV-OS-PACS-Integration-Guide-md.md,Open Secure
+d-central/security/Open-Secure/OpenPIV-Quick-Start-Guide-md.md,Open Secure
+d-central/security/Open-Secure/OpenSecure-Digital-Twin-Integration-md.md,Open Secure
+d-central/security/Open-Secure/OpenSecure-Hub-Implementation-Guide-md.md,Open Secure
+d-central/security/Open-Secure/OpenSecure-Hub-Logical-Topology-md.md,Open Secure
+d-central/security/Open-Secure/OpenSecure-Hub-Network-Topology-md.md,Open Secure
+d-central/security/Open-Secure/Provincial-Autonomous-Security-Systems-Network-md.md,Open Secure
+d-central/security/Open-Secure/Provincial-Body-Camera-Evidence-Network-md.md,Open Secure
+d-central/security/Open-Secure/Provincial-Security-Reserve-Forces-Integration-md.md,Open Secure
+d-central/security/Open-Secure/Provincial-Security-Vehicle-Network-md.md,Open Secure
+d-central/security/Open-Secure/Provincial-Security-Video-Network-md.md,Open Secure
+d-central/security/Open-Secure/_superseded/OS-DRONE-Advanced-Visual-Intelligence-md-8b95b2da.md,Open Secure
+d-central/security/Open-Secure/_superseded/OS-DRONE-Advanced-Visual-Intelligence-md-f48e2964.md,Open Secure
+d-central/security/Open-Secure/_superseded/OS-GUARDIAN-Technical-Architecture-md-5f9cc193.md,Open Secure
+d-central/security/Open-Secure/_superseded/OpenSecure-Digital-Twin-Integration-md-c27670ed.md,Open Secure
+d-central/security/Open-Secure/_superseded/OpenSecure-Hub-Implementation-Guide-md-b7cfc789.md,Open Secure
+d-central/security/Open-Secure/_superseded/OpenSecure-Hub-Logical-Topology-md-5ea74085.md,Open Secure
+d-central/security/Open-Secure/_superseded/OpenSecure-Hub-Network-Topology-md-e8ce77ac.md,Open Secure
+d-central/security/Open-Vision/_superseded/00-Quick-Start-Guide-md.md,Open Vision
+d-central/security/Open-Vision/_superseded/01-Executive-Summary-md.md,Open Vision
+d-central/security/Open-Vision/_superseded/01-OpenVision-Architecture-docx.md,Open Vision
+d-central/security/Open-Vision/_superseded/03-Module-Development-Guide-docx.md,Open Vision
+d-central/security/Open-Vision/_superseded/03-Technical-Architecture-md.md,Open Vision
+d-central/security/Open-Vision/_superseded/04-Enterprise-Deployment-md.md,Open Vision
+d-central/security/Open-Vision/_superseded/04-docker-compose-yml.md,Open Vision
+d-central/security/Open-Vision/_superseded/05-kubernetes-manifests-yml.md,Open Vision
+d-central/security/Open-Vision/_superseded/06-Complete-Deployment-Guide-docx.md,Open Vision
+d-central/security/Open-Vision/_superseded/07-Use-Cases-Integration-md.md,Open Vision
+d-central/security/Open-Vision/_superseded/DEPLOYMENT-GUIDE-md.md,Open Vision
+d-central/security/Open-Vision/_superseded/EXECUTIVE-SUMMARY-md.md,Open Vision
+d-central/security/Open-Vision/_superseded/README-md.md,Open Vision
+d-central/security/Open-Vision/_superseded/TECHNICAL-ARCHITECTURE-md.md,Open Vision
+d-central/security/Open-Vision/_superseded/core-stack-yml.md,Open Vision
+d-central/security/Open-Vision/_superseded/development-md.md,Open Vision
+d-central/security/Open-Vision/_superseded/enterprise-md.md,Open Vision
+d-central/security/Open-Vision/_superseded/install-sh.md,Open Vision
+d-central/security/Open-Vision/_superseded/overview-md.md,Open Vision
+d-central/security/Security-Ecosystem/museum-agriculture-use-case-md.md,Security Ecosystem
+d-central/verticals/commerce/Local-Fediverse/cultural-food-ecosystem-design-md.md,Local Fediverse
+d-central/verticals/commerce/Local-Fediverse/decentralized-tools-equipment-platform-md.md,Local Fediverse
+d-central/verticals/home-trades/D-Central-v2/d-central-iot-blueprint-txt.md,D Central v2
+d-central/verticals/home-trades/D-Central-v2/dcentral-complete-integration-md.md,D Central v2
+d-central/verticals/social-comm/D-Central-v2/D-Social-Ecosystem-Expanded-Implementation-Guide-md.md,D Central v2
+d-central/verticals/social-comm/Local-Fediverse/Academic-Excellence-Module-Comprehensive-University-Features-md.md,Local Fediverse
+d-central/verticals/social-comm/Local-Fediverse/Enhanced-Academic-Institutional-Onboarding-Activation-Platform-md.md,Local Fediverse
+d-central/verticals/social-comm/Local-Fediverse/FediFlow-Academic-Ecosystem-Comprehensive-Community-Services-Use-Cases-md.md,Local Fediverse
+d-central/verticals/social-comm/Local-Fediverse/FediFlow-Enterprise-Complete-Ecosystem-Architecture-Strategy-md.md,Local Fediverse
+d-central/verticals/social-comm/Local-Fediverse/FediFlow-Enterprise-Comprehensive-Technical-Design-Document-md.md,Local Fediverse
+d-central/verticals/social-comm/Local-Fediverse/Riverside-University-FediFlow-Academic-Platform-User-Story-md.md,Local Fediverse
+d-central/verticals/social-comm/Local-Fediverse/_superseded/Enhanced-Academic-Institutional-Onboarding-Activation-Platform-md-b3518b7f.md,Local Fediverse
+d-central/verticals/social-comm/Local-Fediverse/_superseded/FediFlow-Academic-Ecosystem-Comprehensive-Community-Services-Use-Cases-md-d17d147c.md,Local Fediverse
+d-central/verticals/social-comm/Local-Fediverse/_superseded/FediFlow-Enterprise-Complete-Ecosystem-Architecture-Strategy-md-20452601.md,Local Fediverse

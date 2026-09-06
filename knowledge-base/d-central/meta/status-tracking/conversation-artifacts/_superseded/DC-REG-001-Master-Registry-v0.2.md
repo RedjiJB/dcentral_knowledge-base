@@ -240,3 +240,12 @@ This registry tracks status but not "last touched" — worth adding a `updated_a
 - **One-line-per-doc habit:** Every time you produce a new document, add a row here before closing the chat (DC-STATUS-001 discipline, applied one level up)
 
 This is your source of truth. Keep it alive.
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** registry/DC-REG-001-Master-Registry-v0.2.md (unresolved path, see registry/materialized-manifest.json)
+
+<!-- AUTO-GENERATED RELATED END -->

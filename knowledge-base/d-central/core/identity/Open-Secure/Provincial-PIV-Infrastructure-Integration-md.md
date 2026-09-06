@@ -2007,3 +2007,16 @@ kernel:
 **END OF PROVINCIAL PIV INFRASTRUCTURE INTEGRATION DOCUMENT**
 
 This comprehensive document provides complete PIV infrastructure specifications, hardware requirements, integration details for all 7 provincial security pillars, deployment roadmap, cost analysis, and technical implementations.
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/opensecure-provincial-security-network|opensecure-provincial-security-network]]
+
+**Consolidated into:**
+- [[docs/DC-OPENSECURE-PROVINCIAL-PIV-CREDENTIAL-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

@@ -861,3 +861,11 @@ FediFlow Enterprise represents the foundational infrastructure for the next gene
 As centralized platforms become increasingly volatile and institutions demand data sovereignty, FediFlow will become the primary infrastructure layer enabling organizations to own, control, and monetize their digital communities. Our comprehensive ecosystem approach creates sustainable competitive advantages while contributing to a healthier, more democratic internet.
 
 The future belongs to institutions that control their digital destinies. FediFlow provides the infrastructure to make that future possible today.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/verticals/social-comm/Local-Fediverse/FediFlow-Enterprise-Complete-Ecosystem-Architecture-Strategy-md]]
+
+<!-- AUTO-GENERATED RELATED END -->

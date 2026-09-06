@@ -1399,3 +1399,16 @@ LARGE SCALE (20+ drones, 500+ acres, multi-site):
 *Standards*: OGC 3D Tiles 1.1, OGC API Features, COG GeoTIFF, LAS 1.4
 *Companion Documents*: OS-DRONE_Technical_Architecture.md,
 OpenSecure_Digital_Twin_Integration.md, OS-DRONE_Advanced_Visual_Intelligence.md
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/opensecure-os-drone-advanced-capabilities|opensecure-os-drone-advanced-capabilities]]
+
+**Consolidated into:**
+- [[docs/DC-OPENSECURE-OS-DRONE-ADVANCED-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

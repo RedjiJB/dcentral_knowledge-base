@@ -78,3 +78,16 @@ What is corrected: the operator is a member-owner on the Principal Track, not a 
 ## 7. Validation gate
 
 Fractal architecture is a claim about replication, and one cell cannot validate a replication claim. The architecture in this document is considered structurally validated only when **N=2**: the first spore — operated by someone other than the founder, launched from a Validated template, financed through a completed vault allocation cycle — independently reaches Validated criteria. Until then, this document is design, and the ecosystem's execution status remains governed by DC-STATUS-001's critical path: incorporation, first invoice, first client, first cell.
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dcentral-venture-governance-protocol-suite|dcentral-venture-governance-protocol-suite]]
+
+**Consolidated into:**
+- [[docs/DC-VENTURE-GOVERNANCE-PROTOCOL-SUITE-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

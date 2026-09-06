@@ -4401,3 +4401,15 @@ The comprehensive technical architecture outlined in this document provides a ro
 4. **Growth & Expansion**: Market leadership and ecosystem development
 
 The future of institutional digital communication lies in platforms that provide authentic community building while maintaining complete organizational control. FediFlow Enterprise provides the technical foundation to make this future possible today.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/digital-community-participation-platforms|digital-community-participation-platforms]]
+
+**Consolidated into:**
+- [[docs/DC-DIGITAL-COMMUNITY-PARTICIPATION-PLATFORMS-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

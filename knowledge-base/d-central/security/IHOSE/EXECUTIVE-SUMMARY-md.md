@@ -489,3 +489,18 @@ A complete, production-ready open-source platform that delivers:
 **License**: Apache 2.0 (fully open source)  
 **Maturity**: Production-ready alpha  
 **Community**: Growing, 1000+ stars expected
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/ihose-business-summaries|ihose-business-summaries]]
+- [[knowledge-base/_topics/ihose-openvision-documentation-package|ihose-openvision-documentation-package]]
+
+**Consolidated into:**
+- [[docs/DC-IHOSE-BUSINESS-SUMMARIES-RECONCILED-001]]
+- [[docs/DC-IHOSE-OPENVISION-DOCUMENTATION-PACKAGE-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

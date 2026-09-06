@@ -77,3 +77,16 @@ Template authors (initially the founder; eventually any Principal contributing p
 ## 7. Guard rail
 
 Template authorship is the lowest-cost, highest-comfort activity in the ecosystem and therefore its most dangerous failure mode per DC-STATUS-001. The standing ratio during DC-VENTURE-001 Phases 0–1 is 80% execution, 20% authorship. The gate for the entire DC-TPL series remains unchanged: Company Zero incorporation and the first paid invoice.
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dcentral-venture-governance-protocol-suite|dcentral-venture-governance-protocol-suite]]
+
+**Consolidated into:**
+- [[docs/DC-VENTURE-GOVERNANCE-PROTOCOL-SUITE-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

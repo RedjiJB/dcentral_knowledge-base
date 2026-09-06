@@ -368,3 +368,12 @@ while maintaining operational excellence.
 For questions and support, visit the OpenVision developer community at
 https://community.openvision.io or file issues at
 https://github.com/openvision/modules
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/security/IHOSE/03-Module-Development-Guide-docx]]
+
+<!-- AUTO-GENERATED RELATED END -->

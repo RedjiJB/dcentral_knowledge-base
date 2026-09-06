@@ -1543,3 +1543,11 @@ B2B Projections:
 ```
 
 ### 7.3
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/business-legal/D-Central/D-Central-x-OBCC-Complete-Master-Implementation-Plan-md]]
+
+<!-- AUTO-GENERATED RELATED END -->

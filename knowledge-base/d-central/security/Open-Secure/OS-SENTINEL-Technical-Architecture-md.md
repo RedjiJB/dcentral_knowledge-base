@@ -3852,3 +3852,18 @@ OS-SENTINEL provides enterprise-grade AI-powered video surveillance with complet
 **Next Review**: Q2 2025
 
 For technical support or architecture consulting: architecture@opensecure.io
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/opensecure-guardian-sentinel-architecture|opensecure-guardian-sentinel-architecture]]
+- [[knowledge-base/_topics/opensecure-topology-documentation-suite|opensecure-topology-documentation-suite]]
+
+**Consolidated into:**
+- [[docs/DC-OPENSECURE-GUARDIAN-SENTINEL-ARCH-RECONCILED-001]]
+- [[docs/DC-OPENSECURE-TOPOLOGY-DOCUMENTATION-SUITE-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

@@ -87,3 +87,16 @@ Three constraints are structural, enforced by the platform, because a developer 
 ## 8. Honest status & build path
 
 DC-DEV-001 is design-stage and depends on primitives that do not yet exist in execution: the DID/VC layer, the mesh addressing layer, vault rails, and real node compute. It is therefore *later* on the critical path than the things it would host. The rational first step is minimal and internal: a **single-node deployment path for the ecosystem's own first apps** — the Company Zero agent cabinet, the terminal-only DC-OS, and the Part A classIQ stack all run as containers on one node today, and formalizing "how an app is packaged, addressed, permissioned, and vault-metered on one node" against those three real workloads is the seed of the platform. The federated scheduler, borrowed-compute market, public mesh-hosting, and third-party developer onboarding come only once there are multiple nodes, a real identity layer, and real apps worth hosting. Building the full platform before there is a single deployed app to run on it would be the DC-STATUS-001 failure mode at the infrastructure layer — so the platform grows from the ecosystem's own first three apps outward, not from a spec of a marketplace with nothing in it.
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dcentral-developer-ecosystem-os-specs|dcentral-developer-ecosystem-os-specs]]
+
+**Consolidated into:**
+- [[docs/DC-DEV-OS-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

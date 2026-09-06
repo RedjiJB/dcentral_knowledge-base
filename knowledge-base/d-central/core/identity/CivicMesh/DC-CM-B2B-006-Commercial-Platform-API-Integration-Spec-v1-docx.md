@@ -98,3 +98,15 @@ Commercial Platform API Integration Specification
 | --- |
 
 	Toussaint Redji Jean Baptiste  |  D-Central Ecosystem  |  May 2026	Page  of
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/commercial-b2b-vehicle-fleet-programme|commercial-b2b-vehicle-fleet-programme]]
+
+**Consolidated into:**
+- [[docs/DC-CM-COMMERCIAL-B2B-VEHICLE-FLEET-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

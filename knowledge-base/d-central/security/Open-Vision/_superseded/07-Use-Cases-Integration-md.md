@@ -1095,3 +1095,12 @@ Traditional CCTV systems are **pure cost centers**:
 **Version:** 1.0  
 **Last Updated:** November 2025  
 **Contact:** usecases@openvision.io
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/security/IHOSE/07-Use-Cases-Integration-md]]
+
+<!-- AUTO-GENERATED RELATED END -->

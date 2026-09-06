@@ -1032,3 +1032,12 @@ Hub → External System: POST https://siem.company.com/webhook
 - [OS-SENTINEL Logical Topology](./OS-SENTINEL_Logical_Topology.md)
 
 **Completion Status**: OpenSecure Hub documentation suite complete (Network + Logical Topology).
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/security/Open-Secure/OpenSecure-Hub-Logical-Topology-md]]
+
+<!-- AUTO-GENERATED RELATED END -->

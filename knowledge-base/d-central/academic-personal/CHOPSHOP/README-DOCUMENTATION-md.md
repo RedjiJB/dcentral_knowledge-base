@@ -472,3 +472,16 @@ You're free to:
 ---
 
 *"A goal without a plan is just a wish. You now have the plan."*
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/chopshop-project-documentation|chopshop-project-documentation]]
+
+**Consolidated into:**
+- [[docs/DC-CHOPSHOP-PROJECT-DOCUMENTATION-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

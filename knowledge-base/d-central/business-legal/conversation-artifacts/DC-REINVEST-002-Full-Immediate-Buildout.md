@@ -116,3 +116,16 @@ Right-sized to actually run CML nested virtualization, Proxmox, the FieldOps cor
 ## Still Missing Before This Is Fully Ordered
 - SHI physical hardware BOM (DC-SHI-BOM-001) — not yet scoped, priced here as bare boards only
 - Confirmed funding source for the $6,730–11,165
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dcentral-reinvestment-procurement-plans|dcentral-reinvestment-procurement-plans]]
+
+**Consolidated into:**
+- [[docs/DC-REINVEST-PROCUREMENT-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

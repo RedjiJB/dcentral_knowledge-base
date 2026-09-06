@@ -976,3 +976,15 @@ For organizations interested in exploring partnership opportunities:
 8. **Launch & Execution**: Beginning of collaborative implementation
 
 This comprehensive enterprise and partnership framework provides a structured approach for organizations to engage with Haiti's democratized development network, whether through white-label solutions, strategic partnerships, or collaborative research initiatives. By creating clear pathways for engagement while maintaining core principles of community ownership and democratic governance, the system can leverage external resources and expertise while ensuring long-term sustainability and local benefit.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/haiti-integration-platforms|haiti-integration-platforms]]
+
+**Consolidated into:**
+- [[docs/DC-HAITI-INTEGRATION-PLATFORMS-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

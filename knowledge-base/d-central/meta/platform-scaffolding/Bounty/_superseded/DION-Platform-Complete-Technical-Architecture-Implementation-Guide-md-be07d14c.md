@@ -2572,3 +2572,11 @@ components:
           type: string
           enum: [low, medium, high, critical]
         title:
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/meta/platform-scaffolding/Bounty/DION-Platform-Complete-Technical-Architecture-Implementation-Guide-md]]
+
+<!-- AUTO-GENERATED RELATED END -->

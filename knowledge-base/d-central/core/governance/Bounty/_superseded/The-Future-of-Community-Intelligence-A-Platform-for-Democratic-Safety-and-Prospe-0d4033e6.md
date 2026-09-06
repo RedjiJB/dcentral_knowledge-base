@@ -453,3 +453,11 @@ The technological pieces are in place. The economic model is proven. The social 
 *To learn more about DION, explore partnership opportunities, or get involved in building this platform, visit [platform website] or contact [contact information]. The technical blueprint, implementation guides, and governance frameworks are available as open-source resources for communities ready to build their own intelligence and emergency response capabilities.*
 
 *Together, we can build a world where every community has the tools they need to protect themselves, share information, and prosper—under their own control and for their own benefit.*
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/core/governance/Bounty/The-Future-of-Community-Intelligence-A-Platform-for-Democratic-Safety-and-Prospe]]
+
+<!-- AUTO-GENERATED RELATED END -->

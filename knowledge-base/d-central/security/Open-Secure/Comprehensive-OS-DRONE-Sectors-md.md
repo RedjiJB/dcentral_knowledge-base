@@ -306,3 +306,16 @@ consolidated_into: docs/DC-OPENSECURE-SECTOR-USE-CASE-RECONCILED-001.md
 ---
 
 The OS-DRONE platform is now fully documented and integrated into the OpenSecure ecosystem.
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/opensecure-sector-use-case-analyses|opensecure-sector-use-case-analyses]]
+
+**Consolidated into:**
+- [[docs/DC-OPENSECURE-SECTOR-USE-CASE-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

@@ -2775,3 +2775,11 @@ duplicate_reason: exact content_hash match, different category (same doc uploade
 - **Economic Tracking**: Transparent community wealth building and impact measurement
 
 This comprehensive analysis demonstrates how every trade can be transformed into community-controlled cooperatives that maximize resource utilization, preserve cultural knowledge, and build sustainable local economies while providing superior service quality and economic benefits for all community members.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/core/economics/Local-Fediverse/comprehensive-trades-cooperative-analysis-md]]
+
+<!-- AUTO-GENERATED RELATED END -->

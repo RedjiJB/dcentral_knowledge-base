@@ -792,3 +792,15 @@ Flight Controllers: $85-300 per unit (180% markup)
 - Sustainable competitive advantage
 
 This comprehensive monetization strategy provides multiple revenue streams while maintaining the open source philosophy and community benefit that defines the Haiti Drone Cooperative's mission. The model scales from local operations to international leadership while preserving technological independence and community empowerment.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/haiti-integration-platforms|haiti-integration-platforms]]
+
+**Consolidated into:**
+- [[docs/DC-HAITI-INTEGRATION-PLATFORMS-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

@@ -9802,3 +9802,15 @@ I'll continue with more sections to reach 200+ government positions. Let me add 
 ---
 
 I'll continue with more sections to reach 200+ government positions. Let me add additional comprehensive sections covering Economic Development & Finance, Communications & Media, Research & Development, and other critical government sectors.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/federated-learning-platform-community-sovereignty-cooperative|federated-learning-platform-community-sovereignty-cooperative]]
+
+**Consolidated into:**
+- [[docs/DC-FLP-SOVEREIGNTY-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

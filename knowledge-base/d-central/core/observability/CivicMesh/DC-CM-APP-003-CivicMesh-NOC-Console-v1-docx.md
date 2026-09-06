@@ -63,3 +63,15 @@ Professional operations tool for MSSP NOC teams. Designed for high information d
 | --- |
 
 	Toussaint Redji Jean Baptiste  |  D-Central Ecosystem  |  May 2026	Page  of
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/civicmesh-noc-manager-dashboard-specifications|civicmesh-noc-manager-dashboard-specifications]]
+
+**Consolidated into:**
+- [[docs/DC-CM-NOC-DASHBOARD-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

@@ -1057,3 +1057,18 @@ Resolution:
 **Last Updated**: December 2024  
 **Typical Deployment**: 1-2 days per vehicle  
 **Fleet Rollout**: 1 week for 10 vehicles
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/opensecure-patrol-sentinel-implementation|opensecure-patrol-sentinel-implementation]]
+- [[knowledge-base/_topics/opensecure-per-service-implementation-guides|opensecure-per-service-implementation-guides]]
+
+**Consolidated into:**
+- [[docs/DC-OPENSECURE-PATROL-SENTINEL-IMPL-RECONCILED-001]]
+- [[docs/DC-OPENSECURE-PER-SERVICE-IMPL-GUIDES-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

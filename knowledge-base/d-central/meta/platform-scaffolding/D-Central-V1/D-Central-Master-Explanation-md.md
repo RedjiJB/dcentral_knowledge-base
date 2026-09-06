@@ -3074,3 +3074,15 @@ The document will be updated regularly to reflect platform development, communit
 *End of D-Central Master Explanation Document*
 
 *This document represents the comprehensive analysis and documentation of the D-Central project based on forensic examination of 105,731+ technical files and 6,399+ documentation files. It serves as the authoritative reference for understanding the project's vision, architecture, economics, governance, and implementation strategy.*
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dcentral-core-narrative-analysis|dcentral-core-narrative-analysis]]
+
+**Consolidated into:**
+- [[docs/DC-DCENTRAL-CORE-NARRATIVE-ANALYSIS-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

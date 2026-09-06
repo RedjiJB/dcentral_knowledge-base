@@ -100,3 +100,16 @@ Documentation Last Updated: November 28, 2024
 ---
 
 **Note:** This documentation is living and will evolve as the project develops. All documents follow markdown format for maximum accessibility and version control compatibility.
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/chopshop-project-documentation|chopshop-project-documentation]]
+
+**Consolidated into:**
+- [[docs/DC-CHOPSHOP-PROJECT-DOCUMENTATION-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

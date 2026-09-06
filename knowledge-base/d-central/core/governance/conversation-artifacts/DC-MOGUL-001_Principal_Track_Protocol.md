@@ -60,3 +60,16 @@ At protocol maturity, Company Zero's role is: maintain the registry and template
 ## 7. Activation gates
 
 The protocol does not admit external stewards until Track 1 has proven at minimum: one profitable regulated venture (OpenSecure with agency licence), one profitable DAO-wrapped community venture (the gym as first co-op cell), and one completed vault-financed capital cycle. Opening the ladder before the reference implementation works would export an unproven model and drain the commons — the same failure mode DC-STATUS-001 warns against, at protocol scale.
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dcentral-venture-governance-protocol-suite|dcentral-venture-governance-protocol-suite]]
+
+**Consolidated into:**
+- [[docs/DC-VENTURE-GOVERNANCE-PROTOCOL-SUITE-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

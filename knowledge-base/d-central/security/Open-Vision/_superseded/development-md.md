@@ -796,3 +796,12 @@ openvision-cli module publish custom-detector
 ---
 
 **Next**: [API Reference](../api/reference.md) | [Integration Guide](integration.md)
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/security/IHOSE/development-md]]
+
+<!-- AUTO-GENERATED RELATED END -->

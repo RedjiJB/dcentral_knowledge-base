@@ -273,3 +273,15 @@ consolidated_into: docs/DC-DIGITAL-COMMUNITY-PARTICIPATION-PLATFORMS-RECONCILED-
 - **Academic Freedom Protection**: Leadership in protecting and promoting academic freedom in digital environments
 - **Higher Education Digital Transformation**: Leadership in higher education digital transformation with thought leadership and best practices
 - **Academic Community Research**: Ongoing research on academic community building and digital engagement effectiveness
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/digital-community-participation-platforms|digital-community-participation-platforms]]
+
+**Consolidated into:**
+- [[docs/DC-DIGITAL-COMMUNITY-PARTICIPATION-PLATFORMS-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

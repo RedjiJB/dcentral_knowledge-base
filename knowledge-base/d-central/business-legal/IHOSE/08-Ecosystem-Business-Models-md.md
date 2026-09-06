@@ -1378,3 +1378,18 @@ Organizations that deploy OpenVision gain **three sustainable advantages:**
 **Version:** 1.0  
 **Last Updated:** November 2025  
 **Next:** Partner program launch Q1 2026
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/ihose-business-strategy-documents|ihose-business-strategy-documents]]
+- [[knowledge-base/_topics/ihose-use-cases-business-models|ihose-use-cases-business-models]]
+
+**Consolidated into:**
+- [[docs/DC-IHOSE-BUSINESS-STRATEGY-RECONCILED-001]]
+- [[docs/DC-IHOSE-USE-CASES-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

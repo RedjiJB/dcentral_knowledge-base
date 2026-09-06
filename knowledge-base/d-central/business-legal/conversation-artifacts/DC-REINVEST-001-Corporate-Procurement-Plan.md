@@ -108,3 +108,16 @@ Pulled directly from DC-TM-POC-001 — no re-derivation needed.
 6. **Tier 5** — hold. Do not fund from early client revenue. This is what the SR&ED/IRAP money is *for*.
 
 **Running total to get everything through Tier 4 funded: roughly $1,100–1,700 CAD one-time, plus ~$65–115/month recurring.**
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dcentral-reinvestment-procurement-plans|dcentral-reinvestment-procurement-plans]]
+
+**Consolidated into:**
+- [[docs/DC-REINVEST-PROCUREMENT-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

@@ -878,3 +878,12 @@ See separate DR runbook for detailed procedures.
 **Deployment Status:** Complete
 **Support:** support@openvision.io
 **Documentation:** https://docs.openvision.io
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/security/IHOSE/04-Enterprise-Deployment-md]]
+
+<!-- AUTO-GENERATED RELATED END -->

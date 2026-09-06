@@ -291,3 +291,17 @@ consolidated_into: [docs/DC-DIGITAL-COMMUNITY-PARTICIPATION-PLATFORMS-RECONCILED
 4. **Competitive Advantage**: Sustainable competitive advantage in recruitment, retention, and reputation
 5. **Innovation Leadership**: Position as leader in educational technology and digital transformation
 6. **Future-Proof Investment**: Platform designed for long-term academic success and adaptation
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/digital-community-participation-platforms|digital-community-participation-platforms]]
+- [[knowledge-base/_topics/fediverse-academic-institution-services|fediverse-academic-institution-services]]
+
+**Consolidated into:**
+- [[docs/DC-DIGITAL-COMMUNITY-PARTICIPATION-PLATFORMS-RECONCILED-001]]
+- [[docs/DC-FEDIFLOW-ACADEMIC-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

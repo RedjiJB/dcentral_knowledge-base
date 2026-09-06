@@ -7246,3 +7246,11 @@ As the technology continues to evolve toward 6G networks, AI-native operations, 
 The time for pilot projects and proof-of-concepts has passed. Organizations across all sectors should begin serious planning for mesh network deployment as a strategic imperative for digital transformation and future competitiveness. The question is not whether to adopt mesh networking, but how quickly and effectively it can be implemented to drive business value and social benefit.
 
 The comprehensive technology stack, implementation guidance, and strategic framework provided in this document offer a roadmap for organizations ready to embrace the mesh networking revolution and build the foundation for their digital future.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/meta/platform-scaffolding/D-Central-Hardware-Software-Tech-Stack/Comprehensive-Mesh-Network-Tech-Stack-for-Business-Integration-Ecosystem-md]]
+
+<!-- AUTO-GENERATED RELATED END -->

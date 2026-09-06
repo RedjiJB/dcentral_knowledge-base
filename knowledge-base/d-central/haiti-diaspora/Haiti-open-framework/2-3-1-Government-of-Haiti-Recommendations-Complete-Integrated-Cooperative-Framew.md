@@ -727,3 +727,15 @@ type Subscription {
 ---
 
 This comprehensive governance framework demonstrates that government recommendations can be transformed into opportunities for **revolutionary governance, social, economic, and environmental transformation** based on **cooperative governance principles**, **democratic governance sovereignty**, **cultural governance independence**, **technological governance sovereignty**, and **environmental governance regeneration**. Haiti emerges not as governance aid recipient but as **global leader in cooperative governance civilization**, **Caribbean governance federation catalyst**, and **model for climate-resilient democratic governance development** serving all humanity for **thousands of years**.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/haiti-cooperative-resilience-framework|haiti-cooperative-resilience-framework]]
+
+**Consolidated into:**
+- [[docs/DC-HAITI-COOPERATIVE-RESILIENCE-FRAMEWORK-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

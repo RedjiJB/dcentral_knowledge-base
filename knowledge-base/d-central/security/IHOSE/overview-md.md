@@ -876,3 +876,18 @@ See detailed documentation:
 - [Cloud Architecture](cloud.md)
 - [Multi-Tenant Design](multi-tenant.md)
 - [Security Deep Dive](security.md)
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/ihose-architecture-deployment|ihose-architecture-deployment]]
+- [[knowledge-base/_topics/ihose-openvision-documentation-package|ihose-openvision-documentation-package]]
+
+**Consolidated into:**
+- [[docs/DC-IHOSE-ARCHITECTURE-DEPLOYMENT-RECONCILED-001]]
+- [[docs/DC-IHOSE-OPENVISION-DOCUMENTATION-PACKAGE-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

@@ -1706,3 +1706,11 @@ Federated Governance Architecture:
 - Climate resilience and disaster preparedness capabilities
 - Vibrant local economy with value-added production
 - Model for regional development replication
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/haiti-diaspora/Drone-Zoe/Comprehensive-Democratized-Development-Framework-for-Haiti-md-735f60aa]]
+
+<!-- AUTO-GENERATED RELATED END -->

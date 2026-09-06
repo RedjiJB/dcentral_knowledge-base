@@ -129,3 +129,16 @@ Even at stage 7, the following remain outside every technical process in this su
 
 The last is the largest unanswered question in the ecosystem. It is answered by stage 6 —
 a real invoice to a real customer — and by nothing before it.
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dcentral-simulation-lab-programme|dcentral-simulation-lab-programme]]
+
+**Consolidated into:**
+- [[docs/DC-DCENTRAL-SIMULATION-LAB-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

@@ -1543,3 +1543,17 @@ B2B Projections:
 ```
 
 ### 7.3
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dcentral-obcc-sector-implementation|dcentral-obcc-sector-implementation]]
+- [[knowledge-base/_topics/mesh-cooperative-business-model-framework|mesh-cooperative-business-model-framework]]
+
+**Consolidated into:**
+- [[docs/DC-OBCC-SECTOR-RECONCILED-001]]
+- [[docs/DC-MESH-COOPERATIVE-BUSINESS-MODEL-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

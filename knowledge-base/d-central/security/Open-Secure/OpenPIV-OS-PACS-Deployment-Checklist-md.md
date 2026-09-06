@@ -659,3 +659,16 @@ CARD COMPROMISE
 **Last Updated**: December 2025  
 **Author**: Toussaint Louis  
 **Next Review**: Q2 2026
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/openpiv-pacs-integration-suite|openpiv-pacs-integration-suite]]
+
+**Consolidated into:**
+- [[docs/DC-OPENPIV-PACS-INTEGRATION-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

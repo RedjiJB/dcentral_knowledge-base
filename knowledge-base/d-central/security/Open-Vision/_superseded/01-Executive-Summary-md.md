@@ -339,3 +339,12 @@ The platform is **technically validated**, built on proven open-source component
 **Website:** www.openvision.io
 
 **Next Review:** 90 days post-approval
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/security/IHOSE/01-Executive-Summary-md]]
+
+<!-- AUTO-GENERATED RELATED END -->

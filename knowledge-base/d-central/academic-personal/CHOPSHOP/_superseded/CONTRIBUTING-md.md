@@ -649,3 +649,12 @@ If you have questions about contributing, please:
 4. Contact maintainers if needed
 
 **Thank you for contributing to ChopShop-CLI! Your efforts help make cybersecurity tools more accessible to everyone.**
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/academic-personal/CHOPSHOP/CONTRIBUTING-1-md]]
+
+<!-- AUTO-GENERATED RELATED END -->

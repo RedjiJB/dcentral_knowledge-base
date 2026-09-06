@@ -101,3 +101,16 @@ DC-OS is the navigation and interaction layer; it does not replace the applicati
 ## 9. Honest status and build path
 
 DC-OS is design-stage, execution-zero, like the rest of the ecosystem per DC-STATUS-001. Its dependencies are real: it needs the DID/VC identity layer, the Lakou vault rails, the mesh addressing layer, and at minimum a node and one orb tier to be meaningful. None of these exist in hardware yet. The rational build path mirrors the orb's: first, a **terminal-only DC-OS** on a single node — the command grammar, capability resolver, and DID/VC auth, driven by keyboard, navigating a handful of real nouns (one vault, one cell). This is buildable in software now and is the natural companion to the Company Zero agent cabinet, since the cabinet's operations are exactly the first verbs worth having. The orb-native and gesture front-ends come only after an orb exists. The graphical/voice/gesture fluidity is the destination; a working keyboard-driven grammar over one real node and one real vault is the first executable step — and it should not be built before there is a real vault and cell for it to navigate, or it becomes another design-complete, execution-zero artifact.
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dcentral-developer-ecosystem-os-specs|dcentral-developer-ecosystem-os-specs]]
+
+**Consolidated into:**
+- [[docs/DC-DEV-OS-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

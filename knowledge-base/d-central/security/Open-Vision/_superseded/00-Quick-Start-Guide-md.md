@@ -589,3 +589,12 @@ You now have:
 **Want to deploy at scale?** See the Enterprise Deployment Guide.
 
 **Ready to contribute?** Visit https://github.com/openvision/platform
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/security/IHOSE/00-Quick-Start-Guide-md]]
+
+<!-- AUTO-GENERATED RELATED END -->

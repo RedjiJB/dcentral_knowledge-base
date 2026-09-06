@@ -380,3 +380,12 @@ Start with the **README.md** and choose your path based on your needs!
 **Status**: Production-Ready
 
 🌟 **Star us on GitHub if this helps you!**
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/meta/status-tracking/IHOSE/QUICK-START-md]]
+
+<!-- AUTO-GENERATED RELATED END -->

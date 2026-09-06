@@ -105,3 +105,16 @@ consolidated_into: docs/DC-REINVEST-PROCUREMENT-RECONCILED-001.md
 | Home office rent | — | ~$270–360/mo (placeholder) |
 
 **See DC-FINANCIAL-MODEL-001 for the full monthly cash-flow model built from these numbers.**
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dcentral-reinvestment-procurement-plans|dcentral-reinvestment-procurement-plans]]
+
+**Consolidated into:**
+- [[docs/DC-REINVEST-PROCUREMENT-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

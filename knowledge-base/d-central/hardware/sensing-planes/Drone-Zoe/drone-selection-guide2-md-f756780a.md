@@ -832,3 +832,15 @@ Below is a breakdown for each sensor module and drone platform, including:
 | **CargoLifter** | 8kg | All modules possible | -30% |
 
 This comprehensive open source modular sensor system enables Haiti Drone Cooperative to build world-class capabilities using affordable, locally-manufacturable components while maintaining complete technological independence and customization capability.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/drone-zoe-hardware-selection-guides|drone-zoe-hardware-selection-guides]]
+
+**Consolidated into:**
+- [[docs/DC-DRONE-HARDWARE-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

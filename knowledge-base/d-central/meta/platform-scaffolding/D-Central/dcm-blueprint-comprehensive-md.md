@@ -723,3 +723,16 @@ Key technical innovations include:
 This blueprint provides a concrete technical foundation for implementation teams while maintaining the flexibility to adapt to evolving requirements and technologies. The phased roadmap ensures that the system can be deployed incrementally, with each phase building upon the successful delivery of previous components.
 
 The D Central Mesh will enable a new generation of decentralized applications that operate without dependence on centralized infrastructure, putting control back in the hands of users while providing the reliability and performance expected of modern networks.
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dcentral-networking-architecture|dcentral-networking-architecture]]
+
+**Consolidated into:**
+- [[docs/DC-NETWORKING-ARCH-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

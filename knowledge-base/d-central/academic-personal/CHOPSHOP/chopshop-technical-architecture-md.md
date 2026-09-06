@@ -1820,3 +1820,16 @@ sphinx = "^7.2.0"
 ---
 
 *This document serves as the technical blueprint for ChopShop-CLI development. All architectural decisions should reference and update this document.*
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/chopshop-project-documentation|chopshop-project-documentation]]
+
+**Consolidated into:**
+- [[docs/DC-CHOPSHOP-PROJECT-DOCUMENTATION-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

@@ -865,3 +865,15 @@ Ready to generate:
 2. **Protocol gateway reference implementations**?
 3. **FCN function library** (starter pack of 50 functions)?
 4. **Digital twin templates** for each category?
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dcentral-iot-integration-blueprint|dcentral-iot-integration-blueprint]]
+
+**Consolidated into:**
+- [[docs/DC-IOT-BLUEPRINT-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

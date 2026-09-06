@@ -1701,3 +1701,16 @@ The Provincial Security Guard Universal Credential System represents a **transfo
 - OS-PACS Documentation: https://os-pacs.org
 - Technical Questions: tech@securityguard.gov.on.ca
 - Policy Questions: policy@securityguard.gov.on.ca
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/opensecure-provincial-security-network|opensecure-provincial-security-network]]
+
+**Consolidated into:**
+- [[docs/DC-OPENSECURE-PROVINCIAL-PIV-CREDENTIAL-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

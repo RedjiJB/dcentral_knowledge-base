@@ -2374,3 +2374,15 @@ For D-Central to succeed, need:
 **Feedback welcome:** This document aims to be constructively critical. If you spot errors, have counterarguments, or want to discuss specific sections, please engage in good faith.
 
 The goal is not to kill D-Central, but to ensure anyone pursuing it does so with realistic expectations and robust planning.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dcentral-core-narrative-analysis|dcentral-core-narrative-analysis]]
+
+**Consolidated into:**
+- [[docs/DC-DCENTRAL-CORE-NARRATIVE-ANALYSIS-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

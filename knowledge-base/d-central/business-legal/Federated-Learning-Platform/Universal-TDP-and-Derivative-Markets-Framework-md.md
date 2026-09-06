@@ -2352,3 +2352,15 @@ This framework represents a fundamental evolution in cooperative manufacturingâ€
 This digital-first approach transforms every piece of equipment, every service, and every cooperative relationship into a connected, intelligent, and continuously improving component of a global ecosystem dedicated to community ownership, democratic governance, and sustainable prosperity.
 
 **The Result**: Not just community-owned manufacturing, but **community-owned digital economies** that generate prosperity while building genuine technological sovereignty and social justice through cooperative action.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/federated-learning-platform-community-sovereignty-cooperative|federated-learning-platform-community-sovereignty-cooperative]]
+
+**Consolidated into:**
+- [[docs/DC-FLP-SOVEREIGNTY-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

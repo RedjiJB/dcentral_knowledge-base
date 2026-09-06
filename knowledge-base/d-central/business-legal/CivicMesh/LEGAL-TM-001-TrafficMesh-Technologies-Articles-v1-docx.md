@@ -70,3 +70,15 @@ Articles of Incorporation — Federal CCPC
 | --- |
 
 	Toussaint Redji Jean Baptiste  |  D-Central Ecosystem  |  May 2026	Page  of
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/civicmesh-trafficmesh-articles-of-incorporation|civicmesh-trafficmesh-articles-of-incorporation]]
+
+**Consolidated into:**
+- [[docs/DC-CM-TM-ARTICLES-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

@@ -833,3 +833,11 @@ Below is a breakdown for each sensor module and drone platform, including:
 | **CargoLifter** | 8kg | All modules possible | -30% |
 
 This comprehensive open source modular sensor system enables Haiti Drone Cooperative to build world-class capabilities using affordable, locally-manufacturable components while maintaining complete technological independence and customization capability.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Superseded by:** drone-selection-guide2-md-f756780a.md (unresolved path, see registry/materialized-manifest.json)
+
+<!-- AUTO-GENERATED RELATED END -->

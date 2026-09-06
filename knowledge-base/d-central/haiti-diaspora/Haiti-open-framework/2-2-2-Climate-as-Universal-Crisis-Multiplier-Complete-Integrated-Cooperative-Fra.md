@@ -624,3 +624,15 @@ type Subscription {
 ---
 
 This comprehensive climate framework demonstrates that climate crisis multiplication can be transformed into opportunities for **revolutionary climate, social, economic, and environmental transformation** based on **cooperative climate principles**, **democratic climate governance**, **cultural climate sovereignty**, **technological climate independence**, and **environmental climate regeneration**. Haiti emerges not as climate victim but as **global leader in cooperative climate civilization**, **Caribbean climate federation catalyst**, and **model for climate-resilient democratic climate development** serving all humanity for **thousands of years**.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/haiti-cooperative-resilience-framework|haiti-cooperative-resilience-framework]]
+
+**Consolidated into:**
+- [[docs/DC-HAITI-COOPERATIVE-RESILIENCE-FRAMEWORK-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

@@ -248,3 +248,12 @@ You have **everything needed** to:
 **Status:** Production-Ready
 
 🌟 **Welcome to OpenVision Platform!**
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/meta/status-tracking/IHOSE/START-HERE-md]]
+
+<!-- AUTO-GENERATED RELATED END -->

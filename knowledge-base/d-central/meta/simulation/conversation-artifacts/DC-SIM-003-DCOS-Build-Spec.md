@@ -143,3 +143,16 @@ The image is considered complete for v1 when:
 8. Scenario 1 of DC-SIM-004 passes
 
 **Criteria 6–8 constitute the programme stop condition (DC-SIM-000 §3).**
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dcentral-simulation-lab-programme|dcentral-simulation-lab-programme]]
+
+**Consolidated into:**
+- [[docs/DC-DCENTRAL-SIMULATION-LAB-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

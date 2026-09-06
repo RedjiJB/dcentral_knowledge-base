@@ -740,3 +740,12 @@ Instead of competing on price (race to the bottom), you compete on intelligence 
 ---
 
 **The future of security isn't reactive recording — it's predictive intelligence. Digital Twin makes OpenSecure that future.**
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/security/Open-Secure/OpenSecure-Digital-Twin-Integration-md]]
+
+<!-- AUTO-GENERATED RELATED END -->

@@ -106,3 +106,12 @@ duplicate_reason: "exact body match (verified byte-for-byte) -- already extracte
 - DC-SWARM-001, DC-PLANE-001, DC-SITE-001 confirmed to exist in memory but not re-surfaced by this search pass — add on next pass.
 - No timestamps captured per doc — worth adding a "last touched" column so staleness is visible at a glance, the same instinct behind DC-STATUS-001.
 - This document was assembled from conversation search snippets, not a full read of each source chat — treat titles/status as directionally right, verify before treating as authoritative.
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** registry/DC-REG-001-Master-Registry.md (unresolved path, see registry/materialized-manifest.json)
+
+<!-- AUTO-GENERATED RELATED END -->

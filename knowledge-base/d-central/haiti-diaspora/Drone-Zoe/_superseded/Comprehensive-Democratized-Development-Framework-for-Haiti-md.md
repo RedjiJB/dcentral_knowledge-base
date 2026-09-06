@@ -953,3 +953,11 @@ Federated Governance Architecture:
 - 80,000 residents with dramatically improved services
 - Comprehensive economic development metrics
 - Climate resilience an
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Superseded by:** Comprehensive-Democratized-Development-Framework-for-Haiti-md-735f60aa.md (unresolved path, see registry/materialized-manifest.json)
+
+<!-- AUTO-GENERATED RELATED END -->

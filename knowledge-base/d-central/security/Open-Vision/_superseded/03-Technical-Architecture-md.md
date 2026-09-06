@@ -859,3 +859,12 @@ OpenVision Platform provides:
 - Deployment Guide (Technical)
 - Module Development Guide (Developers)
 - Operations Runbook (SRE/DevOps)
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/security/IHOSE/03-Technical-Architecture-md]]
+
+<!-- AUTO-GENERATED RELATED END -->

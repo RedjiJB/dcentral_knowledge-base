@@ -1503,3 +1503,18 @@ The current documentation is **strong foundation**, covering:
 **Version:** 1.0  
 **Date:** November 2025  
 **Status:** Recommendations Ready for Implementation
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/ihose-federation-ecosystem-partnership-framework|ihose-federation-ecosystem-partnership-framework]]
+- [[knowledge-base/_topics/ihose-business-strategy-documents|ihose-business-strategy-documents]]
+
+**Consolidated into:**
+- [[docs/DC-IHOSE-FEDERATION-ECOSYSTEM-RECONCILED-001]]
+- [[docs/DC-IHOSE-BUSINESS-STRATEGY-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

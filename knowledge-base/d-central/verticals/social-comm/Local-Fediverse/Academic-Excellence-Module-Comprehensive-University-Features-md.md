@@ -298,3 +298,15 @@ consolidated_into: docs/DC-DIGITAL-COMMUNITY-PARTICIPATION-PLATFORMS-RECONCILED-
 - **Research Press Release Coordination**: Professional press release writing and distribution for research findings
 - **Research Conference Presentation**: Strategic research presentation at high-impact conferences with networking optimization
 - **Research Collaboration Facilitation**: Systematic facilitation of research collaborations for increased impact and visibility
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/digital-community-participation-platforms|digital-community-participation-platforms]]
+
+**Consolidated into:**
+- [[docs/DC-DIGITAL-COMMUNITY-PARTICIPATION-PLATFORMS-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

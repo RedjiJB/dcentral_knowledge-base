@@ -5223,3 +5223,15 @@ The enhanced framework awaits implementation. The people of Haiti await empowerm
 
 The **climate-integrated revolution** begins now.
 -
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/haiti-cooperative-resilience-framework|haiti-cooperative-resilience-framework]]
+
+**Consolidated into:**
+- [[docs/DC-HAITI-COOPERATIVE-RESILIENCE-FRAMEWORK-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

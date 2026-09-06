@@ -514,3 +514,16 @@ Any changes to project scope, timeline, or objectives require:
 **Document End**
 
 *This charter serves as the foundational document for the ChopShop-CLI project and should be referenced for all major project decisions.*
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/chopshop-project-documentation|chopshop-project-documentation]]
+
+**Consolidated into:**
+- [[docs/DC-CHOPSHOP-PROJECT-DOCUMENTATION-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

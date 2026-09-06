@@ -621,3 +621,15 @@ type Subscription {
 ---
 
 This comprehensive cascade framework demonstrates that inter-sector crisis cascades can be transformed into opportunities for **revolutionary multi-sector, social, economic, and environmental transformation** based on **cooperative cascade principles**, **democratic crisis governance**, **cultural crisis sovereignty**, **technological crisis independence**, and **environmental crisis regeneration**. Haiti emerges not as crisis victim but as **global leader in cooperative cascade civilization**, **Caribbean crisis federation catalyst**, and **model for climate-resilient democratic cascade development** serving all humanity for **thousands of years**.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/haiti-cooperative-resilience-framework|haiti-cooperative-resilience-framework]]
+
+**Consolidated into:**
+- [[docs/DC-HAITI-COOPERATIVE-RESILIENCE-FRAMEWORK-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

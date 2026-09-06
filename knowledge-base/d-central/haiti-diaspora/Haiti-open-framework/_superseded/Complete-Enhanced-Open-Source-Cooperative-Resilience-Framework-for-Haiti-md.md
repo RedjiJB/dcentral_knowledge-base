@@ -2289,3 +2289,11 @@ The enhanced framework awaits implementation. The people of Haiti await empowerm
 **Phone:** [+1 (819) 319-6405](tel:8193196405)  
 **Email:** [redji.jeanbaptiste@mail.utoronto.ca](mailto:redji.jeanbaptiste@mail.utoronto.ca)  
 **LinkedIn:** [linkedin.com/in/redji-jean-baptiste-25b0471b7](https://linkedin.com/in/redji-jean-baptiste-25b0471b7)
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Superseded by:** Complete-Enhanced-Open-Source-Cooperative-Resilience-Framework-for-Haiti-md-d47533bb.md (unresolved path, see registry/materialized-manifest.json)
+
+<!-- AUTO-GENERATED RELATED END -->

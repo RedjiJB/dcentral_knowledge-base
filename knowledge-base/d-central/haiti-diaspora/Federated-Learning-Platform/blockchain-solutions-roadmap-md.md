@@ -885,3 +885,15 @@ This 5-7 year roadmap provides a **practical, community-controlled path** from t
 **This roadmap ensures that communities can achieve educational sovereignty and cultural preservation whether or not they ultimately adopt full blockchain technology, while providing a clear path for those communities ready and able to pursue complete blockchain integration.**
 
 The key innovation is **putting community readiness, cultural compatibility, and economic sustainability first**, with blockchain as a tool that serves community goals rather than a technological imperative that communities must adopt regardless of readiness or appropriateness.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/blockchain-education-federation|blockchain-education-federation]]
+
+**Consolidated into:**
+- [[docs/DC-BLOCKCHAIN-EDUCATION-FEDERATION-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

@@ -901,3 +901,15 @@ However, this transformation requires **careful, community-controlled implementa
 **The question is not whether blockchain can improve education—but whether specific communities are ready, willing, and able to undertake the complex, long-term work of building community-controlled, technically sophisticated, culturally grounded educational sovereignty systems.**
 
 This framework provides the roadmap. Community readiness, cultural appropriateness, and democratic consensus determine whether implementation should proceed.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/blockchain-education-federation|blockchain-education-federation]]
+
+**Consolidated into:**
+- [[docs/DC-BLOCKCHAIN-EDUCATION-FEDERATION-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

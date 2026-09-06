@@ -2214,3 +2214,16 @@ Would you like me to create:
 3. **Financial model spreadsheet** with detailed projections?
 4. **Go-to-market playbook** with specific tactics and timeline?
 5. **Privacy/legal framework** document for government partnerships?
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/security-ecosystem-sector-platforms|security-ecosystem-sector-platforms]]
+
+**Consolidated into:**
+- [[docs/DC-SECURITY-ECOSYSTEM-SECTOR-PLATFORMS-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

@@ -448,3 +448,16 @@ See [SECURITY.md](SECURITY.md) for our security policy.
 **Made with ❤️ by the open-source community**
 
 ⭐ Star us on GitHub if this project helps you!
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/ihose-openvision-documentation-package|ihose-openvision-documentation-package]]
+
+**Consolidated into:**
+- [[docs/DC-IHOSE-OPENVISION-DOCUMENTATION-PACKAGE-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

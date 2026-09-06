@@ -732,3 +732,16 @@ See: `openpiv-docs/deployment/production-deployment.md`
 **Last Updated:** December 2025  
 **Author:** Toussaint Louis  
 **Organization:** OpenPIV Project
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/opensecure-openpiv-subsystem|opensecure-openpiv-subsystem]]
+
+**Consolidated into:**
+- [[docs/DC-OPENSECURE-OPENPIV-SUBSYSTEM-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

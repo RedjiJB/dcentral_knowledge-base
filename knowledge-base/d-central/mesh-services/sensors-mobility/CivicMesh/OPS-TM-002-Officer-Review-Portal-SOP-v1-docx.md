@@ -96,3 +96,15 @@ When a citation recipient contests through the provincial offence process, the o
 | --- |
 
 	Toussaint Redji Jean Baptiste  |  D-Central Ecosystem  |  May 2026	Page  of
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/civicmesh-officer-portal-municipal-training|civicmesh-officer-portal-municipal-training]]
+
+**Consolidated into:**
+- [[docs/DC-CM-OFFICER-PORTAL-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

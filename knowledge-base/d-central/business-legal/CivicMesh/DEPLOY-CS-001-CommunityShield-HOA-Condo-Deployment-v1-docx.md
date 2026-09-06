@@ -78,3 +78,15 @@ CommunityShield HOA/Condo Deployment Package
 | --- |
 
 	Toussaint Redji Jean Baptiste  |  D-Central Ecosystem  |  May 2026	Page  of
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/communityshield-hoa-deployment-package|communityshield-hoa-deployment-package]]
+
+**Consolidated into:**
+- [[docs/DC-CS-HOA-DEPLOYMENT-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

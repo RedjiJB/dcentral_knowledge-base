@@ -3350,3 +3350,15 @@ This is not just governance—it's **algorithmic democracy at scale**, where the
 *Last Updated: 2025-10-13*  
 *Charter Version: 1.0*  
 *Registry: /ledger/dao/registry*
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dcentral-core-narrative-analysis|dcentral-core-narrative-analysis]]
+
+**Consolidated into:**
+- [[docs/DC-DCENTRAL-CORE-NARRATIVE-ANALYSIS-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

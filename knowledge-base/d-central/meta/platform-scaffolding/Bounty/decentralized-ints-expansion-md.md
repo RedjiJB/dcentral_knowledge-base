@@ -402,3 +402,15 @@ async def submit_intelligence(int_type):
 - Autonomous platform integration
 
 This expanded framework provides a comprehensive foundation for building a truly decentralized, ethical, and effective intelligence platform that respects privacy while enabling critical information sharing for societal benefit.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dion-platform-expansion-explanation|dion-platform-expansion-explanation]]
+
+**Consolidated into:**
+- [[docs/DC-DION-EXPANSION-EXPLANATION-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

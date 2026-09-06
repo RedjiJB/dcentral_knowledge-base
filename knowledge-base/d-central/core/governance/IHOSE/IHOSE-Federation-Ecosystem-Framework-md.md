@@ -3086,3 +3086,16 @@ By following this implementation roadmap, Iron Horse Security transforms from a 
 ---
 
 *This document is open for community feedback. Submit comments via GitHub Issues or email: community@ironhorsesecurity.org*
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/ihose-federation-ecosystem-partnership-framework|ihose-federation-ecosystem-partnership-framework]]
+
+**Consolidated into:**
+- [[docs/DC-IHOSE-FEDERATION-ECOSYSTEM-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

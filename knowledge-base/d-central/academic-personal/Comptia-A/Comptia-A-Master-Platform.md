@@ -219,3 +219,15 @@ Continuous updates to align with the latest CompTIA A+ exam objectives and add n
 ---
 
 *CompTIA A+ Master is not affiliated with or endorsed by CompTIA. CompTIA A+ is a registered trademark of CompTIA Properties, LLC.*
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/comptia-a-learning-platform|comptia-a-learning-platform]]
+
+**Consolidated into:**
+- [[docs/DC-COMPTIA-A-PLATFORM-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

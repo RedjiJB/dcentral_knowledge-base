@@ -77,3 +77,15 @@ MeshPlate Municipal Deployment Package
 | --- |
 
 	Toussaint Redji Jean Baptiste  |  D-Central Ecosystem  |  May 2026	Page  of
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/civicmesh-federation-noc-municipal-deployment|civicmesh-federation-noc-municipal-deployment]]
+
+**Consolidated into:**
+- [[docs/DC-CIVICMESH-FEDERATION-NOC-MUNICIPAL-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

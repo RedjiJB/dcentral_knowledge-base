@@ -3131,3 +3131,15 @@ This revised Rezilyon Digital plan acknowledges the harsh realities of implement
 **Ready to build corruption-resistant community infrastructure?** Start with community education and diaspora engagement, focus on transparent value creation, and build the foundation for democratic technology governance that serves communities rather than exploiting them.
 
 The future of community development is transparent, democratic, and culturally rooted. Haiti can demonstrate how technology enables community empowerment rather than external control when designed with community sovereignty as the primary goal.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/haiti-cooperative-resilience-framework|haiti-cooperative-resilience-framework]]
+
+**Consolidated into:**
+- [[docs/DC-HAITI-COOPERATIVE-RESILIENCE-FRAMEWORK-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

@@ -631,3 +631,15 @@ type Subscription {
 ---
 
 This comprehensive health framework demonstrates that health system collapse can be transformed into opportunities for **revolutionary medical, social, economic, and environmental transformation** based on **cooperative health principles**, **democratic medical governance**, **cultural healing sovereignty**, **medical technological independence**, and **environmental health regeneration**. Haiti emerges not as medical aid recipient but as **global leader in cooperative healing civilization**, **Caribbean health federation catalyst**, and **model for climate-resilient democratic health development** serving all humanity for **thousands of years**.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/haiti-cooperative-resilience-framework|haiti-cooperative-resilience-framework]]
+
+**Consolidated into:**
+- [[docs/DC-HAITI-COOPERATIVE-RESILIENCE-FRAMEWORK-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

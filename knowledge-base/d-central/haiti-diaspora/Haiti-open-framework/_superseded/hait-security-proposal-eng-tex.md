@@ -585,3 +585,11 @@ Email: redji.jeanbaptiste@mail.utoronto.ca\\
 LinkedIn: linkedin.com/in/redji-jean-baptiste-25b0471b7
 
 \end{document}
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Superseded by:** haiti-security-proposal-md.md (unresolved path, see registry/materialized-manifest.json)
+
+<!-- AUTO-GENERATED RELATED END -->

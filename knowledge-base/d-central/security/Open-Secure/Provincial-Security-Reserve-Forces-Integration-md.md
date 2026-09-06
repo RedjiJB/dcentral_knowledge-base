@@ -1321,3 +1321,16 @@ National Security:
 - Federal: reserve-integration@forces.gc.ca
 - Provincial: psrfip@ontario.ca
 - https://psrfip.ca
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/provincial-security-network-programs|provincial-security-network-programs]]
+
+**Consolidated into:**
+- [[docs/DC-PROVINCIAL-SECURITY-NETWORK-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

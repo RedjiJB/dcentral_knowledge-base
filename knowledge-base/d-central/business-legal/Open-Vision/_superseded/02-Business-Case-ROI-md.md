@@ -497,3 +497,12 @@ Still delivers strong returns with conservative risk assumptions.
 **Appendix C:** TCO calculation methodology  
 **Appendix D:** Risk assessment matrix  
 **Appendix E:** Vendor comparison feature matrix
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/business-legal/IHOSE/02-Business-Case-ROI-md]]
+
+<!-- AUTO-GENERATED RELATED END -->

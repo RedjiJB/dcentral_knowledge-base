@@ -911,3 +911,15 @@ Route de Delmas, Port-au-Prince, Haiti
 
 &copy; 2025 Drone Zoe Haiti Cooperative. All rights reserved.
 **By Haitians, for Haiti—One Drone at a Time**
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/haiti-integration-platforms|haiti-integration-platforms]]
+
+**Consolidated into:**
+- [[docs/DC-HAITI-INTEGRATION-PLATFORMS-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

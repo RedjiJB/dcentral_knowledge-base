@@ -1154,3 +1154,16 @@ class ConciergeAnalytics:
 **Related Documents**:
 - [OS-CONCIERGE Network Topology](./OS-CONCIERGE_Network_Topology.md)
 - [OS-CONCIERGE Technical Architecture](./OS-CONCIERGE_Technical_Architecture.md)
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/opensecure-os-concierge-topology|opensecure-os-concierge-topology]]
+
+**Consolidated into:**
+- [[docs/DC-OPENSECURE-OS-CONCIERGE-TOPOLOGY-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

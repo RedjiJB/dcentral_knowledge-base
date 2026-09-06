@@ -341,3 +341,12 @@ open deployments will become increasingly viable for production
 workloads. For now, OpenVision Platform provides the flexibility to make
 pragmatic trade-offs while maintaining the option to transition to fully
 open hardware as it becomes available.
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/hardware/sensing-planes/IHOSE/02-Hardware-Specifications-docx]]
+
+<!-- AUTO-GENERATED RELATED END -->

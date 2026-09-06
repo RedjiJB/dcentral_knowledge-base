@@ -445,3 +445,16 @@ This is everything you need to build ChopShop-CLI from an idea to a production-r
 ---
 
 *Documentation created by Claude with detailed attention to your cybersecurity education goals, CTF competition preparation, and professional development needs.*
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/chopshop-project-documentation|chopshop-project-documentation]]
+
+**Consolidated into:**
+- [[docs/DC-CHOPSHOP-PROJECT-DOCUMENTATION-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

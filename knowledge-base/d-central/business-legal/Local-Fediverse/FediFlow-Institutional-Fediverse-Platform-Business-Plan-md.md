@@ -2190,3 +2190,15 @@ FediFlow will become the foundational infrastructure for institutional digital c
 **The Market Imperative**: Institutions require an alternative to algorithm-driven platforms that prioritize engagement over authentic community building. FediFlow provides the enterprise-grade solution that transforms federated social media from a technical experiment into a strategic institutional advantage.
 
 The convergence of fediverse growth, institutional digital transformation, and demand for data sovereignty creates a once-in-a-generation opportunity to build the infrastructure for the next era of institutional communication. FediFlow will define this market.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/digital-community-participation-platforms|digital-community-participation-platforms]]
+
+**Consolidated into:**
+- [[docs/DC-DIGITAL-COMMUNITY-PARTICIPATION-PLATFORMS-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

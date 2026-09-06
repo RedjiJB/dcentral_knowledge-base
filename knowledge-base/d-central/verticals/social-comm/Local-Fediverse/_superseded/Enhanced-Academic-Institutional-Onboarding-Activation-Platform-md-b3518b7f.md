@@ -274,3 +274,11 @@ duplicate_reason: "exact body-hash match within the same category, resolved duri
 - **Academic Freedom Protection**: Leadership in protecting and promoting academic freedom in digital environments
 - **Higher Education Digital Transformation**: Leadership in higher education digital transformation with thought leadership and best practices
 - **Academic Community Research**: Ongoing research on academic community building and digital engagement effectiveness
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/verticals/social-comm/Local-Fediverse/Enhanced-Academic-Institutional-Onboarding-Activation-Platform-md]]
+
+<!-- AUTO-GENERATED RELATED END -->

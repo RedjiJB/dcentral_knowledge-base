@@ -341,3 +341,15 @@ Dr. Williams examines the AI-powered insights dashboard:
 Riverside University positions itself as a leader in educational innovation, using FediFlow to create the most engaged, successful, and connected academic community in higher education. The platform becomes the foundation for all institutional communication, community building, and strategic advancement.
 
 **The Result**: A transformed institution that serves as a model for higher education in the digital age, with measurably improved outcomes for all stakeholders and sustainable competitive advantages in recruitment, retention, research, and reputation.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/digital-community-participation-platforms|digital-community-participation-platforms]]
+
+**Consolidated into:**
+- [[docs/DC-DIGITAL-COMMUNITY-PARTICIPATION-PLATFORMS-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

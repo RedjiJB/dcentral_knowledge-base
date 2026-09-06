@@ -2282,3 +2282,16 @@ lesson:
 **Estimated Financial Loss:** $5M-20M investor capital + participant losses  
 **Estimated Regulatory Penalty:** $50M-500M if pursued  
 **Better Alternatives:** Dozens of proven business models available
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dcentral-economic-model-critiques|dcentral-economic-model-critiques]]
+
+**Consolidated into:**
+- [[docs/DC-ECONOMIC-CRITIQUES-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

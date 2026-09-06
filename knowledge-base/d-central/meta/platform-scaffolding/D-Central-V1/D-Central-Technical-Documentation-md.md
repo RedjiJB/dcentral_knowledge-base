@@ -3037,3 +3037,15 @@ func (poc *ProofOfContribution) calculateNetworkContribution(evidence []byte) (*
 This technical documentation provides comprehensive coverage of the D-Central platform's implementation details, including system architecture, networking protocols, edge computing platform, AI agent framework, blockchain smart contracts, API specifications, security implementations, and core algorithms. The documentation includes practical code examples, configuration details, and deployment procedures that enable developers to understand and contribute to the platform effectively.
 
 The forensic-level detail captures the complexity and sophistication of the D-Central platform while maintaining clarity for different technical audiences. Each section builds upon previous concepts and provides concrete implementation guidance for building and operating community-owned mesh networks with AI orchestration and democratic governance.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dcentral-core-narrative-analysis|dcentral-core-narrative-analysis]]
+
+**Consolidated into:**
+- [[docs/DC-DCENTRAL-CORE-NARRATIVE-ANALYSIS-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

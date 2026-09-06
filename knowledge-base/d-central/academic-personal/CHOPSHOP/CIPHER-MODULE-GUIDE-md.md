@@ -1047,3 +1047,16 @@ Before submitting your cipher module:
 ---
 
 **Congratulations!** You're ready to create high-quality cipher modules for ChopShop-CLI. If you have questions, check existing modules or ask in GitHub Discussions.
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/chopshop-project-documentation|chopshop-project-documentation]]
+
+**Consolidated into:**
+- [[docs/DC-CHOPSHOP-PROJECT-DOCUMENTATION-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

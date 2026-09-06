@@ -735,3 +735,17 @@ The mesh network provides the technical infrastructure. Cooperatives provide the
 **Every cooperative started is a step toward economic democracy. Every member joined is a vote for community wealth. Every service used is an investment in our collective future.**
 
 *The tools exist. The models are proven. The only question is: How fast can we build the cooperative economy our communities deserve?*
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/mesh-cooperative-business-model-framework|mesh-cooperative-business-model-framework]]
+- [[knowledge-base/_topics/mesh-cooperative-business-models|mesh-cooperative-business-models]]
+
+**Consolidated into:**
+- [[docs/DC-MESH-COOPERATIVE-BUSINESS-MODEL-RECONCILED-001]]
+- [[docs/DC-MESH-COOP-BUSINESS-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

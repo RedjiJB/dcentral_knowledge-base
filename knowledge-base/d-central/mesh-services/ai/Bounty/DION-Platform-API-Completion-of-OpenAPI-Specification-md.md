@@ -607,3 +607,15 @@ x-error-codes:
 ```
 
 This completes the OpenAPI specification for the DION Platform API, providing comprehensive documentation for all endpoints, schemas, error handling, and security requirements.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dion-platform-api-backend-architecture|dion-platform-api-backend-architecture]]
+
+**Consolidated into:**
+- [[docs/DC-DION-API-BACKEND-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

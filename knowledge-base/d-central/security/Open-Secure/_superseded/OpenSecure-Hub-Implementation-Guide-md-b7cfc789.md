@@ -1274,3 +1274,12 @@ Resolution:
 **Average Deployment Time**: 8-10 days
 
 **Next Document**: [OS-PACS Implementation Guide](./OS-PACS_Implementation_Guide.md)
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/security/Open-Secure/OpenSecure-Hub-Implementation-Guide-md]]
+
+<!-- AUTO-GENERATED RELATED END -->

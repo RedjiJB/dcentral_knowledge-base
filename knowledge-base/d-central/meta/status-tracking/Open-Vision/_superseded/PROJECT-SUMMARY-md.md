@@ -488,3 +488,12 @@ openvision-platform/
 - Household: 1 day
 - SMB: 1 week  
 - Enterprise: 2-4 weeks
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/meta/status-tracking/IHOSE/PROJECT-SUMMARY-md]]
+
+<!-- AUTO-GENERATED RELATED END -->

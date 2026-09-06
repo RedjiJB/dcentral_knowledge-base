@@ -728,3 +728,18 @@ consolidated_into: [docs/DC-IHOSE-BUSINESS-STRATEGY-RECONCILED-001.md, docs/DC-I
 
 **"Who maintains it long-term?"**
 → Sustainable open source model, community governance, commercial support options
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/ihose-business-strategy-documents|ihose-business-strategy-documents]]
+- [[knowledge-base/_topics/ihose-business-summaries|ihose-business-summaries]]
+
+**Consolidated into:**
+- [[docs/DC-IHOSE-BUSINESS-STRATEGY-RECONCILED-001]]
+- [[docs/DC-IHOSE-BUSINESS-SUMMARIES-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

@@ -77,3 +77,15 @@ CivicMesh MSSP Partner Programme Prospectus
 | --- |
 
 	Toussaint Redji Jean Baptiste  |  D-Central Ecosystem  |  May 2026	Page  of
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/civicmesh-partner-incentive-programmes|civicmesh-partner-incentive-programmes]]
+
+**Consolidated into:**
+- [[docs/DC-CM-PARTNER-INCENTIVES-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

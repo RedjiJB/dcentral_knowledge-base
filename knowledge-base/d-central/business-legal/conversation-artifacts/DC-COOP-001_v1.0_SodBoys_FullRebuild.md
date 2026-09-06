@@ -695,3 +695,16 @@ Upgrade path:    Full D-Central sovereign ecosystem (Lakou Protocol, D-Credit
 *Sod Boys Ottawa is not a landscaping company that got a software upgrade.  
 It is the first D-Central cooperative field enterprise — proof that the sovereign cooperative model works at the scale of ten people, two machines, and a yard full of sod.  
 Every company the network adds after it is built on what Sod Boys proves.*
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/mesh-cooperative-business-model-framework|mesh-cooperative-business-model-framework]]
+
+**Consolidated into:**
+- [[docs/DC-MESH-COOPERATIVE-BUSINESS-MODEL-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

@@ -74,3 +74,17 @@ TrafficMesh City of Ottawa Pitch Deck — Narrative
 | --- |
 
 	Toussaint Redji Jean Baptiste  |  D-Central Ecosystem  |  May 2026	Page  of
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/trafficmesh-city-fleet-deployment|trafficmesh-city-fleet-deployment]]
+- [[knowledge-base/_topics/trafficmesh-ottawa-government-engagement|trafficmesh-ottawa-government-engagement]]
+
+**Consolidated into:**
+- [[docs/DC-TRAFFICMESH-CITY-FLEET-RECONCILED-001]]
+- [[docs/DC-TRAFFICMESH-OTTAWA-GOV-ENGAGEMENT-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

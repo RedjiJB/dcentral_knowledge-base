@@ -982,3 +982,12 @@ Start with **EO + LWIR (Tier 1)** at $5,800 per drone above the base airframe. T
 **Document Version**: 1.0
 **Platform**: OS-DRONE v1.0
 **Companion Documents**: OS-DRONE_Technical_Architecture.md, OS-DRONE_Network_Topology.md
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/security/Open-Secure/OS-DRONE-Advanced-Visual-Intelligence-md]]
+
+<!-- AUTO-GENERATED RELATED END -->

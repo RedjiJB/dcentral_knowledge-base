@@ -820,3 +820,15 @@ export class IntelligenceSource {
   @CreateDateColumn()
   createdAt: Date;
 }
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dion-platform-api-backend-architecture|dion-platform-api-backend-architecture]]
+
+**Consolidated into:**
+- [[docs/DC-DION-API-BACKEND-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

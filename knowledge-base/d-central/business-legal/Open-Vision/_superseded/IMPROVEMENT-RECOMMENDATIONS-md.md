@@ -1503,3 +1503,12 @@ The current documentation is **strong foundation**, covering:
 **Version:** 1.0  
 **Date:** November 2025  
 **Status:** Recommendations Ready for Implementation
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/business-legal/IHOSE/IMPROVEMENT-RECOMMENDATIONS-md]]
+
+<!-- AUTO-GENERATED RELATED END -->

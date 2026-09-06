@@ -2571,3 +2571,15 @@ components:
           type: string
           enum: [low, medium, high, critical]
         title:
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dion-platform-technical-architecture|dion-platform-technical-architecture]]
+
+**Consolidated into:**
+- [[docs/DC-DION-PLATFORM-TECHNICAL-ARCHITECTURE-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

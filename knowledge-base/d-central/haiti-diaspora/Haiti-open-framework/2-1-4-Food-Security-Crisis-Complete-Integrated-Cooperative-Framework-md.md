@@ -638,3 +638,15 @@ type Subscription {
 ---
 
 This comprehensive food framework demonstrates that food security crises can be transformed into opportunities for **revolutionary agricultural, social, economic, and environmental transformation** based on **cooperative agricultural principles**, **democratic food governance**, **cultural food sovereignty**, **agricultural technological independence**, and **environmental food regeneration**. Haiti emerges not as food aid recipient but as **global leader in cooperative agricultural civilization**, **Caribbean food federation catalyst**, and **model for climate-resilient democratic food development** serving all humanity for **thousands of years**.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/haiti-cooperative-resilience-framework|haiti-cooperative-resilience-framework]]
+
+**Consolidated into:**
+- [[docs/DC-HAITI-COOPERATIVE-RESILIENCE-FRAMEWORK-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

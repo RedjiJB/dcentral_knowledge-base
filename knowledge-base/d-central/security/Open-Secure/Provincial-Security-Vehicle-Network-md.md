@@ -1549,3 +1549,18 @@ Month 5-6: Evaluation
 **For More Information:**
 - tech-fleet@securityguard.gov.on.ca
 - https://os-patrol.org
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/opensecure-provincial-security-network|opensecure-provincial-security-network]]
+- [[knowledge-base/_topics/provincial-security-network-programs|provincial-security-network-programs]]
+
+**Consolidated into:**
+- [[docs/DC-OPENSECURE-PROVINCIAL-PIV-CREDENTIAL-RECONCILED-001]]
+- [[docs/DC-PROVINCIAL-SECURITY-NETWORK-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

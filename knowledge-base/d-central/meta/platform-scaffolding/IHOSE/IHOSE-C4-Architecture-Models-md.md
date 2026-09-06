@@ -1721,3 +1721,16 @@ Key Integration Patterns:
 - Layer 10: Deployment Patterns & DevOps
 
 Or would you prefer I package this as a downloadable file now?
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/ihose-architecture-deployment|ihose-architecture-deployment]]
+
+**Consolidated into:**
+- [[docs/DC-IHOSE-ARCHITECTURE-DEPLOYMENT-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

@@ -699,3 +699,15 @@ class OperatorQualityAssurance:
 - Scale to 10,000+ operators
 
 This creates a **human-centered intelligence network** where technology amplifies human capabilities rather than replacing them, while providing meaningful, well-paid work opportunities for thousands of people.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dion-operator-deployment-credentialing|dion-operator-deployment-credentialing]]
+
+**Consolidated into:**
+- [[docs/DC-DION-OPERATOR-DEPLOYMENT-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

@@ -728,3 +728,12 @@ duplicate_reason: exact content_hash match, different category (same doc uploade
 
 **"Who maintains it long-term?"**
 → Sustainable open source model, community governance, commercial support options
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/business-legal/IHOSE/BUSINESS-PRESENTATION-md]]
+
+<!-- AUTO-GENERATED RELATED END -->

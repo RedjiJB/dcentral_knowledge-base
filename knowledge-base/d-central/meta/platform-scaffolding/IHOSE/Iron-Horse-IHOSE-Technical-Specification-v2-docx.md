@@ -895,3 +895,16 @@ Appendix F: Training Curriculum
 **Iron Horse Security and Investigations**
 
 enterprise@ironhorsesecurity.com
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/ihose-architecture-deployment|ihose-architecture-deployment]]
+
+**Consolidated into:**
+- [[docs/DC-IHOSE-ARCHITECTURE-DEPLOYMENT-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

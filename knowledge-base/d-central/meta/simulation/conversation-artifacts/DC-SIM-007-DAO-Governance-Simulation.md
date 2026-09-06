@@ -152,3 +152,16 @@ Run against Scenario 6 of DC-SIM-004 (partition and recovery).
 
 **Recommendation:** write the one-page Layer 3 specification now so the design is
 captured, and build it after the image boots.
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dcentral-simulation-lab-programme|dcentral-simulation-lab-programme]]
+
+**Consolidated into:**
+- [[docs/DC-DCENTRAL-SIMULATION-LAB-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

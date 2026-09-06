@@ -449,3 +449,12 @@ See [SECURITY.md](SECURITY.md) for our security policy.
 **Made with ❤️ by the open-source community**
 
 ⭐ Star us on GitHub if this project helps you!
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/security/IHOSE/README-md]]
+
+<!-- AUTO-GENERATED RELATED END -->

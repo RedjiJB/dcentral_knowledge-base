@@ -709,3 +709,12 @@ spec:
 #    kubectl top pods -n openvision
 #    kubectl logs -f -n openvision deployment/yolo-detector
 #
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/security/IHOSE/05-kubernetes-manifests-yml]]
+
+<!-- AUTO-GENERATED RELATED END -->

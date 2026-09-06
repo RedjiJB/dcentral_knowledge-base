@@ -630,3 +630,15 @@ class PracticalSkillsAssessment:
 - Government contract opportunities
 
 This creates a **sustainable professional ecosystem** around your D Central intelligence network, ensuring quality while creating meaningful careers and economic opportunities.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dion-operator-deployment-credentialing|dion-operator-deployment-credentialing]]
+
+**Consolidated into:**
+- [[docs/DC-DION-OPERATOR-DEPLOYMENT-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

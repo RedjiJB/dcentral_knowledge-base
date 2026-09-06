@@ -364,3 +364,15 @@ For optimal preparation:
 6. Review progress regularly and adjust focus based on improvement
 
 This comprehensive game suite transforms CompTIA A+ preparation from passive memorization to active, engaging learning that builds both knowledge and practical skills.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/comptia-a-learning-platform|comptia-a-learning-platform]]
+
+**Consolidated into:**
+- [[docs/DC-COMPTIA-A-PLATFORM-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

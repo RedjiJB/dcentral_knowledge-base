@@ -3769,3 +3769,16 @@ This use case demonstrates the power of Iron Horse Security's platform to transf
 **Version**: 1.0
 **Contact**: solutions@ironhorsesecurity.com
 **Classification**: Confidential - Client Use Only
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/security-ecosystem-sector-platforms|security-ecosystem-sector-platforms]]
+
+**Consolidated into:**
+- [[docs/DC-SECURITY-ECOSYSTEM-SECTOR-PLATFORMS-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

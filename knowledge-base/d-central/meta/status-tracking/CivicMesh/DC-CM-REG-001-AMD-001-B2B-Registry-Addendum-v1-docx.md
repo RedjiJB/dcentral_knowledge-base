@@ -68,3 +68,15 @@ The following 6 documents have been produced and are available for download:
 DC-CM-REG-001-AMD-001  |  May 2026  |  Toussaint Redji Jean Baptiste  |  D-Central Ecosystem  |  Confidential
 
 Toussaint Redji Jean Baptiste  |  D-Central Ecosystem  |  May 2026  |  Confidential
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/digital-community-participation-platforms|digital-community-participation-platforms]]
+
+**Consolidated into:**
+- [[docs/DC-DIGITAL-COMMUNITY-PARTICIPATION-PLATFORMS-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

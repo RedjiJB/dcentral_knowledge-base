@@ -462,3 +462,12 @@ Plus unlimited customization and no vendor lock-in.
 **Next Review:** Quarterly
 
 **For Questions:** hardware@openvision.io
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/hardware/sensing-planes/IHOSE/05-Hardware-Specifications-md]]
+
+<!-- AUTO-GENERATED RELATED END -->

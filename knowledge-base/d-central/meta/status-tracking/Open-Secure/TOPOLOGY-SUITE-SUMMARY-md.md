@@ -436,3 +436,16 @@ For questions about this documentation suite or OpenSecure platforms:
 **Total Pages**: ~400 pages  
 **Total Size**: 385KB  
 **Ready for**: Sales, Implementation, Training, RFP Responses
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/opensecure-topology-documentation-suite|opensecure-topology-documentation-suite]]
+
+**Consolidated into:**
+- [[docs/DC-OPENSECURE-TOPOLOGY-DOCUMENTATION-SUITE-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

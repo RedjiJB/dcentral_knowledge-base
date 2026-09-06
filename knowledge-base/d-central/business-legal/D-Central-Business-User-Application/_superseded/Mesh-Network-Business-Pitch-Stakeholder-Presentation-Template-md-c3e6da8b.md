@@ -391,3 +391,11 @@ Total: +$1,050,000 (Pure Profit)
 **Next Step**: Contact [Network Coordinator] at [Contact Info] or visit [Website]
 
 *"In the old economy, infrastructure was a cost. In the mesh economy, infrastructure is an asset."*
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/business-legal/D-Central-Business-User-Application/Mesh-Network-Business-Pitch-Stakeholder-Presentation-Template-md]]
+
+<!-- AUTO-GENERATED RELATED END -->

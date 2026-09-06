@@ -236,3 +236,11 @@ duplicate_reason: "exact body-hash match within the same category, resolved duri
 - **Student Success & Retention**: Consulting on using digital communities to improve student success and retention outcomes
 - **Alumni Engagement & Fundraising**: Strategic consulting on alumni engagement optimization for fundraising and institutional advancement
 - **Academic Reputation Management**: Ongoing consulting on academic reputation building and crisis prevention through digital engagement
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/business-legal/Local-Fediverse/Enhanced-Value-Added-Services-for-Academic-Institutions-md]]
+
+<!-- AUTO-GENERATED RELATED END -->

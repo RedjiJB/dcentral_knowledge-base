@@ -376,3 +376,12 @@ volumes:
 # 6. Configure Keycloak with LDAP/AD integration
 # 7. Implement network segmentation (separate camera VLAN)
 #
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/security/IHOSE/04-docker-compose-yml]]
+
+<!-- AUTO-GENERATED RELATED END -->

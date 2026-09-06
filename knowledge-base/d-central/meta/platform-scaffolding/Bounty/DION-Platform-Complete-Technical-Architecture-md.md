@@ -680,3 +680,15 @@ interface MonitoringSetup {
 ```
 
 This comprehensive architecture provides a scalable, secure, and maintainable platform for the DION intelligence and operator network, supporting real-time collaboration, emergency response, and decentralized governance.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dion-platform-technical-architecture|dion-platform-technical-architecture]]
+
+**Consolidated into:**
+- [[docs/DC-DION-PLATFORM-TECHNICAL-ARCHITECTURE-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

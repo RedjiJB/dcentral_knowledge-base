@@ -533,3 +533,16 @@ Plus cameras: $2,000 (one-time)
 - Technical: architecture@openvision.io
 - Procurement: procurement@openvision.io
 - Sales quotes: sales@openvision.io
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/ihose-hardware-bom|ihose-hardware-bom]]
+
+**Consolidated into:**
+- [[docs/DC-IHOSE-HARDWARE-BOM-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

@@ -470,3 +470,15 @@ Benefits received:
 The decentralized funding model transforms infrastructure investment from a top-down capital expenditure into a bottom-up community wealth-building opportunity. By aligning investment with direct benefits, every stakeholder becomes a co-owner of infrastructure that serves their needs while generating returns.
 
 This model proves that communities can self-fund transformative infrastructure when the benefits are clear, immediate, and equitably distributed. The Local Food Mesh Network becomes not just a technology platform but a vehicle for community wealth creation and food system transformation.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/mesh-food-economy-business-models|mesh-food-economy-business-models]]
+
+**Consolidated into:**
+- [[docs/DC-MESH-FOOD-ECONOMY-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

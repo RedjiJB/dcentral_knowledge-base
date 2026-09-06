@@ -256,3 +256,11 @@ The community-centric approach provides significant cost benefits:
 **Total Investment Range: $2.5M-$5M over 36 months** for a market-ready mesh networking solution with active community and multiple revenue streams.
 
 This community-centric approach not only reduces development costs but creates a sustainable competitive advantage through engaged users who become advocates, contributors, and customers.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/business-legal/D-Central-Business-User-Application/Comprehensive-Cost-Analysis-for-Open-Source-Mesh-Network-Development-md]]
+
+<!-- AUTO-GENERATED RELATED END -->

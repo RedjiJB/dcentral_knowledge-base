@@ -437,3 +437,12 @@ volumes:
     driver: local
   loki_data:
     driver: local
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/security/IHOSE/core-stack-yml]]
+
+<!-- AUTO-GENERATED RELATED END -->

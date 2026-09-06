@@ -537,3 +537,11 @@ Assigned after signup to ensure your 90-day transformation succeeds.
 ---
 
 *"Every day you delay is money left on the table. Start your transformation today."*
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/business-legal/D-Central-Business-User-Application/Mesh-Network-Business-Onboarding-Playbook-90-Day-Value-Capture-Guide-md]]
+
+<!-- AUTO-GENERATED RELATED END -->

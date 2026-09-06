@@ -396,3 +396,11 @@ Community Office Hours
 - Case study for transparent software development
 
 This approach transforms the risk of "what if live collaborative development doesn't work" into "let's prove it works on a smaller scale first, then apply it to our main goal." Much smarter strategy!
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/business-legal/D-Central-Live-Development/community-first-strategy-md]]
+
+<!-- AUTO-GENERATED RELATED END -->

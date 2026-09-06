@@ -360,3 +360,15 @@ Application Layer: Blockchain contracts + AI models
 - **Step toward post-scarcity information** society
 
 This platform represents a fundamental shift from centralized, secretive intelligence gathering to a transparent, democratic, and economically sustainable model that benefits everyone while respecting privacy and human rights.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dion-platform-expansion-explanation|dion-platform-expansion-explanation]]
+
+**Consolidated into:**
+- [[docs/DC-DION-EXPANSION-EXPLANATION-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

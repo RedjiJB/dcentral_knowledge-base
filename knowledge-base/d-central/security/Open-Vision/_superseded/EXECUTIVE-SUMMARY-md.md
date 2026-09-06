@@ -489,3 +489,12 @@ A complete, production-ready open-source platform that delivers:
 **License**: Apache 2.0 (fully open source)  
 **Maturity**: Production-ready alpha  
 **Community**: Growing, 1000+ stars expected
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/security/IHOSE/EXECUTIVE-SUMMARY-md]]
+
+<!-- AUTO-GENERATED RELATED END -->

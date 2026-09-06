@@ -91,3 +91,15 @@ CivicMesh Unit Economics Model
 | --- |
 
 	Toussaint Redji Jean Baptiste  |  D-Central Ecosystem  |  May 2026	Page  of
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/civicmesh-financial-unit-economics|civicmesh-financial-unit-economics]]
+
+**Consolidated into:**
+- [[docs/DC-CM-UNIT-ECONOMICS-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

@@ -327,3 +327,16 @@ be a deliberate claim rather than an accident.
 | SHI documentation | ADR-006 — write DC-SHI-SPEC-002 |
 | Stage 5 deployment | ADR-005 — policy required first, code second |
 | Nothing | ADR-003, ADR-004 — schema and interface only |
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dcentral-simulation-lab-programme|dcentral-simulation-lab-programme]]
+
+**Consolidated into:**
+- [[docs/DC-DCENTRAL-SIMULATION-LAB-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

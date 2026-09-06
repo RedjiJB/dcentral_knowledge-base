@@ -1378,3 +1378,12 @@ Organizations that deploy OpenVision gain **three sustainable advantages:**
 **Version:** 1.0  
 **Last Updated:** November 2025  
 **Next:** Partner program launch Q1 2026
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/business-legal/IHOSE/08-Ecosystem-Business-Models-md]]
+
+<!-- AUTO-GENERATED RELATED END -->

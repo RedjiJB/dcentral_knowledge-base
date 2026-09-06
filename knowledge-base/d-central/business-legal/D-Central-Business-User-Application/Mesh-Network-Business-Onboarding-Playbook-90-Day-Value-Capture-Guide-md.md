@@ -536,3 +536,15 @@ Assigned after signup to ensure your 90-day transformation succeeds.
 ---
 
 *"Every day you delay is money left on the table. Start your transformation today."*
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/mesh-cooperative-business-model-framework|mesh-cooperative-business-model-framework]]
+
+**Consolidated into:**
+- [[docs/DC-MESH-COOPERATIVE-BUSINESS-MODEL-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

@@ -1325,3 +1325,11 @@ This is not just governance—it's **algorithmic democracy at scale**, where the
 *Last Updated: 2025-10-13*  
 *Charter Version: 1.0*  
 *Registry: /ledger/dao/registry*
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Superseded by:** D-Central-Complete-Fractal-DAO-Governance-Architecture-md-7edde1e7.md (unresolved path, see registry/materialized-manifest.json)
+
+<!-- AUTO-GENERATED RELATED END -->

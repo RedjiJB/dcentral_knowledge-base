@@ -240,3 +240,15 @@ And the intelligence platform becomes the proof that this isn't just theoretical
 4. **Create network effects** - more intelligence nodes make D Central more valuable, and vice versa
 
 The result: Instead of competing with Amazon, Google, and Microsoft on generic cloud services, you're competing on "Who can save the most lives and make communities safest?" - much better positioning.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dion-platform-expansion-explanation|dion-platform-expansion-explanation]]
+
+**Consolidated into:**
+- [[docs/DC-DION-EXPANSION-EXPLANATION-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

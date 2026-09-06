@@ -3542,3 +3542,15 @@ This comprehensive blueprint provides the technical specifications, business mod
 The D Central Intelligence & Operator Network represents a once-in-a-generation opportunity to fundamentally improve how communities protect themselves, share information, and coordinate responses to challenges. The technology is ready, the economic models are viable, the social need is clear, and the time is now.
 
 **The future belongs to communities that control their own intelligence, infrastructure, and destiny. DION makes that future possible.**
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dion-operator-deployment-credentialing|dion-operator-deployment-credentialing]]
+
+**Consolidated into:**
+- [[docs/DC-DION-OPERATOR-DEPLOYMENT-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

@@ -654,3 +654,15 @@ class FederatedMissingPersonSearch:
 - **Unlimited scale** through hybrid cloud architecture
 
 This architecture creates a **globally distributed, privacy-preserving, infinitely scalable intelligence platform** that gets smarter over time while respecting individual privacy and data sovereignty.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dion-platform-api-backend-architecture|dion-platform-api-backend-architecture]]
+
+**Consolidated into:**
+- [[docs/DC-DION-API-BACKEND-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

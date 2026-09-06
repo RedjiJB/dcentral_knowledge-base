@@ -719,3 +719,12 @@ The future of physical security and operational intelligence lies in
 open, interoperable systems that can adapt to emerging technologies and
 integrate seamlessly with existing infrastructure. OpenVision Platform
 delivers that future today.
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/security/IHOSE/01-OpenVision-Architecture-docx]]
+
+<!-- AUTO-GENERATED RELATED END -->

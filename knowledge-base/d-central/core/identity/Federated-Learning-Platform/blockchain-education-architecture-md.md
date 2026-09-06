@@ -1050,3 +1050,15 @@ Through community-owned blockchain infrastructure, Haitian educational instituti
 This framework represents more than technological innovation—it represents a fundamental shift toward **community ownership of the digital infrastructure that shapes educational futures**. By placing blockchain and server infrastructure under democratic community control, Haitian educational institutions can ensure that technology serves community priorities while building long-term economic sustainability and complete technological sovereignty.
 
 **The question is not whether community-owned blockchain infrastructure can transform education—the technical architecture demonstrates clear feasibility. The question is which educational communities will lead this transformation toward complete digital sovereignty and serve as models for educational independence throughout the Caribbean and beyond.**
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/blockchain-education-federation|blockchain-education-federation]]
+
+**Consolidated into:**
+- [[docs/DC-BLOCKCHAIN-EDUCATION-FEDERATION-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

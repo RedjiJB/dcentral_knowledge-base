@@ -512,3 +512,15 @@ Thank you very much for your time and consideration. I look forward to your resp
 Phone: (819) 319-6405  
 Email: redji.jeanbaptiste@mail.utoronto.ca  
 LinkedIn: linkedin.com/in/redji-jean-baptiste-25b0471b7
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/haiti-security-framework-outreach|haiti-security-framework-outreach]]
+
+**Consolidated into:**
+- [[docs/DC-HAITI-SECURITY-OUTREACH-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

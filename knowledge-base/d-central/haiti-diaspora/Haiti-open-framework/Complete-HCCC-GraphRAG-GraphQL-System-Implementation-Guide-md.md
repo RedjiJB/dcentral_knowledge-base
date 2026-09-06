@@ -5285,3 +5285,15 @@ export class ActivityPubService {
         shareWith: crisis.responseTeams,
         permissions: ['read', 'comment'],
         expiration: crisis.responseDe
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/haiti-graphrag-graphql-system|haiti-graphrag-graphql-system]]
+
+**Consolidated into:**
+- [[docs/DC-HCCC-GRAPHRAG-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

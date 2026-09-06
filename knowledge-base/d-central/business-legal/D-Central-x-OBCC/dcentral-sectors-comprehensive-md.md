@@ -955,3 +955,17 @@ Success depends on:
 5. Sharing value equitably among all participants
 
 This comprehensive framework provides the blueprint for transforming traditional infrastructure into a participatory, resilient, and prosperous ecosystem for all stakeholders.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dcentral-obcc-sector-implementation|dcentral-obcc-sector-implementation]]
+- [[knowledge-base/_topics/mesh-food-economy-business-models|mesh-food-economy-business-models]]
+
+**Consolidated into:**
+- [[docs/DC-OBCC-SECTOR-RECONCILED-001]]
+- [[docs/DC-MESH-FOOD-ECONOMY-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

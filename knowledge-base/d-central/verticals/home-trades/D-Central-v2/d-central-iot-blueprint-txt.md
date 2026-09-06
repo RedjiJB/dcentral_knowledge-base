@@ -508,3 +508,15 @@ To keep this manageable at scale, you'll want:
 1. **A searchable device matrix** (protocol/power/mounting/environment by device type)?
 2. **Deployment guides** for specific verticals (healthcare, retail, agriculture)?
 3. **A device onboarding checklist** (certs, VLAN assignment, twin creation, policy binding)?
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dcentral-iot-integration-blueprint|dcentral-iot-integration-blueprint]]
+
+**Consolidated into:**
+- [[docs/DC-IOT-BLUEPRINT-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

@@ -668,3 +668,16 @@ DISASTER RECOVERY
 **Document Version**: 1.0  
 **Last Updated**: December 2024  
 **Next Document**: [OS-CONCIERGE Logical Topology](./OS-CONCIERGE_Logical_Topology.md)
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/opensecure-os-concierge-topology|opensecure-os-concierge-topology]]
+
+**Consolidated into:**
+- [[docs/DC-OPENSECURE-OS-CONCIERGE-TOPOLOGY-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

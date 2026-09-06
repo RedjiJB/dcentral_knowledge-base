@@ -156,3 +156,17 @@ Note: Actual amounts depend on IRAP approval scope and eligible salary determina
 | --- |
 
 	Toussaint Redji Jean Baptiste  |  D-Central Ecosystem  |  May 2026	Page  of
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/civicmesh-government-funding-applications|civicmesh-government-funding-applications]]
+- [[knowledge-base/_topics/civicmesh-trafficmesh-grant-funding-applications|civicmesh-trafficmesh-grant-funding-applications]]
+
+**Consolidated into:**
+- [[docs/DC-CM-GOV-FUNDING-RECONCILED-001]]
+- [[docs/DC-CM-TM-GRANT-FUNDING-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

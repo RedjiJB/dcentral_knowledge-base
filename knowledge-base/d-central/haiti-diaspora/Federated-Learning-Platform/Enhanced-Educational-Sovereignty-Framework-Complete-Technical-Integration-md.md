@@ -1229,3 +1229,15 @@ Haiti has the opportunity to pioneer the world's first **truly sovereign nationa
 **The question is not whether this transformation is possible—the technical architecture, economic models, and implementation roadmap prove complete feasibility. The question is whether Haiti will seize this historic opportunity to lead the global transformation toward educational sovereignty and serve as a model for communities worldwide seeking genuine self-determination through community-controlled technology.**
 
 **The revolution in community-controlled education scales from a single container to a sovereign national network. Which communities will begin this transformation, and which will lead Haiti toward complete educational sovereignty while inspiring the world?**
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/federated-learning-platform-community-sovereignty-cooperative|federated-learning-platform-community-sovereignty-cooperative]]
+
+**Consolidated into:**
+- [[docs/DC-FLP-SOVEREIGNTY-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

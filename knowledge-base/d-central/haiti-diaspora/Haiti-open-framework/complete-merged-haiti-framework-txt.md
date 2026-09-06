@@ -2494,3 +2494,15 @@ Technology Transfer & Global Implementation Support & Adaptation of cooperative 
     \item African partnership centers serving sub-Saharan Africa with focus on agricultural cooperatives, water management, and renewable energy
     \item Pacific partnership centers serving Pacific Island nations with emphasis on climate resilience, marine conservation, and sustainable tourism
     
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/haiti-cooperative-resilience-framework|haiti-cooperative-resilience-framework]]
+
+**Consolidated into:**
+- [[docs/DC-HAITI-COOPERATIVE-RESILIENCE-FRAMEWORK-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

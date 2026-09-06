@@ -392,3 +392,16 @@ consolidated_into: docs/DC-IHOSE-HARDWARE-BOM-RECONCILED-001.md
 ---
 
 **Next**: [SMB BOM](bom-smb.md) | [Household BOM](bom-household.md)
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/ihose-hardware-bom|ihose-hardware-bom]]
+
+**Consolidated into:**
+- [[docs/DC-IHOSE-HARDWARE-BOM-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

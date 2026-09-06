@@ -2452,3 +2452,11 @@ The enhanced framework awaits implementation. The people of Haiti await empowerm
 \end{center}
 
 \end{document}
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Superseded by:** Complete-Enhanced-Open-Source-Cooperative-Resilience-Framework-for-Haiti-md.md (unresolved path, see registry/materialized-manifest.json)
+
+<!-- AUTO-GENERATED RELATED END -->

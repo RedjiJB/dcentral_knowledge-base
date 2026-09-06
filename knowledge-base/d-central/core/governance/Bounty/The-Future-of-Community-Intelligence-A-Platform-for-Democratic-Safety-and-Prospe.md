@@ -452,3 +452,15 @@ The technological pieces are in place. The economic model is proven. The social 
 *To learn more about DION, explore partnership opportunities, or get involved in building this platform, visit [platform website] or contact [contact information]. The technical blueprint, implementation guides, and governance frameworks are available as open-source resources for communities ready to build their own intelligence and emergency response capabilities.*
 
 *Together, we can build a world where every community has the tools they need to protect themselves, share information, and prosper—under their own control and for their own benefit.*
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dion-operator-deployment-credentialing|dion-operator-deployment-credentialing]]
+
+**Consolidated into:**
+- [[docs/DC-DION-OPERATOR-DEPLOYMENT-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

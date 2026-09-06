@@ -1,0 +1,473 @@
+path:ID(Document),doc_uuid,dedup_status,category,project
+d-central/academic-personal/Algonquin-Courses/MAT8002-Week-1-Preparation-Guide-Decimal-Number-System-md.md,71d6685c-4c5e-457c-b83a-0f6667298756,canonical,academic-personal,Algonquin Courses
+d-central/academic-personal/CHOPSHOP/ARCHITECTURE-md.md,a9dda6b1-126e-4263-8a9e-b5880a91fe44,canonical,academic-personal,CHOPSHOP
+d-central/academic-personal/CHOPSHOP/CIPHER-MODULE-GUIDE-md.md,3971b0ab-9fc3-4da3-b905-b84758291266,canonical,academic-personal,CHOPSHOP
+d-central/academic-personal/CHOPSHOP/CONTRIBUTING-1-md.md,4cb44f3b-3311-4e82-817f-ff134550dfc9,canonical,academic-personal,CHOPSHOP
+d-central/academic-personal/CHOPSHOP/DAY1-QUICKSTART-md.md,244a8346-5669-4a97-bcf5-ac400634b5e8,canonical,academic-personal,CHOPSHOP
+d-central/academic-personal/CHOPSHOP/DOCUMENTATION-SUMMARY-md.md,168ba004-18d9-4264-9811-f440bda214a5,canonical,academic-personal,CHOPSHOP
+d-central/academic-personal/CHOPSHOP/EXECUTIVE-SUMMARY-md.md,b5caca6a-ce68-4e92-9a43-2d5e5aed2be7,canonical,academic-personal,CHOPSHOP
+d-central/academic-personal/CHOPSHOP/PHASE1-SPECIFICATION-md.md,be617c34-4cb7-4c97-b383-3526f061e3a0,canonical,academic-personal,CHOPSHOP
+d-central/academic-personal/CHOPSHOP/PROJECT-CHARTER-md.md,f7920ff1-4195-4da7-866d-edb6d09674e7,canonical,academic-personal,CHOPSHOP
+d-central/academic-personal/CHOPSHOP/QUICK-START-md.md,741794a2-d8dd-456d-a03f-e37bd98da462,canonical,academic-personal,CHOPSHOP
+d-central/academic-personal/CHOPSHOP/README-2-md.md,3e59b8a8-7199-4864-9bc4-97c377ec1c84,canonical,academic-personal,CHOPSHOP
+d-central/academic-personal/CHOPSHOP/README-DOCUMENTATION-md.md,049a42b6-c414-493f-bdc8-8ca8dd4f973b,canonical,academic-personal,CHOPSHOP
+d-central/academic-personal/CHOPSHOP/ROADMAP-md.md,dae2da35-ca3b-4071-ac9e-dd1e0c0377ff,canonical,academic-personal,CHOPSHOP
+d-central/academic-personal/CHOPSHOP/SETUP-GUIDE-md.md,1f988f8b-fb02-492c-b9f5-780198adf511,canonical,academic-personal,CHOPSHOP
+d-central/academic-personal/CHOPSHOP/_superseded/CONTRIBUTING-md.md,988694c6-01cb-453e-b25b-8fe1e12785a1,superseded,academic-personal,CHOPSHOP
+d-central/academic-personal/CHOPSHOP/_superseded/README-md.md,ffe1af1c-22b3-49f1-8654-4cd7a4eca482,superseded,academic-personal,CHOPSHOP
+d-central/academic-personal/CHOPSHOP/chopshop-development-guide-md.md,623e83ce-a56f-465e-acdd-c443d93db1cd,canonical,academic-personal,CHOPSHOP
+d-central/academic-personal/CHOPSHOP/chopshop-phase1-plan-md.md,d33edf4d-4132-47f2-8336-aa451b53dcea,canonical,academic-personal,CHOPSHOP
+d-central/academic-personal/CHOPSHOP/chopshop-roadmap-md.md,5b23ca75-5b78-43a8-9703-702a83b8cb93,canonical,academic-personal,CHOPSHOP
+d-central/academic-personal/CHOPSHOP/chopshop-technical-architecture-md.md,d80749d5-a82f-4575-9942-c11a7ad7b0ba,canonical,academic-personal,CHOPSHOP
+d-central/academic-personal/CHOPSHOP/chopshop-testing-strategy-md.md,98e7c57c-9645-45eb-8b51-5f905b6bccb8,canonical,academic-personal,CHOPSHOP
+d-central/academic-personal/Codegen/Initial-Codebase.md,0475c048-7b6f-494e-8dbb-bb7da3c5d189,canonical,academic-personal,Codegen
+d-central/academic-personal/Comptia-A/Comptia-A-Master-Platform.md,b106d37e-c4d9-4b7c-b6a1-8efdd4208b64,canonical,academic-personal,Comptia A+
+d-central/academic-personal/Comptia-A/Game-Suite.md,cc6f3244-667c-45d9-be26-4bb1e2c58571,canonical,academic-personal,Comptia A+
+d-central/academic-personal/Comptia-A/marketing-site-html.md,e749351b-2820-4fbb-94d3-8ae16c6dfbb1,canonical,academic-personal,Comptia A+
+d-central/academic-personal/D-Central-v2/chatgpt-md.md,28cd95c8-ff3f-42bb-81b7-099d0b93330c,canonical,academic-personal,D Central v2
+d-central/academic-personal/How-to-use-Claude/Claude-prompting-guide-md.md,09bf2f2a-9420-44f4-a8f4-ce084b304c03,canonical,academic-personal,How to use Claude
+d-central/business-legal/CivicMesh/Chat-Context-B.md,7736c544-258a-40e8-a2e5-600e78aff333,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/DC-CM-B2B-001-Commercial-Vehicle-Network-Programme-v1-docx.md,5829461b-4438-4e06-90bb-44fefed21a28,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/DC-CM-B2B-002-Fleet-Operator-Agreement-Template-v1-docx.md,c71439d1-df50-4824-92f1-8cd85bbde498,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/DC-CM-B2B-003-Platform-Driver-Programme-Specification-v1-docx.md,6941cbfd-0e23-49ca-a77a-491d9166ce7c,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/DC-CM-MSSP-CERT-001-MSSP-Certification-Programme-v1-docx.md,b958d51b-aad4-4975-bcef-6c532ab44835,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/DC-STRAT-005-Competitive-Moat-Analysis-v1-docx.md,baa0a686-d21f-44ff-a70c-ba400ebcdacf,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/DEPLOY-CS-001-CommunityShield-HOA-Condo-Deployment-v1-docx.md,ca249c48-b7b1-49b0-9598-47d5694b58ba,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/DEPLOY-CS-002-CommunityShield-Apartment-Complex-Deployment-v1-docx.md,9a482b40-2de3-4bc8-914e-7ef363fff356,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/DEPLOY-MP-001-MeshPlate-Municipal-Deployment-Package-v1-docx.md,c611eab1-3cd0-4698-a359-171a559c0b86,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/DEPLOY-TM-002-City-Fleet-Expansion-Plan-v1-docx.md,d0b0b450-9ceb-438a-b0c8-7b3d000ad862,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/FIN-CM-001-Founder-Cash-Flow-Model-v1-docx.md,78711631-24ae-44ee-b947-5fa564b6115f,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/INV-001-D-Central-Seed-Pre-Seed-Pitch-Deck-v1-docx.md,2854443c-cb2b-4429-82cc-0a42f1a2fb86,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/INV-002-CivicMesh-Deep-Dive-Investor-Deck-v1-docx.md,4118b248-9109-4051-960d-d07ab22e868d,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/INV-003-D-Central-Group-One-Pager-v1-docx.md,1e49b430-b0b9-4292-96bc-d08623eed81b,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/INV-005-CivicMesh-Competitive-Analysis-v1-docx.md,8c8fab6c-4ea9-487b-ad24-27cb270b3432,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/INV-006-D-Central-Cooperative-Economy-Investor-Thesis-v1-docx.md,ea8b4494-166b-4160-acee-4241ef22ab02,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/INV-007-CivicMesh-Government-Validation-Package-v1-docx.md,8838f29b-c5ce-4d13-8d19-b8f37dd1d403,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/IRAP-TM-001-NRC-IRAP-Application-TrafficMesh-v1-docx.md,63f374b6-978b-4e4a-991b-eddccafee379,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/LEGAL-001-D-Central-Group-Articles-of-Incorporation-v1-docx.md,30acdaa2-c626-4632-9fe7-88ef67b34949,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/LEGAL-005-Corporate-Structure-Chart-v1-docx.md,0083eb05-d3f7-490f-ac3e-99afe2c94ecf,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/LEGAL-CM-001-CivicMesh-Inc-Articles-v1-docx.md,d057468a-f2d0-4cc2-94c9-be79c4a1e11f,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/LEGAL-CM-011-Municipal-Data-Federation-Agreement-v1-docx.md,67822838-9b09-4975-b01a-de502ca784fe,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/LEGAL-CM-012-HOA-Condo-Participation-Agreement-v1-docx.md,6ebfbb24-2d15-42ec-927c-74bc366b251d,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/LEGAL-CM-017-MSSP-Franchise-Disclosure-Document-v1-docx.md,a7cd553e-6d5a-4a1e-882d-64c54bd47b19,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/LEGAL-GUARD-COOP-001-CivicMesh-Guard-Cooperative-v1-docx.md,eacd3995-702f-4226-b9cb-73e2fad0af1f,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/LEGAL-MSSP-COOP-001-CivicMesh-MSSP-Cooperative-v1-docx.md,d64a3b24-b729-42e3-bb8d-ae6858b03793,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/LEGAL-TM-001-TrafficMesh-Technologies-Articles-v1-docx.md,b9d018e1-140a-412e-8faf-a0e468e15871,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/LOAN-CM-001-ISC-Phase1-Application-Framework-v1-docx.md,564aba4d-4593-44b1-a165-e792f7487031,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/LOAN-CM-002-ISC-Phase2-Application-Framework-v1-docx.md,7510294e-c140-468f-97c8-cf0c6ad632c6,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/LOAN-CM-003-Mitacs-Accelerate-University-Research-v1-docx.md,e6c6a2ae-1af7-43a5-b8cf-7f2151f74bac,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/LOAN-CM-004-Mitacs-Accelerate-Entrepreneur-v1-docx.md,a5fe9e05-a071-467f-9a91-2df681426d30,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/LOAN-CM-005-FedDev-Ontario-Application-Framework-v1-docx.md,7f557fb7-2ea6-4856-8505-991f3c490018,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/LOAN-CM-006-Smart-Cities-Challenge-Framework-v1-docx.md,8fb0c8a0-7239-4ba2-a8e9-5ac226a200ff,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/MKT-CCSC-003-Public-Consultation-Toolkit-v1-docx.md,539e0bd4-ceeb-48cd-ab98-4baad1477409,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/MKT-CM-GOV-002-CivicMesh-Anti-Flock-Positioning-Brief-v1-docx.md,bddc0f43-03d2-480e-b4e9-992abed5559d,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/MKT-CM-GOV-003-Government-Incentive-Programme-Brief-v1-docx.md,c4780179-79fe-473f-974f-81689d7510c9,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/MKT-INS-001-Insurance-Partner-Pitch-Deck-Narrative-v1-docx.md,eeae49fc-c5e2-474e-9a18-4caabfe479c7,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/MKT-MSSP-001-MSSP-Partner-Programme-Prospectus-v1-docx.md,46f8b326-d5aa-4425-b793-e0316ba8c875,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/MKT-TM-GOV-001-TrafficMesh-Ottawa-Revenue-Gap-Brief-v1-docx.md,a256ab1f-1619-43ea-bba4-4656556b9774,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/MKT-TM-GOV-002-OC-Transpo-Pitch-Deck-Narrative-v1-docx.md,68931e2d-1c9a-41a4-a597-0330a710bf90,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/MKT-TM-GOV-003-City-of-Ottawa-Pitch-Deck-Narrative-v1-docx.md,5df39d5a-e8f5-43bf-8d02-300301020385,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/MKT-TM-GOV-005-TrafficMesh-Deterrence-Argument-Brief-v1-docx.md,b4f88fac-ca92-4065-97ac-2df9b4a968d6,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/PPTX-COM-002-CivicMesh-Town-Hall-Public-Consultation-v1-docx.md,2e287026-cdbe-43e4-832c-6e40d0433bb4,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/PPTX-CONF-002-CivicMesh-Conference-Talk-Smart-Cities-v1-docx.md,f5ae2764-e9c1-4cbc-9f64-12a868fb59d8,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/PPTX-GOV-001-TrafficMesh-OC-Transpo-Pilot-Presentation-v1-docx.md,cb5b6420-4624-44f7-b3a0-52dacd4f77fc,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/PPTX-GOV-002-TrafficMesh-City-of-Ottawa-Council-Presentation-v1-docx.md,ff57be1d-02f7-42ea-a6ff-2fa82b7db981,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/PPTX-INV-002-CivicMesh-Deep-Dive-Deck-v1-docx.md,8b9c2d6a-9c38-4094-8b67-cc24d16804a5,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/PPTX-MSSP-001-CivicMesh-MSSP-Partner-Recruitment-Deck-v1-docx.md,b27259ff-4c5d-4b1f-b9ac-5ce43d3251e1,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/REG-CM-003-CivicMesh-Open-Source-Licence-Compliance-v1-docx.md,464a189b-a7c0-441f-ad69-2a5dd837ff06,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/REG-COOP-001-Cooperative-Regulatory-Compliance-Matrix-v1-docx.md,2185253e-6ceb-4bac-ab84-8a7a4256e5cd,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/REG-TM-001-TrafficMesh-Ontario-HTA-Compliance-Analysis-v1-docx.md,7e8854af-d193-468c-994a-497ccbe5428c,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/REG-TM-002-TrafficMesh-Provincial-Variation-Matrix-v1-docx.md,956952f4-5579-43b4-b903-85706597b493,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/SRED-CM-001-SR-ED-Project-Ledger-CivicMesh-v1-docx.md,8555473b-d76f-4a7a-8174-8f5bc097aad7,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/SRED-TM-001-SR-ED-Project-Ledger-TrafficMesh-v1-docx.md,cbf96a07-3539-4550-9ef3-023fb1be8432,canonical,business-legal,CivicMesh
+d-central/business-legal/CivicMesh/TRAIN-007-Accredited-Training-Provider-Programme-v1-docx.md,72d5b234-6652-44c7-a2ba-63e47c6ba8ea,canonical,business-legal,CivicMesh
+d-central/business-legal/D-Central-Business-User-Application/Comprehensive-Cost-Analysis-for-Open-Source-Mesh-Network-Development-md.md,b1db3c4f-8fda-4d7c-80d1-cb1ac3ebc53a,canonical,business-legal,D Central Business/ User Application
+d-central/business-legal/D-Central-Business-User-Application/Decentralized-Community-Funding-Model-for-Local-Food-Mesh-Network-md.md,1572d631-81f0-4cdf-9184-a2c3ac6c63ff,canonical,business-legal,D Central Business/ User Application
+d-central/business-legal/D-Central-Business-User-Application/Innovative-Cooperative-Business-Models-for-the-Mesh-Economy-md.md,c1fe93eb-ff43-425b-b2f2-b26d40b507a0,canonical,business-legal,D Central Business/ User Application
+d-central/business-legal/D-Central-Business-User-Application/Mesh-Network-Business-Onboarding-Playbook-90-Day-Value-Capture-Guide-md.md,77b79849-eb1a-44d1-a0fe-edff09d1f808,canonical,business-legal,D Central Business/ User Application
+d-central/business-legal/D-Central-Business-User-Application/Mesh-Network-Business-Pitch-Stakeholder-Presentation-Template-md.md,19ed5c47-4293-4a33-b023-284152285059,canonical,business-legal,D Central Business/ User Application
+d-central/business-legal/D-Central-Business-User-Application/Mesh-Network-Development-Funding-Cascade-Live-Build-Strategy-md.md,dea93728-1c45-43b9-83d6-55da5faef4e1,canonical,business-legal,D Central Business/ User Application
+d-central/business-legal/D-Central-Business-User-Application/Mesh-Network-Value-Chain-Visualization-Quick-Reference-md.md,444cced0-94ec-41fb-95d3-a51fb2561e05,canonical,business-legal,D Central Business/ User Application
+d-central/business-legal/D-Central-Business-User-Application/Restaurant-Mesh-Transformation-Complete-Cost-Analysis-Revenue-Generation-md.md,aa73fcf7-42e3-4e1c-93ae-561b5fe82675,canonical,business-legal,D Central Business/ User Application
+d-central/business-legal/D-Central-Business-User-Application/_superseded/Mesh-Network-Business-Pitch-Stakeholder-Presentation-Template-md-c3e6da8b.md,c3e6da8b-ec97-40e3-b1ab-4b233b2a260b,superseded,business-legal,D Central Business/ User Application
+d-central/business-legal/D-Central-Hardware-Software-Tech-Stack/_superseded/compass-artifact-wf-af3ab4ca-b286-41e2-992f-574eff3ea5fa-text-markdown-md.md,2f589a23-ea94-412c-957e-34a25ae565a1,superseded,business-legal,D Central Hardware/Software Tech Stack
+d-central/business-legal/D-Central-Live-Development/community-first-strategy-md.md,fb1de315-e816-4e7c-bfda-a4a5a598e5f5,canonical,business-legal,D Central Live Development
+d-central/business-legal/D-Central-Live-Development/dccentral-business-model-md.md,7cf4ad5e-2ce3-43fb-9cc1-7e9c02488208,canonical,business-legal,D Central Live Development
+d-central/business-legal/D-Central-Live-Development/tactical-implementation-md.md,a460c52d-3111-4626-860a-4eb1f1cf5cd4,canonical,business-legal,D Central Live Development
+d-central/business-legal/D-Central-v2/dcentral-creator-economy-telecom-critical-analysis-md.md,1e341dfa-5aed-4334-95f6-48c8f7af4eed,canonical,business-legal,D Central v2
+d-central/business-legal/D-Central-v2/dcentral-sales-ecosystem-critical-analysis-md.md,a819e31e-3b6d-4b01-8293-634194416286,canonical,business-legal,D Central v2
+d-central/business-legal/D-Central-v2/dcentral-workforce-commerce-mlm-critical-analysis-md.md,b5cd6f59-9e43-423d-9629-7b1a4e19d47b,canonical,business-legal,D Central v2
+d-central/business-legal/D-Central-x-OBCC/_superseded/community-first-strategy-md.md,da478c55-e622-476f-aa22-1389a5dccd98,superseded,business-legal,D Central x OBCC
+d-central/business-legal/D-Central-x-OBCC/_superseded/compass-artifact-wf-af3ab4ca-b286-41e2-992f-574eff3ea5fa-text-markdown-md.md,000bf52b-399a-4065-b44b-40b7cf47f742,superseded,business-legal,D Central x OBCC
+d-central/business-legal/D-Central-x-OBCC/_superseded/mesh-onboarding-playbook-md.md,adb23199-f1bc-4c8a-9dc4-25a5beb86a81,superseded,business-legal,D Central x OBCC
+d-central/business-legal/D-Central-x-OBCC/dcentral-sectors-comprehensive-md.md,ad1f1666-5c18-4106-b4b5-4e1cb5e9a897,canonical,business-legal,D Central x OBCC
+d-central/business-legal/D-Central-x-OBCC/local-food-mesh-template-md.md,36ec5d7f-5710-4a32-85c7-40ec54689f92,canonical,business-legal,D Central x OBCC
+d-central/business-legal/D-Central-x-OBCC/mesh-cooperative-infrastructure-md.md,997a2958-ffac-4522-8ec9-a313c31d7d22,canonical,business-legal,D Central x OBCC
+d-central/business-legal/D-Central-x-OBCC/mesh-network-loan-template-md.md,aa4dba13-e1e2-4814-b2eb-3cb28ddafa08,canonical,business-legal,D Central x OBCC
+d-central/business-legal/D-Central/D-Central-x-OBCC-Complete-Master-Implementation-Plan-md.md,b2ec8863-fa66-415f-b212-ca3c82de0196,canonical,business-legal,D Central
+d-central/business-legal/D-Central/_superseded/D-Central-x-OBCC-Complete-Master-Implementation-Plan-md-e5486498.md,e5486498-963a-4a3f-a85d-96b2bd58ff89,superseded,business-legal,D Central
+d-central/business-legal/Drone-Zoe/Enterprise-Partnerships.md,4d99bf1e-7844-4b48-a406-ca13d3f65ea9,canonical,business-legal,Drone Zoe
+d-central/business-legal/Federated-Learning-Platform/Universal-TDP-and-Derivative-Markets-Framework-md.md,80c76046-b322-4228-98d3-ab14b929bcee,canonical,business-legal,Federated Learning Platform
+d-central/business-legal/IHOSE/02-Business-Case-ROI-md.md,f7f7f68e-4308-4b58-aa3f-bd937b2ddf74,canonical,business-legal,IHOSE
+d-central/business-legal/IHOSE/06-Implementation-Roadmap-md.md,75e96be3-ea29-4a50-98ee-d212f27df95c,canonical,business-legal,IHOSE
+d-central/business-legal/IHOSE/08-Ecosystem-Business-Models-md.md,26208d39-8c0d-419b-8109-23e2d911cb8c,canonical,business-legal,IHOSE
+d-central/business-legal/IHOSE/BUSINESS-PRESENTATION-md.md,e73ac3bd-5986-4471-9edf-989fcc178a18,canonical,business-legal,IHOSE
+d-central/business-legal/IHOSE/IMPROVEMENT-RECOMMENDATIONS-md.md,23b00c2d-f3cb-448b-a616-cf75cd9d3b59,canonical,business-legal,IHOSE
+d-central/business-legal/Local-Fediverse/Academic-Institution-Specific-ROI-Value-Propositions-md.md,bd2f7d98-329f-41e3-b7e5-ecec09e238f3,canonical,business-legal,Local Fediverse
+d-central/business-legal/Local-Fediverse/Enhanced-Value-Added-Services-for-Academic-Institutions-md.md,de866870-34a2-44ad-bc0c-39533a4857a5,canonical,business-legal,Local Fediverse
+d-central/business-legal/Local-Fediverse/FediFlow-Institutional-Fediverse-Platform-Business-Plan-md.md,978d8330-7140-45a5-9583-a8060b084795,canonical,business-legal,Local Fediverse
+d-central/business-legal/Local-Fediverse/_superseded/Academic-Institution-Specific-ROI-Value-Propositions-md-b8b972f8.md,b8b972f8-2a59-4598-8b92-68a6a1e809bb,superseded,business-legal,Local Fediverse
+d-central/business-legal/Local-Fediverse/_superseded/Enhanced-Value-Added-Services-for-Academic-Institutions-md-78b65e96.md,78b65e96-c9e6-4012-9bf4-908a77b9b549,superseded,business-legal,Local Fediverse
+d-central/business-legal/Open-Secure/Executive-Summary-One-Page-md.md,f4c09981-c479-4fba-8f54-392e64724011,canonical,business-legal,Open Secure
+d-central/business-legal/Open-Secure/OS-PACS-v2-md.md,2c5c8657-a767-4426-8406-26c205a17f23,canonical,business-legal,Open Secure
+d-central/business-legal/Open-Vision/_superseded/02-Business-Case-ROI-md.md,2f1747ab-7bea-4a20-9008-807ba87a88ab,superseded,business-legal,Open Vision
+d-central/business-legal/Open-Vision/_superseded/06-Implementation-Roadmap-md.md,9ff26685-b577-44f8-9722-6a7906cfa0c9,superseded,business-legal,Open Vision
+d-central/business-legal/Open-Vision/_superseded/08-Ecosystem-Business-Models-md.md,021cfbdd-b15f-45e9-ba62-a4e88c19e960,superseded,business-legal,Open Vision
+d-central/business-legal/Open-Vision/_superseded/BUSINESS-PRESENTATION-md.md,f8de8a8c-21af-4419-a084-408aa56ecd0a,superseded,business-legal,Open Vision
+d-central/business-legal/Open-Vision/_superseded/IMPROVEMENT-RECOMMENDATIONS-md.md,be8bc694-299b-42b7-afa1-adb4ae59cda0,superseded,business-legal,Open Vision
+d-central/business-legal/Security-Ecosystem/Previous-Chat.md,130a5e08-3066-4a5b-970a-560be3c8f83f,canonical,business-legal,Security Ecosystem
+d-central/business-legal/conversation-artifacts/DC-B2B-001_v1.0_B2BExpansion.md,,canonical,business-legal,
+d-central/business-legal/conversation-artifacts/DC-COOP-001_v1.0_SodBoys_FullRebuild.md,,canonical,business-legal,
+d-central/business-legal/conversation-artifacts/DC-COOP-001_v2.0_SodBoys_FullExpansion.md,,canonical,business-legal,
+d-central/business-legal/conversation-artifacts/DC-ENTERPRISE-001_v1.0_WhiteLabel.md,,canonical,business-legal,
+d-central/business-legal/conversation-artifacts/DC-FOS-001_v1.0_SodBoys.md,,canonical,business-legal,
+d-central/business-legal/conversation-artifacts/DC-LIC-001_Regulated_Licensing_Pathway.md,,canonical,business-legal,
+d-central/business-legal/conversation-artifacts/DC-NETINFRA-001_v1.0_NetworkInfrastructure.md,,canonical,business-legal,
+d-central/business-legal/conversation-artifacts/DC-PROCUREMENT-001.md,,canonical,business-legal,
+d-central/business-legal/conversation-artifacts/DC-REINVEST-001-Corporate-Procurement-Plan.md,,canonical,business-legal,
+d-central/business-legal/conversation-artifacts/DC-REINVEST-002-Full-Immediate-Buildout.md,,canonical,business-legal,
+d-central/business-legal/conversation-artifacts/DC-REINVEST-003-Master-Procurement-Plan.md,,canonical,business-legal,
+d-central/core/economics/CivicMesh/DC-CM-INS-001-Insurance-Integration-Specification-v1-docx.md,f70a7c63-400b-45fa-b148-9a299294929c,canonical,core/economics,CivicMesh
+d-central/core/economics/CivicMesh/FIN-CM-002-CivicMesh-Unit-Economics-Model-v1-docx.md,476cc071-1b02-48f5-82cf-271f26e67276,canonical,core/economics,CivicMesh
+d-central/core/economics/CivicMesh/FIN-CM-005-MSSP-Cooperative-Revenue-Model-v1-docx.md,aefe3a63-fd89-4006-ab0e-927d9c32b245,canonical,core/economics,CivicMesh
+d-central/core/economics/CivicMesh/FIN-COOP-001-Cooperative-Patronage-Distribution-Model-v1-docx.md,7db2f826-f49c-48ef-a7fe-0d26b0297d4c,canonical,core/economics,CivicMesh
+d-central/core/economics/CivicMesh/FIN-TM-001-TrafficMesh-Revenue-Model-v1-docx.md,d0bc0720-6e36-4134-8883-4a55bd907f15,canonical,core/economics,CivicMesh
+d-central/core/economics/CivicMesh/MKT-INS-002-Insurance-Data-Product-Catalogue-v1-docx.md,63a25cea-4644-4ef2-84e1-cc02c2d76286,canonical,core/economics,CivicMesh
+d-central/core/economics/CivicMesh/OS-PATROL-TM-INS-001-TrafficMesh-Insurance-Integration-v1-docx.md,ee05b547-68e5-4d8c-bca5-f91437716488,canonical,core/economics,CivicMesh
+d-central/core/economics/D-Central-Business-User-Application/Mesh-Web3-Revenue-Combination-Strategies-Maximum-Value-Extraction-md.md,68c26ab8-0363-4e5c-8771-3ec9fa1fe630,canonical,core/economics,D Central Business/ User Application
+d-central/core/economics/D-Central-x-OBCC/_superseded/mesh-web3-combos-md.md,b8470334-0325-47be-91ae-bcc300625d72,superseded,core/economics,D Central x OBCC
+d-central/core/economics/Federated-Learning-Platform/Cooperative-Economics-Implementation-Guide-md.md,e5627321-ae28-4c40-9057-b22396cbbd5b,canonical,core/economics,Federated Learning Platform
+d-central/core/economics/Federated-System-Integration/_superseded/comprehensive-trades-cooperative-analysis-md.md,1cf1c44e-af4d-48bb-9e4a-92ff4691475f,superseded,core/economics,Federated System Integration
+d-central/core/economics/Federated-System-Integration/comprehensive-professional-cooperative-analysis-md.md,e3144ace-84ae-4da9-959d-fbe0a9b98f26,canonical,core/economics,Federated System Integration
+d-central/core/economics/Local-Fediverse/comprehensive-trades-cooperative-analysis-md.md,8789a2f1-8e07-4954-ba71-54a71459afe3,canonical,core/economics,Local Fediverse
+d-central/core/economics/conversation-artifacts/DC-MONETARY-001_Multi_Tier_Currency_Architecture.md,,canonical,core/economics,
+d-central/core/governance/Bounty/Dynamic-Operator-Deployment-System-for-D-Central-Intelligence-Workflows-md.md,39db0ae2-5698-40f3-86c8-4c51f3c9b6b0,canonical,core/governance,Bounty
+d-central/core/governance/Bounty/Operator-Credentialing-System-for-D-Central-Intelligence-Network-md.md,4fc69740-d97e-48e6-9aff-3f7e3dfc05d5,canonical,core/governance,Bounty
+d-central/core/governance/Bounty/The-Future-of-Community-Intelligence-A-Platform-for-Democratic-Safety-and-Prospe.md,e726ae6b-5b7b-4274-9b55-2cd84bf3d21b,canonical,core/governance,Bounty
+d-central/core/governance/Bounty/_superseded/The-Future-of-Community-Intelligence-A-Platform-for-Democratic-Safety-and-Prospe-0d4033e6.md,0d4033e6-0c63-44ad-85ae-5d8a6aac571b,superseded,core/governance,Bounty
+d-central/core/governance/CivicMesh/DC-CM-APP-009-CivicMesh-Manager-Dashboard-v1-docx.md,51b4b1e1-6a8c-4839-b71a-a40ad611fdc9,canonical,core/governance,CivicMesh
+d-central/core/governance/CivicMesh/DC-CM-FED-001-CivicMesh-Federation-Protocol-v1-docx.md,626172e1-6671-42ea-8239-c7f6344327bf,canonical,core/governance,CivicMesh
+d-central/core/governance/CivicMesh/DC-CM-GOV-002-Community-Audit-Framework-v1-docx.md,d908cbcb-2ce3-4df4-a1f3-51ea69b6c35b,canonical,core/governance,CivicMesh
+d-central/core/governance/CivicMesh/DC-CM-GOV-003-Transparency-Reporting-Standard-v1-docx.md,48c388fe-7cea-416f-b64b-86a8ef06fd7e,canonical,core/governance,CivicMesh
+d-central/core/governance/CivicMesh/DC-STRAT-001-D-Central-Master-Strategy-v1-docx.md,173a5286-8e89-41fa-a0cf-c313d47cd790,canonical,core/governance,CivicMesh
+d-central/core/governance/CivicMesh/PPTX-CONF-003-D-Central-Cooperative-Economy-Talk-v1-docx.md,9dfe1b85-1437-4a22-a1bf-9910195fddaa,canonical,core/governance,CivicMesh
+d-central/core/governance/CivicMesh/PPTX-INV-003-D-Central-Cooperative-Economy-Thesis-Deck-v1-docx.md,f2a66fa1-aee8-4d7a-9898-f4a8df26ba9c,canonical,core/governance,CivicMesh
+d-central/core/governance/D-Central-Live-Development/dcentral-framework-md.md,6c47ae47-3776-438e-b119-ec27bc746696,canonical,core/governance,D Central Live Development
+d-central/core/governance/D-Central-v2/D-Central-Complete-Fractal-DAO-Governance-Architecture-md-7edde1e7.md,7edde1e7-ed33-4e00-aadf-a29d90d78324,canonical,core/governance,D Central v2
+d-central/core/governance/D-Central-v2/_superseded/D-Central-Complete-Fractal-DAO-Governance-Architecture-md.md,1d823202-93cf-423d-a891-a9a515ec8574,superseded,core/governance,D Central v2
+d-central/core/governance/Federated-System-Integration/comprehensive-government-public-sector-analysis-md.md,a8054796-70c0-4d87-b801-8167caf586fa,canonical,core/governance,Federated System Integration
+d-central/core/governance/IHOSE/IHOSE-Federation-Ecosystem-Framework-md.md,1257eed5-120e-4efc-acdf-72d67de9afbf,canonical,core/governance,IHOSE
+d-central/core/governance/conversation-artifacts/DC-AGD-002_governance_data_sdk_network-effects.md,,canonical,core/governance,
+d-central/core/governance/conversation-artifacts/DC-FRACTAL-001_Fractal_Cell_Architecture.md,,canonical,core/governance,
+d-central/core/governance/conversation-artifacts/DC-GOV-002_Conglomerate_Governance_Architecture.md,,canonical,core/governance,
+d-central/core/governance/conversation-artifacts/DC-MOGUL-001_Principal_Track_Protocol.md,,canonical,core/governance,
+d-central/core/governance/conversation-artifacts/DC-TPL-000_Template_Standard.md,,canonical,core/governance,
+d-central/core/governance/conversation-artifacts/DC-VENTURE-001_Venture_Sequencing_Registry.md,,canonical,core/governance,
+d-central/core/identity/CivicMesh/DC-CM-B2B-005-Commercial-Driver-VC-Schema-v1-docx.md,a6e4a4ad-4477-4b58-8415-fee119ec0478,canonical,core/identity,CivicMesh
+d-central/core/identity/CivicMesh/DC-CM-B2B-006-Commercial-Platform-API-Integration-Spec-v1-docx.md,20c6f736-d70d-4bc5-83be-c876e4178499,canonical,core/identity,CivicMesh
+d-central/core/identity/CivicMesh/DC-CM-CERT-001-Technician-Certification-Programme-v1-docx.md,2ff17eb6-94d9-46ea-bf1c-7d09fc4faa99,canonical,core/identity,CivicMesh
+d-central/core/identity/CivicMesh/DC-CM-CHAIN-001-On-Chain-Anchoring-Specification-v1-docx.md,355c3b2d-3ba0-492e-8b16-6b577409d87e,canonical,core/identity,CivicMesh
+d-central/core/identity/CivicMesh/DC-CM-SUPPLY-001-Open-Supply-Chain-Architecture-v1-docx.md,d5dbb098-447e-4161-bd95-b67e95909398,canonical,core/identity,CivicMesh
+d-central/core/identity/CivicMesh/DC-CM-WALLET-001-Wallet-Verification-Infrastructure-v1-docx.md,0c574e89-c359-4a7e-860a-3a31623664e2,canonical,core/identity,CivicMesh
+d-central/core/identity/CivicMesh/TRAIN-002-Track1-Node-Technician-Curriculum-v1-docx.md,60497fb7-195d-4cf9-89bf-512cf99f23df,canonical,core/identity,CivicMesh
+d-central/core/identity/CivicMesh/TRAIN-006-Track5-Municipal-Partner-Curriculum-v1-docx.md,faa196bf-fc1f-45b2-8c53-a0c65cee43bd,canonical,core/identity,CivicMesh
+d-central/core/identity/Drone-Zoe/Drone-Zoe-Haiti-Decentralized-Open-Credentialing-System-md.md,e94038f0-1a4b-4717-b58a-46f0544e0654,canonical,core/identity,Drone Zoe
+d-central/core/identity/Drone-Zoe/_superseded/Drone-Zoe-Haiti-Decentralized-Open-Credentialing-System-md-b1557673.md,b1557673-d048-4a9d-8733-079518d51959,superseded,core/identity,Drone Zoe
+d-central/core/identity/Drone-Zoe/micro-credential-system-md.md,0e530eb9-fe96-4c85-8d93-205e38744a3e,canonical,core/identity,Drone Zoe
+d-central/core/identity/Federated-Learning-Platform/blockchain-education-architecture-md.md,edfd33f2-f9dd-4342-bd3c-0fa886f004ce,canonical,core/identity,Federated Learning Platform
+d-central/core/identity/Local-Fediverse/decentralized-trades-training-platform-md.md,9dbe742b-160e-4f4d-9061-2bb45969180f,canonical,core/identity,Local Fediverse
+d-central/core/identity/Open-Secure/OS-DRONE-Decentralized-Identity-VC-md.md,d7cc8cd5-abb3-449f-a5d3-c3c65c3b33e6,canonical,core/identity,Open Secure
+d-central/core/identity/Open-Secure/OpenPIV-Project-Organization-md.md,78f28244-f1a2-4e0c-b609-eb8f26c79d4e,canonical,core/identity,Open Secure
+d-central/core/identity/Open-Secure/OpenPIV-Technical-Architecture-md.md,6116d031-6182-48cb-9b55-75176e47c89b,canonical,core/identity,Open Secure
+d-central/core/identity/Open-Secure/Provincial-PIV-Infrastructure-Integration-md.md,5a296c4e-6e24-4b16-9e86-0c5dd6b31722,canonical,core/identity,Open Secure
+d-central/core/identity/Open-Secure/Provincial-Security-Guard-Universal-Credential-System-md.md,11c2e85c-b7f8-4c7a-98e3-c15ab996f217,canonical,core/identity,Open Secure
+d-central/core/identity/Open-Secure/_superseded/OS-DRONE-Decentralized-Identity-VC-md-1119f649.md,1119f649-2df8-4b90-98d8-0fb978ca5026,superseded,core/identity,Open Secure
+d-central/core/observability/CivicMesh/DC-CM-APP-003-CivicMesh-NOC-Console-v1-docx.md,ca1dacac-3b95-4552-8286-6dcb60680f06,canonical,core/observability,CivicMesh
+d-central/core/observability/CivicMesh/DC-CM-NOC-001-NOC-Dashboard-Specification-v1-docx.md,679aa4f5-3284-4b04-906c-b969258aa762,canonical,core/observability,CivicMesh
+d-central/core/observability/D-Central-v2/dcentral-operations-runbook-md.md,9c0addb8-21cd-42ff-88f5-8f51e1323cca,canonical,core/observability,D Central v2
+d-central/haiti-diaspora/Drone-Zoe/Comprehensive-Democratized-Development-Framework-for-Haiti-md-735f60aa.md,735f60aa-9825-418d-9cd0-cbe9857cdfff,canonical,haiti-diaspora,Drone Zoe
+d-central/haiti-diaspora/Drone-Zoe/Drone-Zoe-Haiti-Complete-Platform-md.md,36a7adac-3bf5-4b83-918a-b6f695bf2572,canonical,haiti-diaspora,Drone Zoe
+d-central/haiti-diaspora/Drone-Zoe/Drone-Zoe-Haiti-Monetization-Strategy-Revenue-Streams-md.md,9fec9930-3391-44c0-b3e6-24292a735b16,canonical,haiti-diaspora,Drone Zoe
+d-central/haiti-diaspora/Drone-Zoe/Integrated-Financial-Structure.md,c0b9d97f-3b51-4e56-abaa-c6c2ddfb4a04,canonical,haiti-diaspora,Drone Zoe
+d-central/haiti-diaspora/Drone-Zoe/Multi-Sector-Development.md,d4a8484d-5365-4b29-9933-fa1874712c00,canonical,haiti-diaspora,Drone Zoe
+d-central/haiti-diaspora/Drone-Zoe/_superseded/Comprehensive-Democratized-Development-Framework-for-Haiti-md-69464cae.md,69464cae-31c3-4859-bb62-667abbd37463,superseded,haiti-diaspora,Drone Zoe
+d-central/haiti-diaspora/Drone-Zoe/_superseded/Comprehensive-Democratized-Development-Framework-for-Haiti-md.md,135425ce-97ce-4d7f-b7d2-d3964d28f1a4,superseded,haiti-diaspora,Drone Zoe
+d-central/haiti-diaspora/Drone-Zoe/_superseded/haiti-drone-expanded-strategy-md.md,fd590018-0f03-4403-b5f1-ce025ebc2a99,superseded,haiti-diaspora,Drone Zoe
+d-central/haiti-diaspora/Drone-Zoe/drone-cooperative-technical-architecture-md.md,dedbede9-b11a-4d52-9813-7132957ecbe2,canonical,haiti-diaspora,Drone Zoe
+d-central/haiti-diaspora/Drone-Zoe/expanded-monetization-guide-md.md,f61b9e43-4c59-44b3-9fad-5826de583b34,canonical,haiti-diaspora,Drone Zoe
+d-central/haiti-diaspora/Drone-Zoe/haiti-drone-expanded-strategy-md-eb50bcaa.md,eb50bcaa-aa80-4464-be59-28e3be332073,canonical,haiti-diaspora,Drone Zoe
+d-central/haiti-diaspora/Drone-Zoe/haiti-drone-integration-framework-md.md,1006e586-f849-48f2-bb2a-0780da636e1d,canonical,haiti-diaspora,Drone Zoe
+d-central/haiti-diaspora/Drone-Zoe/water-communications-cooperative-md.md,90a24ddc-11d5-4f0a-9c23-72b0b6525916,canonical,haiti-diaspora,Drone Zoe
+d-central/haiti-diaspora/Federated-Learning-Platform/Email-Introduction-to-Laurent-Gabriel-C-t-Fournier-md.md,4045a079-730e-45c3-a732-ffc07233be3e,canonical,haiti-diaspora,Federated Learning Platform
+d-central/haiti-diaspora/Federated-Learning-Platform/Enhanced-Educational-Sovereignty-Framework-Complete-Technical-Integration-md.md,c51b5024-b932-4aaf-889f-78f765634d2b,canonical,haiti-diaspora,Federated Learning Platform
+d-central/haiti-diaspora/Federated-Learning-Platform/Integrated-Community-Sovereignty-Platform-16-Sector-Integration-md.md,c24efb37-3e78-4890-addb-eab5c37df451,canonical,haiti-diaspora,Federated Learning Platform
+d-central/haiti-diaspora/Federated-Learning-Platform/Technical-Implementation-Guide-Multi-Sector-Integration-md.md,349c1592-575f-4d39-aaef-711c224b4cf7,canonical,haiti-diaspora,Federated Learning Platform
+d-central/haiti-diaspora/Federated-Learning-Platform/blockchain-adoption-barriers-md.md,301e70da-a90c-444a-a577-12125107ce08,canonical,haiti-diaspora,Federated Learning Platform
+d-central/haiti-diaspora/Federated-Learning-Platform/blockchain-risks-community-integration-md.md,8a4c7d87-1b7b-4801-94cd-9fa3dec430c5,canonical,haiti-diaspora,Federated Learning Platform
+d-central/haiti-diaspora/Federated-Learning-Platform/blockchain-solutions-roadmap-md.md,8251a2d8-4b1e-4cc8-ab3b-34c97b022dea,canonical,haiti-diaspora,Federated Learning Platform
+d-central/haiti-diaspora/Federated-Learning-Platform/comprehensive-educational-sovereignty-md.md,fe308675-07d6-48f6-a8d4-f35c9a5f4f89,canonical,haiti-diaspora,Federated Learning Platform
+d-central/haiti-diaspora/Federated-Learning-Platform/comprehensive-standards-all-platforms-md.md,36445480-2623-4dac-8ab6-7ef800cd776e,canonical,haiti-diaspora,Federated Learning Platform
+d-central/haiti-diaspora/Federated-Learning-Platform/deep-technical-integration-md.md,019a98c1-e4fc-4141-8922-3d93cac43a39,canonical,haiti-diaspora,Federated Learning Platform
+d-central/haiti-diaspora/Federated-Learning-Platform/haiti-education-federation-md.md,91cd9614-9be0-4e57-8f90-fd1fb2533bfd,canonical,haiti-diaspora,Federated Learning Platform
+d-central/haiti-diaspora/Federated-Learning-Platform/security-email-md.md,056900cd-aff6-4fd0-983c-d07c72f1d578,canonical,haiti-diaspora,Federated Learning Platform
+d-central/haiti-diaspora/Federated-Learning-Platform/universal-global-standards-md.md,3517ec12-7515-4954-9dcd-425bd21de0d8,canonical,haiti-diaspora,Federated Learning Platform
+d-central/haiti-diaspora/Haiti-Project-1/haiti-mesh-plan-txt.md,ecc8c8f4-41f2-4b26-a902-a7a16dbdcea9,canonical,haiti-diaspora,Haiti Project 1
+d-central/haiti-diaspora/Haiti-open-framework/2-1-3-Health-System-Collapse-Complete-Integrated-Cooperative-Framework-md.md,15cf5031-320d-4199-9a5a-0452acb6c9b1,canonical,haiti-diaspora,Haiti open framework
+d-central/haiti-diaspora/Haiti-open-framework/2-1-4-Food-Security-Crisis-Complete-Integrated-Cooperative-Framework-md.md,c0ed667f-ca43-4721-a24b-048e9d4cac38,canonical,haiti-diaspora,Haiti open framework
+d-central/haiti-diaspora/Haiti-open-framework/2-2-1-Inter-Sector-Crisis-Cascades-Complete-Integrated-Cooperative-Framework-md.md,1de078e5-e98f-4c21-a200-4cd46511c6ac,canonical,haiti-diaspora,Haiti open framework
+d-central/haiti-diaspora/Haiti-open-framework/2-2-2-Climate-as-Universal-Crisis-Multiplier-Complete-Integrated-Cooperative-Fra.md,24260fcf-fa10-45a3-ae97-1e09254b53d4,canonical,haiti-diaspora,Haiti open framework
+d-central/haiti-diaspora/Haiti-open-framework/2-3-1-Government-of-Haiti-Recommendations-Complete-Integrated-Cooperative-Framew.md,4b850449-5df5-449b-ad00-eb8e795981b6,canonical,haiti-diaspora,Haiti open framework
+d-central/haiti-diaspora/Haiti-open-framework/2-3-2-International-Community-Recommendations-Complete-Integrated-Cooperative-Fr.md,ec958491-fe2d-418e-906f-21b106c8c5cc,canonical,haiti-diaspora,Haiti open framework
+d-central/haiti-diaspora/Haiti-open-framework/Complete-Enhanced-Open-Source-Cooperative-Resilience-Framework-for-Haiti-md-fa474e23.md,fa474e23-2158-4879-8066-f2594dabdbaa,canonical,haiti-diaspora,Haiti open framework
+d-central/haiti-diaspora/Haiti-open-framework/Complete-HCCC-GraphRAG-GraphQL-System-Implementation-Guide-md.md,47ef7365-cc4f-4f89-b06a-663c3231b891,canonical,haiti-diaspora,Haiti open framework
+d-central/haiti-diaspora/Haiti-open-framework/Comprehensive-GraphRAG-GraphQL-System-Design-Document-md.md,0d6664de-0578-463f-af1d-8933e1d21dae,canonical,haiti-diaspora,Haiti open framework
+d-central/haiti-diaspora/Haiti-open-framework/_superseded/2-3-1-Government-of-Haiti-Recommendations-Complete-Integrated-Cooperative-Framew-56b1d80d.md,56b1d80d-ce08-4711-9750-0e9d5d3b8628,superseded,haiti-diaspora,Haiti open framework
+d-central/haiti-diaspora/Haiti-open-framework/_superseded/Complete-Enhanced-Open-Source-Cooperative-Resilience-Framework-for-Haiti-md-d47533bb.md,d47533bb-a733-432f-97b0-9788eb1f2fcb,superseded,haiti-diaspora,Haiti open framework
+d-central/haiti-diaspora/Haiti-open-framework/_superseded/Complete-Enhanced-Open-Source-Cooperative-Resilience-Framework-for-Haiti-md.md,87932490-d070-458a-a751-7e785d5e3785,superseded,haiti-diaspora,Haiti open framework
+d-central/haiti-diaspora/Haiti-open-framework/_superseded/complete-framework-tex.md,3aacf133-691c-497f-80fd-60fb627c5489,superseded,haiti-diaspora,Haiti open framework
+d-central/haiti-diaspora/Haiti-open-framework/_superseded/hait-security-proposal-eng-tex.md,9169a07c-e317-44ad-bd5b-3fd5c6abc16f,superseded,haiti-diaspora,Haiti open framework
+d-central/haiti-diaspora/Haiti-open-framework/complete-enhanced-haiti-framework-md.md,74096fb7-1de4-4214-ad81-eff61df32572,canonical,haiti-diaspora,Haiti open framework
+d-central/haiti-diaspora/Haiti-open-framework/complete-merged-haiti-framework-txt.md,c9fdbaac-59f1-47db-a2ac-5e5127dcc438,canonical,haiti-diaspora,Haiti open framework
+d-central/haiti-diaspora/Haiti-open-framework/expanded-section-2-md.md,598da963-3903-410f-85d5-f69de649fa00,canonical,haiti-diaspora,Haiti open framework
+d-central/haiti-diaspora/Haiti-open-framework/haiti-security-proposal-md.md,f2f53803-9764-418f-98e1-c4b9dd6bee73,canonical,haiti-diaspora,Haiti open framework
+d-central/haiti-diaspora/VDI-Solutions/D-Central-Ecosystem-Haiti-Integration-Framework-md-53dbf869.md,53dbf869-1696-4945-958c-0af12b979c06,disputed,haiti-diaspora,VDI Solutions
+d-central/haiti-diaspora/VDI-Solutions/D-Central-Ecosystem-Haiti-Integration-Framework-md.md,cb311c91-5913-4afd-89de-b710db5b866f,disputed,haiti-diaspora,VDI Solutions
+d-central/hardware/campus/D-Central-Hardware-Software-Tech-Stack/mesh-network-tech-stack-md.md,21f1a557-c5c6-468f-8d72-cb78f0923824,canonical,hardware/campus,D Central Hardware/Software Tech Stack
+d-central/hardware/campus/D-Central/dccentral-expanded-blueprint-md.md,9aa32696-4262-4018-9783-c83f3fd1b766,canonical,hardware/campus,D Central
+d-central/hardware/campus/conversation-artifacts/DC-CAMPUS-001_Neighbourhood_Campus_Master_Spec.md,,canonical,hardware/campus,
+d-central/hardware/sensing-planes/Bounty/collection-layer-expansion-md.md,389f3d01-14f8-4cf9-ab55-3ed6b640d39d,canonical,hardware/sensing-planes,Bounty
+d-central/hardware/sensing-planes/CivicMesh/DC-CS-NODE-001-CommunityShield-Node-Specification-v1-docx.md,cba728b2-6468-4344-89fb-5548e132db40,canonical,hardware/sensing-planes,CivicMesh
+d-central/hardware/sensing-planes/CivicMesh/DC-ME-ARCH-001-MeshEar-Architecture-v1-docx.md,7a0980ae-3d4c-4486-a92e-a0a4b9d815d6,canonical,hardware/sensing-planes,CivicMesh
+d-central/hardware/sensing-planes/CivicMesh/OS-PATROL-TM-FLEET-001-TrafficMesh-Fleet-Node-Specification-v1-docx.md,542c11a7-e455-4ce2-a4e0-a27e21a908af,canonical,hardware/sensing-planes,CivicMesh
+d-central/hardware/sensing-planes/Drone-Zoe/_superseded/drone-selection-guide2-md.md,3248d846-0456-480e-a9df-a2a10d7f5cfd,superseded,hardware/sensing-planes,Drone Zoe
+d-central/hardware/sensing-planes/Drone-Zoe/_superseded/updated-drone-guide-md.md,7b6a018e-3cbe-4afd-b4b7-00b4f1e43f94,superseded,hardware/sensing-planes,Drone Zoe
+d-central/hardware/sensing-planes/Drone-Zoe/drone-selection-guide2-md-f756780a.md,f756780a-d475-49ce-958b-74ee98ccd840,canonical,hardware/sensing-planes,Drone Zoe
+d-central/hardware/sensing-planes/Drone-Zoe/updated-drone-guide-md-1780e328.md,1780e328-0ddb-4fe7-906c-49db80afb4b8,canonical,hardware/sensing-planes,Drone Zoe
+d-central/hardware/sensing-planes/IHOSE/02-Hardware-Specifications-docx.md,d88b8650-15e5-4c6d-9e1d-b75ce3151082,canonical,hardware/sensing-planes,IHOSE
+d-central/hardware/sensing-planes/IHOSE/05-Hardware-Specifications-md.md,bfbee8eb-513e-4e92-8f67-aa9a513804d9,canonical,hardware/sensing-planes,IHOSE
+d-central/hardware/sensing-planes/IHOSE/HARDWARE-BOM-md.md,7ce13798-93bb-4ddc-83e0-1caf8d204c9d,canonical,hardware/sensing-planes,IHOSE
+d-central/hardware/sensing-planes/IHOSE/bom-enterprise-md.md,5ddac325-60e2-49aa-8421-742e43daf61a,canonical,hardware/sensing-planes,IHOSE
+d-central/hardware/sensing-planes/Open-Vision/_superseded/02-Hardware-Specifications-docx.md,92514048-effd-48a0-b944-094d0dbd3b7b,superseded,hardware/sensing-planes,Open Vision
+d-central/hardware/sensing-planes/Open-Vision/_superseded/05-Hardware-Specifications-md.md,11889c1c-3b5a-44f2-87a2-ab59102be377,superseded,hardware/sensing-planes,Open Vision
+d-central/hardware/sensing-planes/Open-Vision/_superseded/HARDWARE-BOM-md.md,dbaab964-9f6e-4acd-bcfa-97d4baa3776d,superseded,hardware/sensing-planes,Open Vision
+d-central/hardware/sensing-planes/Open-Vision/_superseded/bom-enterprise-md.md,640fb278-3099-4b6e-a1fd-89fb5964f5d2,superseded,hardware/sensing-planes,Open Vision
+d-central/hardware/sensing-planes/conversation-artifacts/DC-AGD-001_open_gunshot_detector.md,,canonical,hardware/sensing-planes,
+d-central/hardware/sensing-planes/conversation-artifacts/DC-SHELL-001_open_civic-art_enclosure_gadyen.md,,canonical,hardware/sensing-planes,
+d-central/hardware/shi-node/CivicMesh/DC-CM-HW-001-Open-Hardware-Reference-Design-v1-docx.md,e05cd4e9-2fb6-4351-8c7f-2da8326a222f,canonical,hardware/shi-node,CivicMesh
+d-central/mesh-services/ai/Bounty/DION-Platform-API-Completion-of-OpenAPI-Specification-md.md,f29d8edd-1684-4b80-abb1-fa5b762f4a73,canonical,mesh-services/ai,Bounty
+d-central/mesh-services/ai/Bounty/DION-Platform-Backend-Services-Implementation-txt.md,56342b0a-3482-40f1-9b52-681afcdc22ac,canonical,mesh-services/ai,Bounty
+d-central/mesh-services/ai/Bounty/api-integration-architecture-md.md,12ef7c38-d2fa-4999-84bf-082a4cdf8105,canonical,mesh-services/ai,Bounty
+d-central/mesh-services/ai/Bounty/federated-hybrid-integration-md.md,d693881b-94e3-4fd0-88a7-4f08d05b7b1f,canonical,mesh-services/ai,Bounty
+d-central/mesh-services/ai/D-Central-Business-User-Application/D-Central-AI-Agent-Complete-Reference-Guide-md.md,453c0d49-30c3-4e16-bcea-d614ef5caacc,canonical,mesh-services/ai,D Central Business/ User Application
+d-central/mesh-services/ai/Federated-Learning-Platform/emerging-tech-integration-md.md,6feb52e6-0cbe-4cb2-88ff-e0fa3a4c28cf,canonical,mesh-services/ai,Federated Learning Platform
+d-central/mesh-services/ai/IHOSE/IHOSE-Digital-Twin-Knowledge-Graph-Architecture-md.md,c0c9d243-223a-4860-81e6-15248ba5700b,canonical,mesh-services/ai,IHOSE
+d-central/mesh-services/ai/conversation-artifacts/DC-AGENT-001-Architecture-Memory-Orchestration.md,,canonical,mesh-services/ai,
+d-central/mesh-services/compute/D-Central-v2/D-Central-Edge-Distribution-Computation-Deep-Dive-md-4aa82ecd.md,4aa82ecd-dc34-4382-b007-7ce528585aec,canonical,mesh-services/compute,D Central v2
+d-central/mesh-services/compute/D-Central-v2/_superseded/D-Central-Edge-Distribution-Computation-Deep-Dive-md.md,622f0da8-f981-41cf-8a4d-85cd38352dcb,superseded,mesh-services/compute,D Central v2
+d-central/mesh-services/compute/conversation-artifacts/DC-COMPUTE-001_nvidia_capability_revenue_network-effects.md,,canonical,mesh-services/compute,
+d-central/mesh-services/connectivity/D-Central-v2/D-Central-Networking-Architecture-Complete-md.md,fb918cf3-3e31-478d-ade2-b1becf124e0b,canonical,mesh-services/connectivity,D Central v2
+d-central/mesh-services/connectivity/conversation-artifacts/DC-OS-002_Interoperability_Protocol.md,,canonical,mesh-services/connectivity,
+d-central/mesh-services/sensors-mobility/CivicMesh/Chat-Context-A.md,74fbfd09-d7a6-4d41-b5f4-76e33bda2bb2,canonical,mesh-services/sensors-mobility,CivicMesh
+d-central/mesh-services/sensors-mobility/CivicMesh/DC-CM-APP-008-CivicMesh-Officer-Portal-v1-docx.md,2b70c79e-dc14-47dc-975e-0e412f2989c1,canonical,mesh-services/sensors-mobility,CivicMesh
+d-central/mesh-services/sensors-mobility/CivicMesh/DC-MN-ARCH-001-MeshNav-Architecture-v1-docx.md,4652a9fb-cd88-4fe2-82d5-9a2ede098f74,canonical,mesh-services/sensors-mobility,CivicMesh
+d-central/mesh-services/sensors-mobility/CivicMesh/DC-MN-DATA-001-MeshNav-Data-Pipeline-v1-docx.md,84f59bec-4081-45cb-b918-bead52765e1f,canonical,mesh-services/sensors-mobility,CivicMesh
+d-central/mesh-services/sensors-mobility/CivicMesh/OPS-TM-001-TrafficMesh-Node-Operations-Manual-v1-docx.md,056887e0-f3d2-4119-8fe6-915391f1a039,canonical,mesh-services/sensors-mobility,CivicMesh
+d-central/mesh-services/sensors-mobility/CivicMesh/OPS-TM-002-Officer-Review-Portal-SOP-v1-docx.md,1a5ed336-0ab8-4222-941f-77364e3ba4c4,canonical,mesh-services/sensors-mobility,CivicMesh
+d-central/mesh-services/sensors-mobility/CivicMesh/OS-PATROL-TM-001-TrafficMesh-Technical-Architecture-v1-docx.md,5a01f4e8-a96e-4d2b-9516-465d20106d2c,canonical,mesh-services/sensors-mobility,CivicMesh
+d-central/mesh-services/sensors-mobility/conversation-artifacts/DC-AGD-003_skyledger_DFR_integration.md,,canonical,mesh-services/sensors-mobility,
+d-central/mesh-services/sensors-mobility/conversation-artifacts/DC-SCOUT-001_v1.0_ZonePricing.md,,canonical,mesh-services/sensors-mobility,
+d-central/mesh-services/sensors-mobility/conversation-artifacts/DC-SKY-001_SkyLedger_v1.0.md,,canonical,mesh-services/sensors-mobility,
+d-central/meta/platform-scaffolding/Bounty/D-Central-Intelligence-Operator-Network-Complete-Platform-Blueprint-md.md,d4e740cb-12b5-47bd-ae8b-567f5bc102c0,canonical,meta/platform-scaffolding,Bounty
+d-central/meta/platform-scaffolding/Bounty/DION-Platform-Complete-Technical-Architecture-Implementation-Guide-md.md,2f9f74d3-4d27-479a-be34-3ede80300b20,canonical,meta/platform-scaffolding,Bounty
+d-central/meta/platform-scaffolding/Bounty/DION-Platform-Complete-Technical-Architecture-md.md,4a1f25c4-f04e-4b9d-83dc-b432a7202eab,canonical,meta/platform-scaffolding,Bounty
+d-central/meta/platform-scaffolding/Bounty/DION-Platform-Development-Setup-Configuration-txt.md,52986876-02ae-4e41-92fb-e64f9a568ba0,canonical,meta/platform-scaffolding,Bounty
+d-central/meta/platform-scaffolding/Bounty/DION-Platform-Frontend-Components-Structure-txt.md,b56027f4-f252-4cb8-a01c-c14419f18bcd,canonical,meta/platform-scaffolding,Bounty
+d-central/meta/platform-scaffolding/Bounty/Simple-Platform-Explanation-with-D-Central-Integration-md.md,ffe43277-5b95-49f6-b3a6-ee9eca198a63,canonical,meta/platform-scaffolding,Bounty
+d-central/meta/platform-scaffolding/Bounty/_superseded/DION-Platform-Complete-Technical-Architecture-Implementation-Guide-md-be07d14c.md,be07d14c-dbf4-4305-a093-09ee58100225,superseded,meta/platform-scaffolding,Bounty
+d-central/meta/platform-scaffolding/Bounty/decentralized-ints-expansion-md.md,bed7f060-fba4-4ca9-96e3-5931b34a5f34,canonical,meta/platform-scaffolding,Bounty
+d-central/meta/platform-scaffolding/Bounty/platform-explanation-md.md,eb5c9cbe-d0f9-41bc-9e4c-ad9de66ac236,canonical,meta/platform-scaffolding,Bounty
+d-central/meta/platform-scaffolding/D-Central-Hardware-Software-Tech-Stack/Comprehensive-Mesh-Network-Tech-Stack-for-Business-Integration-Ecosystem-md.md,aa512c77-54f4-4f6a-a5f1-ed27e8c4e9af,canonical,meta/platform-scaffolding,D Central Hardware/Software Tech Stack
+d-central/meta/platform-scaffolding/D-Central-Live-Development/Framework.md,1adfac6c-f2fa-45c3-bd0b-711c36b39bd5,canonical,meta/platform-scaffolding,D Central Live Development
+d-central/meta/platform-scaffolding/D-Central-Live-Development/chatbot-integration-system-ts.md,e65b997b-47c7-4475-bc99-e6e2c1d29006,canonical,meta/platform-scaffolding,D Central Live Development
+d-central/meta/platform-scaffolding/D-Central-Live-Development/dccentral-ux-guide-md.md,6e4fcffa-ce71-4bdd-8fe4-ebe985c945a7,canonical,meta/platform-scaffolding,D Central Live Development
+d-central/meta/platform-scaffolding/D-Central-Live-Development/dcentral-dev-strategy-md.md,6046648d-48dc-42ed-a012-4f68328481d2,canonical,meta/platform-scaffolding,D Central Live Development
+d-central/meta/platform-scaffolding/D-Central-Live-Development/deployment-setup-guide-md.md,a871cf9e-391c-4405-b769-40967a838959,canonical,meta/platform-scaffolding,D Central Live Development
+d-central/meta/platform-scaffolding/D-Central-Live-Development/live-dev-blueprint-md.md,5e735557-be48-4d0e-a6ba-4e9ae21a1b56,canonical,meta/platform-scaffolding,D Central Live Development
+d-central/meta/platform-scaffolding/D-Central-Live-Development/overlay-websocket-server-ts.md,6e618f04-f48c-403a-852e-83a032460129,canonical,meta/platform-scaffolding,D Central Live Development
+d-central/meta/platform-scaffolding/D-Central-Live-Development/streaming-overlay-system-tsx.md,1d0c454c-5dc9-438c-a4e5-892074dacfee,canonical,meta/platform-scaffolding,D Central Live Development
+d-central/meta/platform-scaffolding/D-Central-V1/D-Central-Complete-Analysis-md.md,7e936e6a-cbb2-4693-940d-7ad90f49fc7e,canonical,meta/platform-scaffolding,D Central V1
+d-central/meta/platform-scaffolding/D-Central-V1/D-Central-Master-Explanation-Document-html.md,456b4e57-d3ca-4a5c-883f-408bd2764104,canonical,meta/platform-scaffolding,D Central V1
+d-central/meta/platform-scaffolding/D-Central-V1/D-Central-Master-Explanation-md.md,19772a5b-11ca-4ff2-a234-02436cd86a9b,canonical,meta/platform-scaffolding,D Central V1
+d-central/meta/platform-scaffolding/D-Central-V1/D-Central-Technical-Documentation-md.md,3ec93215-cf4f-4fe2-9eb8-feaaf5003383,canonical,meta/platform-scaffolding,D Central V1
+d-central/meta/platform-scaffolding/D-Central-v2/chatgpt-organized-md.md,6485b3a6-874f-42bf-a095-b5ae2ec8b4be,canonical,meta/platform-scaffolding,D Central v2
+d-central/meta/platform-scaffolding/D-Central-v2/dcentral-whole-of-life-mesh-critical-analysis-md.md,83f02076-7f34-42f8-987b-2228593db725,canonical,meta/platform-scaffolding,D Central v2
+d-central/meta/platform-scaffolding/D-Central-x-OBCC/_superseded/comprehensive-mesh-tech-stack-md.md,f8f707b4-ca87-4939-88e0-73fb6c6f0172,superseded,meta/platform-scaffolding,D Central x OBCC
+d-central/meta/platform-scaffolding/D-Central/D-Central-MVP-Technology-Stack-Recommendation-pdf.md,5b80436c-b190-4999-a1fd-7d8b0c6f123c,canonical,meta/platform-scaffolding,D Central
+d-central/meta/platform-scaffolding/D-Central/architecture-diagram-md.md,246e0ca9-6b8d-41f8-b400-5d9afb3aa82d,canonical,meta/platform-scaffolding,D Central
+d-central/meta/platform-scaffolding/D-Central/dcentral-dev-guide-v2-md.md,5343296a-90c0-4893-a6d4-8d0f5b776f74,canonical,meta/platform-scaffolding,D Central
+d-central/meta/platform-scaffolding/D-Central/dcm-blueprint-comprehensive-md.md,aa08b6c7-0c0c-4a57-93d0-cfa315cd0f07,canonical,meta/platform-scaffolding,D Central
+d-central/meta/platform-scaffolding/Drone-Zoe/haiti-drone-docs-structure-md.md,a6eb92ac-4b57-418f-8b31-e6b90e2c921e,canonical,meta/platform-scaffolding,Drone Zoe
+d-central/meta/platform-scaffolding/IHOSE/IHOSE-C4-Architecture-Models-Part2-md.md,c1dba32a-3983-4d2d-b1a8-82db58e92961,canonical,meta/platform-scaffolding,IHOSE
+d-central/meta/platform-scaffolding/IHOSE/IHOSE-C4-Architecture-Models-md.md,b61c6488-d7f6-42d5-80fd-ded564db450d,canonical,meta/platform-scaffolding,IHOSE
+d-central/meta/platform-scaffolding/IHOSE/IHOSE-Complete-Technical-Specification-Combined-md.md,fc02567e-dbda-47d1-a4e3-aa558b109b65,canonical,meta/platform-scaffolding,IHOSE
+d-central/meta/platform-scaffolding/IHOSE/IHOSE-DevOps-Infrastructure-Implementation-Guide-md.md,c4823538-6684-4f5f-a926-342a36f74643,canonical,meta/platform-scaffolding,IHOSE
+d-central/meta/platform-scaffolding/IHOSE/Iron-Horse-IHOSE-Complete-Technical-Specification-docx.md,47e85d58-fc80-4ba8-be91-e1757972dae1,canonical,meta/platform-scaffolding,IHOSE
+d-central/meta/platform-scaffolding/IHOSE/Iron-Horse-IHOSE-Technical-Specification-v2-docx.md,c857a3fd-8ce9-452b-8c2d-4db7a77ed1d3,canonical,meta/platform-scaffolding,IHOSE
+d-central/meta/platform-scaffolding/IHOSE/IronHorse-md.md,05862f2c-f2d7-48bc-b51b-4a4ef9f82d4a,canonical,meta/platform-scaffolding,IHOSE
+d-central/meta/platform-scaffolding/Security-Ecosystem/iron-horse-complete-documentation-md.md,54543180-dcb8-4f61-a990-889bef9da546,canonical,meta/platform-scaffolding,Security Ecosystem
+d-central/meta/platform-scaffolding/Security-Ecosystem/iron-horse-distributed-ecosystem-md.md,78ebd6fd-7be3-4155-bcf3-182a63f2865c,canonical,meta/platform-scaffolding,Security Ecosystem
+d-central/meta/platform-scaffolding/Security-Ecosystem/iron-horse-workspace-suite-md.md,7a82fa0f-f660-42f6-89f4-92af8bfb03bb,canonical,meta/platform-scaffolding,Security Ecosystem
+d-central/meta/platform-scaffolding/VDI-Solutions/D-Central-Ecosystem-Technical-Specification-md.md,c8a9b1cb-634b-4e60-b5c6-115e73ab2afc,canonical,meta/platform-scaffolding,VDI Solutions
+d-central/meta/platform-scaffolding/conversation-artifacts/DC-DEV-001_Mesh_Native_Developer_Platform.md,,canonical,meta/platform-scaffolding,
+d-central/meta/platform-scaffolding/conversation-artifacts/DC-INFRA-001_Infrastructure_Map_v1.0.md,,canonical,meta/platform-scaffolding,
+d-central/meta/platform-scaffolding/conversation-artifacts/DC-OS-001_Ecosystem_Operating_System.md,,canonical,meta/platform-scaffolding,
+d-central/meta/simulation/conversation-artifacts/DC-SIM-000-Index.md,,canonical,meta/simulation,
+d-central/meta/simulation/conversation-artifacts/DC-SIM-001-Fidelity-Reference.md,,canonical,meta/simulation,
+d-central/meta/simulation/conversation-artifacts/DC-SIM-002-Topology-Build-Spec.md,,canonical,meta/simulation,
+d-central/meta/simulation/conversation-artifacts/DC-SIM-003-DCOS-Build-Spec.md,,canonical,meta/simulation,
+d-central/meta/simulation/conversation-artifacts/DC-SIM-004-Test-Scenario-Catalogue.md,,canonical,meta/simulation,
+d-central/meta/simulation/conversation-artifacts/DC-SIM-005-Cloud-Bridge-External-Integration.md,,canonical,meta/simulation,
+d-central/meta/simulation/conversation-artifacts/DC-SIM-006-Hardware-Integration-Roadmap.md,,canonical,meta/simulation,
+d-central/meta/simulation/conversation-artifacts/DC-SIM-007-DAO-Governance-Simulation.md,,canonical,meta/simulation,
+d-central/meta/simulation/conversation-artifacts/DC-SIM-008-Open-Architecture-Decisions.md,,canonical,meta/simulation,
+d-central/meta/simulation/conversation-artifacts/DC-SIM-009-Architecture-Decision-Records.md,,canonical,meta/simulation,
+d-central/meta/status-tracking/CivicMesh/DC-CM-REG-001-AMD-001-B2B-Registry-Addendum-v1-docx.md,fc8f88a5-2d09-42bb-aadf-9f708d597968,canonical,meta/status-tracking,CivicMesh
+d-central/meta/status-tracking/CivicMesh/DC-CM-REG-001-CivicMesh-Document-Registry-v1-1-docx.md,13740e84-867c-49b4-a623-60c3677205d2,canonical,meta/status-tracking,CivicMesh
+d-central/meta/status-tracking/CivicMesh/DC-MASTER-DOC-001-Master-Documentation-Registry-v1-1-docx.md,0b47b1d6-c3d7-4311-9c2c-2a97dde908e1,canonical,meta/status-tracking,CivicMesh
+d-central/meta/status-tracking/CivicMesh/INV-004-D-Central-Data-Room-Index-v1-docx.md,b49d3fe4-3732-45af-9947-69a8b8e0f7a3,canonical,meta/status-tracking,CivicMesh
+d-central/meta/status-tracking/IHOSE/DELIVERY-SUMMARY-md.md,4c4e4558-72c4-4aac-933e-b5bde6b80426,canonical,meta/status-tracking,IHOSE
+d-central/meta/status-tracking/IHOSE/PROJECT-SUMMARY-md.md,e259b6ff-1c44-4c5d-8c0d-f00521bafee9,canonical,meta/status-tracking,IHOSE
+d-central/meta/status-tracking/IHOSE/QUICK-START-md.md,1c9ba494-d364-4ee0-88b8-3a23d283cd6b,canonical,meta/status-tracking,IHOSE
+d-central/meta/status-tracking/IHOSE/START-HERE-md.md,059e58de-3f5e-40ee-8152-d8558cecc86b,canonical,meta/status-tracking,IHOSE
+d-central/meta/status-tracking/Open-Secure/TOPOLOGY-SUITE-SUMMARY-md.md,9c4a924a-13b3-4426-9da7-2fbaa61885bc,canonical,meta/status-tracking,Open Secure
+d-central/meta/status-tracking/Open-Vision/_superseded/DELIVERY-SUMMARY-md.md,233dbac7-3ceb-4fa3-aecb-9da3e85cbdb8,superseded,meta/status-tracking,Open Vision
+d-central/meta/status-tracking/Open-Vision/_superseded/PROJECT-SUMMARY-md.md,5e9c1a59-d2d7-4c81-943a-04d063e2740d,superseded,meta/status-tracking,Open Vision
+d-central/meta/status-tracking/Open-Vision/_superseded/QUICK-START-md.md,16d001a4-4bce-4f06-bf89-cabe8e57fbf2,superseded,meta/status-tracking,Open Vision
+d-central/meta/status-tracking/Open-Vision/_superseded/START-HERE-md.md,d287f95e-3561-4c04-b1d2-162e76354d96,superseded,meta/status-tracking,Open Vision
+d-central/meta/status-tracking/conversation-artifacts/_superseded/DC-REG-001-Master-Registry-v0.2.md,,superseded,meta/status-tracking,
+d-central/meta/status-tracking/conversation-artifacts/_superseded/DC-REG-001-Master-Registry.md,,superseded,meta/status-tracking,
+d-central/security/Bounty/DION-Platform-Complete-Technical-Architecture-Continuation-md.md,4307a0ae-1d3c-4e2c-86fd-36182c8a9814,canonical,security,Bounty
+d-central/security/Bounty/mobilization-scenarios-md.md,eaabf0c9-44dc-4429-a7b6-ceed7b324244,canonical,security,Bounty
+d-central/security/CivicMesh/DC-CM-APP-004-CivicMesh-SOC-Console-v1-docx.md,5768f3f3-3876-4710-ae1e-f75eaf17e2e7,canonical,security,CivicMesh
+d-central/security/CivicMesh/DC-MP-FED-001-MeshPlate-Federation-Protocol-v1-docx.md,2bc09a45-75a1-47f9-aeca-97048eb613e9,canonical,security,CivicMesh
+d-central/security/CivicMesh/MKT-CCSC-004-CivicMesh-Privacy-Promise-v1-docx.md,eeb62029-57dd-4f73-bbd8-68550d2b1a42,canonical,security,CivicMesh
+d-central/security/CivicMesh/OPS-GUARD-001-CivicMesh-Security-Response-SOP-v1-docx.md,8d54e666-dd84-4344-ae8e-6f032932ec02,canonical,security,CivicMesh
+d-central/security/CivicMesh/OS-PATROL-TM-EV-001-TrafficMesh-Evidence-Legal-Framework-v1-docx.md,02d4780c-1fba-46c4-8aad-6509710355a9,canonical,security,CivicMesh
+d-central/security/CivicMesh/REG-CM-001-CivicMesh-PIPEDA-Compliance-Framework-v1-docx.md,fd387ce5-6c4c-48b8-a2a6-59e027a91460,canonical,security,CivicMesh
+d-central/security/CivicMesh/REG-CS-001-CommunityShield-Surveillance-Regulatory-Analysis-v1-docx.md,982d7522-cdd4-4bd1-9da9-efee0cc5692d,canonical,security,CivicMesh
+d-central/security/CivicMesh/TRAIN-005-Track4-Security-Response-Curriculum-v1-docx.md,4ecdacac-88c8-476b-bf87-f0895e7d2601,canonical,security,CivicMesh
+d-central/security/D-Central-Live-Development/livestream-challenges-risks-md.md,a5bfed11-20d9-45bb-84c5-55dbe41910d6,canonical,security,D Central Live Development
+d-central/security/Drone-Zoe/_superseded/haiti-drone-cooperative-framework-md.md,d710dee0-6a4a-4cf6-a2b6-768a75331a64,superseded,security,Drone Zoe
+d-central/security/Drone-Zoe/haiti-drone-cooperative-framework-md-ec202f4d.md,ec202f4d-015c-45a5-b45a-dccc3ad28f26,canonical,security,Drone Zoe
+d-central/security/Federated-System-Integration/comprehensive-military-security-analysis-md.md,9de0eaab-1fec-4e5a-bab2-b9e5b3e30864,canonical,security,Federated System Integration
+d-central/security/IHOSE/00-Quick-Start-Guide-md.md,0184a391-b416-4fd5-9c40-81e57e42f883,canonical,security,IHOSE
+d-central/security/IHOSE/01-Executive-Summary-md.md,4793e621-d898-4faf-a37e-224761a8b515,canonical,security,IHOSE
+d-central/security/IHOSE/01-OpenVision-Architecture-docx.md,da3b077a-875f-4c6e-9985-bb303b6fa4aa,canonical,security,IHOSE
+d-central/security/IHOSE/03-Module-Development-Guide-docx.md,a8b9ab2d-8526-4ff9-a3fd-4cdf2455f152,canonical,security,IHOSE
+d-central/security/IHOSE/03-Technical-Architecture-md.md,b4d48397-78b7-4589-91b2-ecd35daf9bc4,canonical,security,IHOSE
+d-central/security/IHOSE/04-Enterprise-Deployment-md.md,c8e7d188-0e8f-4e67-b185-1548997a2e46,canonical,security,IHOSE
+d-central/security/IHOSE/04-docker-compose-yml.md,0e52c46f-4e06-4b1c-8b40-798a1bc6d04b,canonical,security,IHOSE
+d-central/security/IHOSE/05-kubernetes-manifests-yml.md,2027d371-2448-486b-b93f-15b9c3623c4f,canonical,security,IHOSE
+d-central/security/IHOSE/06-Complete-Deployment-Guide-docx.md,280dc084-52ee-47fc-b8ec-f7158c4ff0ff,canonical,security,IHOSE
+d-central/security/IHOSE/07-Use-Cases-Integration-md.md,88c26bc7-d2d0-4eb9-b8ce-202a9cf928bf,canonical,security,IHOSE
+d-central/security/IHOSE/DEPLOYMENT-GUIDE-md.md,0a48f116-f14b-4753-9f81-7c133ed32a1d,canonical,security,IHOSE
+d-central/security/IHOSE/EXECUTIVE-SUMMARY-md.md,e0cbdd85-6bdb-4340-b7c2-127faea6a077,canonical,security,IHOSE
+d-central/security/IHOSE/IHOSE-DataFlow-API-DevSecOps-Specification-md.md,b30cf260-aec8-4ca5-8f51-747573b82861,canonical,security,IHOSE
+d-central/security/IHOSE/README-md.md,c99be3d9-c143-45d0-a003-55f4e52664d3,canonical,security,IHOSE
+d-central/security/IHOSE/TECHNICAL-ARCHITECTURE-md.md,bf87aef2-9853-4f03-a532-262a03db3fd6,canonical,security,IHOSE
+d-central/security/IHOSE/core-stack-yml.md,77a3e43d-3a6d-4618-bfdc-c5762adfa6ce,canonical,security,IHOSE
+d-central/security/IHOSE/development-md.md,388efd7d-e1d1-4ed6-ae81-01107bafbee9,canonical,security,IHOSE
+d-central/security/IHOSE/enterprise-md.md,ebe8d611-867a-46d4-8c46-761904bf6849,canonical,security,IHOSE
+d-central/security/IHOSE/install-sh.md,0da36558-6813-46fd-9d0e-4d62e11c59b8,canonical,security,IHOSE
+d-central/security/IHOSE/overview-md.md,01e8a63f-fcb8-4125-ba29-aabd46b4500e,canonical,security,IHOSE
+d-central/security/Open-Secure/Comprehensive-OS-CONCIERGE-Sectors-md.md,bec1e326-8154-456c-bbe6-a08ed3e3c379,canonical,security,Open Secure
+d-central/security/Open-Secure/Comprehensive-OS-DRONE-Sectors-md.md,faa658f0-2182-406a-b8e7-29f22124e1d8,canonical,security,Open Secure
+d-central/security/Open-Secure/Comprehensive-OS-GUARDIAN-Sectors-md.md,27e9652b-9bc1-46d8-bb29-69557f2269d3,canonical,security,Open Secure
+d-central/security/Open-Secure/Comprehensive-OS-PATROL-Sectors-md.md,f63f1037-4776-4a7c-81e9-1ffaf201904a,canonical,security,Open Secure
+d-central/security/Open-Secure/Comprehensive-OS-SENTINEL-Sectors-md.md,d34409c9-01d4-4613-9344-fd0893d72ad1,canonical,security,Open Secure
+d-central/security/Open-Secure/OS-CONCIERGE-Implementation-Guide-md.md,1e6c6a4b-769b-4e4a-939e-727f99cb7cbd,canonical,security,Open Secure
+d-central/security/Open-Secure/OS-CONCIERGE-Logical-Topology-md.md,684e1139-6712-4d86-a1af-0892f6f7f211,canonical,security,Open Secure
+d-central/security/Open-Secure/OS-CONCIERGE-Network-Topology-md.md,2dd85708-4ee7-4439-b2c2-f71252ca298f,canonical,security,Open Secure
+d-central/security/Open-Secure/OS-DRONE-Advanced-Visual-Intelligence-md.md,ee787db4-d5b0-4111-859a-9d68945c413f,canonical,security,Open Secure
+d-central/security/Open-Secure/OS-DRONE-Federation-3D-Spatial-md.md,f2ea6e43-b91b-44d5-9a86-860fb7e98aad,canonical,security,Open Secure
+d-central/security/Open-Secure/OS-DRONE-Implementation-Guide-md.md,dd7f5fda-2ce3-4e8a-aabe-ef6669717df1,canonical,security,Open Secure
+d-central/security/Open-Secure/OS-DRONE-Logical-Topology-md.md,bdb960b4-7b31-48db-92d0-f44f210c441f,canonical,security,Open Secure
+d-central/security/Open-Secure/OS-DRONE-Network-Topology-md.md,088d5173-5355-4a6b-a087-b755b59d7780,canonical,security,Open Secure
+d-central/security/Open-Secure/OS-DRONE-Technical-Architecture-md.md,ca223f86-9fed-4884-ab20-dc26559f4e9f,canonical,security,Open Secure
+d-central/security/Open-Secure/OS-GUARDIAN-Implementation-Guide-md.md,bf4fc23c-22d9-486d-972c-3e7f224fdf89,canonical,security,Open Secure
+d-central/security/Open-Secure/OS-GUARDIAN-Logical-Topology-md.md,457d8a37-559f-41fa-8fe1-80c9d6ecf18e,canonical,security,Open Secure
+d-central/security/Open-Secure/OS-GUARDIAN-Network-Topology-md.md,57d57db8-093c-4170-afe9-a9c7b11ce4a9,canonical,security,Open Secure
+d-central/security/Open-Secure/OS-GUARDIAN-Technical-Architecture-md.md,a6340737-4013-4e35-a00b-9613eae61220,canonical,security,Open Secure
+d-central/security/Open-Secure/OS-PATROL-Implementation-Guide-md.md,e383559c-20be-46a1-bfbb-474240c77ad3,canonical,security,Open Secure
+d-central/security/Open-Secure/OS-PATROL-Logical-Topology-md.md,52053d40-a9b5-4cd1-844e-c74a48a8a947,canonical,security,Open Secure
+d-central/security/Open-Secure/OS-PATROL-Network-Topology-md.md,4f07bbf7-4d9c-40ca-aa4c-899b5d900b43,canonical,security,Open Secure
+d-central/security/Open-Secure/OS-SENTINEL-Implementation-Guide-md.md,d6004578-38ec-43db-9e4b-bae1d5de93ad,canonical,security,Open Secure
+d-central/security/Open-Secure/OS-SENTINEL-Logical-Topology-md.md,a24f60e2-01fd-4b3e-82c2-dd2c47910023,canonical,security,Open Secure
+d-central/security/Open-Secure/OS-SENTINEL-Network-Topology-md.md,9cabf4fb-2d23-453e-a0b0-51f91cf7a17c,canonical,security,Open Secure
+d-central/security/Open-Secure/OS-SENTINEL-Technical-Architecture-md.md,ec910805-50ad-4acd-8243-463bd976e7d3,canonical,security,Open Secure
+d-central/security/Open-Secure/OpenPIV-Implementation-Roadmap-md.md,cbc19923-ae3a-46d9-96a8-92f566982a67,canonical,security,Open Secure
+d-central/security/Open-Secure/OpenPIV-OS-PACS-Deployment-Checklist-md.md,174bd9b4-9ff3-412f-8c00-b110635d87cd,canonical,security,Open Secure
+d-central/security/Open-Secure/OpenPIV-OS-PACS-Integration-Guide-md.md,c59e5fcf-9180-4215-af3b-d28fbdc18722,canonical,security,Open Secure
+d-central/security/Open-Secure/OpenPIV-Quick-Start-Guide-md.md,84786f05-33ec-4fce-9f2a-5599844c47eb,canonical,security,Open Secure
+d-central/security/Open-Secure/OpenSecure-Digital-Twin-Integration-md.md,c4380254-ada9-4ebb-96d5-97146220c688,canonical,security,Open Secure
+d-central/security/Open-Secure/OpenSecure-Hub-Implementation-Guide-md.md,9d3cb91f-6f93-4b46-8ca7-74588b40d8b4,canonical,security,Open Secure
+d-central/security/Open-Secure/OpenSecure-Hub-Logical-Topology-md.md,f5509eaf-4038-4527-830f-a4eb30897180,canonical,security,Open Secure
+d-central/security/Open-Secure/OpenSecure-Hub-Network-Topology-md.md,23e9b8a6-a5b4-44f1-a9b3-bcb166a639f4,canonical,security,Open Secure
+d-central/security/Open-Secure/Provincial-Autonomous-Security-Systems-Network-md.md,936c5576-8566-4df7-9d91-63a85ca6eeec,canonical,security,Open Secure
+d-central/security/Open-Secure/Provincial-Body-Camera-Evidence-Network-md.md,6aa6b0bf-870a-4e26-9fdf-41913c9e2530,canonical,security,Open Secure
+d-central/security/Open-Secure/Provincial-Security-Reserve-Forces-Integration-md.md,8734cfa3-d154-4c35-aa3d-3d46de3a15e6,canonical,security,Open Secure
+d-central/security/Open-Secure/Provincial-Security-Vehicle-Network-md.md,172d2f51-948a-4401-a40c-a040bf413394,canonical,security,Open Secure
+d-central/security/Open-Secure/Provincial-Security-Video-Network-md.md,6cfcce80-e2d8-4e65-b32f-4b070fc20459,canonical,security,Open Secure
+d-central/security/Open-Secure/_superseded/OS-DRONE-Advanced-Visual-Intelligence-md-8b95b2da.md,8b95b2da-8432-421f-bb33-02aeeefce5aa,superseded,security,Open Secure
+d-central/security/Open-Secure/_superseded/OS-DRONE-Advanced-Visual-Intelligence-md-f48e2964.md,f48e2964-e084-4cd0-b697-d04303a2194f,superseded,security,Open Secure
+d-central/security/Open-Secure/_superseded/OS-GUARDIAN-Technical-Architecture-md-5f9cc193.md,5f9cc193-6ce6-4b45-86bb-ebb3af3d5fc7,superseded,security,Open Secure
+d-central/security/Open-Secure/_superseded/OpenSecure-Digital-Twin-Integration-md-c27670ed.md,c27670ed-24ae-441d-b72a-6961f58a75f2,superseded,security,Open Secure
+d-central/security/Open-Secure/_superseded/OpenSecure-Hub-Implementation-Guide-md-b7cfc789.md,b7cfc789-fa23-40c7-9148-e1594e783dae,superseded,security,Open Secure
+d-central/security/Open-Secure/_superseded/OpenSecure-Hub-Logical-Topology-md-5ea74085.md,5ea74085-d92a-49b7-a05a-b5563959de2f,superseded,security,Open Secure
+d-central/security/Open-Secure/_superseded/OpenSecure-Hub-Network-Topology-md-e8ce77ac.md,e8ce77ac-4220-4b44-b4c1-faee52b6fea3,superseded,security,Open Secure
+d-central/security/Open-Vision/_superseded/00-Quick-Start-Guide-md.md,81d33d1e-3dba-47ef-916f-57820258a9de,superseded,security,Open Vision
+d-central/security/Open-Vision/_superseded/01-Executive-Summary-md.md,91be9f61-0dfc-41c0-97ae-e1e880b48398,superseded,security,Open Vision
+d-central/security/Open-Vision/_superseded/01-OpenVision-Architecture-docx.md,7acd19ff-1ec3-4658-8638-dc8e0cdc1c0f,superseded,security,Open Vision
+d-central/security/Open-Vision/_superseded/03-Module-Development-Guide-docx.md,9b4e3c90-29fd-43e4-a462-8156129492f3,superseded,security,Open Vision
+d-central/security/Open-Vision/_superseded/03-Technical-Architecture-md.md,7da88c7c-eaac-41a8-a694-49eee18323a4,superseded,security,Open Vision
+d-central/security/Open-Vision/_superseded/04-Enterprise-Deployment-md.md,a8505756-7091-4a48-aff7-227198110968,superseded,security,Open Vision
+d-central/security/Open-Vision/_superseded/04-docker-compose-yml.md,80e8f566-3000-4d0d-8b47-ef58f2657db7,superseded,security,Open Vision
+d-central/security/Open-Vision/_superseded/05-kubernetes-manifests-yml.md,e7e0fbff-dcd5-453b-8cab-e01bb8a33b60,superseded,security,Open Vision
+d-central/security/Open-Vision/_superseded/06-Complete-Deployment-Guide-docx.md,0098c44c-62bd-4464-9223-0550f2a54468,superseded,security,Open Vision
+d-central/security/Open-Vision/_superseded/07-Use-Cases-Integration-md.md,c55d26b2-ad4d-468e-a4a1-3a841ef8b35a,superseded,security,Open Vision
+d-central/security/Open-Vision/_superseded/DEPLOYMENT-GUIDE-md.md,7909414e-5d33-406f-952f-c8c2f9faa044,superseded,security,Open Vision
+d-central/security/Open-Vision/_superseded/EXECUTIVE-SUMMARY-md.md,dd20818e-601a-4898-b7bb-0fd18bd7f9c8,superseded,security,Open Vision
+d-central/security/Open-Vision/_superseded/README-md.md,dae59ee6-2504-4801-9dca-fa1bbd28db45,superseded,security,Open Vision
+d-central/security/Open-Vision/_superseded/TECHNICAL-ARCHITECTURE-md.md,693136f3-4ef6-4aed-90d6-215f3350df89,superseded,security,Open Vision
+d-central/security/Open-Vision/_superseded/core-stack-yml.md,c0ceb049-0f24-46c0-ab9c-67e19d1b021b,superseded,security,Open Vision
+d-central/security/Open-Vision/_superseded/development-md.md,37c1e361-445e-420a-9a89-b3c3aa55b1bb,superseded,security,Open Vision
+d-central/security/Open-Vision/_superseded/enterprise-md.md,0510615d-b99a-4ba4-8106-534226ee501a,superseded,security,Open Vision
+d-central/security/Open-Vision/_superseded/install-sh.md,6f4cf234-444c-455b-beda-06fd3eb28721,superseded,security,Open Vision
+d-central/security/Open-Vision/_superseded/overview-md.md,df468bb6-f896-4792-82fb-59924491bbea,superseded,security,Open Vision
+d-central/security/Security-Ecosystem/museum-agriculture-use-case-md.md,2b496344-8b59-4f97-94d5-db609afb811c,canonical,security,Security Ecosystem
+d-central/security/conversation-artifacts/DC-MSOC-001_Mobile_SOC_Specification.md,,canonical,security,
+d-central/verticals/commerce/Local-Fediverse/cultural-food-ecosystem-design-md.md,2f36584d-1432-43f8-8a0d-cc59dd9b6962,canonical,verticals/commerce,Local Fediverse
+d-central/verticals/commerce/Local-Fediverse/decentralized-tools-equipment-platform-md.md,2f68f112-53ac-4ed7-94d7-0f9283dd3c36,canonical,verticals/commerce,Local Fediverse
+d-central/verticals/home-trades/D-Central-v2/d-central-iot-blueprint-txt.md,c0beb3e3-19ea-4c4b-910f-93c4d8bd3cee,canonical,verticals/home-trades,D Central v2
+d-central/verticals/home-trades/D-Central-v2/dcentral-complete-integration-md.md,d03d948c-6c22-47ed-a4cd-fd510c5fb3d4,canonical,verticals/home-trades,D Central v2
+d-central/verticals/social-comm/D-Central-v2/D-Social-Ecosystem-Expanded-Implementation-Guide-md.md,66befb7c-b9d2-4db6-9d44-b7768f8382d5,canonical,verticals/social-comm,D Central v2
+d-central/verticals/social-comm/Local-Fediverse/Academic-Excellence-Module-Comprehensive-University-Features-md.md,fb948649-b4d5-4715-a416-c2d6f76903fb,canonical,verticals/social-comm,Local Fediverse
+d-central/verticals/social-comm/Local-Fediverse/Enhanced-Academic-Institutional-Onboarding-Activation-Platform-md.md,0f9774ad-c7b2-4022-b7b8-59ad77c90fcb,canonical,verticals/social-comm,Local Fediverse
+d-central/verticals/social-comm/Local-Fediverse/FediFlow-Academic-Ecosystem-Comprehensive-Community-Services-Use-Cases-md.md,d3b50504-a69a-4d50-b439-d0c23fb8b182,canonical,verticals/social-comm,Local Fediverse
+d-central/verticals/social-comm/Local-Fediverse/FediFlow-Enterprise-Complete-Ecosystem-Architecture-Strategy-md.md,0cf3625f-b6cf-441d-b468-907ec130ec11,canonical,verticals/social-comm,Local Fediverse
+d-central/verticals/social-comm/Local-Fediverse/FediFlow-Enterprise-Comprehensive-Technical-Design-Document-md.md,fc3821f7-e04b-4408-a7a0-80fefd6b555d,canonical,verticals/social-comm,Local Fediverse
+d-central/verticals/social-comm/Local-Fediverse/Riverside-University-FediFlow-Academic-Platform-User-Story-md.md,89a22fd0-e727-4242-9665-04c84ee1168c,canonical,verticals/social-comm,Local Fediverse
+d-central/verticals/social-comm/Local-Fediverse/_superseded/Enhanced-Academic-Institutional-Onboarding-Activation-Platform-md-b3518b7f.md,b3518b7f-f0fb-48a9-875a-a2305c36470f,superseded,verticals/social-comm,Local Fediverse
+d-central/verticals/social-comm/Local-Fediverse/_superseded/FediFlow-Academic-Ecosystem-Comprehensive-Community-Services-Use-Cases-md-d17d147c.md,d17d147c-f3e6-4689-82ff-337c040d4ba8,superseded,verticals/social-comm,Local Fediverse
+d-central/verticals/social-comm/Local-Fediverse/_superseded/FediFlow-Enterprise-Complete-Ecosystem-Architecture-Strategy-md-20452601.md,20452601-5efe-4fcb-a44f-dd0b11809768,superseded,verticals/social-comm,Local Fediverse
+d-central/verticals/social-comm/conversation-artifacts/DC-LKF-001_Lakou_Fraternity_Network.md,,canonical,verticals/social-comm,

@@ -2645,3 +2645,16 @@ It is:
 The kindest thing is honesty: **This will not work. Do not try. Do something else.**
 
 **Please.**
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dcentral-economic-model-critiques|dcentral-economic-model-critiques]]
+
+**Consolidated into:**
+- [[docs/DC-ECONOMIC-CRITIQUES-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

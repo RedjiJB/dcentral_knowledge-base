@@ -508,3 +508,11 @@ supersession_reason: Same title re-uploaded 6 weeks later, near-identical size (
 - **Year 4**: $750,000 (Caribbean market expansion)
 
 This comprehensive open source approach enables Haiti Drone Cooperative to build world-class capabilities using affordable, locally-manufacturable components while maintaining complete technological independence and unlimited customization potential.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Superseded by:** updated-drone-guide-md-1780e328.md (unresolved path, see registry/materialized-manifest.json)
+
+<!-- AUTO-GENERATED RELATED END -->

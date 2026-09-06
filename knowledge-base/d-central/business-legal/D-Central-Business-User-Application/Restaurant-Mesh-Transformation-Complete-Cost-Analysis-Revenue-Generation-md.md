@@ -483,3 +483,15 @@ Payback Period:          4-6 months
 - Achieve full platform benefits
 
 This transformation fundamentally changes the restaurant from a cost center struggling with thin margins to a node in a profitable network, generating revenue from infrastructure while dramatically reducing operational costs.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/mesh-food-economy-business-models|mesh-food-economy-business-models]]
+
+**Consolidated into:**
+- [[docs/DC-MESH-FOOD-ECONOMY-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

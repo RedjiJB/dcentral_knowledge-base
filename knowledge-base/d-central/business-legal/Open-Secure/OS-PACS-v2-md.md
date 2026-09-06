@@ -6610,3 +6610,14 @@ When you bring OS-PACS into a local market, you can create a **repeatable vertic
 
 *This comprehensive guide provides the complete roadmap for transforming a traditional security installation business into a high-margin, recurring-revenue security infrastructure operator using OS-PACS.*
 
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/security-ecosystem-sector-platforms|security-ecosystem-sector-platforms]]
+
+**Consolidated into:**
+- [[docs/DC-SECURITY-ECOSYSTEM-SECTOR-PLATFORMS-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

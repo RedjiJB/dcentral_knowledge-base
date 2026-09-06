@@ -1051,3 +1051,16 @@ Capacity:
 - [OS-CONCIERGE Network Topology](./OS-CONCIERGE_Network_Topology.md)
 - [OS-GUARDIAN Network Topology](./OS-GUARDIAN_Network_Topology.md)
 - [OS-SENTINEL Network Topology](./OS-SENTINEL_Network_Topology.md)
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/opensecure-topology-documentation-suite|opensecure-topology-documentation-suite]]
+
+**Consolidated into:**
+- [[docs/DC-OPENSECURE-TOPOLOGY-DOCUMENTATION-SUITE-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

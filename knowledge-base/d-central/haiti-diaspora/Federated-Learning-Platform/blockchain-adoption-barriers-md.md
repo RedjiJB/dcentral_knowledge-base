@@ -643,3 +643,15 @@ Gradual Technology Integration:
 **The honest assessment: For 95% of Haitian educational communities, traditional system improvements will achieve better educational outcomes at lower cost with higher success probability than blockchain implementation.**
 
 The blockchain vision is compelling, but the practical barriers—technical complexity, cultural conflicts, and economic costs—likely outweigh the benefits for most real-world educational communities in Haiti.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/blockchain-education-federation|blockchain-education-federation]]
+
+**Consolidated into:**
+- [[docs/DC-BLOCKCHAIN-EDUCATION-FEDERATION-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

@@ -1128,3 +1128,18 @@ Would you like me to:
 4. Design sales presentation decks for specific verticals?
 5. Develop training materials for the rapid-switch system?
 6. Create the next comprehensive sector document (OS-PACS, OS-SENTINEL, OS-CONCIERGE, OS-GUARDIAN)?
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/opensecure-sector-use-case-analyses|opensecure-sector-use-case-analyses]]
+- [[knowledge-base/_topics/security-ecosystem-sector-platforms|security-ecosystem-sector-platforms]]
+
+**Consolidated into:**
+- [[docs/DC-OPENSECURE-SECTOR-USE-CASE-RECONCILED-001]]
+- [[docs/DC-SECURITY-ECOSYSTEM-SECTOR-PLATFORMS-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

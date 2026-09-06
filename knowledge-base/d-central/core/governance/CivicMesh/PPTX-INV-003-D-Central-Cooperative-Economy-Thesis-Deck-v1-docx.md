@@ -48,3 +48,15 @@ D-Central Cooperative Economy Thesis Deck
 | --- |
 
 	Toussaint Redji Jean Baptiste  |  D-Central Ecosystem  |  May 2026	Page  of
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dcentral-presentation-decks|dcentral-presentation-decks]]
+
+**Consolidated into:**
+- [[docs/DC-DCENTRAL-PRESENTATION-DECKS-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

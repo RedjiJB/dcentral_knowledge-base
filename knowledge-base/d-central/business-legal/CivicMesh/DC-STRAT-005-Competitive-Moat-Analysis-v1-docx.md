@@ -113,3 +113,17 @@ D-Central's cooperative structure is therefore both its mission and its moat. Th
 | 1.0 | May 2026 | Toussaint Redji Jean Baptiste | Initial release |
 
 	Toussaint Redji Jean Baptiste  |  D-Central Ecosystem  |  May 2026	Page  of
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/civicmesh-competitive-analysis|civicmesh-competitive-analysis]]
+- [[knowledge-base/_topics/dcentral-competitive-strategy-analysis|dcentral-competitive-strategy-analysis]]
+
+**Consolidated into:**
+- [[docs/DC-CM-COMPETITIVE-RECONCILED-001]]
+- [[docs/DC-COMPETITIVE-STRATEGY-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

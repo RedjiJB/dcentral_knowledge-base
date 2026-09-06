@@ -745,3 +745,18 @@ NETWORK CONNECTIVITY
 **Document Version**: 1.0  
 **Last Updated**: December 2024  
 **Next Document**: [OS-SENTINEL Logical Topology](./OS-SENTINEL_Logical_Topology.md)
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/opensecure-guardian-sentinel-topology|opensecure-guardian-sentinel-topology]]
+- [[knowledge-base/_topics/opensecure-topology-documentation-suite|opensecure-topology-documentation-suite]]
+
+**Consolidated into:**
+- [[docs/DC-OPENSECURE-GUARDIAN-SENTINEL-TOPOLOGY-RECONCILED-001]]
+- [[docs/DC-OPENSECURE-TOPOLOGY-DOCUMENTATION-SUITE-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

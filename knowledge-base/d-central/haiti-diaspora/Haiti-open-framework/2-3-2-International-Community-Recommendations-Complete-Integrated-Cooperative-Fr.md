@@ -739,3 +739,15 @@ type Subscription {
 ---
 
 This comprehensive international partnership framework demonstrates that international community recommendations can be transformed into opportunities for **revolutionary partnership, social, economic, and environmental transformation** based on **cooperative partnership principles**, **democratic partnership sovereignty**, **cultural partnership independence**, **technological partnership sovereignty**, and **environmental partnership regeneration**. Haiti emerges not as aid recipient but as **global leader in cooperative partnership civilization**, **Caribbean partnership federation catalyst**, and **model for climate-resilient democratic partnership development** serving all humanity for **thousands of years**.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/haiti-cooperative-resilience-framework|haiti-cooperative-resilience-framework]]
+
+**Consolidated into:**
+- [[docs/DC-HAITI-COOPERATIVE-RESILIENCE-FRAMEWORK-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

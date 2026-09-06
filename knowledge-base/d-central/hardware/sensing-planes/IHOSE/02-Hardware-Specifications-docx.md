@@ -340,3 +340,16 @@ open deployments will become increasingly viable for production
 workloads. For now, OpenVision Platform provides the flexibility to make
 pragmatic trade-offs while maintaining the option to transition to fully
 open hardware as it becomes available.
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/ihose-hardware-bom|ihose-hardware-bom]]
+
+**Consolidated into:**
+- [[docs/DC-IHOSE-HARDWARE-BOM-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

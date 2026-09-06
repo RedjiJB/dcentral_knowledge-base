@@ -102,3 +102,16 @@ For governance work: 007 → 008.
 | DC-FOUNDATION-01 | Existing Pi 5 lab build — hardware baseline |
 | DC-STATUS-001 | Gap analysis — source of the scope discipline above |
 | DC-REG-001 | Master registry |
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dcentral-simulation-lab-programme|dcentral-simulation-lab-programme]]
+
+**Consolidated into:**
+- [[docs/DC-DCENTRAL-SIMULATION-LAB-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

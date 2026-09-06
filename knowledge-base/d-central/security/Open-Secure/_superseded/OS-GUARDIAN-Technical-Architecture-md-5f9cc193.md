@@ -2671,3 +2671,12 @@ OS-GUARDIAN provides an enterprise-grade, legally admissible body camera and evi
 - Annual support contract: $5,000-50,000 (based on camera count)
 
 Contact: enterprise@opensecure.io
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/security/Open-Secure/OS-GUARDIAN-Technical-Architecture-md]]
+
+<!-- AUTO-GENERATED RELATED END -->

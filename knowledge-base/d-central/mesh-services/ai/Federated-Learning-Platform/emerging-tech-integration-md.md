@@ -925,3 +925,15 @@ This modular approach enables communities to:
 **The modular approach ensures that communities can achieve 85-95% of educational sovereignty goals through the core blockchain and traditional systems foundation, with emerging technologies providing additional enhancements based on specific community needs, capacities, and cultural compatibility.**
 
 This framework demonstrates that cutting-edge educational technology can serve community sovereignty and cultural preservation when implemented with genuine community control, democratic governance, and respect for traditional wisdom and authority structures.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/blockchain-education-federation|blockchain-education-federation]]
+
+**Consolidated into:**
+- [[docs/DC-BLOCKCHAIN-EDUCATION-FEDERATION-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

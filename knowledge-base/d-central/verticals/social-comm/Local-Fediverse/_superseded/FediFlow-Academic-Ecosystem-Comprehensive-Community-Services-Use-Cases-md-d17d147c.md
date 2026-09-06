@@ -851,3 +851,11 @@ graph TD
 - **Institutional Reputation Monitoring**: Media coverage and ranking impact analysis
 
 This comprehensive academic ecosystem transforms universities into digitally-native institutions where every stakeholder participates in an authentic, data-driven community that delivers measurable improvements in education, research, and institutional advancement while maintaining complete control over their digital presence and community engagement.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/verticals/social-comm/Local-Fediverse/FediFlow-Academic-Ecosystem-Comprehensive-Community-Services-Use-Cases-md]]
+
+<!-- AUTO-GENERATED RELATED END -->

@@ -589,3 +589,18 @@ You now have:
 **Want to deploy at scale?** See the Enterprise Deployment Guide.
 
 **Ready to contribute?** Visit https://github.com/openvision/platform
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/ihose-openvision-documentation-package|ihose-openvision-documentation-package]]
+- [[knowledge-base/_topics/ihose-quickstart-install|ihose-quickstart-install]]
+
+**Consolidated into:**
+- [[docs/DC-IHOSE-OPENVISION-DOCUMENTATION-PACKAGE-RECONCILED-001]]
+- [[docs/DC-IHOSE-QUICKSTART-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

@@ -602,3 +602,16 @@ With proper execution, OpenVision Platform will deliver enterprise-grade surveil
 **Target Go-Live:** [Date + 12 months]
 
 **Status:** ✓ Ready to Execute
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/ihose-business-strategy-documents|ihose-business-strategy-documents]]
+
+**Consolidated into:**
+- [[docs/DC-IHOSE-BUSINESS-STRATEGY-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

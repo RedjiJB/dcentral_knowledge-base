@@ -850,3 +850,15 @@ graph TD
 - **Institutional Reputation Monitoring**: Media coverage and ranking impact analysis
 
 This comprehensive academic ecosystem transforms universities into digitally-native institutions where every stakeholder participates in an authentic, data-driven community that delivers measurable improvements in education, research, and institutional advancement while maintaining complete control over their digital presence and community engagement.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/digital-community-participation-platforms|digital-community-participation-platforms]]
+
+**Consolidated into:**
+- [[docs/DC-DIGITAL-COMMUNITY-PARTICIPATION-PLATFORMS-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

@@ -2807,3 +2807,15 @@ Success Criteria:
 10. **Scale progressively** from community → city → region → global
 
 Each layer builds on the previous, creating a complete ecosystem that fundamentally reimagines how networks operate in the 21st century—with human agency, democratic governance, and ecological sustainability at its core.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/dcentral-core-narrative-analysis|dcentral-core-narrative-analysis]]
+
+**Consolidated into:**
+- [[docs/DC-DCENTRAL-CORE-NARRATIVE-ANALYSIS-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

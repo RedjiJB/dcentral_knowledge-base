@@ -1161,3 +1161,12 @@ docker-compose exec postgres psql -U openvision -c "VACUUM ANALYZE;"
 
 **Document Version**: 1.0  
 **Last Updated**: November 2024
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/security/IHOSE/DEPLOYMENT-GUIDE-md]]
+
+<!-- AUTO-GENERATED RELATED END -->

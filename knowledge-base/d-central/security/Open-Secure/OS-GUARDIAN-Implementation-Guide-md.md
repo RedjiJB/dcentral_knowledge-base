@@ -1633,3 +1633,16 @@ Resolution:
 **Evidence Storage**: Tamper-proof, legally compliant, 7-year retention  
 **Chain of Custody**: Complete audit trail, court-admissible  
 **Security**: AES-256 encryption, role-based access, WORM storage
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/opensecure-per-service-implementation-guides|opensecure-per-service-implementation-guides]]
+
+**Consolidated into:**
+- [[docs/DC-OPENSECURE-PER-SERVICE-IMPL-GUIDES-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

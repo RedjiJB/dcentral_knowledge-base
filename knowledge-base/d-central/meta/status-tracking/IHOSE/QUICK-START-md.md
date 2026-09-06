@@ -379,3 +379,16 @@ Start with the **README.md** and choose your path based on your needs!
 **Status**: Production-Ready
 
 🌟 **Star us on GitHub if this helps you!**
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/ihose-quickstart-install|ihose-quickstart-install]]
+
+**Consolidated into:**
+- [[docs/DC-IHOSE-QUICKSTART-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

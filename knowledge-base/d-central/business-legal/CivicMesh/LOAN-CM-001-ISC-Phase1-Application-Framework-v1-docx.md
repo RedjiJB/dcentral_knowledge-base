@@ -85,3 +85,17 @@ The following narrative framework should be customized to the specific challenge
 | --- |
 
 	Toussaint Redji Jean Baptiste  |  D-Central Ecosystem  |  May 2026	Page  of
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/civicmesh-government-funding-applications|civicmesh-government-funding-applications]]
+- [[knowledge-base/_topics/civicmesh-isc-loan-application|civicmesh-isc-loan-application]]
+
+**Consolidated into:**
+- [[docs/DC-CM-GOV-FUNDING-RECONCILED-001]]
+- [[docs/DC-CM-ISC-LOAN-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

@@ -397,3 +397,12 @@ models while optimizing resource utilization for each use case.
 For additional support, visit the community forum at
 https://community.openvision.io or consult the full documentation at
 https://docs.openvision.io
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/security/IHOSE/06-Complete-Deployment-Guide-docx]]
+
+<!-- AUTO-GENERATED RELATED END -->

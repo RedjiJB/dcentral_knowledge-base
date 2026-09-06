@@ -787,3 +787,12 @@ Hardware Layer: Pixhawk Flight Controller + Companion Computer (Raspberry Pi/Jet
 - Enhanced service quality through comprehensive training
 
 This expanded framework provides comprehensive security and infrastructure services while maintaining the cooperative investment model, ensuring sustainable returns through diversified revenue streams and professional service delivery.
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Superseded by:** haiti-drone-cooperative-framework-md-ec202f4d.md (unresolved path, see registry/materialized-manifest.json)
+
+<!-- AUTO-GENERATED RELATED END -->

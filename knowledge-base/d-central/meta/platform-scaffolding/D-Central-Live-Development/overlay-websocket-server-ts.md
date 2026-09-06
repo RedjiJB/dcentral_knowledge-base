@@ -563,3 +563,15 @@ process.on('SIGTERM', () => {
 });
 
 export default OverlayWebSocketServer;
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/livestream-overlay-chatbot-system|livestream-overlay-chatbot-system]]
+
+**Consolidated into:**
+- [[docs/DC-LIVESTREAM-OVERLAY-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

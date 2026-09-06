@@ -398,3 +398,12 @@ trap 'print_error "Installation failed at line $LINENO"; cleanup; exit 1' ERR
 main
 
 exit 0
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/security/IHOSE/install-sh]]
+
+<!-- AUTO-GENERATED RELATED END -->

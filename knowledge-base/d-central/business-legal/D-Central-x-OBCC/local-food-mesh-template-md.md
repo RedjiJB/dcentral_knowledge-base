@@ -463,3 +463,15 @@ Large Business (Grocery/Distribution):
 The Local Food Mesh Network transforms every participant from isolated businesses struggling with thin margins into nodes in a resilient, profitable ecosystem. By reducing costs 70-90% while creating new revenue streams, the mesh network makes local food systems not just sustainable but economically superior to traditional models.
 
 The template demonstrates that mesh transformation isn't limited to tech-forward businesses—it's a fundamental reimagining of how local economies operate, with food as the perfect proof of concept for community-owned, distributed infrastructure.
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/mesh-food-economy-business-models|mesh-food-economy-business-models]]
+
+**Consolidated into:**
+- [[docs/DC-MESH-FOOD-ECONOMY-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

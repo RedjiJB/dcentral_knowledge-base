@@ -398,3 +398,18 @@ trap 'print_error "Installation failed at line $LINENO"; cleanup; exit 1' ERR
 main
 
 exit 0
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/ihose-openvision-documentation-package|ihose-openvision-documentation-package]]
+- [[knowledge-base/_topics/ihose-quickstart-install|ihose-quickstart-install]]
+
+**Consolidated into:**
+- [[docs/DC-IHOSE-OPENVISION-DOCUMENTATION-PACKAGE-RECONCILED-001]]
+- [[docs/DC-IHOSE-QUICKSTART-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

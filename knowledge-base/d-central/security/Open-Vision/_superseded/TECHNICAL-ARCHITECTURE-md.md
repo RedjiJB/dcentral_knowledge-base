@@ -1729,3 +1729,12 @@ Keycloak: 23.0+
 **Community**: https://community.openvision.io  
 **Discord**: https://discord.gg/openvision  
 **Commercial Support**: support@openvision.io
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/security/IHOSE/TECHNICAL-ARCHITECTURE-md]]
+
+<!-- AUTO-GENERATED RELATED END -->

@@ -876,3 +876,12 @@ See detailed documentation:
 - [Cloud Architecture](cloud.md)
 - [Multi-Tenant Design](multi-tenant.md)
 - [Security Deep Dive](security.md)
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Duplicate of:** [[knowledge-base/d-central/security/IHOSE/overview-md]]
+
+<!-- AUTO-GENERATED RELATED END -->

@@ -419,3 +419,18 @@ QUARTERLY:
 
 **Document Version**: 1.0
 **Platform**: OS-DRONE v1.0
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/opensecure-os-drone-subsystem|opensecure-os-drone-subsystem]]
+- [[knowledge-base/_topics/opensecure-per-service-implementation-guides|opensecure-per-service-implementation-guides]]
+
+**Consolidated into:**
+- [[docs/DC-OPENSECURE-OS-DRONE-RECONCILED-001]]
+- [[docs/DC-OPENSECURE-PER-SERVICE-IMPL-GUIDES-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->

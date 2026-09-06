@@ -487,3 +487,16 @@ openvision-platform/
 - Household: 1 day
 - SMB: 1 week  
 - Enterprise: 2-4 weeks
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_obsidian_graph.py) -->
+
+## Related (auto-generated)
+
+**Topics:**
+- [[knowledge-base/_topics/ihose-business-summaries|ihose-business-summaries]]
+
+**Consolidated into:**
+- [[docs/DC-IHOSE-BUSINESS-SUMMARIES-RECONCILED-001]]
+
+<!-- AUTO-GENERATED RELATED END -->
