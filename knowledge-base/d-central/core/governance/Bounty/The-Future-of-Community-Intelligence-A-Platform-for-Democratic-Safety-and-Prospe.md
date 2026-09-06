@@ -6,6 +6,7 @@ original_filename: The Future of Community Intelligence: A Platform for Democrat
 created_at: 2025-08-23T15:21:37.796073+00:00
 content_hash: dfeff86185b1
 topic: "dion-operator-deployment-credentialing"
+consolidated_into: docs/DC-DION-OPERATOR-DEPLOYMENT-RECONCILED-001.md
 ---
 
 # The Future of Community Intelligence: A Platform for Democratic Safety and Prosperity

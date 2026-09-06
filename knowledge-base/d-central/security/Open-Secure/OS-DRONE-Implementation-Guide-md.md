@@ -7,6 +7,7 @@ created_at: 2026-03-05T13:50:53.278435+00:00
 content_hash: 479038e41b81
 topic: opensecure-os-drone-subsystem
 topic: "opensecure-per-service-implementation-guides"
+consolidated_into: [docs/DC-OPENSECURE-OS-DRONE-RECONCILED-001.md, docs/DC-OPENSECURE-PER-SERVICE-IMPL-GUIDES-RECONCILED-001.md]
 ---
 
 # OS-DRONE Implementation Guide

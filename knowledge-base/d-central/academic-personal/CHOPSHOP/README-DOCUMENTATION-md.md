@@ -6,6 +6,7 @@ original_filename: README_DOCUMENTATION.md
 created_at: 2025-11-28T23:43:32.049707+00:00
 content_hash: 37d4c113e649
 topic: chopshop-project-documentation
+consolidated_into: docs/DC-CHOPSHOP-PROJECT-DOCUMENTATION-RECONCILED-001.md
 ---
 
 # ChopShop-CLI Complete Documentation Package

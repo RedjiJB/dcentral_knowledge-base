@@ -6,6 +6,7 @@ original_filename: REG-CS-001_CommunityShield_Surveillance_Regulatory_Analysis_v
 created_at: 2026-06-01T11:32:18.652847+00:00
 content_hash: fcf8658803b5
 topic: "meshplate-federation-privacy-compliance"
+consolidated_into: docs/DC-MESHPLATE-PRIVACY-COMPLIANCE-RECONCILED-001.md
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

@@ -6,6 +6,7 @@ original_filename: Comprehensive_OS-DRONE_Sectors.md
 created_at: 2026-03-05T13:51:00.069635+00:00
 content_hash: bd1e78795176
 topic: "opensecure-sector-use-case-analyses"
+consolidated_into: docs/DC-OPENSECURE-SECTOR-USE-CASE-RECONCILED-001.md
 ---
 
 # Comprehensive OS-DRONE Platform Application Framework

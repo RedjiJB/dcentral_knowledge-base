@@ -6,6 +6,7 @@ original_filename: OS-PATROL-TM-EV-001_TrafficMesh_Evidence_Legal_Framework_v1.d
 created_at: 2026-06-01T11:32:19.780441+00:00
 content_hash: 8abb4c3011d1
 topic: trafficmesh-legal-regulatory-compliance
+consolidated_into: docs/DC-TRAFFICMESH-LEGAL-RECONCILED-001.md
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

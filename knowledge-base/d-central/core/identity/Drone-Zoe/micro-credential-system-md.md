@@ -6,6 +6,7 @@ original_filename: micro-credential-system.md
 created_at: 2025-08-17T21:16:53.866501+00:00
 content_hash: 5f55f55d3ab5
 topic: haiti-integration-platforms
+consolidated_into: docs/DC-HAITI-INTEGRATION-PLATFORMS-RECONCILED-001.md
 ---
 
 # Micro-Credential System

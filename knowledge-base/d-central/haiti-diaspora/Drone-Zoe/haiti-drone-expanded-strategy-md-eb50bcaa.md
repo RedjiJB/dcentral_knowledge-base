@@ -6,6 +6,7 @@ original_filename: haiti_drone_expanded_strategy.md
 created_at: 2025-08-17T21:16:58.995884+00:00
 content_hash: 7b70e875c9b9
 topic: haiti-integration-platforms
+consolidated_into: docs/DC-HAITI-INTEGRATION-PLATFORMS-RECONCILED-001.md
 ---
 
 # Haiti Drone Cooperative: Comprehensive Expanded Monetization Strategy

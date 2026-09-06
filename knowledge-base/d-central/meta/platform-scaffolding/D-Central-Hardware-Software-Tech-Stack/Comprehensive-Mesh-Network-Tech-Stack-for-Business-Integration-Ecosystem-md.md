@@ -6,6 +6,7 @@ original_filename: Comprehensive Mesh Network Tech Stack for Business Integratio
 created_at: 2025-06-06T17:42:40.327206+00:00
 content_hash: 02b27271ee18
 topic: dcentral-core-narrative-analysis
+consolidated_into: docs/DC-DCENTRAL-CORE-NARRATIVE-ANALYSIS-RECONCILED-001.md
 ---
 
 # Comprehensive Mesh Network Tech Stack for Business Integration Ecosystem

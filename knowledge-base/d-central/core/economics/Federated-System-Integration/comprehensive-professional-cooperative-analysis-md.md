@@ -6,6 +6,7 @@ original_filename: comprehensive_professional_cooperative_analysis.md
 created_at: 2025-07-18T15:22:12.990601+00:00
 content_hash: f9ed74def3ec
 topic: "federated-learning-platform-community-sovereignty-cooperative"
+consolidated_into: docs/DC-FLP-SOVEREIGNTY-RECONCILED-001.md
 ---
 
 # Complete Professional & White Collar Cooperative Analysis

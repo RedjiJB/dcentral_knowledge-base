@@ -6,6 +6,7 @@ original_filename: OS-CONCIERGE_Logical_Topology.md
 created_at: 2026-03-04T20:34:59.927158+00:00
 content_hash: c4db718d53f7
 topic: opensecure-os-concierge-topology
+consolidated_into: docs/DC-OPENSECURE-OS-CONCIERGE-TOPOLOGY-RECONCILED-001.md
 ---
 
 # OS-CONCIERGE Logical Topology

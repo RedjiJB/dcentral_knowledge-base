@@ -7,6 +7,7 @@ created_at: 2026-03-04T20:38:02.041389+00:00
 content_hash: fee7afb688b7
 topic: opensecure-provincial-security-network
 topic: "provincial-security-network-programs"
+consolidated_into: [docs/DC-OPENSECURE-PROVINCIAL-PIV-CREDENTIAL-RECONCILED-001.md, docs/DC-PROVINCIAL-SECURITY-NETWORK-RECONCILED-001.md]
 ---
 
 # Provincial Autonomous Security Systems Network (PASSN)

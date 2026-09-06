@@ -6,6 +6,7 @@ original_filename: HARDWARE_BOM.md
 created_at: 2025-12-02T00:47:54.958277+00:00
 content_hash: bce30b2bc93d
 topic: ihose-hardware-bom
+consolidated_into: docs/DC-IHOSE-HARDWARE-BOM-RECONCILED-001.md
 ---
 
 # OpenVision Platform - Hardware Bill of Materials

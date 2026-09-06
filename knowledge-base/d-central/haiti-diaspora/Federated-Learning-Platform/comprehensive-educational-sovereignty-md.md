@@ -6,6 +6,7 @@ original_filename: comprehensive_educational_sovereignty.md
 created_at: 2025-07-25T18:14:23.373186+00:00
 content_hash: d2047c192754
 topic: "federated-learning-platform-community-sovereignty-cooperative"
+consolidated_into: docs/DC-FLP-SOVEREIGNTY-RECONCILED-001.md
 ---
 
 # Complete Educational Sovereignty Framework: Comprehensive Implementation Guide

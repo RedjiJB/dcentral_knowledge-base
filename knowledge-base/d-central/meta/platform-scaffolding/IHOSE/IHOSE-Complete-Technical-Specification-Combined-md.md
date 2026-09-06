@@ -6,6 +6,7 @@ original_filename: IHOSE_Complete_Technical_Specification_Combined.md
 created_at: 2025-11-10T02:40:27.831245+00:00
 content_hash: 5af68fe6f778
 topic: "ihose-federation-ecosystem-partnership-framework"
+consolidated_into: docs/DC-IHOSE-FEDERATION-ECOSYSTEM-RECONCILED-001.md
 ---
 
 # Iron Horse Security

@@ -6,6 +6,7 @@ original_filename: MKT-INS-002_Insurance_Data_Product_Catalogue_v1.docx
 created_at: 2026-06-01T11:32:21.074261+00:00
 content_hash: e9430c2082fb
 topic: trafficmesh-insurance-integration-revenue
+consolidated_into: docs/DC-TRAFFICMESH-INSURANCE-INTEGRATION-RECONCILED-001.md
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

@@ -6,6 +6,7 @@ original_filename: Enhanced Academic Institutional Onboarding & Activation Platf
 created_at: 2025-07-10T14:32:52.311568+00:00
 content_hash: 239b6c5e177b
 topic: digital-community-participation-platforms
+consolidated_into: docs/DC-DIGITAL-COMMUNITY-PARTICIPATION-PLATFORMS-RECONCILED-001.md
 ---
 
 # Enhanced Institutional Onboarding & Activation Platform

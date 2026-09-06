@@ -6,6 +6,7 @@ original_filename: expanded_monetization_guide.md
 created_at: 2025-07-07T21:36:14.111926+00:00
 content_hash: c41545083b57
 topic: haiti-integration-platforms
+consolidated_into: docs/DC-HAITI-INTEGRATION-PLATFORMS-RECONCILED-001.md
 ---
 
 # Haiti Drone Cooperative: Comprehensive Open Source Monetization Strategy

@@ -6,6 +6,7 @@ original_filename: {Game Suite}
 created_at: 2025-04-29T21:45:04.855800+00:00
 content_hash: c4ede119d124
 topic: "comptia-a-learning-platform"
+consolidated_into: docs/DC-COMPTIA-A-PLATFORM-RECONCILED-001.md
 ---
 
 # CompTIA A+ Certification Game Suite

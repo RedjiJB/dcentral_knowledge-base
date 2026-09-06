@@ -6,6 +6,7 @@ original_filename: OS-SENTINEL_Logical_Topology.md
 created_at: 2026-03-04T20:34:08.249743+00:00
 content_hash: fc173e5b2151
 topic: "opensecure-topology-documentation-suite"
+consolidated_into: docs/DC-OPENSECURE-TOPOLOGY-DOCUMENTATION-SUITE-RECONCILED-001.md
 ---
 
 # OS-SENTINEL Logical Topology

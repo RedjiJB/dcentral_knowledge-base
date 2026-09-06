@@ -6,6 +6,7 @@ original_filename: D-Central_Complete_Analysis.md
 created_at: 2025-06-08T02:10:52.997459+00:00
 content_hash: d58247ec6cd0
 topic: dcentral-core-narrative-analysis
+consolidated_into: docs/DC-DCENTRAL-CORE-NARRATIVE-ANALYSIS-RECONCILED-001.md
 ---
 
 ---

@@ -6,6 +6,7 @@ original_filename: FIN-CM-002_CivicMesh_Unit_Economics_Model_v1.docx
 created_at: 2026-06-01T11:32:21.716882+00:00
 content_hash: dcba969f5745
 topic: civicmesh-financial-unit-economics
+consolidated_into: docs/DC-CM-UNIT-ECONOMICS-RECONCILED-001.md
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

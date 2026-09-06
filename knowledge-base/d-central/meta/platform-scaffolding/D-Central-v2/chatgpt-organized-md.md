@@ -6,6 +6,7 @@ original_filename: chatgpt-organized.md
 created_at: 2025-10-13T19:25:50.713259+00:00
 content_hash: ea4ed302ef73
 topic: dcentral-core-narrative-analysis
+consolidated_into: docs/DC-DCENTRAL-CORE-NARRATIVE-ANALYSIS-RECONCILED-001.md
 ---
 
 # D Central Ecosystem: Complete Documentation

@@ -6,6 +6,7 @@ original_filename: DC-CM-B2B-005_Commercial_Driver_VC_Schema_v1.docx
 created_at: 2026-06-01T11:32:19.797602+00:00
 content_hash: e2515cd6951a
 topic: "commercial-b2b-vehicle-fleet-programme"
+consolidated_into: docs/DC-CM-COMMERCIAL-B2B-VEHICLE-FLEET-RECONCILED-001.md
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

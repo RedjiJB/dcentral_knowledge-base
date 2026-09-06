@@ -6,6 +6,7 @@ original_filename: DEPLOY-MP-001_MeshPlate_Municipal_Deployment_Package_v1.docx
 created_at: 2026-06-01T11:32:21.521849+00:00
 content_hash: a24b87f299f3
 topic: civicmesh-federation-noc-municipal-deployment
+consolidated_into: docs/DC-CIVICMESH-FEDERATION-NOC-MUNICIPAL-RECONCILED-001.md
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

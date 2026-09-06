@@ -6,6 +6,7 @@ original_filename: Dynamic Operator Deployment System for D Central Intelligence
 created_at: 2025-08-23T15:53:04.929103+00:00
 content_hash: 1e6c06e28b33
 topic: dion-operator-deployment-credentialing
+consolidated_into: docs/DC-DION-OPERATOR-DEPLOYMENT-RECONCILED-001.md
 ---
 
 # Dynamic Operator Deployment System for D Central Intelligence Workflows

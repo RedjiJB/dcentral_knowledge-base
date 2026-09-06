@@ -6,6 +6,7 @@ original_filename: DION Platform - Backend Services Implementation.txt
 created_at: 2025-08-23T16:09:09.810257+00:00
 content_hash: 977e73fab0ff
 topic: "dion-platform-api-backend-architecture"
+consolidated_into: docs/DC-DION-API-BACKEND-RECONCILED-001.md
 ---
 
 // DION Platform - Backend Services Implementation

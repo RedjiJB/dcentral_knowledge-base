@@ -6,6 +6,7 @@ original_filename: Restaurant Mesh Transformation: Complete Cost Analysis & Reve
 created_at: 2025-06-05T19:49:33.038995+00:00
 content_hash: 4e99f746a5c8
 topic: "mesh-food-economy-business-models"
+consolidated_into: docs/DC-MESH-FOOD-ECONOMY-RECONCILED-001.md
 ---
 
 # Restaurant Mesh Transformation: Complete Cost Analysis & Revenue Generation

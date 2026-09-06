@@ -6,6 +6,7 @@ original_filename: Enhanced Educational Sovereignty Framework: Complete Technica
 created_at: 2025-07-25T18:54:55.014740+00:00
 content_hash: 0b89c4226298
 topic: "federated-learning-platform-community-sovereignty-cooperative"
+consolidated_into: docs/DC-FLP-SOVEREIGNTY-RECONCILED-001.md
 ---
 
 # Enhanced Educational Sovereignty Framework: Complete Technical Integration

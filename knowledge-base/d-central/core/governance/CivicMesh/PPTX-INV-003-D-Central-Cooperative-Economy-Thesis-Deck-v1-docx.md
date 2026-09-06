@@ -6,6 +6,7 @@ original_filename: PPTX-INV-003_D-Central_Cooperative_Economy_Thesis_Deck_v1.doc
 created_at: 2026-06-01T11:32:20.982622+00:00
 content_hash: b943c091c37e
 topic: dcentral-presentation-decks
+consolidated_into: docs/DC-DCENTRAL-PRESENTATION-DECKS-RECONCILED-001.md
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

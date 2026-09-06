@@ -6,6 +6,7 @@ original_filename: OS-CONCIERGE_Implementation_Guide.md
 created_at: 2026-03-04T20:34:59.474352+00:00
 content_hash: 60f8c59528fd
 topic: "opensecure-per-service-implementation-guides"
+consolidated_into: docs/DC-OPENSECURE-PER-SERVICE-IMPL-GUIDES-RECONCILED-001.md
 ---
 
 # OS-CONCIERGE Implementation Guide

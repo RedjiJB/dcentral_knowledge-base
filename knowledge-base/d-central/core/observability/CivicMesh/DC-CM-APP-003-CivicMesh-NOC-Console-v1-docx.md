@@ -6,6 +6,7 @@ original_filename: DC-CM-APP-003_CivicMesh_NOC_Console_v1.docx
 created_at: 2026-06-01T11:32:22.325278+00:00
 content_hash: 15bbba6195dc
 topic: "civicmesh-noc-manager-dashboard-specifications"
+consolidated_into: docs/DC-CM-NOC-DASHBOARD-RECONCILED-001.md
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

@@ -6,6 +6,7 @@ original_filename: PROJECT_SUMMARY.md
 created_at: 2025-12-02T00:47:55.731905+00:00
 content_hash: 1cbf30319e40
 topic: ihose-business-summaries
+consolidated_into: docs/DC-IHOSE-BUSINESS-SUMMARIES-RECONCILED-001.md
 ---
 
 # OpenVision Platform - Complete Technical Framework

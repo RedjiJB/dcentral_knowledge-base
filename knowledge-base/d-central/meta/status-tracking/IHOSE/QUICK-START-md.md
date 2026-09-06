@@ -6,6 +6,7 @@ original_filename: QUICK_START.md
 created_at: 2025-12-02T00:47:53.841895+00:00
 content_hash: 447d4277306d
 topic: ihose-quickstart-install
+consolidated_into: docs/DC-IHOSE-QUICKSTART-RECONCILED-001.md
 ---
 
 # OpenVision Platform - Quick Reference Guide

@@ -6,6 +6,7 @@ original_filename: DC-CM-REG-001_CivicMesh_Document_Registry_v1(1).docx
 created_at: 2026-06-01T11:32:21.944823+00:00
 content_hash: 20cb034c3e54
 topic: digital-community-participation-platforms
+consolidated_into: docs/DC-DIGITAL-COMMUNITY-PARTICIPATION-PLATFORMS-RECONCILED-001.md
 ---
 
 DC-CM-REG-001  |  CivicMesh Platform — Document Registry  |  v1.0  |  May 2026  |  **D-Central Group  |  Confidential**

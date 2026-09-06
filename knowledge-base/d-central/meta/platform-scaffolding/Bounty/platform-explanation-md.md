@@ -6,6 +6,7 @@ original_filename: platform_explanation.md
 created_at: 2025-08-23T03:10:33.206656+00:00
 content_hash: 2653f5381e72
 topic: dion-platform-expansion-explanation
+consolidated_into: docs/DC-DION-EXPANSION-EXPLANATION-RECONCILED-001.md
 ---
 
 # The Decentralized Intelligence Platform: Complete Explanation

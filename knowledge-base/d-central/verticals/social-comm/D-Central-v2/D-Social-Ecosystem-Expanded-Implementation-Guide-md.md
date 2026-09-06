@@ -6,6 +6,7 @@ original_filename: D-Social Ecosystem: Expanded Implementation Guide.md
 created_at: 2025-10-13T22:45:46.307472+00:00
 content_hash: 4a11ac21449a
 topic: dcentral-core-narrative-analysis
+consolidated_into: docs/DC-DCENTRAL-CORE-NARRATIVE-ANALYSIS-RECONCILED-001.md
 ---
 
 # D-Social v1.0: Complete Architectural Specification

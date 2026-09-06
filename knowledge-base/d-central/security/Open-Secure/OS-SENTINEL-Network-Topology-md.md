@@ -7,6 +7,7 @@ created_at: 2026-03-04T20:34:08.570122+00:00
 content_hash: c4521ffbeea4
 topic: opensecure-guardian-sentinel-topology
 topic: "opensecure-topology-documentation-suite"
+consolidated_into: [docs/DC-OPENSECURE-GUARDIAN-SENTINEL-TOPOLOGY-RECONCILED-001.md, docs/DC-OPENSECURE-TOPOLOGY-DOCUMENTATION-SUITE-RECONCILED-001.md]
 ---
 
 # OS-SENTINEL Network Topology

@@ -6,6 +6,7 @@ original_filename: FediFlow Academic Ecosystem: Comprehensive Community Services
 created_at: 2025-07-10T15:16:55.590587+00:00
 content_hash: a39b96ba8d37
 topic: digital-community-participation-platforms
+consolidated_into: docs/DC-DIGITAL-COMMUNITY-PARTICIPATION-PLATFORMS-RECONCILED-001.md
 ---
 
 # FediFlow Academic Ecosystem: Comprehensive Community Services & Use Cases

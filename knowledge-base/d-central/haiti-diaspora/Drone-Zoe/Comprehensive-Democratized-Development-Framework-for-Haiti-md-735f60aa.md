@@ -6,6 +6,7 @@ original_filename: Comprehensive Democratized Development Framework for Haiti.md
 created_at: 2025-07-07T23:00:43.507436+00:00
 content_hash: cd565eb8c250
 topic: haiti-integration-platforms
+consolidated_into: docs/DC-HAITI-INTEGRATION-PLATFORMS-RECONCILED-001.md
 ---
 
 ## 7. Sector-Specific Challenges and Mitigation Strategies

@@ -7,6 +7,7 @@ created_at: 2026-06-01T11:32:19.992224+00:00
 content_hash: 94bdf71e2ae4
 topic: trafficmesh-legal-regulatory-compliance
 topic: "trafficmesh-ontario-regulatory-compliance"
+consolidated_into: [docs/DC-TRAFFICMESH-LEGAL-RECONCILED-001.md, docs/DC-TRAFFICMESH-REGULATORY-RECONCILED-001.md]
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

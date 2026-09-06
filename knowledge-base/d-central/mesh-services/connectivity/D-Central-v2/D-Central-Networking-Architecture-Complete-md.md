@@ -6,6 +6,7 @@ original_filename: D-Central-Networking-Architecture-Complete.md
 created_at: 2025-10-20T04:40:01.634165+00:00
 content_hash: bef161be3bf9
 topic: dcentral-networking-architecture
+consolidated_into: docs/DC-NETWORKING-ARCH-RECONCILED-001.md
 ---
 
 # D Central Networking Architecture: Comprehensive Technical Documentation

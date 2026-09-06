@@ -6,6 +6,7 @@ original_filename: MKT-CCSC-004_CivicMesh_Privacy_Promise_v1.docx
 created_at: 2026-06-01T11:32:21.269020+00:00
 content_hash: 74c037f17307
 topic: "meshplate-federation-privacy-compliance"
+consolidated_into: docs/DC-MESHPLATE-PRIVACY-COMPLIANCE-RECONCILED-001.md
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

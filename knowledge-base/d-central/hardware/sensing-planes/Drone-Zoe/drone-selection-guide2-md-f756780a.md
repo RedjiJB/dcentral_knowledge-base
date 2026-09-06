@@ -6,6 +6,7 @@ original_filename: drone_selection_guide2.md
 created_at: 2025-08-17T21:17:14.108506+00:00
 content_hash: 2969c569d258
 topic: drone-zoe-hardware-selection-guides
+consolidated_into: docs/DC-DRONE-HARDWARE-RECONCILED-001.md
 ---
 
 # Haiti Drone Cooperative: Open Source Modular Sensor Platform System

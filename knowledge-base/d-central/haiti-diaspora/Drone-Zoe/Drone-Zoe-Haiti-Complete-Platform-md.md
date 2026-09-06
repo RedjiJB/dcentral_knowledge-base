@@ -6,6 +6,7 @@ original_filename: Drone Zoe Haiti - Complete Platform.md
 created_at: 2025-07-08T23:26:06.589488+00:00
 content_hash: 9f4fa05c23a7
 topic: haiti-integration-platforms
+consolidated_into: docs/DC-HAITI-INTEGRATION-PLATFORMS-RECONCILED-001.md
 ---
 
 # DRONE ZOE HAITI

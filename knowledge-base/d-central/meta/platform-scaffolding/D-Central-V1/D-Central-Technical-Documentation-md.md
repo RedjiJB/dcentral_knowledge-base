@@ -6,6 +6,7 @@ original_filename: D-Central_Technical_Documentation.md
 created_at: 2025-06-08T02:10:24.561999+00:00
 content_hash: 93ebf89be7ca
 topic: dcentral-core-narrative-analysis
+consolidated_into: docs/DC-DCENTRAL-CORE-NARRATIVE-ANALYSIS-RECONCILED-001.md
 ---
 
 ---

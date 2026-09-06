@@ -6,6 +6,7 @@ original_filename: Comprehensive GraphRAG & GraphQL System Design Document.md
 created_at: 2025-08-16T18:57:21.301228+00:00
 content_hash: 69b98c86bc79
 topic: haiti-graphrag-graphql-system
+consolidated_into: docs/DC-HCCC-GRAPHRAG-RECONCILED-001.md
 ---
 
 # Comprehensive GraphRAG & GraphQL System Design Document

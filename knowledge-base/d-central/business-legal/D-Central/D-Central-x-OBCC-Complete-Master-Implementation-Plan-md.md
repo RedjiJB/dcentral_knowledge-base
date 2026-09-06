@@ -7,6 +7,7 @@ created_at: 2025-06-04T18:58:09.825291+00:00
 content_hash: f40980de6604
 topic: dcentral-obcc-sector-implementation
 topic: "mesh-cooperative-business-model-framework"
+consolidated_into: [docs/DC-MESH-COOPERATIVE-BUSINESS-MODEL-RECONCILED-001.md, docs/DC-OBCC-SECTOR-RECONCILED-001.md]
 ---
 
 # D Central x Ottawa Black Chamber of Commerce

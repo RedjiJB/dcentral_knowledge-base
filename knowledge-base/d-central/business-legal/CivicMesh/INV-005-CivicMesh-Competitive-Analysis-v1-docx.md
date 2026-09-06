@@ -7,6 +7,7 @@ created_at: 2026-06-01T11:32:21.046346+00:00
 content_hash: 7277bba1ec38
 topic: dcentral-competitive-strategy-analysis
 topic: "civicmesh-competitive-analysis"
+consolidated_into: [docs/DC-CM-COMPETITIVE-RECONCILED-001.md, docs/DC-COMPETITIVE-STRATEGY-RECONCILED-001.md]
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

@@ -6,6 +6,7 @@ original_filename: 2.2.2 - Climate as Universal Crisis Multiplier: Complete Inte
 created_at: 2025-08-16T12:59:45.507014+00:00
 content_hash: 0463101b0d9b
 topic: haiti-cooperative-resilience-framework
+consolidated_into: docs/DC-HAITI-COOPERATIVE-RESILIENCE-FRAMEWORK-RECONCILED-001.md
 ---
 
 # 2.2.2 – Climate as Universal Crisis Multiplier: Complete Integrated Cooperative Framework

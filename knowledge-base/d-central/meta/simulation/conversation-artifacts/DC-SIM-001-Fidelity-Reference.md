@@ -6,6 +6,7 @@ doc_id: DC-SIM-001
 description: 'Core fidelity reference document — what GNS3 can and cannot model'
 extraction_method: conversation-artifact (create_file tool-use block, never uploaded to a Project KB)
 topic: "dcentral-simulation-lab-programme"
+consolidated_into: docs/DC-DCENTRAL-SIMULATION-LAB-RECONCILED-001.md
 ---
 
 # DC-SIM-001 — Fidelity Reference

@@ -6,6 +6,7 @@ original_filename: blockchain_solutions_roadmap.md
 created_at: 2025-07-25T17:58:37.039688+00:00
 content_hash: 13a3f1ec20fe
 topic: blockchain-education-federation
+consolidated_into: docs/DC-BLOCKCHAIN-EDUCATION-FEDERATION-RECONCILED-001.md
 ---
 
 # Blockchain Integration Solutions & Traditional-to-Blockchain Roadmap

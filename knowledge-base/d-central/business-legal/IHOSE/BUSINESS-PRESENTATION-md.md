@@ -7,6 +7,7 @@ created_at: 2025-12-02T00:47:54.349718+00:00
 content_hash: 04e215b1305a
 topic: ihose-business-summaries
 topic: "ihose-business-strategy-documents"
+consolidated_into: [docs/DC-IHOSE-BUSINESS-STRATEGY-RECONCILED-001.md, docs/DC-IHOSE-BUSINESS-SUMMARIES-RECONCILED-001.md]
 ---
 
 # OpenVision Platform - Business Presentation Deck

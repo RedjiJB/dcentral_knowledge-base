@@ -6,6 +6,7 @@ original_filename: DC-CM-GOV-002_Community_Audit_Framework_v1.docx
 created_at: 2026-06-01T11:32:21.993539+00:00
 content_hash: 640ae39214a4
 topic: civicmesh-governance-audit-transparency
+consolidated_into: docs/DC-CM-AUDIT-TRANSPARENCY-RECONCILED-001.md
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

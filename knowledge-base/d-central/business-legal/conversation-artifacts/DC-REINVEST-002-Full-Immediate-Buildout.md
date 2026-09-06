@@ -7,6 +7,7 @@ description: 'Full immediate buildout plan replacing deferred Tier 5, right-size
 extraction_method: conversation-artifact (create_file tool-use block, never uploaded to a Project KB)
 reconciliation_note: "Part of a three-document evolving-plan chain (DC-REINVEST-001/002/003), each later doc claiming in its own header to supersede the former -- verified NOT a clean chain on reading all three: 002 only replaces 001's deferred Tier 5 (001's Tier 0 protective spend and Tier 4 cloud-lab budget have no other copy); 003 restates most of 002's sections but drops the cloud-lab line entirely. All three left in place, none marked superseded -- discarding any one would silently lose real budget line items."
 topic: "dcentral-reinvestment-procurement-plans"
+consolidated_into: docs/DC-REINVEST-PROCUREMENT-RECONCILED-001.md
 ---
 
 # DC-REINVEST-002 — Full Immediate Buildout

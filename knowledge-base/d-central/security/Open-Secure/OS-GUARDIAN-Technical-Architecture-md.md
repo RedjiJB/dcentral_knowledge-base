@@ -7,6 +7,7 @@ created_at: 2026-03-04T20:30:19.372173+00:00
 content_hash: 19c920013b67
 topic: opensecure-guardian-sentinel-architecture
 topic: "opensecure-topology-documentation-suite"
+consolidated_into: [docs/DC-OPENSECURE-GUARDIAN-SENTINEL-ARCH-RECONCILED-001.md, docs/DC-OPENSECURE-TOPOLOGY-DOCUMENTATION-SUITE-RECONCILED-001.md]
 ---
 
 # OS-GUARDIAN - Complete Technical Architecture

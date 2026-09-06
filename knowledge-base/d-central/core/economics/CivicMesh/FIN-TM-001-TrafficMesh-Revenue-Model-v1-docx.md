@@ -6,6 +6,7 @@ original_filename: FIN-TM-001_TrafficMesh_Revenue_Model_v1.docx
 created_at: 2026-06-01T11:32:19.175296+00:00
 content_hash: 7c5e772ae3ca
 topic: trafficmesh-insurance-integration-revenue
+consolidated_into: docs/DC-TRAFFICMESH-INSURANCE-INTEGRATION-RECONCILED-001.md
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

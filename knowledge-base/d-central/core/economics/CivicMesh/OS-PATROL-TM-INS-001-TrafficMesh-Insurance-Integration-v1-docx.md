@@ -6,6 +6,7 @@ original_filename: OS-PATROL-TM-INS-001_TrafficMesh_Insurance_Integration_v1.doc
 created_at: 2026-06-01T11:32:20.525509+00:00
 content_hash: db0aa450fef0
 topic: trafficmesh-insurance-integration-revenue
+consolidated_into: docs/DC-TRAFFICMESH-INSURANCE-INTEGRATION-RECONCILED-001.md
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

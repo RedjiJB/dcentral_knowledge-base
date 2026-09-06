@@ -6,6 +6,7 @@ original_filename: PPTX-CONF-002_CivicMesh_Conference_Talk_Smart_Cities_v1.docx
 created_at: 2026-06-01T11:32:19.306897+00:00
 content_hash: f5ec531e0295
 topic: dcentral-presentation-decks
+consolidated_into: docs/DC-DCENTRAL-PRESENTATION-DECKS-RECONCILED-001.md
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

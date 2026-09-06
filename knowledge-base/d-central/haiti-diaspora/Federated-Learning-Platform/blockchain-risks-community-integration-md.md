@@ -6,6 +6,7 @@ original_filename: blockchain_risks_community_integration.md
 created_at: 2025-07-25T17:58:36.876551+00:00
 content_hash: eef68d71858f
 topic: blockchain-education-federation
+consolidated_into: docs/DC-BLOCKCHAIN-EDUCATION-FEDERATION-RECONCILED-001.md
 ---
 
 # Blockchain Integration Analysis & Community Learning Network Framework

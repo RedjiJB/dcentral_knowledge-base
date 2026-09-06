@@ -6,6 +6,7 @@ original_filename: DAY1_QUICKSTART.md
 created_at: 2025-11-28T23:43:29.219059+00:00
 content_hash: 6b8026b1885a
 topic: chopshop-project-documentation
+consolidated_into: docs/DC-CHOPSHOP-PROJECT-DOCUMENTATION-RECONCILED-001.md
 ---
 
 # ChopShop-CLI Day 1 Quick Start Guide

@@ -6,6 +6,7 @@ doc_id: DC-DEV-001
 description: 'DC-DEV-001: the developer platform for natively deploying and managing apps, services, SaaS, and real-world services on the mesh'
 extraction_method: conversation-artifact (create_file tool-use block, never uploaded to a Project KB)
 topic: "dcentral-developer-ecosystem-os-specs"
+consolidated_into: docs/DC-DEV-OS-RECONCILED-001.md
 ---
 
 # DC-DEV-001 — Mesh-Native Developer Platform

@@ -6,6 +6,7 @@ original_filename: marketing_site.html
 created_at: 2025-04-29T21:45:37.745485+00:00
 content_hash: 4ea96fa0024d
 topic: comptia-a-learning-platform
+consolidated_into: docs/DC-COMPTIA-A-PLATFORM-RECONCILED-001.md
 ---
 
 <!DOCTYPE html>

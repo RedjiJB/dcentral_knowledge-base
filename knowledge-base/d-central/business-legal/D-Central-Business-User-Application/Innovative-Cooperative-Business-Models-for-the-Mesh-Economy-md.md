@@ -7,6 +7,7 @@ created_at: 2025-06-06T14:30:13.127040+00:00
 content_hash: 27efe7ea7efd
 topic: mesh-cooperative-business-models
 topic: "mesh-cooperative-business-model-framework"
+consolidated_into: [docs/DC-MESH-COOP-BUSINESS-RECONCILED-001.md, docs/DC-MESH-COOPERATIVE-BUSINESS-MODEL-RECONCILED-001.md]
 ---
 
 # Innovative Cooperative Business Models for the Mesh Economy

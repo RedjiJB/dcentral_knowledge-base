@@ -6,6 +6,7 @@ original_filename: security_email.md
 created_at: 2025-08-03T12:35:40.606544+00:00
 content_hash: 6100fb15622b
 topic: "haiti-security-framework-outreach"
+consolidated_into: docs/DC-HAITI-SECURITY-OUTREACH-RECONCILED-001.md
 ---
 
 Subject: Introduction from Bob Rae: Community-Led Cooperative Framework for Haiti's Self-Sufficiency

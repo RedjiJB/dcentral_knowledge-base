@@ -6,6 +6,7 @@ original_filename: overlay_websocket_server.ts
 created_at: 2025-06-03T18:39:01.481541+00:00
 content_hash: 5ae458aad686
 topic: livestream-overlay-chatbot-system
+consolidated_into: docs/DC-LIVESTREAM-OVERLAY-RECONCILED-001.md
 ---
 
 // Overlay WebSocket Server

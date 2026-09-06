@@ -7,6 +7,7 @@ created_at: 2026-06-01T11:32:21.452309+00:00
 content_hash: c1a1e6d77617
 topic: dcentral-presentation-decks
 topic: "civicmesh-investor-pitch-decks"
+consolidated_into: [docs/DC-CM-INVESTOR-PITCH-RECONCILED-001.md, docs/DC-DCENTRAL-PRESENTATION-DECKS-RECONCILED-001.md]
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

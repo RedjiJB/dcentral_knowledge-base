@@ -6,6 +6,7 @@ original_filename: 02-Hardware-Specifications.docx
 created_at: 2025-12-02T00:47:56.132602+00:00
 content_hash: 4abbe80d440f
 topic: ihose-hardware-bom
+consolidated_into: docs/DC-IHOSE-HARDWARE-BOM-RECONCILED-001.md
 ---
 
 OpenVision Platform

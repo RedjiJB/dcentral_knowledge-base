@@ -7,6 +7,7 @@ created_at: 2026-06-01T11:32:20.003436+00:00
 content_hash: b8957d843823
 topic: civicmesh-cooperative-legal-structures
 topic: "civicmesh-cooperative-legal-structures"
+consolidated_into: docs/DC-CM-COOP-LEGAL-RECONCILED-001.md
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

@@ -6,6 +6,7 @@ original_filename: haiti_security_proposal.md
 created_at: 2025-08-10T20:38:20.518457+00:00
 content_hash: 22a61eb08dbc
 topic: "haiti-security-framework-outreach"
+consolidated_into: docs/DC-HAITI-SECURITY-OUTREACH-RECONCILED-001.md
 ---
 
 # Open-Source Security Framework for Haiti's Transformation

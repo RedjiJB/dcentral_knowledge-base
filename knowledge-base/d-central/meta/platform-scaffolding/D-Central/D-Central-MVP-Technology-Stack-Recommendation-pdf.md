@@ -6,6 +6,7 @@ original_filename: D Central MVP Technology Stack Recommendation.pdf
 created_at: 2025-06-01T15:32:12.861017+00:00
 content_hash: ddda8fd98d72
 topic: dcentral-core-narrative-analysis
+consolidated_into: docs/DC-DCENTRAL-CORE-NARRATIVE-ANALYSIS-RECONCILED-001.md
 ---
 
 D Central MVP Technology Stack Recommendation

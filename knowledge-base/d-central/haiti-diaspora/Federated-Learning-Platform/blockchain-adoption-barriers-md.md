@@ -6,6 +6,7 @@ original_filename: blockchain_adoption_barriers.md
 created_at: 2025-07-25T17:58:36.347647+00:00
 content_hash: 97b9eccec38d
 topic: blockchain-education-federation
+consolidated_into: docs/DC-BLOCKCHAIN-EDUCATION-FEDERATION-RECONCILED-001.md
 ---
 
 # Critical Blockchain Adoption Barriers: Technical, Cultural & Economic Analysis

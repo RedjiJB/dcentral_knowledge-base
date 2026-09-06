@@ -6,6 +6,7 @@ original_filename: decentralized_ints_expansion.md
 created_at: 2025-08-23T03:10:32.732509+00:00
 content_hash: 6ac345d39e52
 topic: dion-platform-expansion-explanation
+consolidated_into: docs/DC-DION-EXPANSION-EXPLANATION-RECONCILED-001.md
 ---
 
 # Expanded Decentralized Intelligence Platform Architecture

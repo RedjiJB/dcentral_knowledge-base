@@ -6,6 +6,7 @@ original_filename: FIN-CM-005_MSSP_Cooperative_Revenue_Model_v1.docx
 created_at: 2026-06-01T11:32:21.576265+00:00
 content_hash: 8c1f7161ff0f
 topic: civicmesh-financial-unit-economics
+consolidated_into: docs/DC-CM-UNIT-ECONOMICS-RECONCILED-001.md
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

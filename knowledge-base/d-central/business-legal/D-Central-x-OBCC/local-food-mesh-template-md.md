@@ -6,6 +6,7 @@ original_filename: local-food-mesh-template.md
 created_at: 2025-06-06T17:46:36.374896+00:00
 content_hash: 1ea6bd257066
 topic: "mesh-food-economy-business-models"
+consolidated_into: docs/DC-MESH-FOOD-ECONOMY-RECONCILED-001.md
 ---
 
 # Local Food Industry Mesh Network Transformation Template

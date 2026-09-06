@@ -7,6 +7,7 @@ created_at: 2026-06-01T11:32:20.722068+00:00
 content_hash: 91163d6adbd3
 topic: civicmesh-isc-loan-application
 topic: "civicmesh-government-funding-applications"
+consolidated_into: [docs/DC-CM-GOV-FUNDING-RECONCILED-001.md, docs/DC-CM-ISC-LOAN-RECONCILED-001.md]
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

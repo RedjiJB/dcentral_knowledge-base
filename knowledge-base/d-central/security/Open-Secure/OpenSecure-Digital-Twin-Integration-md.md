@@ -6,6 +6,7 @@ original_filename: OpenSecure_Digital_Twin_Integration.md
 created_at: 2026-03-04T20:34:31.862852+00:00
 content_hash: ec06e35f7b86
 topic: "opensecure-topology-documentation-suite"
+consolidated_into: docs/DC-OPENSECURE-TOPOLOGY-DOCUMENTATION-SUITE-RECONCILED-001.md
 ---
 
 # OpenSecure Digital Twin Integration Framework

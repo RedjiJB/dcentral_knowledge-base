@@ -7,6 +7,7 @@ created_at: 2025-12-02T00:47:54.552334+00:00
 content_hash: 4e09e21e0155
 topic: ihose-quickstart-install
 topic: "ihose-openvision-documentation-package"
+consolidated_into: [docs/DC-IHOSE-OPENVISION-DOCUMENTATION-PACKAGE-RECONCILED-001.md, docs/DC-IHOSE-QUICKSTART-RECONCILED-001.md]
 ---
 
 # OpenVision Platform

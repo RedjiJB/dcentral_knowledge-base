@@ -6,6 +6,7 @@ original_filename: 2.3.2 - International Community Recommendations: Complete Int
 created_at: 2025-08-16T15:50:11.620115+00:00
 content_hash: f306f88c4794
 topic: haiti-cooperative-resilience-framework
+consolidated_into: docs/DC-HAITI-COOPERATIVE-RESILIENCE-FRAMEWORK-RECONCILED-001.md
 ---
 
 # 2.3.2 – International Community Recommendations (¶62): Complete Integrated Cooperative Framework

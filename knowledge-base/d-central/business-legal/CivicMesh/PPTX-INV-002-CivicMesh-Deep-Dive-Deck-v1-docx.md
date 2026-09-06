@@ -6,6 +6,7 @@ original_filename: PPTX-INV-002_CivicMesh_Deep_Dive_Deck_v1.docx
 created_at: 2026-06-01T11:32:18.659510+00:00
 content_hash: 9d55294db449
 topic: dcentral-presentation-decks
+consolidated_into: docs/DC-DCENTRAL-PRESENTATION-DECKS-RECONCILED-001.md
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

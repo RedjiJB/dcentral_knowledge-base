@@ -6,6 +6,7 @@ original_filename: CIPHER_MODULE_GUIDE.md
 created_at: 2025-11-28T23:43:28.148161+00:00
 content_hash: ef3205646859
 topic: chopshop-project-documentation
+consolidated_into: docs/DC-CHOPSHOP-PROJECT-DOCUMENTATION-RECONCILED-001.md
 ---
 
 # Cipher Module Development Guide

@@ -6,6 +6,7 @@ original_filename: haiti_drone_cooperative_framework.md
 created_at: 2025-08-17T21:17:09.366055+00:00
 content_hash: b658f3570b4d
 topic: haiti-integration-platforms
+consolidated_into: docs/DC-HAITI-INTEGRATION-PLATFORMS-RECONCILED-001.md
 ---
 
 # Haiti Security & Infrastructure Cooperative: Complete Operational Framework

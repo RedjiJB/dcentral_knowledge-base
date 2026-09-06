@@ -6,6 +6,7 @@ original_filename: Academic Excellence Module - Comprehensive University Feature
 created_at: 2025-07-10T14:32:11.789786+00:00
 content_hash: baa1863555f7
 topic: digital-community-participation-platforms
+consolidated_into: docs/DC-DIGITAL-COMMUNITY-PARTICIPATION-PLATFORMS-RECONCILED-001.md
 ---
 
 # Academic Excellence Module

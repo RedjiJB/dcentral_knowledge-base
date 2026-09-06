@@ -6,6 +6,7 @@ original_filename: OpenSecure_Hub_Network_Topology.md
 created_at: 2026-03-04T20:34:33.251796+00:00
 content_hash: 48197ec1fe07
 topic: "opensecure-topology-documentation-suite"
+consolidated_into: docs/DC-OPENSECURE-TOPOLOGY-DOCUMENTATION-SUITE-RECONCILED-001.md
 ---
 
 # OpenSecure Hub Network Topology

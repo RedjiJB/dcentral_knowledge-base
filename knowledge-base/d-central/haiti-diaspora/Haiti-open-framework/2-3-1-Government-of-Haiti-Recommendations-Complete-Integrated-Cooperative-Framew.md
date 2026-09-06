@@ -6,6 +6,7 @@ original_filename: 2.3.1 - Government of Haiti Recommendations: Complete Integra
 created_at: 2025-08-16T12:58:05.156789+00:00
 content_hash: 501a345f4103
 topic: haiti-cooperative-resilience-framework
+consolidated_into: docs/DC-HAITI-COOPERATIVE-RESILIENCE-FRAMEWORK-RECONCILED-001.md
 ---
 
 # 2.3.1 – Government of Haiti Recommendations (¶61): Complete Integrated Cooperative Framework

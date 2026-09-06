@@ -6,6 +6,7 @@ original_filename: FediFlow Enterprise: Complete Ecosystem Architecture & Strate
 created_at: 2025-07-10T15:17:40.518269+00:00
 content_hash: e8a98e156f03
 topic: digital-community-participation-platforms
+consolidated_into: docs/DC-DIGITAL-COMMUNITY-PARTICIPATION-PLATFORMS-RECONCILED-001.md
 ---
 
 # FediFlow Enterprise: Complete Ecosystem Architecture & Strategy

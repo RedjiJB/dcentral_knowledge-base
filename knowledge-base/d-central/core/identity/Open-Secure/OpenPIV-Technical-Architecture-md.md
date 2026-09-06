@@ -6,6 +6,7 @@ original_filename: OpenPIV_Technical_Architecture.md
 created_at: 2026-03-04T20:36:57.610093+00:00
 content_hash: bf34d5020639
 topic: opensecure-openpiv-subsystem
+consolidated_into: docs/DC-OPENSECURE-OPENPIV-SUBSYSTEM-RECONCILED-001.md
 ---
 
 # OpenPIV Technical Architecture

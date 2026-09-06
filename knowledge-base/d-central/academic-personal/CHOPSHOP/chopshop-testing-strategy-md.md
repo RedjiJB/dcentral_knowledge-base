@@ -6,6 +6,7 @@ original_filename: chopshop_testing_strategy.md
 created_at: 2025-11-28T23:43:27.857773+00:00
 content_hash: 13a8e53f1c51
 topic: chopshop-project-documentation
+consolidated_into: docs/DC-CHOPSHOP-PROJECT-DOCUMENTATION-RECONCILED-001.md
 ---
 
 # ChopShop-CLI Testing Strategy & Quality Assurance

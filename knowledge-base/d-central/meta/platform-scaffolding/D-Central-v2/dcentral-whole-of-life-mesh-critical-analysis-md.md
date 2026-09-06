@@ -6,6 +6,7 @@ original_filename: dcentral-whole-of-life-mesh-critical-analysis.md
 created_at: 2025-10-29T04:18:21.906696+00:00
 content_hash: 97ecdae8d251
 topic: dcentral-core-narrative-analysis
+consolidated_into: docs/DC-DCENTRAL-CORE-NARRATIVE-ANALYSIS-RECONCILED-001.md
 ---
 
 # D-Central Whole-of-Life Mesh Architecture: Critical Expansion & Analysis

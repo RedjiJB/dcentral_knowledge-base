@@ -6,6 +6,7 @@ original_filename: OS-PATROL-TM-FLEET-001_TrafficMesh_Fleet_Node_Specification_v
 created_at: 2026-06-01T11:32:21.860011+00:00
 content_hash: 79d905d0edc8
 topic: trafficmesh-city-fleet-deployment
+consolidated_into: docs/DC-TRAFFICMESH-CITY-FLEET-RECONCILED-001.md
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

@@ -6,6 +6,7 @@ original_filename: D-Central_Master_Explanation.md
 created_at: 2025-06-08T02:09:56.742682+00:00
 content_hash: 891f2406caba
 topic: dcentral-core-narrative-analysis
+consolidated_into: docs/DC-DCENTRAL-CORE-NARRATIVE-ANALYSIS-RECONCILED-001.md
 ---
 
 ---

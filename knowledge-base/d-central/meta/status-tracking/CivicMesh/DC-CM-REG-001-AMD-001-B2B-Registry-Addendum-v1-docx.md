@@ -6,6 +6,7 @@ original_filename: DC-CM-REG-001-AMD-001_B2B_Registry_Addendum_v1.docx
 created_at: 2026-06-01T11:32:22.171133+00:00
 content_hash: 0d63a7e6b6b9
 topic: "digital-community-participation-platforms"
+consolidated_into: docs/DC-DIGITAL-COMMUNITY-PARTICIPATION-PLATFORMS-RECONCILED-001.md
 ---
 
 DC-CM-REG-001 AMENDMENT 1  |  CivicMesh — B2B Commercial Vehicle Network Addendum  |  May 2026

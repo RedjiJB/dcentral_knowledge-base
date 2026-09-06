@@ -6,6 +6,7 @@ original_filename: api_integration_architecture.md
 created_at: 2025-08-23T03:10:32.362099+00:00
 content_hash: bb2ee10fcd21
 topic: "dion-platform-api-backend-architecture"
+consolidated_into: docs/DC-DION-API-BACKEND-RECONCILED-001.md
 ---
 
 # API, Webhook, GraphQL, GraphRAG & MCP Integration Architecture

@@ -7,6 +7,7 @@ created_at: 2025-06-06T17:45:57.306436+00:00
 content_hash: 2c2ba30800bf
 topic: dcentral-obcc-sector-implementation
 topic: "mesh-food-economy-business-models"
+consolidated_into: [docs/DC-MESH-FOOD-ECONOMY-RECONCILED-001.md, docs/DC-OBCC-SECTOR-RECONCILED-001.md]
 ---
 
 # D Central Comprehensive Sector & Business Integration Matrix

@@ -6,6 +6,7 @@ original_filename: dcentral-creator-economy-telecom-critical-analysis.md
 created_at: 2025-10-29T04:44:54.918402+00:00
 content_hash: 8501bdd55b64
 topic: dcentral-economic-model-critiques
+consolidated_into: docs/DC-ECONOMIC-CRITIQUES-RECONCILED-001.md
 ---
 
 # D-Central Creator Economy & Telecommunications: Critical Analysis

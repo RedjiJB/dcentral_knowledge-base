@@ -6,6 +6,7 @@ original_filename: LOAN-CM-002_ISC_Phase2_Application_Framework_v1.docx
 created_at: 2026-06-01T11:32:20.661589+00:00
 content_hash: 40e004ba15a6
 topic: civicmesh-isc-loan-application
+consolidated_into: docs/DC-CM-ISC-LOAN-RECONCILED-001.md
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

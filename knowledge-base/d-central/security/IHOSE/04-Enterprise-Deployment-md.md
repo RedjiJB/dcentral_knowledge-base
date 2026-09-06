@@ -7,6 +7,7 @@ created_at: 2025-12-02T00:47:55.903097+00:00
 content_hash: 2ef2b76fd7f9
 topic: ihose-deployment-infrastructure
 topic: "ihose-openvision-documentation-package"
+consolidated_into: [docs/DC-IHOSE-DEPLOYMENT-INFRA-RECONCILED-001.md, docs/DC-IHOSE-OPENVISION-DOCUMENTATION-PACKAGE-RECONCILED-001.md]
 ---
 
 # OpenVision Platform

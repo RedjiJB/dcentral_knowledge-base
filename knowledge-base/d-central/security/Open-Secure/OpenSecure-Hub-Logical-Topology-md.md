@@ -6,6 +6,7 @@ original_filename: OpenSecure_Hub_Logical_Topology.md
 created_at: 2026-03-04T20:34:32.742894+00:00
 content_hash: 05d06b1b5704
 topic: "opensecure-topology-documentation-suite"
+consolidated_into: docs/DC-OPENSECURE-TOPOLOGY-DOCUMENTATION-SUITE-RECONCILED-001.md
 ---
 
 # OpenSecure Hub Logical Topology

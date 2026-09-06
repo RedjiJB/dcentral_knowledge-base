@@ -6,6 +6,7 @@ original_filename: D-Central: Complete Fractal DAO Governance Architecture.md
 created_at: 2025-10-14T03:51:48.504082+00:00
 content_hash: 103c6f589ff1
 topic: dcentral-core-narrative-analysis
+consolidated_into: docs/DC-DCENTRAL-CORE-NARRATIVE-ANALYSIS-RECONCILED-001.md
 ---
 
 # D-Central: Complete Fractal DAO Governance Architecture

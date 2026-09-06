@@ -7,6 +7,7 @@ created_at: 2026-03-04T20:33:40.303754+00:00
 content_hash: 341301480efc
 topic: opensecure-patrol-sentinel-implementation
 topic: "opensecure-per-service-implementation-guides"
+consolidated_into: [docs/DC-OPENSECURE-PATROL-SENTINEL-IMPL-RECONCILED-001.md, docs/DC-OPENSECURE-PER-SERVICE-IMPL-GUIDES-RECONCILED-001.md]
 ---
 
 # OS-PATROL Implementation Guide

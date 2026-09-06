@@ -7,6 +7,7 @@ created_at: 2026-06-01T11:32:18.691806+00:00
 content_hash: 2413308ca4bb
 topic: dcentral-competitive-strategy-analysis
 topic: "civicmesh-competitive-analysis"
+consolidated_into: [docs/DC-CM-COMPETITIVE-RECONCILED-001.md, docs/DC-COMPETITIVE-STRATEGY-RECONCILED-001.md]
 ---
 
 **D-Central Group  |  Confidential**	Section 1 — Group Strategy & Corporate Narrative

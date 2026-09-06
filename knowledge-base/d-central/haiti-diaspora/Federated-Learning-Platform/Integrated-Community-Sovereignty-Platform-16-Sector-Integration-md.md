@@ -6,6 +6,7 @@ original_filename: Integrated Community Sovereignty Platform: 16-Sector Integrat
 created_at: 2025-07-25T19:19:28.630534+00:00
 content_hash: 4d29d23118c6
 topic: "federated-learning-platform-community-sovereignty-cooperative"
+consolidated_into: docs/DC-FLP-SOVEREIGNTY-RECONCILED-001.md
 ---
 
 # Integrated Community Sovereignty Platform: 16-Sector Critical Infrastructure Integration

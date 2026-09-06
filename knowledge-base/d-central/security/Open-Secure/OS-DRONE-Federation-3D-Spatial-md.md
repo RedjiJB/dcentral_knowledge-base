@@ -6,6 +6,7 @@ original_filename: OS-DRONE_Federation_3D_Spatial.md
 created_at: 2026-03-05T13:49:35.439296+00:00
 content_hash: bfd7f88691e2
 topic: opensecure-os-drone-advanced-capabilities
+consolidated_into: docs/DC-OPENSECURE-OS-DRONE-ADVANCED-RECONCILED-001.md
 ---
 
 # OS-DRONE Federation & 3D Spatial Intelligence

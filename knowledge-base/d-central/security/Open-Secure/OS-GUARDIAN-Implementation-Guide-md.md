@@ -6,6 +6,7 @@ original_filename: OS-GUARDIAN_Implementation_Guide.md
 created_at: 2026-03-04T20:35:37.555622+00:00
 content_hash: 3fad9f925c4e
 topic: "opensecure-per-service-implementation-guides"
+consolidated_into: docs/DC-OPENSECURE-PER-SERVICE-IMPL-GUIDES-RECONCILED-001.md
 ---
 
 # OS-GUARDIAN Implementation Guide

@@ -6,6 +6,7 @@ doc_id: DC-SIM-002
 description: 'Topology and build specification with node inventory and compute sizing'
 extraction_method: conversation-artifact (create_file tool-use block, never uploaded to a Project KB)
 topic: "dcentral-simulation-lab-programme"
+consolidated_into: docs/DC-DCENTRAL-SIMULATION-LAB-RECONCILED-001.md
 ---
 
 # DC-SIM-002 — Topology & Build Specification

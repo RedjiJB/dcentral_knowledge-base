@@ -6,6 +6,7 @@ original_filename: FIN-COOP-001_Cooperative_Patronage_Distribution_Model_v1.docx
 created_at: 2026-06-01T11:32:20.633968+00:00
 content_hash: 0011f8edfa9a
 topic: civicmesh-cooperative-finance-regulatory
+consolidated_into: docs/DC-CM-COOP-FINANCE-RECONCILED-001.md
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

@@ -6,6 +6,7 @@ original_filename: 05-Hardware-Specifications.md
 created_at: 2025-12-02T00:47:55.747409+00:00
 content_hash: e2febd8569a7
 topic: ihose-hardware-bom
+consolidated_into: docs/DC-IHOSE-HARDWARE-BOM-RECONCILED-001.md
 ---
 
 # OpenVision Platform

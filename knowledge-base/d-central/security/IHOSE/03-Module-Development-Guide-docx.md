@@ -7,6 +7,7 @@ created_at: 2025-12-02T00:47:55.481964+00:00
 content_hash: 8f4d5286535f
 topic: ihose-module-development
 topic: "ihose-openvision-documentation-package"
+consolidated_into: [docs/DC-IHOSE-MODULE-DEV-RECONCILED-001.md, docs/DC-IHOSE-OPENVISION-DOCUMENTATION-PACKAGE-RECONCILED-001.md]
 ---
 
 OpenVision Platform

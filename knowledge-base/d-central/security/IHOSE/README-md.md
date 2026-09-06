@@ -6,6 +6,7 @@ original_filename: README.md
 created_at: 2025-12-02T00:47:53.883120+00:00
 content_hash: 7d314f7879b3
 topic: "ihose-openvision-documentation-package"
+consolidated_into: docs/DC-IHOSE-OPENVISION-DOCUMENTATION-PACKAGE-RECONCILED-001.md
 ---
 
 # OpenVision Platform: Enterprise CCTV & IoT Integration Ecosystem

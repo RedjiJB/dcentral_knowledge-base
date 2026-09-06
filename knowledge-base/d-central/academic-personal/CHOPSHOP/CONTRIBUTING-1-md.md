@@ -6,6 +6,7 @@ original_filename: CONTRIBUTING(1).md
 created_at: 2025-11-28T23:43:28.439354+00:00
 content_hash: 79bae8805607
 topic: chopshop-project-documentation
+consolidated_into: docs/DC-CHOPSHOP-PROJECT-DOCUMENTATION-RECONCILED-001.md
 ---
 
 # Contributing to ChopShop-CLI

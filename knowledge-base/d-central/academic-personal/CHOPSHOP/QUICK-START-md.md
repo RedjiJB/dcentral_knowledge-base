@@ -6,6 +6,7 @@ original_filename: QUICK_START.md
 created_at: 2025-11-28T23:43:31.217685+00:00
 content_hash: 97288d933cf0
 topic: chopshop-project-documentation
+consolidated_into: docs/DC-CHOPSHOP-PROJECT-DOCUMENTATION-RECONCILED-001.md
 ---
 
 # ChopShop-CLI Quick Start Guide

@@ -6,6 +6,7 @@ original_filename: EXECUTIVE_SUMMARY.md
 created_at: 2025-11-28T23:43:29.923130+00:00
 content_hash: 99ed872152e1
 topic: chopshop-project-documentation
+consolidated_into: docs/DC-CHOPSHOP-PROJECT-DOCUMENTATION-RECONCILED-001.md
 ---
 
 # ChopShop-CLI Documentation Package - Executive Summary

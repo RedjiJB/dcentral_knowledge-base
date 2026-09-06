@@ -6,6 +6,7 @@ original_filename: Provincial_PIV_Infrastructure_Integration.md
 created_at: 2026-03-04T20:38:02.587076+00:00
 content_hash: 7d5cecfd93c1
 topic: opensecure-provincial-security-network
+consolidated_into: docs/DC-OPENSECURE-PROVINCIAL-PIV-CREDENTIAL-RECONCILED-001.md
 ---
 
 # Provincial PIV Infrastructure Integration

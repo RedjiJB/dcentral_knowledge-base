@@ -6,6 +6,7 @@ original_filename: Multi Sector Development
 created_at: 2025-07-08T22:45:08.803544+00:00
 content_hash: 555ef40a3c06
 topic: haiti-integration-platforms
+consolidated_into: docs/DC-HAITI-INTEGRATION-PLATFORMS-RECONCILED-001.md
 ---
 
 ## 9. Long-Term Vision and Impact (continued)

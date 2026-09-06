@@ -6,6 +6,7 @@ original_filename: 2.2.1 - Inter-Sector Crisis Cascades: Complete Integrated Coo
 created_at: 2025-08-15T20:42:09.185765+00:00
 content_hash: b50395044a9b
 topic: haiti-cooperative-resilience-framework
+consolidated_into: docs/DC-HAITI-COOPERATIVE-RESILIENCE-FRAMEWORK-RECONCILED-001.md
 ---
 
 # 2.2.1 – Inter-Sector Crisis Cascades: Complete Integrated Cooperative Framework

@@ -6,6 +6,7 @@ original_filename: federated_hybrid_integration.md
 created_at: 2025-08-23T03:10:32.902768+00:00
 content_hash: 7a5cc5d960f8
 topic: "dion-platform-api-backend-architecture"
+consolidated_into: docs/DC-DION-API-BACKEND-RECONCILED-001.md
 ---
 
 # Federated Learning & Hybrid Cloud Computing Mesh Integration

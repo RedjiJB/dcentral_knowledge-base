@@ -6,6 +6,7 @@ original_filename: Universal TDP and Derivative Markets Framework.md
 created_at: 2025-08-03T17:11:55.465023+00:00
 content_hash: b8162c35ff42
 topic: "federated-learning-platform-community-sovereignty-cooperative"
+consolidated_into: docs/DC-FLP-SOVEREIGNTY-RECONCILED-001.md
 ---
 
 # Universal TDP and Derivative Markets Framework

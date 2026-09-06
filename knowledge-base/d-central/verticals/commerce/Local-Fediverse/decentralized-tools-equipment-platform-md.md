@@ -6,6 +6,7 @@ original_filename: decentralized_tools_equipment_platform.md
 created_at: 2025-07-16T23:25:17.534591+00:00
 content_hash: a6b657b97865
 topic: digital-community-participation-platforms
+consolidated_into: docs/DC-DIGITAL-COMMUNITY-PARTICIPATION-PLATFORMS-RECONCILED-001.md
 ---
 
 # Decentralized Community Tools & Equipment Sharing Platform

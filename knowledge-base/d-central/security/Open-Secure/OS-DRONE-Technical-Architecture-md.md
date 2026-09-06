@@ -7,6 +7,7 @@ created_at: 2026-03-05T13:51:06.389642+00:00
 content_hash: b2ef79dfc8f3
 topic: opensecure-os-drone-subsystem
 topic: "opensecure-topology-documentation-suite"
+consolidated_into: [docs/DC-OPENSECURE-OS-DRONE-RECONCILED-001.md, docs/DC-OPENSECURE-TOPOLOGY-DOCUMENTATION-SUITE-RECONCILED-001.md]
 ---
 
 # OS-DRONE — Complete Technical Architecture

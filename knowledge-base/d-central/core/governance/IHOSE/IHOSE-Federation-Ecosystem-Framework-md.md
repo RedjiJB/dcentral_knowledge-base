@@ -6,6 +6,7 @@ original_filename: IHOSE_Federation_Ecosystem_Framework.md
 created_at: 2025-11-10T23:43:14.240150+00:00
 content_hash: 810034ad3f58
 topic: "ihose-federation-ecosystem-partnership-framework"
+consolidated_into: docs/DC-IHOSE-FEDERATION-ECOSYSTEM-RECONCILED-001.md
 ---
 
 # Iron Horse Security - Federation & Ecosystem Framework

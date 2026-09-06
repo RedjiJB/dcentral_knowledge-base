@@ -6,6 +6,7 @@ original_filename: IHOSE_C4_Architecture_Models.md
 created_at: 2025-11-10T23:32:11.416306+00:00
 content_hash: 7517923c2c80
 topic: ihose-architecture-deployment
+consolidated_into: docs/DC-IHOSE-ARCHITECTURE-DEPLOYMENT-RECONCILED-001.md
 ---
 
 # Iron Horse Security (IHOSE)

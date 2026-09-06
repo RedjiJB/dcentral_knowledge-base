@@ -6,6 +6,7 @@ original_filename: OS-PATROL_Network_Topology.md
 created_at: 2026-03-04T20:33:41.219570+00:00
 content_hash: 82a4ea977951
 topic: "opensecure-topology-documentation-suite"
+consolidated_into: docs/DC-OPENSECURE-TOPOLOGY-DOCUMENTATION-SUITE-RECONCILED-001.md
 ---
 
 # OS-PATROL Network Topology

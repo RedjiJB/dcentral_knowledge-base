@@ -6,6 +6,7 @@ original_filename: DC-CM-B2B-003_Platform_Driver_Programme_Specification_v1.docx
 created_at: 2026-06-01T11:32:22.422887+00:00
 content_hash: 515c9e0ee852
 topic: commercial-b2b-vehicle-fleet-programme
+consolidated_into: docs/DC-CM-COMMERCIAL-B2B-VEHICLE-FLEET-RECONCILED-001.md
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

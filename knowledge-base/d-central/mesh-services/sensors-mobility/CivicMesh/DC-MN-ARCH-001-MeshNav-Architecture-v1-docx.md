@@ -6,6 +6,7 @@ original_filename: DC-MN-ARCH-001_MeshNav_Architecture_v1.docx
 created_at: 2026-06-01T11:32:21.854234+00:00
 content_hash: bd09238d65a2
 topic: meshnav-architecture-data-pipeline
+consolidated_into: docs/DC-MESHNAV-RECONCILED-001.md
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

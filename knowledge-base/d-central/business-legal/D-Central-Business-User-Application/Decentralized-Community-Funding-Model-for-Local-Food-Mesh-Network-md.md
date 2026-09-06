@@ -6,6 +6,7 @@ original_filename: Decentralized Community Funding Model for Local Food Mesh Net
 created_at: 2025-06-06T00:59:27.278446+00:00
 content_hash: a984337c787a
 topic: "mesh-food-economy-business-models"
+consolidated_into: docs/DC-MESH-FOOD-ECONOMY-RECONCILED-001.md
 ---
 
 # Decentralized Community Funding Model for Local Food Mesh Network

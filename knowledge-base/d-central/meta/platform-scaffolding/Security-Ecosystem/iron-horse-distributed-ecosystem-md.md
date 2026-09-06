@@ -6,6 +6,7 @@ original_filename: iron-horse-distributed-ecosystem.md
 created_at: 2025-11-09T01:31:28.036565+00:00
 content_hash: a10a4f0890c2
 topic: security-ecosystem-sector-platforms
+consolidated_into: docs/DC-SECURITY-ECOSYSTEM-SECTOR-PLATFORMS-RECONCILED-001.md
 ---
 
 # Iron Horse Security - Distributed Ecosystem Architecture

@@ -6,6 +6,7 @@ original_filename: expanded_section_2.md
 created_at: 2025-08-16T16:32:10.368880+00:00
 content_hash: e2c2edacef93
 topic: haiti-cooperative-resilience-framework
+consolidated_into: docs/DC-HAITI-COOPERATIVE-RESILIENCE-FRAMEWORK-RECONCILED-001.md
 ---
 
 # 2.1.1 Integrated Security, Climate, and Governance Crisis - Complete Technical Framework with GraphQL & GraphRAG and Advanced Autonomous Intelligence

@@ -6,6 +6,7 @@ original_filename: 2.1.4 - Food Security Crisis: Complete Integrated Cooperative
 created_at: 2025-08-15T19:59:21.905613+00:00
 content_hash: af65f6f20c54
 topic: haiti-cooperative-resilience-framework
+consolidated_into: docs/DC-HAITI-COOPERATIVE-RESILIENCE-FRAMEWORK-RECONCILED-001.md
 ---
 
 # 2.1.4 – Food Security Crisis: Complete Integrated Cooperative Framework

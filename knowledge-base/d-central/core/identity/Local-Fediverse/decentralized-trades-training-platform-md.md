@@ -6,6 +6,7 @@ original_filename: decentralized_trades_training_platform.md
 created_at: 2025-07-16T23:25:09.060068+00:00
 content_hash: 51df5f9538d1
 topic: digital-community-participation-platforms
+consolidated_into: docs/DC-DIGITAL-COMMUNITY-PARTICIPATION-PLATFORMS-RECONCILED-001.md
 ---
 
 # Decentralized Community Trades Training & Certification Platform

@@ -6,6 +6,7 @@ original_filename: IHOSE_DataFlow_API_DevSecOps_Specification.md
 created_at: 2025-11-10T23:32:22.615832+00:00
 content_hash: 586a40269f1f
 topic: "ihose-openvision-documentation-package"
+consolidated_into: docs/DC-IHOSE-OPENVISION-DOCUMENTATION-PACKAGE-RECONCILED-001.md
 ---
 
 # Iron Horse Security - Data Flow & DevSecOps Pipeline Specification

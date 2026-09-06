@@ -6,6 +6,7 @@ original_filename: Comptia A+ {Master Platform}
 created_at: 2025-04-29T21:44:09.769262+00:00
 content_hash: 8aa9b17152bd
 topic: comptia-a-learning-platform
+consolidated_into: docs/DC-COMPTIA-A-PLATFORM-RECONCILED-001.md
 ---
 
 # CompTIA A+ Master

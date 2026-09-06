@@ -6,6 +6,7 @@ original_filename: dcentral-workforce-commerce-mlm-critical-analysis.md
 created_at: 2025-10-29T12:31:18.140336+00:00
 content_hash: 642965257c14
 topic: dcentral-economic-model-critiques
+consolidated_into: docs/DC-ECONOMIC-CRITIQUES-RECONCILED-001.md
 ---
 
 # D-Central Workforce, Commerce & MLM Network: Comprehensive Expansion & Critical Analysis

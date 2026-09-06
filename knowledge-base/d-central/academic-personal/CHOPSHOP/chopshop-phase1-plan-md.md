@@ -6,6 +6,7 @@ original_filename: chopshop_phase1_plan.md
 created_at: 2025-11-28T23:43:26.673303+00:00
 content_hash: d9e3a3550984
 topic: chopshop-project-documentation
+consolidated_into: docs/DC-CHOPSHOP-PROJECT-DOCUMENTATION-RECONCILED-001.md
 ---
 
 # ChopShop-CLI Phase 1 Implementation Plan

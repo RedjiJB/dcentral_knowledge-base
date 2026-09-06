@@ -6,6 +6,7 @@ original_filename: haiti_education_federation.md
 created_at: 2025-07-25T17:58:38.146444+00:00
 content_hash: 8d0ed4fa8ee8
 topic: blockchain-education-federation
+consolidated_into: docs/DC-BLOCKCHAIN-EDUCATION-FEDERATION-RECONCILED-001.md
 ---
 
 # Federated Educational Network Framework for Haiti

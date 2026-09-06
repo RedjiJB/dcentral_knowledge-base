@@ -6,6 +6,7 @@ original_filename: INV-006_D-Central_Cooperative_Economy_Investor_Thesis_v1.docx
 created_at: 2026-06-01T11:32:22.137165+00:00
 content_hash: 7ca8387f99c8
 topic: dcentral-competitive-strategy-analysis
+consolidated_into: docs/DC-COMPETITIVE-STRATEGY-RECONCILED-001.md
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

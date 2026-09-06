@@ -6,6 +6,7 @@ original_filename: DC-CM-CERT-001_Technician_Certification_Programme_v1.docx
 created_at: 2026-06-01T11:32:21.537630+00:00
 content_hash: a3427da4791b
 topic: civicmesh-technician-certification-training
+consolidated_into: docs/DC-CM-TECHNICIAN-CERT-RECONCILED-001.md
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

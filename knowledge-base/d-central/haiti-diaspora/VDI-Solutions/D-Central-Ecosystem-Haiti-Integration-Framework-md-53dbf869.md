@@ -9,6 +9,7 @@ status: disputed
 conflicts_with: "D-Central-Ecosystem-Haiti-Integration-Framework-md.md [unresolved during reconciliation -- old path, target not found in new tree]"
 unresolved_reason: Identical title and opening TOC, but the LATER upload (53dbf869, 19:36) is less than half the size of the EARLIER one (19:35, 130812 chars) -- contradicts the recency-implies-superset pattern every other pair in this batch fit. No explicit correction language, no engagement evidence either direction. Per DC-DEDUP-STD-001 SS4, this is a genuine 'no basis to prefer one' case, not a failure to resolve.
 topic: haiti-integration-platforms
+consolidated_into: docs/DC-HAITI-INTEGRATION-PLATFORMS-RECONCILED-001.md
 ---
 
 # D Central Ecosystem: Haiti Integration Framework

@@ -7,6 +7,7 @@ created_at: 2025-08-23T15:52:44.582067+00:00
 content_hash: 16c5cf02e927
 reconciliation_note: Superseded on the identity/credential/governance/token layer -- see docs/DC-DION-RECONCILED-001.md for the full consolidated reconciliation against docs/DC-AGENT-CREDENTIAL-001.md and docs/DC-DAO-AGENT-LOOP-001.md.
 topic: "dion-operator-deployment-credentialing"
+consolidated_into: docs/DC-DION-OPERATOR-DEPLOYMENT-RECONCILED-001.md
 ---
 
 # D Central Intelligence & Operator Network: Complete Platform Blueprint

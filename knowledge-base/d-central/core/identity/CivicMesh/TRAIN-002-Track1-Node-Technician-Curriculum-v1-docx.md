@@ -6,6 +6,7 @@ original_filename: TRAIN-002_Track1_Node_Technician_Curriculum_v1.docx
 created_at: 2026-06-01T11:32:19.270823+00:00
 content_hash: 86f17a82b811
 topic: civicmesh-technician-certification-training
+consolidated_into: docs/DC-CM-TECHNICIAN-CERT-RECONCILED-001.md
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

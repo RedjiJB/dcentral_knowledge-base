@@ -6,6 +6,7 @@ original_filename: comprehensive_government_public_sector_analysis.md
 created_at: 2025-07-18T15:22:12.538460+00:00
 content_hash: 427fe1cbde44
 topic: "federated-learning-platform-community-sovereignty-cooperative"
+consolidated_into: docs/DC-FLP-SOVEREIGNTY-RECONCILED-001.md
 ---
 
 # Complete Government & Public Sector Cooperative Analysis

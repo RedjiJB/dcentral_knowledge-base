@@ -6,6 +6,7 @@ original_filename: DC-CM-INS-001_Insurance_Integration_Specification_v1.docx
 created_at: 2026-06-01T11:32:22.296098+00:00
 content_hash: a8d84e3aec36
 topic: trafficmesh-insurance-integration-revenue
+consolidated_into: docs/DC-TRAFFICMESH-INSURANCE-INTEGRATION-RECONCILED-001.md
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

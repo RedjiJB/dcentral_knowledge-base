@@ -6,6 +6,7 @@ original_filename: OS-CONCIERGE_Network_Topology.md
 created_at: 2026-03-04T20:35:00.334637+00:00
 content_hash: 5c73d1f049b9
 topic: opensecure-os-concierge-topology
+consolidated_into: docs/DC-OPENSECURE-OS-CONCIERGE-TOPOLOGY-RECONCILED-001.md
 ---
 
 # OS-CONCIERGE Network Topology

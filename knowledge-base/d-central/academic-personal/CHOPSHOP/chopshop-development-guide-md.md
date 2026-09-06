@@ -6,6 +6,7 @@ original_filename: chopshop_development_guide.md
 created_at: 2025-11-28T23:43:26.245870+00:00
 content_hash: 12c9259d55fb
 topic: chopshop-project-documentation
+consolidated_into: docs/DC-CHOPSHOP-PROJECT-DOCUMENTATION-RECONCILED-001.md
 ---
 
 # ChopShop-CLI Development Guide

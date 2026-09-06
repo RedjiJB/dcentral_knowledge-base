@@ -7,6 +7,7 @@ created_at: 2025-12-02T00:47:54.681155+00:00
 content_hash: 6dfd1de39e8a
 topic: ihose-business-summaries
 topic: "ihose-openvision-documentation-package"
+consolidated_into: [docs/DC-IHOSE-BUSINESS-SUMMARIES-RECONCILED-001.md, docs/DC-IHOSE-OPENVISION-DOCUMENTATION-PACKAGE-RECONCILED-001.md]
 ---
 
 # OpenVision Platform - Executive Summary

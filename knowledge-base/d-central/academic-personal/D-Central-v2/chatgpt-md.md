@@ -6,6 +6,7 @@ original_filename: chatgpt.md
 created_at: 2025-10-13T19:28:45.211432+00:00
 content_hash: 835e78a28ea6
 topic: dcentral-core-narrative-analysis
+consolidated_into: docs/DC-DCENTRAL-CORE-NARRATIVE-ANALYSIS-RECONCILED-001.md
 ---
 
 Skip to content

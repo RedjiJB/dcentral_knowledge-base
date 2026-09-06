@@ -7,6 +7,7 @@ created_at: 2026-06-01T11:32:20.281379+00:00
 content_hash: 26fb1abb7f8c
 topic: civicmesh-trafficmesh-grant-funding-applications
 topic: "civicmesh-government-funding-applications"
+consolidated_into: [docs/DC-CM-GOV-FUNDING-RECONCILED-001.md, docs/DC-CM-TM-GRANT-FUNDING-RECONCILED-001.md]
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

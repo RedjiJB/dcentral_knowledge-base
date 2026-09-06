@@ -6,6 +6,7 @@ original_filename: TOPOLOGY_SUITE_SUMMARY.md
 created_at: 2026-03-04T20:36:03.424908+00:00
 content_hash: d67f283ad580
 topic: "opensecure-topology-documentation-suite"
+consolidated_into: docs/DC-OPENSECURE-TOPOLOGY-DOCUMENTATION-SUITE-RECONCILED-001.md
 ---
 
 # OpenSecure Topology Documentation Suite

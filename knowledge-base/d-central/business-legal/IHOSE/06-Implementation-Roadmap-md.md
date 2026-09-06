@@ -6,6 +6,7 @@ original_filename: 06-Implementation-Roadmap.md
 created_at: 2025-12-02T00:47:53.897624+00:00
 content_hash: 8f375d96620d
 topic: "ihose-business-strategy-documents"
+consolidated_into: docs/DC-IHOSE-BUSINESS-STRATEGY-RECONCILED-001.md
 ---
 
 # OpenVision Platform

@@ -6,6 +6,7 @@ original_filename: ARCHITECTURE.md
 created_at: 2025-11-28T23:43:22.432900+00:00
 content_hash: cf66b9edbc0e
 topic: chopshop-project-documentation
+consolidated_into: docs/DC-CHOPSHOP-PROJECT-DOCUMENTATION-RECONCILED-001.md
 ---
 
 # ChopShop-CLI Architecture Document

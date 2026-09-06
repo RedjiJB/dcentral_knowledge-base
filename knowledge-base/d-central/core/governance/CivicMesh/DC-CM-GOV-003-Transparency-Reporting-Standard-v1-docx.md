@@ -6,6 +6,7 @@ original_filename: DC-CM-GOV-003_Transparency_Reporting_Standard_v1.docx
 created_at: 2026-06-01T11:32:21.594645+00:00
 content_hash: 86e87824adde
 topic: civicmesh-governance-audit-transparency
+consolidated_into: docs/DC-CM-AUDIT-TRANSPARENCY-RECONCILED-001.md
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

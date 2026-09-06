@@ -6,6 +6,7 @@ original_filename: IHOSE_C4_Architecture_Models_Part2.md
 created_at: 2025-11-10T23:32:16.594092+00:00
 content_hash: 7b0ab3e61e88
 topic: ihose-architecture-deployment
+consolidated_into: docs/DC-IHOSE-ARCHITECTURE-DEPLOYMENT-RECONCILED-001.md
 ---
 
 # IHOSE C4 Architecture Models (Part 2)

@@ -6,6 +6,7 @@ doc_id: DC-SIM-003
 description: 'DC-OS Buildroot dual-architecture build specification'
 extraction_method: conversation-artifact (create_file tool-use block, never uploaded to a Project KB)
 topic: "dcentral-simulation-lab-programme"
+consolidated_into: docs/DC-DCENTRAL-SIMULATION-LAB-RECONCILED-001.md
 ---
 
 # DC-SIM-003 — DC-OS Build Specification

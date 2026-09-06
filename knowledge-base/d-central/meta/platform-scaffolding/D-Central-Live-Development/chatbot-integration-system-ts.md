@@ -6,6 +6,7 @@ original_filename: chatbot_integration_system.ts
 created_at: 2025-06-03T18:38:57.484379+00:00
 content_hash: 87a11c58dea9
 topic: livestream-overlay-chatbot-system
+consolidated_into: docs/DC-LIVESTREAM-OVERLAY-RECONCILED-001.md
 ---
 
 // D Central Interactive Development Chatbot

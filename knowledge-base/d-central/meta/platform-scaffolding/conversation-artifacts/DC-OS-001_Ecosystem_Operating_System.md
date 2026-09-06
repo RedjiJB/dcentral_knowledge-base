@@ -6,6 +6,7 @@ doc_id: DC-OS-001
 description: 'DC-OS-001: The D-Central Ecosystem Operating System, node-native and orb-native master spec'
 extraction_method: conversation-artifact (create_file tool-use block, never uploaded to a Project KB)
 topic: "dcentral-developer-ecosystem-os-specs"
+consolidated_into: docs/DC-DEV-OS-RECONCILED-001.md
 ---
 
 # DC-OS-001 — D-Central Ecosystem Operating System

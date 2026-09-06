@@ -6,6 +6,7 @@ original_filename: README(2).md
 created_at: 2025-11-28T23:43:31.439689+00:00
 content_hash: ff48abd66166
 topic: chopshop-project-documentation
+consolidated_into: docs/DC-CHOPSHOP-PROJECT-DOCUMENTATION-RECONCILED-001.md
 ---
 
 # ChopShop-CLI Documentation Suite

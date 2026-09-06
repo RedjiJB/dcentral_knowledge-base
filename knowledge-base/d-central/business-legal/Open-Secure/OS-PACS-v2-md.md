@@ -6,6 +6,7 @@ original_filename: OS-PACS v2.md
 created_at: 2026-03-04T20:32:34.925468+00:00
 content_hash: 674329bdf323
 topic: security-ecosystem-sector-platforms
+consolidated_into: docs/DC-SECURITY-ECOSYSTEM-SECTOR-PLATFORMS-RECONCILED-001.md
 ---
 
 # **How Security Firms Profit with OS-PACS**

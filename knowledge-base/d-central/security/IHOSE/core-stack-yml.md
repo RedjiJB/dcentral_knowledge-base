@@ -6,6 +6,7 @@ original_filename: core-stack.yml
 created_at: 2025-12-02T00:47:54.281538+00:00
 content_hash: ba11b9a30327
 topic: "ihose-openvision-documentation-package"
+consolidated_into: docs/DC-IHOSE-OPENVISION-DOCUMENTATION-PACKAGE-RECONCILED-001.md
 ---
 
 # Docker Compose - SMB Deployment

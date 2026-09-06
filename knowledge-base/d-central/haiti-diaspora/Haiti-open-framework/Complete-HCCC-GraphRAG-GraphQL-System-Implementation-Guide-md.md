@@ -6,6 +6,7 @@ original_filename: Complete HCCC GraphRAG & GraphQL System Implementation Guide.
 created_at: 2025-08-16T18:58:05.203187+00:00
 content_hash: 74e63dcc229b
 topic: haiti-graphrag-graphql-system
+consolidated_into: docs/DC-HCCC-GRAPHRAG-RECONCILED-001.md
 ---
 
 # Complete HCCC GraphRAG & GraphQL System Implementation Guide

@@ -7,6 +7,7 @@ created_at: 2026-03-04T20:34:07.625203+00:00
 content_hash: 459eff6ded7b
 topic: security-ecosystem-sector-platforms
 topic: "opensecure-sector-use-case-analyses"
+consolidated_into: [docs/DC-OPENSECURE-SECTOR-USE-CASE-RECONCILED-001.md, docs/DC-SECURITY-ECOSYSTEM-SECTOR-PLATFORMS-RECONCILED-001.md]
 ---
 
 # Comprehensive OS-SENTINEL Platform Application Framework

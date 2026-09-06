@@ -6,6 +6,7 @@ original_filename: bom-enterprise.md
 created_at: 2025-12-02T00:47:54.249206+00:00
 content_hash: 7bee1bc34cb4
 topic: ihose-hardware-bom
+consolidated_into: docs/DC-IHOSE-HARDWARE-BOM-RECONCILED-001.md
 ---
 
 # Enterprise Hardware Bill of Materials (BOM)

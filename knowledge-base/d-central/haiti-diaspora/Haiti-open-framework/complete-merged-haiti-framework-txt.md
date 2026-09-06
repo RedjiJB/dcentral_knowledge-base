@@ -6,6 +6,7 @@ original_filename: complete_merged_haiti_framework.txt
 created_at: 2025-08-10T20:38:25.710187+00:00
 content_hash: 29eae04a5980
 topic: haiti-cooperative-resilience-framework
+consolidated_into: docs/DC-HAITI-COOPERATIVE-RESILIENCE-FRAMEWORK-RECONCILED-001.md
 ---
 
 % Complete Enhanced Open-Source Cooperative Resilience Framework for Haiti

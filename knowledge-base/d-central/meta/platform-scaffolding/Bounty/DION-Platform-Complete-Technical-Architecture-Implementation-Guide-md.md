@@ -6,6 +6,7 @@ original_filename: DION Platform: Complete Technical Architecture & Implementati
 created_at: 2025-08-23T15:21:06.987967+00:00
 content_hash: 7b56011ad3ee
 topic: dion-platform-technical-architecture
+consolidated_into: docs/DC-DION-PLATFORM-TECHNICAL-ARCHITECTURE-RECONCILED-001.md
 ---
 
 # DION Platform: Complete Technical Architecture & Implementation Guide

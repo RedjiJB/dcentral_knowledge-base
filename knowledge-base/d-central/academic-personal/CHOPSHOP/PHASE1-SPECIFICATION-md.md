@@ -6,6 +6,7 @@ original_filename: PHASE1_SPECIFICATION.md
 created_at: 2025-11-28T23:43:30.354341+00:00
 content_hash: dbe5bcd5d584
 topic: chopshop-project-documentation
+consolidated_into: docs/DC-CHOPSHOP-PROJECT-DOCUMENTATION-RECONCILED-001.md
 ---
 
 # Phase 1: MVP Foundation - Detailed Specification

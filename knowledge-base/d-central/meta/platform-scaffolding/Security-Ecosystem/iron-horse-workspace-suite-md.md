@@ -6,6 +6,7 @@ original_filename: iron-horse-workspace-suite.md
 created_at: 2025-11-09T01:39:44.771155+00:00
 content_hash: a3b277cb660c
 topic: security-ecosystem-sector-platforms
+consolidated_into: docs/DC-SECURITY-ECOSYSTEM-SECTOR-PLATFORMS-RECONCILED-001.md
 ---
 
 # Iron Horse Workspace Suite

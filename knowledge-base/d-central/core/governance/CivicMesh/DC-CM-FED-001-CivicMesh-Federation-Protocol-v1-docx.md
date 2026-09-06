@@ -6,6 +6,7 @@ original_filename: DC-CM-FED-001_CivicMesh_Federation_Protocol_v1.docx
 created_at: 2026-06-01T11:32:19.139753+00:00
 content_hash: 906950db4d39
 topic: civicmesh-federation-noc-municipal-deployment
+consolidated_into: docs/DC-CIVICMESH-FEDERATION-NOC-MUNICIPAL-RECONCILED-001.md
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

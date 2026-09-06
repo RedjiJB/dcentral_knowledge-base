@@ -6,6 +6,7 @@ original_filename: Mesh Network Business Onboarding Playbook - 90-Day Value Capt
 created_at: 2025-06-06T13:51:19.378685+00:00
 content_hash: 2c4426b78306
 topic: "mesh-cooperative-business-model-framework"
+consolidated_into: docs/DC-MESH-COOPERATIVE-BUSINESS-MODEL-RECONCILED-001.md
 ---
 
 # Mesh Network Business Onboarding Playbook - 90-Day Value Capture Guide

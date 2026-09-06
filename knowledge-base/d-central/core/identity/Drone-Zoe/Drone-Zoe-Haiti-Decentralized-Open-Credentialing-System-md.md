@@ -6,6 +6,7 @@ original_filename: Drone Zoe Haiti - Decentralized Open Credentialing System.md
 created_at: 2025-08-22T16:26:26.284541+00:00
 content_hash: 4dd8be044c2d
 topic: haiti-integration-platforms
+consolidated_into: docs/DC-HAITI-INTEGRATION-PLATFORMS-RECONCILED-001.md
 ---
 
 # DRONE ZOE HAITI

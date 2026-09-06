@@ -6,6 +6,7 @@ original_filename: OpenSecure_Hub_Implementation_Guide.md
 created_at: 2026-03-04T20:34:32.078203+00:00
 content_hash: 5851010d8475
 topic: "opensecure-topology-documentation-suite"
+consolidated_into: docs/DC-OPENSECURE-TOPOLOGY-DOCUMENTATION-SUITE-RECONCILED-001.md
 ---
 
 # OpenSecure Hub Implementation Guide

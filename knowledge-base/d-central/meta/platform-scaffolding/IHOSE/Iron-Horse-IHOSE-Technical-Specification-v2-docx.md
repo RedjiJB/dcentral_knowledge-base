@@ -6,6 +6,7 @@ original_filename: Iron_Horse_IHOSE_Technical_Specification_v2.docx
 created_at: 2025-11-10T02:40:28.513876+00:00
 content_hash: 614e8fb64322
 topic: "ihose-architecture-deployment"
+consolidated_into: docs/DC-IHOSE-ARCHITECTURE-DEPLOYMENT-RECONCILED-001.md
 ---
 
 Iron Horse Security

@@ -7,6 +7,7 @@ created_at: 2025-06-06T17:44:18.172788+00:00
 content_hash: b60d5f35186d
 topic: mesh-cooperative-business-models
 topic: "mesh-cooperative-business-model-framework"
+consolidated_into: [docs/DC-MESH-COOP-BUSINESS-RECONCILED-001.md, docs/DC-MESH-COOPERATIVE-BUSINESS-MODEL-RECONCILED-001.md]
 ---
 
 # Cooperative Infrastructure for Mesh Economy - Background Business Opportunities

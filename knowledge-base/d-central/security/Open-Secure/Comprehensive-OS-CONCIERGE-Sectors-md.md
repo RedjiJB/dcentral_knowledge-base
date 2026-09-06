@@ -7,6 +7,7 @@ created_at: 2026-03-04T20:34:59.240499+00:00
 content_hash: 34d972dac778
 topic: security-ecosystem-sector-platforms
 topic: "opensecure-sector-use-case-analyses"
+consolidated_into: [docs/DC-OPENSECURE-SECTOR-USE-CASE-RECONCILED-001.md, docs/DC-SECURITY-ECOSYSTEM-SECTOR-PLATFORMS-RECONCILED-001.md]
 ---
 
 # Comprehensive OS-CONCIERGE Platform Application Framework

@@ -6,6 +6,7 @@ original_filename: d-central-iot-blueprint.txt
 created_at: 2025-10-13T19:26:30.642609+00:00
 content_hash: 2335bb4238ec
 topic: dcentral-iot-integration-blueprint
+consolidated_into: docs/DC-IOT-BLUEPRINT-RECONCILED-001.md
 ---
 
 ## 1) Comprehensive Device Catalog (Nothing Left Behind)

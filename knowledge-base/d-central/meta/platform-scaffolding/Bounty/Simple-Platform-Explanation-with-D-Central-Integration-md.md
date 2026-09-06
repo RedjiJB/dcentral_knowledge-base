@@ -6,6 +6,7 @@ original_filename: Simple Platform Explanation with D Central Integration.md
 created_at: 2025-08-23T15:53:35.558282+00:00
 content_hash: 31d0301702c8
 topic: "dion-platform-expansion-explanation"
+consolidated_into: docs/DC-DION-EXPANSION-EXPLANATION-RECONCILED-001.md
 ---
 
 # The Intelligence Platform + D Central: Simple Explanation

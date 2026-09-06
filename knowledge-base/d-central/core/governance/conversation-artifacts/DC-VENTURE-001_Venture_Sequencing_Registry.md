@@ -6,6 +6,7 @@ doc_id: DC-VENTURE-001
 description: 'DC-VENTURE-001: Venture sequencing registry document'
 extraction_method: conversation-artifact (create_file tool-use block, never uploaded to a Project KB)
 topic: "dcentral-venture-governance-protocol-suite"
+consolidated_into: docs/DC-VENTURE-GOVERNANCE-PROTOCOL-SUITE-RECONCILED-001.md
 ---
 
 # DC-VENTURE-001 — Venture Sequencing Registry (Track 1: Security-Trades Spine)

@@ -6,6 +6,7 @@ original_filename: DC-CM-B2B-006_Commercial_Platform_API_Integration_Spec_v1.doc
 created_at: 2026-06-01T11:32:19.957670+00:00
 content_hash: a69df90c46fc
 topic: commercial-b2b-vehicle-fleet-programme
+consolidated_into: docs/DC-CM-COMMERCIAL-B2B-VEHICLE-FLEET-RECONCILED-001.md
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

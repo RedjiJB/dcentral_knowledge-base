@@ -6,6 +6,7 @@ original_filename: Chat Context B
 created_at: 2026-06-01T11:31:20.509541+00:00
 content_hash: 56944550101b
 topic: digital-community-participation-platforms
+consolidated_into: docs/DC-DIGITAL-COMMUNITY-PARTICIPATION-PLATFORMS-RECONCILED-001.md
 ---
 
 Claude finished the response

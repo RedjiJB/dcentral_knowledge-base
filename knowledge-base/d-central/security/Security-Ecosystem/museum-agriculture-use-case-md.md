@@ -6,6 +6,7 @@ original_filename: museum-agriculture-use-case.md
 created_at: 2025-11-09T00:09:37.291704+00:00
 content_hash: c24c4d48ce6d
 topic: security-ecosystem-sector-platforms
+consolidated_into: docs/DC-SECURITY-ECOSYSTEM-SECTOR-PLATFORMS-RECONCILED-001.md
 ---
 
 # Iron Horse Security - Client Use Case

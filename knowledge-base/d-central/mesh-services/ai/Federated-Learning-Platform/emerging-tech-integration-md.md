@@ -6,6 +6,7 @@ original_filename: emerging_tech_integration.md
 created_at: 2025-07-25T17:58:37.882377+00:00
 content_hash: e316ae1a243f
 topic: blockchain-education-federation
+consolidated_into: docs/DC-BLOCKCHAIN-EDUCATION-FEDERATION-RECONCILED-001.md
 ---
 
 # Emerging Technology Integration: AI, Blockchain Credentials, Federated Social & Edge Networks

@@ -6,6 +6,7 @@ original_filename: chopshop_roadmap.md
 created_at: 2025-11-28T23:43:27.057338+00:00
 content_hash: 14c958349a5d
 topic: chopshop-project-documentation
+consolidated_into: docs/DC-CHOPSHOP-PROJECT-DOCUMENTATION-RECONCILED-001.md
 ---
 
 # ChopShop-CLI Project Roadmap

@@ -6,6 +6,7 @@ original_filename: Provincial_Security_Reserve_Forces_Integration.md
 created_at: 2026-03-04T20:38:03.172305+00:00
 content_hash: 1ad6896aac9b
 topic: "provincial-security-network-programs"
+consolidated_into: docs/DC-PROVINCIAL-SECURITY-NETWORK-RECONCILED-001.md
 ---
 
 # Provincial Security Reserve Forces Integration Program (PSRFIP)

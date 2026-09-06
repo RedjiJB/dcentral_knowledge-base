@@ -6,6 +6,7 @@ original_filename: haiti-mesh-plan.txt
 created_at: 2025-06-13T21:27:10.018938+00:00
 content_hash: 49c6cde38b7e
 topic: haiti-cooperative-resilience-framework
+consolidated_into: docs/DC-HAITI-COOPERATIVE-RESILIENCE-FRAMEWORK-RECONCILED-001.md
 ---
 
 # Rezilyon Digital: Enhanced Haitian Community Mesh Network

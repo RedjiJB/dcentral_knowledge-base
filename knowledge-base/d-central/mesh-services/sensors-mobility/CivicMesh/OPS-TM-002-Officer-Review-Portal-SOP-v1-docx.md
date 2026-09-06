@@ -6,6 +6,7 @@ original_filename: OPS-TM-002_Officer_Review_Portal_SOP_v1.docx
 created_at: 2026-06-01T11:32:20.342288+00:00
 content_hash: f331296c5b10
 topic: civicmesh-officer-portal-municipal-training
+consolidated_into: docs/DC-CM-OFFICER-PORTAL-RECONCILED-001.md
 ---
 
 **D-Central Group  |  Confidential**	Section 2 — Legal & Corporate Structure

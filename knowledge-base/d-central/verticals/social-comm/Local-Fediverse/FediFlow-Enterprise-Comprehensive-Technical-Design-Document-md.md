@@ -6,6 +6,7 @@ original_filename: FediFlow Enterprise: Comprehensive Technical Design Document.
 created_at: 2025-07-11T00:55:22.955611+00:00
 content_hash: 69f6d7c3699f
 topic: digital-community-participation-platforms
+consolidated_into: docs/DC-DIGITAL-COMMUNITY-PARTICIPATION-PLATFORMS-RECONCILED-001.md
 ---
 
 # FediFlow Enterprise: Comprehensive Technical Design Document

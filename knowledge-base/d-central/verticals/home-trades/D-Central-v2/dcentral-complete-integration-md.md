@@ -6,6 +6,7 @@ original_filename: dcentral-complete-integration.md
 created_at: 2025-10-13T19:26:30.404353+00:00
 content_hash: 689f931efb0d
 topic: dcentral-iot-integration-blueprint
+consolidated_into: docs/DC-IOT-BLUEPRINT-RECONCILED-001.md
 ---
 
 # D-Central Complete Device Integration Matrix

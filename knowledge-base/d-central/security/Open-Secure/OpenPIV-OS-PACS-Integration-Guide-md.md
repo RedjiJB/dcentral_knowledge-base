@@ -7,6 +7,7 @@ created_at: 2026-03-04T20:36:56.701363+00:00
 content_hash: 568e17365ac2
 topic: opensecure-openpiv-subsystem
 topic: "openpiv-pacs-integration-suite"
+consolidated_into: [docs/DC-OPENPIV-PACS-INTEGRATION-RECONCILED-001.md, docs/DC-OPENSECURE-OPENPIV-SUBSYSTEM-RECONCILED-001.md]
 ---
 
 # OpenPIV + OS-PACS Integration Guide

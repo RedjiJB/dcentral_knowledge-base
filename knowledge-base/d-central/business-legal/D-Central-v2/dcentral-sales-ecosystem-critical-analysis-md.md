@@ -6,6 +6,7 @@ original_filename: dcentral-sales-ecosystem-critical-analysis.md
 created_at: 2025-10-29T04:59:09.366199+00:00
 content_hash: 88e88613b15b
 topic: dcentral-core-narrative-analysis
+consolidated_into: docs/DC-DCENTRAL-CORE-NARRATIVE-ANALYSIS-RECONCILED-001.md
 ---
 
 # D-Central Sales & Creator Economy: Comprehensive Expansion & Critical Analysis

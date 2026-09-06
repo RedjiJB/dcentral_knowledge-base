@@ -7,6 +7,7 @@ created_at: 2025-12-02T00:47:53.903873+00:00
 content_hash: 55a3b5b5d462
 topic: ihose-use-cases-business-models
 topic: "ihose-openvision-documentation-package"
+consolidated_into: [docs/DC-IHOSE-OPENVISION-DOCUMENTATION-PACKAGE-RECONCILED-001.md, docs/DC-IHOSE-USE-CASES-RECONCILED-001.md]
 ---
 
 # OpenVision Platform

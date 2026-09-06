@@ -6,6 +6,7 @@ original_filename: Drone Zoe Haiti - Monetization Strategy & Revenue Streams.md
 created_at: 2025-08-22T16:26:43.989258+00:00
 content_hash: 8a5d0e33cddf
 topic: haiti-integration-platforms
+consolidated_into: docs/DC-HAITI-INTEGRATION-PLATFORMS-RECONCILED-001.md
 ---
 
 # DRONE ZOE HAITI

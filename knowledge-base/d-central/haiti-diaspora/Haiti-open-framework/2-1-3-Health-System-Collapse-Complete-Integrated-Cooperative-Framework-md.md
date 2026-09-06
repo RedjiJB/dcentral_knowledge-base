@@ -6,6 +6,7 @@ original_filename: 2.1.3 - Health System Collapse: Complete Integrated Cooperati
 created_at: 2025-08-15T19:45:26.236857+00:00
 content_hash: acc14606b4ae
 topic: haiti-cooperative-resilience-framework
+consolidated_into: docs/DC-HAITI-COOPERATIVE-RESILIENCE-FRAMEWORK-RECONCILED-001.md
 ---
 
 # 2.1.3 – Health System Collapse: Complete Integrated Cooperative Framework

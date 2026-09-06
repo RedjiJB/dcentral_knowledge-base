@@ -6,6 +6,7 @@ original_filename: dcm-blueprint-comprehensive.md
 created_at: 2025-06-01T15:33:01.906251+00:00
 content_hash: 6763784557fb
 topic: dcentral-networking-architecture
+consolidated_into: docs/DC-NETWORKING-ARCH-RECONCILED-001.md
 ---
 
 # D Central Mesh Architecture: Comprehensive Technical Blueprint

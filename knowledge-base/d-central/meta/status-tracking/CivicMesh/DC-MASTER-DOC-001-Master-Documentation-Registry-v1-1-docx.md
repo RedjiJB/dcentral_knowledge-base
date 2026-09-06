@@ -6,6 +6,7 @@ original_filename: DC-MASTER-DOC-001_Master_Documentation_Registry_v1(1).docx
 created_at: 2026-06-01T11:32:19.374670+00:00
 content_hash: b3cabca91720
 topic: digital-community-participation-platforms
+consolidated_into: docs/DC-DIGITAL-COMMUNITY-PARTICIPATION-PLATFORMS-RECONCILED-001.md
 ---
 
 DC-MASTER-DOC-001  |  D-Central Group — Master Documentation Registry  |  v1.0  |  May 2026  |  **Confidential**

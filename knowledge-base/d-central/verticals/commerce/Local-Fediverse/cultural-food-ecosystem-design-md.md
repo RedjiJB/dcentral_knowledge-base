@@ -6,6 +6,7 @@ original_filename: cultural_food_ecosystem_design.md
 created_at: 2025-07-16T23:25:33.755802+00:00
 content_hash: ce4b5c6b055d
 topic: digital-community-participation-platforms
+consolidated_into: docs/DC-DIGITAL-COMMUNITY-PARTICIPATION-PLATFORMS-RECONCILED-001.md
 ---
 
 # Pan-Caribbean/African Cultural Food Ecosystem

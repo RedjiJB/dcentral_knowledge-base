@@ -6,6 +6,7 @@ original_filename: OpenPIV_Project_Organization.md
 created_at: 2026-03-04T20:36:57.066434+00:00
 content_hash: bb875f310945
 topic: opensecure-openpiv-subsystem
+consolidated_into: docs/DC-OPENSECURE-OPENPIV-SUBSYSTEM-RECONCILED-001.md
 ---
 
 # OpenPIV - Open Source Personal Identity Verification Ecosystem

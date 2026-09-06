@@ -6,6 +6,7 @@ original_filename: streaming_overlay_system.tsx
 created_at: 2025-06-03T18:39:02.334655+00:00
 content_hash: 1f0962aed602
 topic: livestream-overlay-chatbot-system
+consolidated_into: docs/DC-LIVESTREAM-OVERLAY-RECONCILED-001.md
 ---
 
 import React, { useState, useEffect } from 'react';

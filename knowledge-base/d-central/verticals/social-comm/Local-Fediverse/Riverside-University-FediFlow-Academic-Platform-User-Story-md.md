@@ -6,6 +6,7 @@ original_filename: Riverside University: FediFlow Academic Platform User Story.m
 created_at: 2025-07-10T16:20:33.621265+00:00
 content_hash: 1cf64475692d
 topic: digital-community-participation-platforms
+consolidated_into: docs/DC-DIGITAL-COMMUNITY-PARTICIPATION-PLATFORMS-RECONCILED-001.md
 ---
 
 # Riverside University: FediFlow Academic Platform User Story

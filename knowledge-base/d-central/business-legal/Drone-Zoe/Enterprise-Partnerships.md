@@ -6,6 +6,7 @@ original_filename: Enterprise & Partnerships
 created_at: 2025-07-08T22:44:12.135069+00:00
 content_hash: a600b35a7772
 topic: haiti-integration-platforms
+consolidated_into: docs/DC-HAITI-INTEGRATION-PLATFORMS-RECONCILED-001.md
 ---
 
 # Enterprise & Partnerships for Haiti's Unified Development Framework
