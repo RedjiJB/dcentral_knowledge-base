@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "51a0d1d089e6cf71",
+    "type": "split",
+    "children": [
+      {
+        "id": "83677001758a1b65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee7911a9132f43ba",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f503e240b95079ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c885ded3826fc5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ab92e4926bb8f67",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "85001ba4e2ab7591",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3b919cc89f8fa3a0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "265b67a042bf27b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6994def64118388",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c958f36ca777295",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "d14ba2ed0dabb3b6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a68852ec4309d4ef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "04a711368e2683df",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7019ad81f58cc353",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "ee7911a9132f43ba",
+  "lastOpenFiles": [
+    "docs/DC-STATUS-001.md",
+    "scripts/search_dc_status_001.py.tmp.4476.28f35c9ca960",
+    "scripts/search_dc_status_001.py.tmp.4476.186135239011",
+    "scripts/search_dc_status_001.py",
+    "scripts/search_dc_status_001.py.tmp.4476.27028a073322",
+    "EXECUTION-READINESS-PLAN.md",
+    "EXECUTION-READINESS-PLAN.md.tmp.4476.df401f2caef3",
+    "knowledge-base/_topics/dcentral-simulation-lab-programme.md",
+    "START-HERE.md",
+    "Untitled.canvas",
+    "knowledge-base/_topics/digital-community-participation-platforms.md",
+    "knowledge-base/d-central/core/identity/Local-Fediverse/decentralized-trades-training-platform-md.md",
+    "knowledge-base/d-central/verticals/social-comm/Local-Fediverse/FediFlow-Academic-Ecosystem-Comprehensive-Community-Services-Use-Cases-md.md",
+    "knowledge-base/d-central/business-legal/Local-Fediverse/Academic-Institution-Specific-ROI-Value-Propositions-md.md",
+    "docs/DC-IHOSE-OPENVISION-DOCUMENTATION-PACKAGE-RECONCILED-001.md",
+    "knowledge-base/_topics.md"
+  ]
+}
