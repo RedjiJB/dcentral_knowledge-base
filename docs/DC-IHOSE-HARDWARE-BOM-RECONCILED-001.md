@@ -83,6 +83,9 @@ documents' Enterprise tier**, since it assumes 25 sites (not 20) and a materiall
 treated as a contradiction — it reads as an earlier, coarser-grained pass superseded in practice by the
 other three documents' much more detailed BOMs — but no document states this supersession explicitly.
 
+**Related work:** this A100 GPU cost is used as a reference baseline in DC-COMPUTE-SILICON-ARCH-001 §2.2 for
+comparing GPU capital cost against any future Structured ASIC candidate.
+
 ## Sources consulted (exhaustive list)
 
 - `knowledge-base/d-central/hardware/sensing-planes/IHOSE/02-Hardware-Specifications-docx.md`

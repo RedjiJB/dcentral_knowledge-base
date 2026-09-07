@@ -51,7 +51,7 @@ distribution.
 | Evidence database schema and legal COC certificate format | OS-GUARDIAN §Data Architecture, §Blockchain Chain-of-Custody | incorporated |
 | Security threat model and mitigations | OS-GUARDIAN §Security Architecture | incorporated |
 | AI-powered surveillance platform on Frigate NVR core | OS-SENTINEL §Executive Summary | incorporated |
-| Edge-first AI/GPU-TPU acceleration and model flexibility | OS-SENTINEL §Executive Summary | incorporated |
+| Edge-first AI/GPU-TPU acceleration and model flexibility | OS-SENTINEL §Executive Summary | incorporated — flagged in DC-COMPUTE-SILICON-ARCH-001 §2.2 as the strongest-evidenced Silicon Class hardening candidate in the repo (fixed model families, sub-100ms latency requirement, GPU/TPU already deployed) |
 | Shared data-layer stack (PostgreSQL/TimescaleDB, MinIO, MQTT) | OS-GUARDIAN + OS-SENTINEL, both §Technology Stack | incorporated (deliberate suite-wide consistency) |
 | Deployment-scale tiers and compliance framework alignment | OS-GUARDIAN + OS-SENTINEL, both §Executive Summary | incorporated |
 

@@ -27,7 +27,7 @@ distributed storage, Hyperledger Fabric + W3C DID for identity/governance, and a
 **Implementation walkthrough (incorporated, from the Implementation Guide, as far as it goes):**
 concrete hardware/software prerequisites (dev machine: 8+ cores, 32GB+ RAM, 8GB+ VRAM GPU; production:
 a 6-20 node Kubernetes cluster with 2-4 GPU nodes, 50+ edge Raspberry Pi units with solar/battery power)
-[§1]; a full development-environment setup script (Node 20 via nvm, Python 3.11, Docker, kubectl, Helm,
+[§1] — see DC-COMPUTE-SILICON-ARCH-001 §2.2 for this GPU fleet as a candidate the discovery pipeline should watch; a full development-environment setup script (Node 20 via nvm, Python 3.11, Docker, kubectl, Helm,
 Terraform) [§2]; and detailed build-out through project structure, core infrastructure, database layer,
 the GraphQL federation gateway, the GraphRAG intelligence engine, microservices, and federated
 social-media integration (Mastodon/Lemmy/Nextcloud/BigBlueButton) [§3-9]. Every named technology

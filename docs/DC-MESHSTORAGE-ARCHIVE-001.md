@@ -83,6 +83,8 @@ Node operators hosting archive-tier content earn D-Credit for pinning/serving it
 
 This needs its own line in the SHI financial model, the same way `mesh-vpn`'s relay-throughput reward needed one (003 §4.3.2) — the mechanism above is the shape it should take; the exact endowment-sizing formula (how storage-cost decline is modeled, what discount rate applies) is a follow-on calculation for whoever builds the financial model, not specified here.
 
+**Related work:** DC-COMPUTE-SILICON-ARCH-001 §6.1 adapts this same endowment shape to compute-serving (mesh-compute/mesh-ai node operators, as distinct from mesh-storage's I/O-bound operators) — sized against projected serving volume rather than a fixed one-time payload, since compute has no direct equivalent of "content" to endow against.
+
 ---
 
 ## 6. OSS reference

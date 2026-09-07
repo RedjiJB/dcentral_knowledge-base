@@ -64,16 +64,16 @@
 - §3.2: mesh-connectivity — Helium Proof-of-Coverage Fork
 - §3.3: mesh-energy — Energy Web Asset Registry Fork
 - §3.4: mesh-sensors — DIMO Sensor Attestation Fork
-- §3.5: mesh-compute — Akash + Golem Reverse-Auction Fork
+- §3.5: mesh-compute — Akash + Golem Reverse-Auction Fork — see [DC-COMPUTE-SILICON-ARCH-001](DC-COMPUTE-SILICON-ARCH-001.md) §2 for the discovery-pipeline mechanism this fork currently lacks
 - §3.6: mesh-storage — Storj Erasure-Coding Fork
-- §3.7: mesh-ai — Bittensor Subnet Consensus Fork
+- §3.7: mesh-ai — Bittensor Subnet Consensus Fork — see [DC-COMPUTE-SILICON-ARCH-001](DC-COMPUTE-SILICON-ARCH-001.md) §3 for the ASIC+eFPGA model-family pattern and §3.2 accelerator SKU candidates this fork would host
 - §3.8: mesh-geo — Hivemapper Drone Imagery Fork
 - §3.9: mesh-bandwidth — Meson Network Bandwidth-Caching (or fold into connectivity)
 - §3.10: Module Dependencies & Build Order (Week-by-week sequence)
 - §3.11: SHI Node 5-Tier Architecture
   - §3.11.1: Tier 1 — Power & Energy (mesh-energy)
   - §3.11.2: Tier 2 — Connectivity & Networking (mesh-connectivity)
-  - §3.11.3: Tier 3 — Compute & Storage (mesh-compute, mesh-storage, mesh-ai)
+  - §3.11.3: Tier 3 — Compute & Storage (mesh-compute, mesh-storage, mesh-ai) — see [DC-COMPUTE-SILICON-ARCH-001](DC-COMPUTE-SILICON-ARCH-001.md) for the compute half (hardware-class hierarchy, discovery pipeline); mesh-storage economics remain specified in DC-MESHSTORAGE-ARCHIVE-001
   - §3.11.4: Tier 4 — Physical Security & Sensors (mesh-sensors, mesh-geo)
   - §3.11.5: Tier 5 — Identity & Services (dcentral-core)
 - §3.12: D-Central Financial Model (by period, by tier, by cluster size)

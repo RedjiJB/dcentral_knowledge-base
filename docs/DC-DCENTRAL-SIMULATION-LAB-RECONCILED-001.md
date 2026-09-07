@@ -97,7 +97,14 @@ NIC to an isolated unmanaged switch, isolating the bridge from the home network)
 
 **DC-SIM-006, Hardware Integration Roadmap (incorporated):** frames itself as "a deployment path, with
 the emulation as scaffolding," and states the emulation topology becomes the programme's permanent staging
-environment rather than being retired once hardware arrives. Two corrections to intuitive build ordering:
+environment rather than being retired once hardware arrives.
+
+**Related work:** DC-COMPUTE-SILICON-ARCH-001 §7 extends this staged-fidelity discipline to compute silicon —
+FPGA/CGRA prototyping before any structured-ASIC commitment follows the same simulate-first, graduated-hardware
+pattern DC-SIM-006 already applies to networking/gateway hardware. Not incorporated into this consolidation
+pass; a forward pointer only, since DC-SIM-006 predates that document.
+
+Two corrections to intuitive build ordering:
 sensors do not go first (lowest information, highest liability — any people-sensing device creates PIPEDA
 obligations before a single routing result exists); routers and edge go first (a real DC-OS gateway in
 the author's own household, "test user zero," no consent obligations). A seven-stage ladder (1: simulated

@@ -35,6 +35,7 @@
 | DC-ISP-HT-001 | Haiti pilot: non-PAP topology + node BOM | Complete — built this conversation |
 | DC-MESHISP-ARCH-001 | Full MeshISP architecture synthesis | Complete — built this conversation |
 | DC-FOUNDATION-01 | Physical Pi 5 lab build, executed, 1,727-line report, 9 closed defects | **Executed** — the one node that's real |
+| DC-COMPUTE-SILICON-ARCH-001 | Compute Silicon Class (CPU/GPU/FPGA/CGRA/eFPGA/ASIC) hierarchy, discovery pipeline, thin-client tie-in — fills the empty SHI Tier 3 (Compute & Storage) slot in UNIFIED_SOURCE_OF_TRUTH_V24 §3.11.3 | Complete (design), 0% executed — added this pass |
 
 ## 3. Identity, governance, OS
 

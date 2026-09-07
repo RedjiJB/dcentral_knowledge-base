@@ -83,6 +83,13 @@ Only aggregated statistics — agent counts, error rates, proposal throughput �
 
 **Touches:** DC-AGENT-OBSERVABILITY-001 §2–7 in full — this story is effectively that document's spec walked through from one operator's chair.
 
+**Extension — capacity-contributor vs. pure-consumer roles:** Devon is what DC-COMPUTE-SILICON-ARCH-001 §6 calls a
+"Consumer B" — someone whose node carries actual compute hardware (GPU/FPGA/ASIC per that document's Silicon Class
+axis) and earns compensation for contributed capacity, distinct from a "Consumer A" who only uses the thin-client
+architecture (DC-NETWORKING-ARCH-RECONCILED-001 §10-17) without hosting anything. This story was already written
+from Consumer B's chair; the distinction is named explicitly there because nothing before it separated the two
+roles.
+
 ---
 
 *DC-DAO-AGENT-LOOP-USER-STORIES-001 — six end-to-end walkthroughs exercising every tier (ecosystem, coop, individual), all three branches represented in the earlier document set (infrastructure, features, and the safety/correction mechanisms that apply across all of them), and all four newer specs (credential, archive storage, observability) at least once each. Stories 4 and 5 are deliberately not happy paths — dissent and rollback working as designed are as much a part of "end to end" as a clean success.*

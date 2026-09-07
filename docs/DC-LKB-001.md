@@ -261,6 +261,11 @@ D-Central ISP nodes deployed in Ottawa, Montreal, and eventually Port-au-Prince 
 - Offline transaction queuing during internet outages (critical for Haiti)
 - Node operators earn routing fees in HGUSD, creating a closed economic loop
 
+**Scope note:** this is financial-rail DePIN (liquidity routing, remittance settlement) — a distinct concept from
+compute DePIN (node operators contributing GPU/FPGA/ASIC capacity for AI inference), which is specified separately
+in [DC-COMPUTE-SILICON-ARCH-001](DC-COMPUTE-SILICON-ARCH-001.md). The two share the node-operator reward pattern
+in spirit but not in mechanism — do not conflate this section with mesh-ai/mesh-compute's DePIN.
+
 ---
 
 ## 7. Companion Applications (Layer 5)

@@ -75,6 +75,10 @@ real confusion (e.g., "deploy this service at Tier 1" becomes ambiguous between 
 as an open naming conflict rather than resolved, since resolving it would require an explicit editorial
 decision (rename one scheme) neither source document has made.
 
+**Related work:** [DC-COMPUTE-SILICON-ARCH-001](DC-COMPUTE-SILICON-ARCH-001.md) adds a hardware-flexibility
+axis (CPU/GPU/FPGA/CGRA/eFPGA/Structured ASIC) on top of Tier 2 "GPU Edge/D-District" and deliberately does
+not reuse "Tier" numbering, to avoid compounding this exact conflict with a third scheme.
+
 ## Sources consulted (exhaustive list)
 
 - `knowledge-base/d-central/mesh-services/connectivity/D-Central-v2/D-Central-Networking-Architecture-Complete-md.md`

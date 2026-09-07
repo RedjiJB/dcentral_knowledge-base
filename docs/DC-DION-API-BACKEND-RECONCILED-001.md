@@ -60,7 +60,14 @@ weighted aggregation via selectable strategies (FedAvg/FedProx/SCAFFOLD/adaptive
 compute mesh (edge/fog/private-cloud/public-cloud/specialized) with an intelligent workload scheduler
 that places work by data sensitivity (classified stays private), latency (<100ms forces edge), and
 compute intensity (heavy AI bursts to public cloud GPU); an emergency-burst mode scales edge 10x,
-provisions fog computing, and bursts to multi-cloud GPU clusters with a cost limit [§2]. Named
+provisions fog computing, and bursts to multi-cloud GPU clusters with a cost limit [§2].
+
+**Related work / naming caution:** this is a fourth distinct tiering scheme in the repo (by data-sensitivity/
+deployment-location, not compute capacity, network role, or silicon flexibility — see DC-NETWORKING-ARCH-
+RECONCILED-001's "Unresolved tensions" for the first two, and DC-COMPUTE-SILICON-ARCH-001 §1 for the third,
+deliberately-not-"Tier"-named axis). This document's "specialized" tier is where DC-COMPUTE-SILICON-ARCH-001's
+FPGA/CGRA/ASIC Silicon Class hierarchy would plug in once a workload here is proven stable and high-volume enough
+to justify hardening (DC-COMPUTE-SILICON-ARCH-001 §2.2). Named
 integrations combine federated learning with GraphRAG (federated graph neural networks sharing
 embeddings, not raw intelligence) and with MCP (routing AI requests to edge vs. cloud MCP servers by
 latency/compute-intensity/federated-task type) [§3]. Two worked emergency scenarios (mass-casualty

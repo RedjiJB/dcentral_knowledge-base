@@ -643,6 +643,10 @@ IOTA's Tangle is a DAG where each transaction approves two prior ones. No fees. 
 - Smart meter utility billing: second-by-second electricity metering settled via IOTA
 - Agricultural sensor payouts: soil moisture sensor data → parametric insurance payout trigger
 
+**Scope note:** this is IoT/metering-rail DePIN (bandwidth billing, sensor payouts) — distinct from compute DePIN
+(GPU/FPGA/ASIC node operators serving AI inference), specified separately in
+[DC-COMPUTE-SILICON-ARCH-001](DC-COMPUTE-SILICON-ARCH-001.md).
+
 ### 4.3 NFT Financial Instrument Standards
 
 **ERC-721: Unique Asset NFTs**
