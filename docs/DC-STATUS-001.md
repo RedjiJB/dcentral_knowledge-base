@@ -120,7 +120,55 @@ design-vs-execution honesty register while overclaiming its own completeness):
 - Whether the specific $1,180–$1,680/month revenue target and the 27-gap count are still current, given
   every citation is now at least several weeks old relative to this corpus's own extraction date.
 
-## 6. Sources consulted (every citation this reconstruction is built from)
+## 6. Independent corroboration from code-level inspection (2026-09-07)
+
+Everything above is reconstructed from *citations of* DC-STATUS-001 — no one had actually gone and checked
+whether the 95%/0% claim holds up against real running code. This section is different in kind: a direct
+inspection of four D-Central source-code repositories (`D-Central`, `dcentral-platform`,
+`dcentral-edge-gateway`, `dcentral_solodev` — cloned from GitHub, `RedjiJB` account, 2026-09-07), reading
+actual implementation files rather than README claims. **It independently corroborates the 95%/0% doctrine
+at the code level, not just the documentation level** — the two forms of evidence were derived completely
+separately (one from citation archaeology across conversations, one from reading source files) and arrive
+at the same conclusion.
+
+**Findings, by repo:**
+- **`D-Central`** (the main/flagship repo, Python/FastAPI/Web3): the DID/VC identity service is the most
+  real component found across all four repos — genuine Ed25519 key generation and document persistence —
+  but its own code comments admit the cryptographic proof layer is fake ("Simulate signing... dummy
+  proof"). The orchestrator (`agent/digital_agent.py`) imports from a `services.*` package tree that does
+  not exist anywhere in the repo — **it cannot execute**. The blockchain folder has zero `.sol` contract
+  files, only a placeholder text file narrating a planned structure. The live FastAPI app exposes exactly
+  three endpoints — `/health`, `/api/status`, `/api/info` — none of the identity/DAO/blockchain logic
+  described anywhere in this corpus is reachable over HTTP.
+- **`dcentral-platform`** (Go/libp2p/IPFS): pure scaffold. The agent binary logs a startup message and
+  waits for a shutdown signal; the CLI's `status` command literally prints "Status: Not implemented yet."
+- **`dcentral-edge-gateway`** (Go): the best-engineered of the four — real JWT/RSA auth, proper middleware,
+  7 test files matching 7 implementation files. But every device/telemetry endpoint operates on two
+  hardcoded mock devices, and the MQTT client — the actual bridge to real hardware — is entirely stubbed
+  (`// In a real implementation...`).
+- **`dcentral_solodev`**: byte-identical Go/React skeleton to `dcentral-platform`, but paired with an
+  extensive spec-docs tree describing a mesh manager reaching "v2.0 Product Ready" status — whose
+  corresponding code package does not exist anywhere in the repo. This is the clearest single instance of
+  the exact failure mode this document's doctrine warns against: specification maturity with zero
+  execution behind it, inside one solo developer's own workspace.
+
+**Cross-repo pattern:** no working Solidity contracts, no functioning libp2p mesh transport, and no real
+MQTT device integration exist in any of the four core repos. These three gaps recur across every repo that
+touches them, independently — not a single shared broken dependency, but the same category of thing
+(the actual distributed/hardware layer, as opposed to API scaffolding) being unbuilt everywhere it's
+attempted.
+
+**What this changes about §5's "cannot tell you" list:** this doesn't fill the DC-GAP-001 27-gaps list or
+recover when "last update" was, but it does answer a narrower, useful question — *is the 95%/0% doctrine
+still true, right now, independent of when it was first written down?* At the code level, yes.
+
+**Source, not yet committed to this repo:** `raw-export/external-repos-extracted/CORE-CODE-ARCH-EXTRACT.md`
+(git-ignored staging output, per this repo's own convention that `raw-export/` is extraction input, not
+versioned content — see this repo's CLAUDE.md). Promoting that file into a proper classified/consolidated
+doc is separate follow-up work, not performed here; this section only pulls forward its bottom-line finding
+because it bears directly on this document's own core doctrine.
+
+## 7. Sources consulted (every citation this reconstruction is built from)
 
 Already in this repo:
 - `registry/DC-REG-001-Master-Registry.md`, `registry/DC-REG-001-Master-Registry-v0.2.md`
