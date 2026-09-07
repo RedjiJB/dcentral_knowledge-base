@@ -107,7 +107,7 @@ topic-synthesis/consolidation passes per [[DC-DEDUP-STD-001]]/[[DC-TOPIC-SYNTH-S
 
 | ID | Scope | Status |
 |---|---|---|
-| DC-MESHEATS-ARCH-001 | Home-chef delivery co-op, DC-TPL replicable template | Complete — CA MEHKO counties as launch geography |
+| DC-MESHEATS-ARCH-001 | Home-chef delivery co-op, DC-TPL replicable template | Spec complete (now in `docs/`, pulled from `RedjiJB/MeshEats` 2026-09-07) — CA MEHKO counties as launch geography. **"Complete" is spec-completeness, not implementation-completeness**: source-code inspection found 4 of 7 backend services actually built (Identity & Trust, Dispatch/Matching, Certification/Compliance, Training); Settlement, Governance, Notifications are speced but have no code yet — see the doc's own §4 build-status annotation |
 | SkyLedger (DC-SKY-PLATFORM-001, -MOD-001, -INFRA-001, -SDK-001) | Drone XaaS, 12-service catalogue | Complete |
 | DC-TM-BOM-002/003, DC-TM-TOOLS-001, DC-TM-DS-001 | TrafficMesh/CivicMesh hardware BOM, custom PCB | Complete — STN2120 correction applied |
 | Sod Boys FieldOps | WhatsApp-native field ops, Pi 5 + OpenClaw | Built, 17-file repo scaffold |

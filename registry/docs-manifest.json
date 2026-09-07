@@ -1,8 +1,8 @@
 {
   "counts": {
     "orphaned_docs": 60,
-    "total_docs": 101,
-    "total_references": 34
+    "total_docs": 102,
+    "total_references": 35
   },
   "docs": {
     "DC-AGENT-CREDENTIAL-001.md": {
@@ -152,6 +152,7 @@
       "referenced_by": [
         "DC-LKB-001.md",
         "DC-LKB-003.md",
+        "DC-MESHEATS-ARCH-001.md",
         "DC-NETWORKING-ARCH-RECONCILED-001.md",
         "UNIFIED_SOURCE_OF_TRUTH_V24.md"
       ],
@@ -424,6 +425,13 @@
       "references": [],
       "title": "DC-MESH-FOOD-ECONOMY-RECONCILED-001 \u2014 Mesh Food Economy Business Models, Consolidated (v1, generated 2026-09-05)"
     },
+    "DC-MESHEATS-ARCH-001.md": {
+      "referenced_by": [],
+      "references": [
+        "DC-COMPUTE-SILICON-ARCH-001.md"
+      ],
+      "title": "DC-MESHEATS-ARCH-001 \u2014 MeshEats Complete Technical Architecture"
+    },
     "DC-MESHNAV-RECONCILED-001.md": {
       "referenced_by": [],
       "references": [],
@@ -629,5 +637,5 @@
       "title": "UNIFIED SOURCE OF TRUTH \u2014 COMPLETE TAXONOMY"
     }
   },
-  "generated_at": "2026-09-07T08:17:22.459351+00:00"
+  "generated_at": "2026-09-07T08:39:06.073080+00:00"
 }

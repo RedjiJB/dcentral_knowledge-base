@@ -8,7 +8,7 @@ get loaded into the same Neo4j instance.
 1. Run `python3 scripts/build_docs_manifest.py` after adding or editing any
    `docs/*.md` file, then `python3 scripts/build_docs_graph.py`.
 2. Copy this directory's CSVs into Neo4j's `import/docs/` and run `load.cypher`.
-3. Sanity check: `MATCH (n:DocSpec) RETURN count(n);` should return 101.
+3. Sanity check: `MATCH (n:DocSpec) RETURN count(n);` should return 102.
 
 ## Example query
 

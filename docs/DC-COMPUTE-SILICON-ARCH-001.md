@@ -562,6 +562,7 @@ service layers that would eventually justify it, not the fabrication step itself
 **Referenced by:**
 - [[DC-LKB-001|Lakou — Cooperative Family Banking Protocol]]
 - [[DC-LKB-003|Lakou Protocol v2 — Universal Decentralized Banking Operating System]]
+- [[DC-MESHEATS-ARCH-001|DC-MESHEATS-ARCH-001 — MeshEats Complete Technical Architecture]]
 - [[DC-NETWORKING-ARCH-RECONCILED-001|DC-NETWORKING-ARCH-RECONCILED-001 — D-Central Networking Architecture, Consolidated (v1, generated 2026-09-05)]]
 - [[UNIFIED_SOURCE_OF_TRUTH_V24|UNIFIED SOURCE OF TRUTH — COMPLETE TAXONOMY]]
 
