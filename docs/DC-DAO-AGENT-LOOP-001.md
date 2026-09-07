@@ -115,3 +115,12 @@ Stated plainly, since silently dropping these without comment would be worse tha
 ---
 
 *DC-DAO-AGENT-LOOP-001 — extends 001–006. Specifies the agent-class credential (DID + role/tier/scope/mandate-bound VC, reputation as an attestation type rather than a separate registry), the agent context package (role, scoped context, numbered steps, examples, output schema, tools — mapped onto 006 §2's existing context sources), and guardrail enforcement as credential-level permissions and existing dc-governance/dc-attestation mechanisms rather than a separate control plane. Resolves the DID/VC-native PII boundary (already solved by selective-disclosure-engine), the open-source model requirement (mesh-ai/dc.ai in place of proprietary inference, with an explicit note on the resulting quality trade-off), and the IPFS-like storage requirement (mesh-storage archive tier for the attestation trail, MeshWiki for human-readable proposal review) — closing the Arweave/permanent-archive gap left open in 002 §4. Flags five recommendations from earlier discussion (ERC-8004, Neo4j, Obsidian, Statsig/LaunchDarkly, closed-model inference) for removal or substitution now that the existing dcentral-core/mesh-ai/mesh-storage primitives are in view.*
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_docs_graph.py) -->
+
+## Related (auto-generated)
+
+*No cross-references detected to/from other docs/*.md files.*
+
+<!-- AUTO-GENERATED RELATED END -->

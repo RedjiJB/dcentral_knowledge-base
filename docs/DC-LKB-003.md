@@ -965,3 +965,13 @@ Travel Rule data is transmitted using the TRUST protocol (Travel Rule Universal 
 *Lakou Protocol v2 is a component of the D-Central Ecosystem.*  
 *Document ID: DC-LKB-003 · Extends: DC-LKB-001, DC-LKB-002*  
 *Author: Toussaint Redji Jean Baptiste*
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_docs_graph.py) -->
+
+## Related (auto-generated)
+
+**References:**
+- [[DC-COMPUTE-SILICON-ARCH-001|DC-COMPUTE-SILICON-ARCH-001 — Compute Silicon Class Architecture (v1, generated 2026-09-07)]]
+
+<!-- AUTO-GENERATED RELATED END -->

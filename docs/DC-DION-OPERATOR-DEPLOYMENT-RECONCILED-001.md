@@ -103,3 +103,13 @@ generated_by: consolidator-pass (manual, per DC-CONSOLIDATOR-STD-001)
 ```
 
 None of the source docs is marked superseded or moved — status assignment belongs to DC-DEDUP-STD-001, not the Consolidator.
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_docs_graph.py) -->
+
+## Related (auto-generated)
+
+**References:**
+- [[DC-DION-RECONCILED-001|DC-DION-RECONCILED-001 — D-Central Intelligence & Operator Network (DION), Consolidated (v2, updated 2026-09-04)]]
+
+<!-- AUTO-GENERATED RELATED END -->

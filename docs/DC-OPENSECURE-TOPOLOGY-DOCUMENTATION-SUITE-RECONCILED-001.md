@@ -196,3 +196,12 @@ DC-DEDUP-STD-001, not the Consolidator. Whether OS-PACS/OS-CONCIERGE topology do
 the knowledge base under a different topic, and whether TOPOLOGY-SUITE-SUMMARY should be regenerated to
 reflect OS-DRONE and the Hub documents, is a documentation-maintenance question outside this Consolidator
 pass's scope.
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_docs_graph.py) -->
+
+## Related (auto-generated)
+
+*No cross-references detected to/from other docs/*.md files.*
+
+<!-- AUTO-GENERATED RELATED END -->

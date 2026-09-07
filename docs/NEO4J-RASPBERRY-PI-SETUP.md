@@ -127,3 +127,12 @@ See `registry/graph/README.md` for three worked example Cypher queries (cross-to
 "everything a consolidated doc absorbed," and supersession-chain tracing). This is the payoff
 DC-PIPELINE-STD-001 describes for Stage 8: "show me everything that touches both X and Y" as an actual
 query, not a manual cross-reference between `_topics.md` and front-matter fields.
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_docs_graph.py) -->
+
+## Related (auto-generated)
+
+*No cross-references detected to/from other docs/*.md files.*
+
+<!-- AUTO-GENERATED RELATED END -->

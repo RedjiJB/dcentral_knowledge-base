@@ -83,3 +83,12 @@ generated_by: consolidator-pass (manual, per DC-CONSOLIDATOR-STD-001)
 ```
 
 Neither source doc is marked superseded or moved — status assignment belongs to DC-DEDUP-STD-001, not the Consolidator. (Note for that process: Updated-Guide's filename and content strongly suggest it revises Selection-Guide2's platform matrix specifically — worth a dedup-pass look at whether a formal supersession relationship should be recorded there, distinct from this Consolidator's own boundary against making that call.)
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_docs_graph.py) -->
+
+## Related (auto-generated)
+
+*No cross-references detected to/from other docs/*.md files.*
+
+<!-- AUTO-GENERATED RELATED END -->

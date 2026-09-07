@@ -543,3 +543,26 @@ specified in the VDI-Solutions Technical Specification, and extends the DAO-agen
 mesh-storage's endowment-reward pattern to compute-serving. Silicon fabrication (Division 5, §7) is explicitly
 out of scope for D-Central's current stage — this document specifies the discovery pipeline and thin-client/cloud
 service layers that would eventually justify it, not the fabrication step itself.*
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_docs_graph.py) -->
+
+## Related (auto-generated)
+
+**References:**
+- [[DC-DAO-AGENT-LOOP-USER-STORIES-001|DC-DAO-AGENT-LOOP-USER-STORIES-001: End-to-End User Stories]]
+- [[DC-DCENTRAL-SIMULATION-LAB-RECONCILED-001|DC-DCENTRAL-SIMULATION-LAB-RECONCILED-001 — D-Central Simulation Lab Programme (DC-SIM Suite), Consolidated (v1, generated 2026-09-05)]]
+- [[DC-HCCC-GRAPHRAG-RECONCILED-001|DC-HCCC-GRAPHRAG-RECONCILED-001 — HCCC GraphRAG/GraphQL System, Consolidated (v1, generated 2026-09-05)]]
+- [[DC-IHOSE-HARDWARE-BOM-RECONCILED-001|DC-IHOSE-HARDWARE-BOM-RECONCILED-001 — OpenVision (IHOSE) Hardware Bill of Materials, Consolidated (v1, generated 2026-09-05)]]
+- [[DC-MESHSTORAGE-ARCHIVE-001|DC-MESHSTORAGE-ARCHIVE-001: Permanent-Archive Tier of mesh-storage]]
+- [[DC-NETWORKING-ARCH-RECONCILED-001|DC-NETWORKING-ARCH-RECONCILED-001 — D-Central Networking Architecture, Consolidated (v1, generated 2026-09-05)]]
+- [[DC-OPENSECURE-GUARDIAN-SENTINEL-ARCH-RECONCILED-001|DC-OPENSECURE-GUARDIAN-SENTINEL-ARCH-RECONCILED-001 — OS-GUARDIAN & OS-SENTINEL Technical Architecture, Consolidated (v1, generated 2026-09-05)]]
+- [[UNIFIED_SOURCE_OF_TRUTH_V24|UNIFIED SOURCE OF TRUTH — COMPLETE TAXONOMY]]
+
+**Referenced by:**
+- [[DC-LKB-001|Lakou — Cooperative Family Banking Protocol]]
+- [[DC-LKB-003|Lakou Protocol v2 — Universal Decentralized Banking Operating System]]
+- [[DC-NETWORKING-ARCH-RECONCILED-001|DC-NETWORKING-ARCH-RECONCILED-001 — D-Central Networking Architecture, Consolidated (v1, generated 2026-09-05)]]
+- [[UNIFIED_SOURCE_OF_TRUTH_V24|UNIFIED SOURCE OF TRUTH — COMPLETE TAXONOMY]]
+
+<!-- AUTO-GENERATED RELATED END -->

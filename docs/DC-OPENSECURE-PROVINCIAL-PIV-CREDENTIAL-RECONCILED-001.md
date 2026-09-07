@@ -114,3 +114,13 @@ generated_by: consolidator-pass (manual, per DC-CONSOLIDATOR-STD-001)
 ```
 
 None of the source docs is marked superseded or moved — status assignment belongs to DC-DEDUP-STD-001, not the Consolidator.
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_docs_graph.py) -->
+
+## Related (auto-generated)
+
+**References:**
+- [[DC-PROVINCIAL-SECURITY-NETWORK-RECONCILED-001|DC-PROVINCIAL-SECURITY-NETWORK-RECONCILED-001 — Provincial Security Network Programs, Consolidated (v1, generated 2026-09-05)]]
+
+<!-- AUTO-GENERATED RELATED END -->

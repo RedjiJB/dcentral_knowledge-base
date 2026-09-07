@@ -162,3 +162,12 @@ None of these raw-export-only conversations have been extracted into this repo a
 this reconstruction — doing so (particularly `DC-SHI-SPEC-002`, `DC-REG-CATALOG-001`, `DC-EXTERIOR-ARCH-
 001`, `DC-ISP-HT-001-TOPOLOGY-BOM`, `DC-GROWTH-MARKETING-001`, `DC-FOS-MASTER-INDEX`, each already
 confirmed to exist as `create_file` artifacts) is separate follow-up work, not performed here.
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_docs_graph.py) -->
+
+## Related (auto-generated)
+
+*No cross-references detected to/from other docs/*.md files.*
+
+<!-- AUTO-GENERATED RELATED END -->

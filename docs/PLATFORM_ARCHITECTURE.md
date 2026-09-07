@@ -230,3 +230,12 @@ New for the platform:
 2. **AGPL frontend at platform scale**: the vendored OpenConstructionERP frontend's AGPL obligations (already navigated once for the single-tenant build, see the existing `docs/ARCHITECTURE.md` "Frontend" section) need re-evaluation once the frontend is served to paying third-party customers rather than one client — worth a real legal review before general availability, not just an engineering read of the license.
 3. **What v1 data migration looks like** for the original Sod Boys deployment once the platform exists — does it become tenant zero, or stay a separate deployment indefinitely?
 4. **Regulatory/labor law variation across regions** becomes real once tenants aren't all in one jurisdiction — the scheduling engine's "labor rules" constraint (§4.3) needs to be data, not hardcoded assumptions, from day one of the scheduling engine's design.
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_docs_graph.py) -->
+
+## Related (auto-generated)
+
+*No cross-references detected to/from other docs/*.md files.*
+
+<!-- AUTO-GENERATED RELATED END -->

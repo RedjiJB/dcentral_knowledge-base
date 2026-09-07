@@ -93,3 +93,12 @@ What doesn't need correction: OpenTelemetry, the OTel Collector, Arize Phoenix, 
 ---
 
 *DC-EXPERT-DAO-001 — specifies the expert credential (domain, licensed or peer-attested credentialing path, shared reputation mechanism with agents), the specialized review DAO as a domain-scoped instance of the existing governance primitive, mandatory (not threshold-gated) sign-off with a self-certification path for well-staffed coops, the advisory/think-tank consultation function, and a bounty/competition mechanic built entirely on the existing marketplace escrow rails. Also performs a sovereignty audit against "nothing outside the ecosystem's own infrastructure," correcting the independent-transparency-log recommendation to an internal witness-quorum design, and flagging (without silently resolving) two real external-dependency decisions: archive-tier storage and mesh-ai's network boundary.*
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_docs_graph.py) -->
+
+## Related (auto-generated)
+
+*No cross-references detected to/from other docs/*.md files.*
+
+<!-- AUTO-GENERATED RELATED END -->

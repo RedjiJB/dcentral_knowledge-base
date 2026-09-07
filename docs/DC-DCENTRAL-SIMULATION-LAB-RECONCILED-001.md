@@ -236,3 +236,13 @@ generated_by: consolidator-pass (manual, per DC-CONSOLIDATOR-STD-001)
 None of the source docs is marked superseded or moved by this pass — status assignment belongs to
 DC-DEDUP-STD-001, not the Consolidator, including DC-SIM-009's own instruction that DC-SHI-SPEC-001 and
 related documents be unified into a new DC-SHI-SPEC-002.
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_docs_graph.py) -->
+
+## Related (auto-generated)
+
+**Referenced by:**
+- [[DC-COMPUTE-SILICON-ARCH-001|DC-COMPUTE-SILICON-ARCH-001 — Compute Silicon Class Architecture (v1, generated 2026-09-07)]]
+
+<!-- AUTO-GENERATED RELATED END -->

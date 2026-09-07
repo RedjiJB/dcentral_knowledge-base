@@ -196,3 +196,12 @@ generated_by: consolidator-pass (manual, per DC-CONSOLIDATOR-STD-001)
 None of the source docs is marked superseded or moved by this pass — status assignment, including the
 confirmed Master-Explanation duplicate pair and the likely-related chatgpt-md/chatgpt-organized-md pair,
 belongs to DC-DEDUP-STD-001, not the Consolidator.
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_docs_graph.py) -->
+
+## Related (auto-generated)
+
+*No cross-references detected to/from other docs/*.md files.*
+
+<!-- AUTO-GENERATED RELATED END -->

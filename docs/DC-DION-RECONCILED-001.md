@@ -147,3 +147,14 @@ generated_by: consolidator-pass (manual, per DC-CONSOLIDATOR-STD-001)
 move them to `_superseded/` — per DC-CONSOLIDATOR-STD-001 §0, that status assignment belongs to the
 dedup/status process (DC-DEDUP-STD-001), not the Consolidator. The two DION source docs remain in
 place at their original path with a `reconciliation_note` front-matter field pointing here.
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_docs_graph.py) -->
+
+## Related (auto-generated)
+
+**Referenced by:**
+- [[DC-DION-API-BACKEND-RECONCILED-001|DC-DION-API-BACKEND-RECONCILED-001 — DION Platform API & Backend Architecture, Consolidated (v1, generated 2026-09-05)]]
+- [[DC-DION-OPERATOR-DEPLOYMENT-RECONCILED-001|DC-DION-OPERATOR-DEPLOYMENT-RECONCILED-001 — DION Operator Deployment & Vision Companion, Consolidated (v1, generated 2026-09-05)]]
+
+<!-- AUTO-GENERATED RELATED END -->

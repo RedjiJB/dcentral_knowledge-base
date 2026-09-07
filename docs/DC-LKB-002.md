@@ -1723,3 +1723,12 @@ API request received
 *Lakou is a component of the D-Central Ecosystem.*  
 *Document ID: DC-LKB-002 · Depends on: DC-LKB-001*  
 *Author: Toussaint Redji Jean Baptiste*
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_docs_graph.py) -->
+
+## Related (auto-generated)
+
+*No cross-references detected to/from other docs/*.md files.*
+
+<!-- AUTO-GENERATED RELATED END -->

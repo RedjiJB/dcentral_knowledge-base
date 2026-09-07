@@ -1,0 +1,633 @@
+{
+  "counts": {
+    "orphaned_docs": 60,
+    "total_docs": 101,
+    "total_references": 34
+  },
+  "docs": {
+    "DC-AGENT-CREDENTIAL-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-AGENT-CREDENTIAL-001: Agent-Class DID Credential"
+    },
+    "DC-AGENT-OBSERVABILITY-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-AGENT-OBSERVABILITY-001: Real-Time Multi-Tier Agent Monitoring"
+    },
+    "DC-BLOCKCHAIN-EDUCATION-FEDERATION-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-BLOCKCHAIN-EDUCATION-FEDERATION-RECONCILED-001 \u2014 Blockchain-Integrated Educational Federation (Haiti), Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-CHOPSHOP-PROJECT-DOCUMENTATION-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-CHOPSHOP-PROJECT-DOCUMENTATION-RECONCILED-001 \u2014 ChopShop-CLI Project Documentation, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-CIVIC-DIVIDEND-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-CIVIC-DIVIDEND-001: CivicDividendModule (Lakou Module Interface Standard)"
+    },
+    "DC-CIVIC-EDUCATION-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-CIVIC-EDUCATION-001: Civic Competency Framework on D-Central Primitives"
+    },
+    "DC-CIVICMESH-FEDERATION-NOC-MUNICIPAL-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [
+        "DC-MESHPLATE-PRIVACY-COMPLIANCE-RECONCILED-001.md"
+      ],
+      "title": "DC-CIVICMESH-FEDERATION-NOC-MUNICIPAL-RECONCILED-001 \u2014 CivicMesh Federation, NOC & Municipal Deployment, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-CM-AUDIT-TRANSPARENCY-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-CM-AUDIT-TRANSPARENCY-RECONCILED-001 \u2014 CivicMesh Governance Audit & Transparency, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-CM-COMMERCIAL-B2B-VEHICLE-FLEET-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-CM-COMMERCIAL-B2B-VEHICLE-FLEET-RECONCILED-001 \u2014 CivicMesh Commercial Vehicle Network (B2B Fleet) Programme, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-CM-COMPETITIVE-RECONCILED-001.md": {
+      "referenced_by": [
+        "DC-COMPETITIVE-STRATEGY-RECONCILED-001.md"
+      ],
+      "references": [],
+      "title": "DC-CM-COMPETITIVE-RECONCILED-001 \u2014 CivicMesh Competitive Positioning, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-CM-COOP-FINANCE-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-CM-COOP-FINANCE-RECONCILED-001 \u2014 CivicMesh Cooperative Finance & Regulatory Compliance, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-CM-COOP-LEGAL-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-CM-COOP-LEGAL-RECONCILED-001 \u2014 CivicMesh Cooperative Legal Structures, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-CM-GOV-FUNDING-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [
+        "DC-CM-ISC-LOAN-RECONCILED-001.md",
+        "DC-CM-TM-GRANT-FUNDING-RECONCILED-001.md"
+      ],
+      "title": "DC-CM-GOV-FUNDING-RECONCILED-001 \u2014 CivicMesh Government Funding Applications, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-CM-INVESTOR-PITCH-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-CM-INVESTOR-PITCH-RECONCILED-001 \u2014 CivicMesh Investor Pitch Decks, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-CM-ISC-LOAN-RECONCILED-001.md": {
+      "referenced_by": [
+        "DC-CM-GOV-FUNDING-RECONCILED-001.md"
+      ],
+      "references": [],
+      "title": "DC-CM-ISC-LOAN-RECONCILED-001 \u2014 CivicMesh ISC Grant Application Framework, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-CM-MITACS-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-CM-MITACS-RECONCILED-001 \u2014 CivicMesh Mitacs Accelerate Applications, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-CM-NOC-DASHBOARD-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-CM-NOC-DASHBOARD-RECONCILED-001 \u2014 CivicMesh NOC & Manager Dashboard Specifications, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-CM-OFFICER-PORTAL-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-CM-OFFICER-PORTAL-RECONCILED-001 \u2014 CivicMesh Officer Portal & Municipal Training, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-CM-PARTNER-INCENTIVES-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-CM-PARTNER-INCENTIVES-RECONCILED-001 \u2014 CivicMesh Partner & Government Incentive Programmes, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-CM-SECURITY-RESPONSE-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-CM-SECURITY-RESPONSE-RECONCILED-001 \u2014 CivicMesh Security Response Ops & Training, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-CM-TECHNICIAN-CERT-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-CM-TECHNICIAN-CERT-RECONCILED-001 \u2014 CivicMesh Technician Certification & Training, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-CM-TM-ARTICLES-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-CM-TM-ARTICLES-RECONCILED-001 \u2014 CivicMesh & TrafficMesh Articles of Incorporation, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-CM-TM-GRANT-FUNDING-RECONCILED-001.md": {
+      "referenced_by": [
+        "DC-CM-GOV-FUNDING-RECONCILED-001.md"
+      ],
+      "references": [],
+      "title": "DC-CM-TM-GRANT-FUNDING-RECONCILED-001 \u2014 CivicMesh/TrafficMesh IRAP & SR&ED Funding Documentation, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-CM-UNIT-ECONOMICS-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-CM-UNIT-ECONOMICS-RECONCILED-001 \u2014 CivicMesh Financial Unit Economics, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-COMPETITIVE-STRATEGY-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [
+        "DC-CM-COMPETITIVE-RECONCILED-001.md"
+      ],
+      "title": "DC-COMPETITIVE-STRATEGY-RECONCILED-001 \u2014 D-Central Competitive Strategy Analysis, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-COMPTIA-A-PLATFORM-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-COMPTIA-A-PLATFORM-RECONCILED-001 \u2014 CompTIA A+ Master Learning Platform, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-COMPUTE-SILICON-ARCH-001.md": {
+      "referenced_by": [
+        "DC-LKB-001.md",
+        "DC-LKB-003.md",
+        "DC-NETWORKING-ARCH-RECONCILED-001.md",
+        "UNIFIED_SOURCE_OF_TRUTH_V24.md"
+      ],
+      "references": [
+        "DC-DAO-AGENT-LOOP-USER-STORIES-001.md",
+        "DC-DCENTRAL-SIMULATION-LAB-RECONCILED-001.md",
+        "DC-HCCC-GRAPHRAG-RECONCILED-001.md",
+        "DC-IHOSE-HARDWARE-BOM-RECONCILED-001.md",
+        "DC-MESHSTORAGE-ARCHIVE-001.md",
+        "DC-NETWORKING-ARCH-RECONCILED-001.md",
+        "DC-OPENSECURE-GUARDIAN-SENTINEL-ARCH-RECONCILED-001.md",
+        "UNIFIED_SOURCE_OF_TRUTH_V24.md"
+      ],
+      "title": "DC-COMPUTE-SILICON-ARCH-001 \u2014 Compute Silicon Class Architecture (v1, generated 2026-09-07)"
+    },
+    "DC-CS-HOA-DEPLOYMENT-RECONCILED-001.md": {
+      "referenced_by": [
+        "DC-MESHPLATE-PRIVACY-COMPLIANCE-RECONCILED-001.md"
+      ],
+      "references": [],
+      "title": "DC-CS-HOA-DEPLOYMENT-RECONCILED-001 \u2014 CommunityShield HOA/Condo Deployment Package, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-DAO-AGENT-LOOP-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-DAO-AGENT-LOOP-001: Recursive DAO-Agent Governance \u2014 Implementation Spec"
+    },
+    "DC-DAO-AGENT-LOOP-USER-STORIES-001.md": {
+      "referenced_by": [
+        "DC-COMPUTE-SILICON-ARCH-001.md"
+      ],
+      "references": [],
+      "title": "DC-DAO-AGENT-LOOP-USER-STORIES-001: End-to-End User Stories"
+    },
+    "DC-DCENTRAL-CORE-NARRATIVE-ANALYSIS-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-DCENTRAL-CORE-NARRATIVE-ANALYSIS-RECONCILED-001 \u2014 D-Central Core Narrative & Critical Analysis, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-DCENTRAL-PRESENTATION-DECKS-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-DCENTRAL-PRESENTATION-DECKS-RECONCILED-001 \u2014 D-Central/CivicMesh Presentation Decks, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-DCENTRAL-SIMULATION-LAB-RECONCILED-001.md": {
+      "referenced_by": [
+        "DC-COMPUTE-SILICON-ARCH-001.md"
+      ],
+      "references": [],
+      "title": "DC-DCENTRAL-SIMULATION-LAB-RECONCILED-001 \u2014 D-Central Simulation Lab Programme (DC-SIM Suite), Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-DEV-OS-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-DEV-OS-RECONCILED-001 \u2014 D-Central Ecosystem OS & Developer Platform, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-DIGITAL-COMMUNITY-PARTICIPATION-PLATFORMS-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-DIGITAL-COMMUNITY-PARTICIPATION-PLATFORMS-RECONCILED-001 \u2014 Digital Community Participation Platforms, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-DION-API-BACKEND-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [
+        "DC-DION-RECONCILED-001.md"
+      ],
+      "title": "DC-DION-API-BACKEND-RECONCILED-001 \u2014 DION Platform API & Backend Architecture, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-DION-EXPANSION-EXPLANATION-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-DION-EXPANSION-EXPLANATION-RECONCILED-001 \u2014 Decentralized Intelligence Platform Expansion & Explanation, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-DION-OPERATOR-DEPLOYMENT-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [
+        "DC-DION-RECONCILED-001.md"
+      ],
+      "title": "DC-DION-OPERATOR-DEPLOYMENT-RECONCILED-001 \u2014 DION Operator Deployment & Vision Companion, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-DION-PLATFORM-TECHNICAL-ARCHITECTURE-RECONCILED-001.md": {
+      "referenced_by": [
+        "DC-IHOSE-ARCHITECTURE-DEPLOYMENT-RECONCILED-001.md"
+      ],
+      "references": [],
+      "title": "DC-DION-PLATFORM-TECHNICAL-ARCHITECTURE-RECONCILED-001 \u2014 DION Platform Technical Architecture & Scaffolding, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-DION-RECONCILED-001.md": {
+      "referenced_by": [
+        "DC-DION-API-BACKEND-RECONCILED-001.md",
+        "DC-DION-OPERATOR-DEPLOYMENT-RECONCILED-001.md"
+      ],
+      "references": [],
+      "title": "DC-DION-RECONCILED-001 \u2014 D-Central Intelligence & Operator Network (DION), Consolidated (v2, updated 2026-09-04)"
+    },
+    "DC-DRONE-HARDWARE-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-DRONE-HARDWARE-RECONCILED-001 \u2014 Haiti Drone Cooperative Hardware Selection, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-ECONOMIC-CRITIQUES-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-ECONOMIC-CRITIQUES-RECONCILED-001 \u2014 D-Central Expansion Critical Analyses, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-EXPERT-DAO-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-EXPERT-DAO-001: Credentialed Expert Review, Advisory & Bounty Network"
+    },
+    "DC-EXPERT-REVIEW-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-EXPERT-REVIEW-001: Credentialed Sign-Off, Review DAOs & Expert Guilds"
+    },
+    "DC-FEDIFLOW-ACADEMIC-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-FEDIFLOW-ACADEMIC-RECONCILED-001 \u2014 FediFlow Academic Institution Services, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-FLP-SOVEREIGNTY-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-FLP-SOVEREIGNTY-RECONCILED-001 \u2014 Federated Learning Platform: Community Sovereignty & Cooperative Economics, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-HAITI-COOPERATIVE-RESILIENCE-FRAMEWORK-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-HAITI-COOPERATIVE-RESILIENCE-FRAMEWORK-RECONCILED-001 \u2014 Haiti Cooperative Resilience Framework, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-HAITI-INTEGRATION-PLATFORMS-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-HAITI-INTEGRATION-PLATFORMS-RECONCILED-001 \u2014 Haiti Integration Platforms (Drone Zoe / D-Central Ecosystem), Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-HAITI-SECURITY-OUTREACH-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-HAITI-SECURITY-OUTREACH-RECONCILED-001 \u2014 Haiti Open-Source Security Framework Outreach, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-HCCC-GRAPHRAG-RECONCILED-001.md": {
+      "referenced_by": [
+        "DC-COMPUTE-SILICON-ARCH-001.md"
+      ],
+      "references": [],
+      "title": "DC-HCCC-GRAPHRAG-RECONCILED-001 \u2014 HCCC GraphRAG/GraphQL System, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-IHOSE-ARCHITECTURE-DEPLOYMENT-RECONCILED-001.md": {
+      "referenced_by": [
+        "DC-IHOSE-OPENVISION-DOCUMENTATION-PACKAGE-RECONCILED-001.md"
+      ],
+      "references": [
+        "DC-DION-PLATFORM-TECHNICAL-ARCHITECTURE-RECONCILED-001.md"
+      ],
+      "title": "DC-IHOSE-ARCHITECTURE-DEPLOYMENT-RECONCILED-001 \u2014 IHOSE Architecture & OpenVision Deployment, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-IHOSE-BUSINESS-STRATEGY-RECONCILED-001.md": {
+      "referenced_by": [
+        "DC-IHOSE-BUSINESS-SUMMARIES-RECONCILED-001.md",
+        "DC-IHOSE-FEDERATION-ECOSYSTEM-RECONCILED-001.md",
+        "DC-IHOSE-HARDWARE-BOM-RECONCILED-001.md"
+      ],
+      "references": [
+        "DC-IHOSE-QUICKSTART-RECONCILED-001.md"
+      ],
+      "title": "DC-IHOSE-BUSINESS-STRATEGY-RECONCILED-001 \u2014 OpenVision (IHOSE) Business Strategy Documents, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-IHOSE-BUSINESS-SUMMARIES-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [
+        "DC-IHOSE-BUSINESS-STRATEGY-RECONCILED-001.md",
+        "DC-IHOSE-HARDWARE-BOM-RECONCILED-001.md"
+      ],
+      "title": "DC-IHOSE-BUSINESS-SUMMARIES-RECONCILED-001 \u2014 OpenVision (IHOSE) Business Summaries, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-IHOSE-DEPLOYMENT-INFRA-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-IHOSE-DEPLOYMENT-INFRA-RECONCILED-001 \u2014 OpenVision (IHOSE) Deployment Infrastructure, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-IHOSE-FEDERATION-ECOSYSTEM-RECONCILED-001.md": {
+      "referenced_by": [
+        "DC-SECURITY-ECOSYSTEM-SECTOR-PLATFORMS-RECONCILED-001.md"
+      ],
+      "references": [
+        "DC-IHOSE-BUSINESS-STRATEGY-RECONCILED-001.md"
+      ],
+      "title": "DC-IHOSE-FEDERATION-ECOSYSTEM-RECONCILED-001 \u2014 Iron Horse Security (IHOSE) Federation & Ecosystem Partnership Framework, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-IHOSE-HARDWARE-BOM-RECONCILED-001.md": {
+      "referenced_by": [
+        "DC-COMPUTE-SILICON-ARCH-001.md",
+        "DC-IHOSE-BUSINESS-SUMMARIES-RECONCILED-001.md"
+      ],
+      "references": [
+        "DC-IHOSE-BUSINESS-STRATEGY-RECONCILED-001.md"
+      ],
+      "title": "DC-IHOSE-HARDWARE-BOM-RECONCILED-001 \u2014 OpenVision (IHOSE) Hardware Bill of Materials, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-IHOSE-MODULE-DEV-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-IHOSE-MODULE-DEV-RECONCILED-001 \u2014 OpenVision Module Development, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-IHOSE-OPENVISION-DOCUMENTATION-PACKAGE-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [
+        "DC-IHOSE-ARCHITECTURE-DEPLOYMENT-RECONCILED-001.md"
+      ],
+      "title": "DC-IHOSE-OPENVISION-DOCUMENTATION-PACKAGE-RECONCILED-001 \u2014 IHOSE OpenVision Documentation Package, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-IHOSE-QUICKSTART-RECONCILED-001.md": {
+      "referenced_by": [
+        "DC-IHOSE-BUSINESS-STRATEGY-RECONCILED-001.md"
+      ],
+      "references": [],
+      "title": "DC-IHOSE-QUICKSTART-RECONCILED-001 \u2014 OpenVision Platform Quick Start & Installation, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-IHOSE-USE-CASES-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-IHOSE-USE-CASES-RECONCILED-001 \u2014 OpenVision Use Cases & Business Models, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-IOT-BLUEPRINT-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-IOT-BLUEPRINT-RECONCILED-001 \u2014 D-Central IoT Device Integration Blueprint, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-KNOWLEDGE-LAYERS-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-KNOWLEDGE-LAYERS-001: Additional Layers Over the Archive Tier (Brainstorm)"
+    },
+    "DC-LIVESTREAM-OVERLAY-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-LIVESTREAM-OVERLAY-RECONCILED-001 \u2014 D-Central Live Development Chatbot & Overlay System, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-LKB-001.md": {
+      "referenced_by": [],
+      "references": [
+        "DC-COMPUTE-SILICON-ARCH-001.md"
+      ],
+      "title": "Lakou \u2014 Cooperative Family Banking Protocol"
+    },
+    "DC-LKB-002.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "Lakou \u2014 Technical Specification"
+    },
+    "DC-LKB-003.md": {
+      "referenced_by": [],
+      "references": [
+        "DC-COMPUTE-SILICON-ARCH-001.md"
+      ],
+      "title": "Lakou Protocol v2 \u2014 Universal Decentralized Banking Operating System"
+    },
+    "DC-MESH-COOP-BUSINESS-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-MESH-COOP-BUSINESS-RECONCILED-001 \u2014 Mesh Economy Cooperative Business Models, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-MESH-COOPERATIVE-BUSINESS-MODEL-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-MESH-COOPERATIVE-BUSINESS-MODEL-RECONCILED-001 \u2014 Mesh Cooperative Business Model Framework, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-MESH-FOOD-ECONOMY-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-MESH-FOOD-ECONOMY-RECONCILED-001 \u2014 Mesh Food Economy Business Models, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-MESHNAV-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-MESHNAV-RECONCILED-001 \u2014 MeshNav Architecture & Data Pipeline, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-MESHPLATE-PRIVACY-COMPLIANCE-RECONCILED-001.md": {
+      "referenced_by": [
+        "DC-CIVICMESH-FEDERATION-NOC-MUNICIPAL-RECONCILED-001.md"
+      ],
+      "references": [
+        "DC-CS-HOA-DEPLOYMENT-RECONCILED-001.md"
+      ],
+      "title": "DC-MESHPLATE-PRIVACY-COMPLIANCE-RECONCILED-001 \u2014 MeshPlate Federation & CivicMesh Privacy Compliance, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-MESHSTORAGE-ARCHIVE-001.md": {
+      "referenced_by": [
+        "DC-COMPUTE-SILICON-ARCH-001.md"
+      ],
+      "references": [],
+      "title": "DC-MESHSTORAGE-ARCHIVE-001: Permanent-Archive Tier of mesh-storage"
+    },
+    "DC-NETWORKING-ARCH-RECONCILED-001.md": {
+      "referenced_by": [
+        "DC-COMPUTE-SILICON-ARCH-001.md"
+      ],
+      "references": [
+        "DC-COMPUTE-SILICON-ARCH-001.md"
+      ],
+      "title": "DC-NETWORKING-ARCH-RECONCILED-001 \u2014 D-Central Networking Architecture, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-OBCC-SECTOR-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-OBCC-SECTOR-RECONCILED-001 \u2014 D-Central x OBCC Sector Implementation, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-OPENPIV-PACS-INTEGRATION-RECONCILED-001.md": {
+      "referenced_by": [
+        "DC-OPENSECURE-OPENPIV-SUBSYSTEM-RECONCILED-001.md"
+      ],
+      "references": [],
+      "title": "DC-OPENPIV-PACS-INTEGRATION-RECONCILED-001 \u2014 OpenPIV + OS-PACS Integration Suite, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-OPENSECURE-GUARDIAN-SENTINEL-ARCH-RECONCILED-001.md": {
+      "referenced_by": [
+        "DC-COMPUTE-SILICON-ARCH-001.md"
+      ],
+      "references": [],
+      "title": "DC-OPENSECURE-GUARDIAN-SENTINEL-ARCH-RECONCILED-001 \u2014 OS-GUARDIAN & OS-SENTINEL Technical Architecture, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-OPENSECURE-GUARDIAN-SENTINEL-TOPOLOGY-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-OPENSECURE-GUARDIAN-SENTINEL-TOPOLOGY-RECONCILED-001 \u2014 OS-GUARDIAN & OS-SENTINEL Network Topology, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-OPENSECURE-OPENPIV-SUBSYSTEM-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [
+        "DC-OPENPIV-PACS-INTEGRATION-RECONCILED-001.md"
+      ],
+      "title": "DC-OPENSECURE-OPENPIV-SUBSYSTEM-RECONCILED-001 \u2014 OpenSecure OpenPIV Subsystem, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-OPENSECURE-OS-CONCIERGE-TOPOLOGY-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-OPENSECURE-OS-CONCIERGE-TOPOLOGY-RECONCILED-001 \u2014 OS-CONCIERGE Logical & Network Topology, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-OPENSECURE-OS-DRONE-ADVANCED-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-OPENSECURE-OS-DRONE-ADVANCED-RECONCILED-001 \u2014 OS-DRONE Advanced Visual Intelligence & Spatial Federation, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-OPENSECURE-OS-DRONE-RECONCILED-001.md": {
+      "referenced_by": [
+        "DC-OPENSECURE-PER-SERVICE-IMPL-GUIDES-RECONCILED-001.md"
+      ],
+      "references": [],
+      "title": "DC-OPENSECURE-OS-DRONE-RECONCILED-001 \u2014 OpenSecure OS-DRONE Subsystem, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-OPENSECURE-PATROL-SENTINEL-IMPL-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-OPENSECURE-PATROL-SENTINEL-IMPL-RECONCILED-001 \u2014 OS-PATROL & OS-SENTINEL Implementation Guides, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-OPENSECURE-PER-SERVICE-IMPL-GUIDES-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [
+        "DC-OPENSECURE-OS-DRONE-RECONCILED-001.md"
+      ],
+      "title": "DC-OPENSECURE-PER-SERVICE-IMPL-GUIDES-RECONCILED-001 \u2014 OpenSecure Per-Service Implementation Guides, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-OPENSECURE-PROVINCIAL-PIV-CREDENTIAL-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [
+        "DC-PROVINCIAL-SECURITY-NETWORK-RECONCILED-001.md"
+      ],
+      "title": "DC-OPENSECURE-PROVINCIAL-PIV-CREDENTIAL-RECONCILED-001 \u2014 OpenSecure Provincial Security Network: PIV & Credentialing, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-OPENSECURE-SECTOR-USE-CASE-RECONCILED-001.md": {
+      "referenced_by": [
+        "DC-SECURITY-ECOSYSTEM-SECTOR-PLATFORMS-RECONCILED-001.md"
+      ],
+      "references": [],
+      "title": "DC-OPENSECURE-SECTOR-USE-CASE-RECONCILED-001 \u2014 OpenSecure Sector Use-Case Analyses, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-OPENSECURE-TOPOLOGY-DOCUMENTATION-SUITE-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-OPENSECURE-TOPOLOGY-DOCUMENTATION-SUITE-RECONCILED-001 \u2014 OpenSecure Topology Documentation Suite, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-PROVINCIAL-SECURITY-NETWORK-RECONCILED-001.md": {
+      "referenced_by": [
+        "DC-OPENSECURE-PROVINCIAL-PIV-CREDENTIAL-RECONCILED-001.md"
+      ],
+      "references": [],
+      "title": "DC-PROVINCIAL-SECURITY-NETWORK-RECONCILED-001 \u2014 Provincial Security Network Programs, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-REINVEST-PROCUREMENT-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-REINVEST-PROCUREMENT-RECONCILED-001 \u2014 D-Central Reinvestment & Procurement Plans, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-SECURITY-ECOSYSTEM-SECTOR-PLATFORMS-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [
+        "DC-IHOSE-FEDERATION-ECOSYSTEM-RECONCILED-001.md",
+        "DC-OPENSECURE-SECTOR-USE-CASE-RECONCILED-001.md"
+      ],
+      "title": "DC-SECURITY-ECOSYSTEM-SECTOR-PLATFORMS-RECONCILED-001 \u2014 Security Ecosystem Sector Platforms, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-STATUS-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-STATUS-001: Honesty-Discipline Gap Register (Reconstruction)"
+    },
+    "DC-TRAFFICMESH-CITY-FLEET-RECONCILED-001.md": {
+      "referenced_by": [
+        "DC-TRAFFICMESH-OTTAWA-GOV-ENGAGEMENT-RECONCILED-001.md"
+      ],
+      "references": [],
+      "title": "DC-TRAFFICMESH-CITY-FLEET-RECONCILED-001 \u2014 TrafficMesh City Fleet Deployment, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-TRAFFICMESH-INSURANCE-INTEGRATION-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-TRAFFICMESH-INSURANCE-INTEGRATION-RECONCILED-001 \u2014 TrafficMesh/CivicMesh Insurance Integration & Revenue, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-TRAFFICMESH-LEGAL-RECONCILED-001.md": {
+      "referenced_by": [
+        "DC-TRAFFICMESH-OTTAWA-GOV-ENGAGEMENT-RECONCILED-001.md"
+      ],
+      "references": [
+        "DC-TRAFFICMESH-REGULATORY-RECONCILED-001.md"
+      ],
+      "title": "DC-TRAFFICMESH-LEGAL-RECONCILED-001 \u2014 TrafficMesh Legal & Regulatory Compliance, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-TRAFFICMESH-OTTAWA-GOV-ENGAGEMENT-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [
+        "DC-TRAFFICMESH-CITY-FLEET-RECONCILED-001.md",
+        "DC-TRAFFICMESH-LEGAL-RECONCILED-001.md"
+      ],
+      "title": "DC-TRAFFICMESH-OTTAWA-GOV-ENGAGEMENT-RECONCILED-001 \u2014 TrafficMesh Ottawa Government Engagement, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-TRAFFICMESH-REGULATORY-RECONCILED-001.md": {
+      "referenced_by": [
+        "DC-TRAFFICMESH-LEGAL-RECONCILED-001.md"
+      ],
+      "references": [],
+      "title": "DC-TRAFFICMESH-REGULATORY-RECONCILED-001 \u2014 TrafficMesh Regulatory Compliance, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-VENTURE-GOVERNANCE-PROTOCOL-SUITE-RECONCILED-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-VENTURE-GOVERNANCE-PROTOCOL-SUITE-RECONCILED-001 \u2014 D-Central Venture & Governance Protocol Suite, Consolidated (v1, generated 2026-09-05)"
+    },
+    "DC-VERIFIABLE-ROLLOUT-001.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "DC-VERIFIABLE-ROLLOUT-001: Verifiable Progressive Rollout Primitive"
+    },
+    "NEO4J-RASPBERRY-PI-SETUP.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "Running Neo4j on a Raspberry Pi, for this repo's graph layer"
+    },
+    "PLATFORM_ARCHITECTURE.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "FieldOps Platform \u2014 Technical Architecture"
+    },
+    "SECURITY_AUDIT.md": {
+      "referenced_by": [],
+      "references": [],
+      "title": "Security Review \u2014 dcentral-fieldops"
+    },
+    "UNIFIED_SOURCE_OF_TRUTH_V24.md": {
+      "referenced_by": [
+        "DC-COMPUTE-SILICON-ARCH-001.md"
+      ],
+      "references": [
+        "DC-COMPUTE-SILICON-ARCH-001.md"
+      ],
+      "title": "UNIFIED SOURCE OF TRUTH \u2014 COMPLETE TAXONOMY"
+    }
+  },
+  "generated_at": "2026-09-07T00:46:01.497362+00:00"
+}

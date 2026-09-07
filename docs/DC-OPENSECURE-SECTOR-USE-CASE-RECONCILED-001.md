@@ -110,3 +110,13 @@ generated_by: consolidator-pass (manual, per DC-CONSOLIDATOR-STD-001)
 ```
 
 None of the source docs is marked superseded or moved — status assignment belongs to DC-DEDUP-STD-001, not the Consolidator.
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_docs_graph.py) -->
+
+## Related (auto-generated)
+
+**Referenced by:**
+- [[DC-SECURITY-ECOSYSTEM-SECTOR-PLATFORMS-RECONCILED-001|DC-SECURITY-ECOSYSTEM-SECTOR-PLATFORMS-RECONCILED-001 — Security Ecosystem Sector Platforms, Consolidated (v1, generated 2026-09-05)]]
+
+<!-- AUTO-GENERATED RELATED END -->

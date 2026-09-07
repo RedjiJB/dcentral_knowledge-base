@@ -116,3 +116,12 @@ No new microservice. Reuses `dc-identity` (Hyperledger Aries/Indy, Veramo — DC
 ---
 
 *DC-CIVIC-EDUCATION-001 — specifies the Citizen Competency VC schema (domain/level/evidence-type, scope-as-enforceable-disclosure-policy, 3-year expiry-as-assessment-cycle), the credential-set-to-dividend-tier eligibility mapping enforced mechanically by `dc-governance` at disbursement time, the Constitutional Court of Competence as a scoped DAO body on the DC-EXPERT-DAO-001 pattern, and the Cultural Identity Module as a direct reuse of the already-specified `CulturalGovernance` elder/religious-authority routing contract. Draws its external requirements from the Civic Civilization Charter (see companion artifact) and its implementation substrate entirely from existing D-Central specs — DC-AGENT-CREDENTIAL-001, DC-EXPERT-DAO-001, DC-VERIFIABLE-ROLLOUT-001, DC-LKB-001/002/003, and DC-BLOCKCHAIN-EDUCATION-FEDERATION-RECONCILED-001.*
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_docs_graph.py) -->
+
+## Related (auto-generated)
+
+*No cross-references detected to/from other docs/*.md files.*
+
+<!-- AUTO-GENERATED RELATED END -->

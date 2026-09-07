@@ -80,3 +80,12 @@ Same pattern as DC-DAO-AGENT-LOOP-001 §5: rendered through the shared wiki spac
 ---
 
 *DC-AGENT-OBSERVABILITY-001 — extends 001–006 and DC-DAO-AGENT-LOOP-001. Redesigns the real-time monitoring stack for decentralized, content-addressed infrastructure: local-first OTel collection with bandwidth-driven (not cost-driven) sampling, storage tiering that reserves the permanent archive for governance-grade records only, a locally-indexed live-query layer that stays a rebuildable cache over the durable store, federated per-tier topology views with only aggregated statistics rolling up across tiers, attestation-based alerting, and cost tracking that turns out to require no new component at all — it's already native to the existing payment ledger.*
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_docs_graph.py) -->
+
+## Related (auto-generated)
+
+*No cross-references detected to/from other docs/*.md files.*
+
+<!-- AUTO-GENERATED RELATED END -->

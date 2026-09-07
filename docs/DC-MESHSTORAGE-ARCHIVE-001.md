@@ -105,3 +105,13 @@ This needs its own line in the SHI financial model, the same way `mesh-vpn`'s re
 ---
 
 *DC-MESHSTORAGE-ARCHIVE-001 — extends 001–006 and DC-DAO-AGENT-LOOP-001. Specifies mesh-storage's permanent-archive tier as a mode of the existing module (not a ninth), scoped to the class of data dc-attestation would envelope. Resolves the sovereignty question definitively: every technique used (content-addressing, endowment economics, witness-quorum anchoring) is forked and run on D-Central's own infrastructure, consistent with how Storj is already treated as mesh-storage's fork base — none of it depends on the live Arweave, IPFS, Filecoin, or any external transparency-log network. Also specifies the queryable graph layer DC-DAO-AGENT-LOOP-001 §3 left open, as a rebuildable local index over the archive tier's existing hash-reference chains, and reconciles permanence with the architecture's selective-disclosure discipline: what's permanently public is the fact and integrity of a record, not automatically every field within it.*
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_docs_graph.py) -->
+
+## Related (auto-generated)
+
+**Referenced by:**
+- [[DC-COMPUTE-SILICON-ARCH-001|DC-COMPUTE-SILICON-ARCH-001 — Compute Silicon Class Architecture (v1, generated 2026-09-07)]]
+
+<!-- AUTO-GENERATED RELATED END -->

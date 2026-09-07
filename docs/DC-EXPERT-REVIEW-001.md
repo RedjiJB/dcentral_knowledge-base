@@ -96,3 +96,12 @@ No new identity or voting infrastructure needed — this reuses `dc-identity`'s 
 ---
 
 *DC-EXPERT-REVIEW-001 — extends DC-DAO-AGENT-LOOP-001 and DC-AGENT-CREDENTIAL-001. Specifies a human expert credential (domain, tier, peer-attestation basis, track-record accrual — sovereign by default, with an explicit carve-out for domains where sign-off exists because of real-world professional licensure, which cannot be sovereignly generated). Specifies sign-off routing: in-house if the originating DAO holds sufficient credentialed membership, otherwise routed to a specialized Review DAO — with the routing decision itself attested. Specifies guild DAOs as credential-gated standing bodies with four functions (routed sign-off, proactive advisory output, assigned tasks, and a crowdsourced challenge arena supporting both objective/leaderboard and peer-judged/bug-bounty evaluation), with challenge outcomes feeding the standard proposal pipeline rather than executing directly.*
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_docs_graph.py) -->
+
+## Related (auto-generated)
+
+*No cross-references detected to/from other docs/*.md files.*
+
+<!-- AUTO-GENERATED RELATED END -->

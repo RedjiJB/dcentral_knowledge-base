@@ -171,3 +171,12 @@ generated_by: consolidator-pass (manual, per DC-CONSOLIDATOR-STD-001)
 move them to `_superseded/` — per DC-CONSOLIDATOR-STD-001 §0, that status assignment belongs to the
 dedup/status process (DC-DEDUP-STD-001), not the Consolidator. All 6 source docs remain in place at
 their original paths.
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_docs_graph.py) -->
+
+## Related (auto-generated)
+
+*No cross-references detected to/from other docs/*.md files.*
+
+<!-- AUTO-GENERATED RELATED END -->

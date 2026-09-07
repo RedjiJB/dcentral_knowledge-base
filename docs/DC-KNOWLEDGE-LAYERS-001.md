@@ -48,3 +48,12 @@ Beyond "proposals render here" (as already stated across the document set):
 ---
 
 *DC-KNOWLEDGE-LAYERS-001 — brainstormed additions to the archive/graph stack: a semantic retrieval layer distinct from graph traversal, a verification link between MeshWiki renderings and their underlying attestations, a notification layer that's really just a consumption pattern over existing event sync, reuse of mesh-bandwidth caching for hot knowledge content instead of a new cache layer, and an explicitly unresolved access-log question left for governance rather than answered by default. Also expands MeshWiki's role beyond proposal rendering to the living taxonomy itself, cross-tier discoverability, visible revision history, and a home for bounty/advisory output.*
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_docs_graph.py) -->
+
+## Related (auto-generated)
+
+*No cross-references detected to/from other docs/*.md files.*
+
+<!-- AUTO-GENERATED RELATED END -->

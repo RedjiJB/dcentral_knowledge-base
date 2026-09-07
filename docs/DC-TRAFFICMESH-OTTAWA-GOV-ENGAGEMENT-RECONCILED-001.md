@@ -76,3 +76,14 @@ generated_by: consolidator-pass (manual, per DC-CONSOLIDATOR-STD-001)
 ```
 
 None of the source docs is marked superseded or moved — status assignment belongs to DC-DEDUP-STD-001, not the Consolidator.
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_docs_graph.py) -->
+
+## Related (auto-generated)
+
+**References:**
+- [[DC-TRAFFICMESH-CITY-FLEET-RECONCILED-001|DC-TRAFFICMESH-CITY-FLEET-RECONCILED-001 — TrafficMesh City Fleet Deployment, Consolidated (v1, generated 2026-09-05)]]
+- [[DC-TRAFFICMESH-LEGAL-RECONCILED-001|DC-TRAFFICMESH-LEGAL-RECONCILED-001 — TrafficMesh Legal & Regulatory Compliance, Consolidated (v1, generated 2026-09-05)]]
+
+<!-- AUTO-GENERATED RELATED END -->

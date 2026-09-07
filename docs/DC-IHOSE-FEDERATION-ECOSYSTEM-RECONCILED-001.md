@@ -141,3 +141,16 @@ generated_by: consolidator-pass (manual, per DC-CONSOLIDATOR-STD-001)
 ```
 
 None of the source docs is marked superseded or moved — status assignment belongs to DC-DEDUP-STD-001, not the Consolidator. The topic-membership correction (removing the mis-tagged `IronHorse-md.md`) was made per this repo's Stage 5 mis-scoped-topic guardrail, documented above rather than performed silently.
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_docs_graph.py) -->
+
+## Related (auto-generated)
+
+**References:**
+- [[DC-IHOSE-BUSINESS-STRATEGY-RECONCILED-001|DC-IHOSE-BUSINESS-STRATEGY-RECONCILED-001 — OpenVision (IHOSE) Business Strategy Documents, Consolidated (v1, generated 2026-09-05)]]
+
+**Referenced by:**
+- [[DC-SECURITY-ECOSYSTEM-SECTOR-PLATFORMS-RECONCILED-001|DC-SECURITY-ECOSYSTEM-SECTOR-PLATFORMS-RECONCILED-001 — Security Ecosystem Sector Platforms, Consolidated (v1, generated 2026-09-05)]]
+
+<!-- AUTO-GENERATED RELATED END -->

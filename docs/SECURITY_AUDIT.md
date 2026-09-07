@@ -88,3 +88,12 @@ Worth stating plainly, since a security document that only lists problems gives 
 2. **Design one secrets-at-rest solution and apply it to all three plaintext-secret locations (#2, #3, and the already-known #4) together.** These are one architectural gap, not three separate bugs — solving it once (envelope encryption or a KMS) is cheaper than three point fixes.
 3. **Close the sovereignty-policy review (#6)** — cheap, already flagged, easy to keep deferring indefinitely under feature-work pressure.
 4. **Revisit rate limiting and CORS (#7, #8) as part of the multi-tenancy work**, not as standalone fixes — both are naturally scoped by "what does tenant isolation require" once that design is finalized.
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_docs_graph.py) -->
+
+## Related (auto-generated)
+
+*No cross-references detected to/from other docs/*.md files.*
+
+<!-- AUTO-GENERATED RELATED END -->

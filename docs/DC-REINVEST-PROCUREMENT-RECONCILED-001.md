@@ -96,3 +96,12 @@ None of the three source docs is marked superseded or moved — this was a delib
 (each doc's own "supersedes" header claim was verified inaccurate as a blanket statement), and the
 Consolidator does not have authority to alter that status assignment in any case (DC-DEDUP-STD-001's
 authority, not this one's).
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_docs_graph.py) -->
+
+## Related (auto-generated)
+
+*No cross-references detected to/from other docs/*.md files.*
+
+<!-- AUTO-GENERATED RELATED END -->

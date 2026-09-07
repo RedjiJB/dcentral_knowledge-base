@@ -110,3 +110,14 @@ generated_by: consolidator-pass (manual, per DC-CONSOLIDATOR-STD-001)
 ```
 
 None of the source docs is marked superseded or moved — status assignment belongs to DC-DEDUP-STD-001, not the Consolidator.
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_docs_graph.py) -->
+
+## Related (auto-generated)
+
+**References:**
+- [[DC-IHOSE-BUSINESS-STRATEGY-RECONCILED-001|DC-IHOSE-BUSINESS-STRATEGY-RECONCILED-001 — OpenVision (IHOSE) Business Strategy Documents, Consolidated (v1, generated 2026-09-05)]]
+- [[DC-IHOSE-HARDWARE-BOM-RECONCILED-001|DC-IHOSE-HARDWARE-BOM-RECONCILED-001 — OpenVision (IHOSE) Hardware Bill of Materials, Consolidated (v1, generated 2026-09-05)]]
+
+<!-- AUTO-GENERATED RELATED END -->

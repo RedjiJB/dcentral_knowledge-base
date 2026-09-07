@@ -84,3 +84,12 @@ Nothing here requires an external network. The registry lives in `dc-governance`
 ---
 
 *DC-VERIFIABLE-ROLLOUT-001 — reframes "decentralized feature flags" as a verifiable progressive rollout primitive with three separated trust models: governance-controlled policy (existing dc-governance state), client-computed deterministic assignment (the one genuinely new component, domain-separated to prevent cross-experiment correlation), and attested aggregate measurement (existing dc-attestation, no raw telemetry). Specifies a scoped rollout-controller agent role that executes DAO-approved bounds automatically rather than requiring a vote per rollout step, closing the gap without introducing a new payment rail, identity system, or control plane.*
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_docs_graph.py) -->
+
+## Related (auto-generated)
+
+*No cross-references detected to/from other docs/*.md files.*
+
+<!-- AUTO-GENERATED RELATED END -->

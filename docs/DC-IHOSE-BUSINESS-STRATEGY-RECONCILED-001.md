@@ -109,3 +109,18 @@ generated_by: consolidator-pass (manual, per DC-CONSOLIDATOR-STD-001)
 ```
 
 None of the source docs is marked superseded or moved — status assignment belongs to DC-DEDUP-STD-001, not the Consolidator.
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_docs_graph.py) -->
+
+## Related (auto-generated)
+
+**References:**
+- [[DC-IHOSE-QUICKSTART-RECONCILED-001|DC-IHOSE-QUICKSTART-RECONCILED-001 — OpenVision Platform Quick Start & Installation, Consolidated (v1, generated 2026-09-05)]]
+
+**Referenced by:**
+- [[DC-IHOSE-BUSINESS-SUMMARIES-RECONCILED-001|DC-IHOSE-BUSINESS-SUMMARIES-RECONCILED-001 — OpenVision (IHOSE) Business Summaries, Consolidated (v1, generated 2026-09-05)]]
+- [[DC-IHOSE-FEDERATION-ECOSYSTEM-RECONCILED-001|DC-IHOSE-FEDERATION-ECOSYSTEM-RECONCILED-001 — Iron Horse Security (IHOSE) Federation & Ecosystem Partnership Framework, Consolidated (v1, generated 2026-09-05)]]
+- [[DC-IHOSE-HARDWARE-BOM-RECONCILED-001|DC-IHOSE-HARDWARE-BOM-RECONCILED-001 — OpenVision (IHOSE) Hardware Bill of Materials, Consolidated (v1, generated 2026-09-05)]]
+
+<!-- AUTO-GENERATED RELATED END -->

@@ -93,3 +93,13 @@ roles.
 ---
 
 *DC-DAO-AGENT-LOOP-USER-STORIES-001 — six end-to-end walkthroughs exercising every tier (ecosystem, coop, individual), all three branches represented in the earlier document set (infrastructure, features, and the safety/correction mechanisms that apply across all of them), and all four newer specs (credential, archive storage, observability) at least once each. Stories 4 and 5 are deliberately not happy paths — dissent and rollback working as designed are as much a part of "end to end" as a clean success.*
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_docs_graph.py) -->
+
+## Related (auto-generated)
+
+**Referenced by:**
+- [[DC-COMPUTE-SILICON-ARCH-001|DC-COMPUTE-SILICON-ARCH-001 — Compute Silicon Class Architecture (v1, generated 2026-09-07)]]
+
+<!-- AUTO-GENERATED RELATED END -->

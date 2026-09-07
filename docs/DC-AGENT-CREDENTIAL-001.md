@@ -95,3 +95,12 @@ No new microservice, no new reference tag needed beyond what `dc-identity` alrea
 ---
 
 *DC-AGENT-CREDENTIAL-001 — extends 001–006 and DC-DAO-AGENT-LOOP-001. Specifies the agent-class VC schema (role, tier, scope-as-enforceable-policy, mandate binding, commissioner binding, per-credential proposal throttle), the role-to-permission mapping that makes "agents never execute unilaterally" a mechanical property of dc-governance's call-authorization check rather than a stated rule, reputation as an attestation type rather than a separate registry, and the credential lifecycle from mandate approval through revocation.*
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_docs_graph.py) -->
+
+## Related (auto-generated)
+
+*No cross-references detected to/from other docs/*.md files.*
+
+<!-- AUTO-GENERATED RELATED END -->

@@ -102,3 +102,16 @@ generated_by: consolidator-pass (manual, per DC-CONSOLIDATOR-STD-001)
 ```
 
 None of the source docs is marked superseded or moved — status assignment belongs to DC-DEDUP-STD-001, not the Consolidator.
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_docs_graph.py) -->
+
+## Related (auto-generated)
+
+**References:**
+- [[DC-CS-HOA-DEPLOYMENT-RECONCILED-001|DC-CS-HOA-DEPLOYMENT-RECONCILED-001 — CommunityShield HOA/Condo Deployment Package, Consolidated (v1, generated 2026-09-05)]]
+
+**Referenced by:**
+- [[DC-CIVICMESH-FEDERATION-NOC-MUNICIPAL-RECONCILED-001|DC-CIVICMESH-FEDERATION-NOC-MUNICIPAL-RECONCILED-001 — CivicMesh Federation, NOC & Municipal Deployment, Consolidated (v1, generated 2026-09-05)]]
+
+<!-- AUTO-GENERATED RELATED END -->

@@ -171,3 +171,13 @@ generated_by: consolidator-pass (manual, per DC-CONSOLIDATOR-STD-001)
 
 None of the source docs is marked superseded or moved by this pass — status assignment, including all
 duplicate/divergence findings above, belongs to DC-DEDUP-STD-001, not the Consolidator.
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_docs_graph.py) -->
+
+## Related (auto-generated)
+
+**References:**
+- [[DC-IHOSE-ARCHITECTURE-DEPLOYMENT-RECONCILED-001|DC-IHOSE-ARCHITECTURE-DEPLOYMENT-RECONCILED-001 — IHOSE Architecture & OpenVision Deployment, Consolidated (v1, generated 2026-09-05)]]
+
+<!-- AUTO-GENERATED RELATED END -->

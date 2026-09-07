@@ -199,3 +199,12 @@ A failed health check blocks disbursement entirely rather than falling back to a
 ---
 
 *DC-CIVIC-DIVIDEND-001 — specifies CivicDividendModule as an LMIS v1.0-conformant Lakou facet: eligibility computed from Citizen Competency VCs via `selective-disclosure-engine` (never exposing underlying scores), hard-gated on Citizenship and service-completion credentials per DC-CIVIC-EDUCATION-001 §3, disbursed on the same 3-year assessment cadence as credential expiry, recorded on-chain as credential-hash references rather than content for Constitutional Court auditability, and charging no fee as a citizenship entitlement rather than a financial product.*
+
+
+<!-- AUTO-GENERATED RELATED START (scripts/build_docs_graph.py) -->
+
+## Related (auto-generated)
+
+*No cross-references detected to/from other docs/*.md files.*
+
+<!-- AUTO-GENERATED RELATED END -->
