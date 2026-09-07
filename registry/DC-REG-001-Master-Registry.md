@@ -8,6 +8,42 @@
 
 ---
 
+## 0. Pending ingestion — staged, not yet processed (2026-09-07)
+
+External sources identified as containing D-Central material not yet in this repo, cloned/copied into
+`raw-export/` (git-ignored, per this repo's own convention — staged for extraction, not versioned) as a
+checkpoint before the real Stage 3-8 pipeline work runs against them. **None of this has been classified,
+deduped, or consolidated yet** — this row exists so the checkpoint survives even though the staged files
+themselves aren't tracked in git.
+
+| Source | Location | Scope | Status |
+|---|---|---|---|
+| 16 GitHub repos (RedjiJB account) | `raw-export/external-repos/` | D-Central, dcentral-platform, dcentral-edge-gateway, dcentral-meshv1, dcentral_solodev, D-Central-Haiti, haiti-digital-commons, fcp-platform, federated-trades-program, federated_graphql, federated_learning_platform, hybridisp-approach, d-central-development-timeline, MeshEats (+ 3 confirmed-empty: dcentral-mesh-poc, MeshCash, D-Central-Diagrams) | Cloned. First-pass architecture-inference summaries exist for all 4 code repos, the 4 Haiti/connectivity repos, and the 5 federated/timeline repos in `raw-export/external-repos-extracted/*.md` (also git-ignored) — explicitly a reconnaissance pass, not exhaustive (see caveats below). One finding already promoted into a committed doc: DC-STATUS-001 §6, code-level corroboration of the 95%/0% doctrine. |
+| OneDrive `D Central` folder | `raw-export/onedrive-d-central/` | 815 files, 673 docs (582 md, 91 docx, 12 pdf, 7 txt), 52MB, pre-organized into `00-foundation` through `13-pocs` + `modules/`/`homenode/`/`dev-tools/`, with its own `_archive/` of known duplicates | Copied in full, verified (815 files, 52MB match source). Not yet inventoried category-by-category or classified. |
+
+**Known resolved issue:** `dcentral-meshv1` initially failed to clone — 1,560 of 6,915 tracked blobs in that
+repo have a malformed filename pattern (`RealFilename.ext / fake description text` baked into the path
+itself, apparently from an AI-generated file-tree scaffold that used `/` as a field separator instead of a
+path separator), which Windows rejects as invalid paths. Resolved via a sparse-checkout allowlist of the
+5,355 well-formed paths; ~5,120 files actually checked out (a handful of edge-case remainder paths still
+excluded, all confirmed to be more of the same junk-placeholder pattern, not real content).
+
+**Known extraction-completeness caveats, not yet resolved (see the architecture-inference docs' own
+caveats):** no `.docx` or `.pdf` files were read in this pass (both formats appear in the corpus, e.g.
+`sovereign_dao_os_architecture_v1.docx`); the largest Haiti strategy docs were only partially read or
+skimmed by section headers rather than read in full; a "critical analysis of the Haiti mesh network plan"
+counter-source was identified but not read; MeshEats and D-Central-Haiti had only a subset of their real
+files read, not their full corpora. Treat the existing extraction summaries as a map for where to focus a
+deeper pass, not as a substitute for one.
+
+**Next steps (not started):** full-depth extraction/reading of the above, then real dedup (this corpus has
+confirmed internal duplication — e.g. the same OSS-integration bill-of-materials pasted 3+ times inside one
+Haiti doc, the same mesh tier model reprinted 4+ times with escalating language across separate files) and
+topic-synthesis/consolidation passes per [[DC-DEDUP-STD-001]]/[[DC-TOPIC-SYNTH-STD-001]]/
+[[DC-CONSOLIDATOR-STD-001]], category-by-category for the OneDrive folder.
+
+---
+
 ## 1. Foundational / meta
 
 | ID | Scope | Status |
